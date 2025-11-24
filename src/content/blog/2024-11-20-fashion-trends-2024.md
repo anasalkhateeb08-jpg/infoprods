@@ -20,7 +20,7 @@ In this comprehensive guide, we'll explore the top 10 fashion trends dominating 
 
 Artificial intelligence has revolutionized fashion design in 2026. AI algorithms now create unique patterns, predict trending colors, and even customize designs based on individual body types and preferences.
 
-<img src="https://images.unsplash.com/photo-1558769132-cb1aea1c8a69?w=800&q=80" alt="AI-designed futuristic fashion garment with unique digital patterns" />
+![Futuristic AI-designed fashion clothing on display](https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=800&q=80)
 
 **What makes it special:**
 
@@ -39,7 +39,7 @@ Artificial intelligence has revolutionized fashion design in 2026. AI algorithms
 
 The dopamine dressing trend has evolved in 2026. It's not just about bright colors anymore—it's about intentional color choices that reflect your mood and energy while making powerful statements.
 
-https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=800&q=80
+
 
 **2026 trending colors:**
 
@@ -100,7 +100,7 @@ The Y2K revival continues in 2026, but with a sophisticated, tech-enhanced twist
 
 Oversized silhouettes remain dominant in 2026, but with sharper, more structured tailoring that commands attention.
 
-https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=800&q=80
+![Oversized fashion clothing on hangers](https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800&q=80)
 
 **Trending pieces:**
 
@@ -199,7 +199,7 @@ Wearing a single color head-to-toe creates a sleek, sophisticated look in 2026, 
 
 Platform shoes continue dominating 2026, but now they're everywhere—not just on your feet.
 
-https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800&q=80
+![White platform sneakers on display](https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=800&q=80)
 
 **Platform styles ruling 2026:**
 
