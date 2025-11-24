@@ -39,8 +39,6 @@ Artificial intelligence has revolutionized fashion design in 2026. AI algorithms
 
 The dopamine dressing trend has evolved in 2026. It's not just about bright colors anymore—it's about intentional color choices that reflect your mood and energy while making powerful statements.
 
-
-
 **2026 trending colors:**
 
 - Electric coral
