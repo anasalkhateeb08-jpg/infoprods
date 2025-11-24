@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: anas100/infoprods-new
+  repo: anasalkhateeb08-jpg/infoprods
   branch: main
 
 # للاختبار المحلي فقط - سنغيره لاحقاً للإنتاج
