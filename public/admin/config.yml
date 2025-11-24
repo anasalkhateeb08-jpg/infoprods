@@ -1,0 +1,45 @@
+backend:
+  name: github
+  repo: anas100/infoprods-new
+  branch: main
+
+# للاختبار المحلي فقط - سنغيره لاحقاً للإنتاج
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  # Blog Posts Collection
+  - name: "blog"
+    label: "Blog Posts"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "string", required: true}
+      - {label: "Author", name: "author", widget: "string", default: "InfoProds Team"}
+      - {label: "Publish Date", name: "date", widget: "datetime", required: true}
+      - {label: "Featured Image", name: "image", widget: "image", required: false}
+      - {label: "Category", name: "category", widget: "select", required: true, options: ["Beauty", "Fashion", "Fitness", "Gifts", "Home", "Jewelry", "Kitchen", "Tech Gadgets"]}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+
+  # Device Specs Collection
+  - name: "devices"
+    label: "Device Specs"
+    folder: "src/content/devices"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: true
+    fields:
+      - {label: "Device Name", name: "title", widget: "string", required: true}
+      - {label: "Brand", name: "brand", widget: "string", required: true}
+      - {label: "Device Type", name: "deviceType", widget: "select", required: true, options: ["Smartphones", "Laptops", "Tablets", "Gaming Consoles", "Cameras", "Smartwatches"]}
+      - {label: "Release Date", name: "releaseDate", widget: "datetime", required: false}
+      - {label: "Price", name: "price", widget: "string", required: false}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Specifications", name: "body", widget: "markdown", required: true}

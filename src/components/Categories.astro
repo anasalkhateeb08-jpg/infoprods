@@ -1,0 +1,104 @@
+---
+const categories = [
+  { 
+    name: "Fashion & Clothing", 
+    icon: "👗", 
+    count: "5,000+", 
+    color: "from-pink-500 to-rose-500", 
+    href: "/categories/fashion",
+    image: "https://images.unsplash.com/photo-1445205170230-053b83016050?w=800&q=80"
+  },
+  { 
+    name: "Jewelry & Accessories", 
+    icon: "💎", 
+    count: "3,000+", 
+    color: "from-purple-500 to-indigo-500", 
+    href: "/categories/jewelry",
+    image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=800&q=80"
+  },
+  { 
+    name: "Home & Decor", 
+    icon: "🏡", 
+    count: "4,000+", 
+    color: "from-green-500 to-emerald-500", 
+    href: "/categories/home",
+    image: "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800&q=80"
+  },
+  { 
+    name: "Beauty & Skincare", 
+    icon: "💄", 
+    count: "3,500+", 
+    color: "from-rose-500 to-pink-500", 
+    href: "/categories/beauty",
+    image: "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&q=80"
+  },
+  { 
+    name: "Gifts & Novelty", 
+    icon: "🎁", 
+    count: "2,000+", 
+    color: "from-red-500 to-orange-500", 
+    href: "/categories/gifts",
+    image: "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?w=800&q=80"
+  },
+  { 
+    name: "Tech Gadgets", 
+    icon: "📱", 
+    count: "6,000+", 
+    color: "from-blue-500 to-cyan-500", 
+    href: "/categories/tech-gadgets",
+    image: "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=800&q=80"
+  },
+  { 
+    name: "Kitchen Gadgets", 
+    icon: "🍳", 
+    count: "2,500+", 
+    color: "from-yellow-500 to-orange-500", 
+    href: "/categories/kitchen",
+    image: "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&q=80"
+  },
+  { 
+    name: "Fitness & Sports", 
+    icon: "💪", 
+    count: "3,000+", 
+    color: "from-orange-500 to-red-500", 
+    href: "/categories/fitness",
+    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80"
+  },
+];
+---
+
+<section class="py-6">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center mb-3">Explore Categories</h2>
+    <p class="text-lg text-gray-300 text-center mb-8">Discover products across multiple categories</p>
+    
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+      {categories.map((category) => (
+        <a 
+          href={category.href}
+          class="group relative overflow-hidden rounded-2xl h-64 hover:scale-105 transition-all duration-300"
+        >
+          <!-- Background Image -->
+          <div class="absolute inset-0">
+            <img 
+              src={category.image} 
+              alt={category.name}
+              class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent"></div>
+          </div>
+          
+          <!-- Content -->
+          <div class="relative z-10 h-full flex flex-col justify-end p-6">
+            <div class="text-4xl mb-3">{category.icon}</div>
+            <h3 class="text-2xl font-bold mb-2 text-white">{category.name}</h3>
+            <p class="text-gray-300 text-sm">{category.count} Products</p>
+          </div>
+
+          <!-- Hover Gradient -->
+          <div class={`absolute inset-0 bg-gradient-to-br ${category.color} opacity-0 group-hover:opacity-30 transition-opacity z-[5]`}></div>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>

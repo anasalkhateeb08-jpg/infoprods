@@ -1,0 +1,303 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const featuredImages = [
+  "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&q=80",
+  "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&q=80",
+  "https://images.unsplash.com/photo-1556912173-46c336c7fd55?w=800&q=80",
+  "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=800&q=80",
+];
+
+const articles = [
+  {
+    title: "Essential Kitchen Tools Every Home Cook Needs",
+    excerpt: "Build your kitchen arsenal with these must-have tools and gadgets for everyday cooking.",
+    image: "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&q=80",
+    date: "Nov 14, 2024",
+    readTime: "8 min read",
+    author: "Chef's Guide",
+    slug: "essential-kitchen-tools"
+  },
+  {
+    title: "Best Cookware Sets: A Complete Buying Guide",
+    excerpt: "Compare materials, brands, and features to find the perfect cookware for your kitchen.",
+    image: "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&q=80",
+    date: "Nov 11, 2024",
+    readTime: "10 min read",
+    author: "Cookware Expert",
+    slug: "best-cookware-sets"
+  },
+  {
+    title: "Kitchen Knives Guide: Types and Care",
+    excerpt: "Learn about different knife types, how to choose quality blades, and proper maintenance.",
+    image: "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=800&q=80",
+    date: "Nov 8, 2024",
+    readTime: "9 min read",
+    author: "Knife Expert",
+    slug: "kitchen-knives-guide"
+  },
+  {
+    title: "Small Kitchen Appliances That Save Time",
+    excerpt: "Discover time-saving kitchen gadgets that make cooking easier and more efficient.",
+    image: "https://images.unsplash.com/photo-1556912173-46c336c7fd55?w=800&q=80",
+    date: "Nov 5, 2024",
+    readTime: "7 min read",
+    author: "Appliance Pro",
+    slug: "time-saving-appliances"
+  },
+  {
+    title: "Kitchen Organization: Maximize Your Space",
+    excerpt: "Smart storage solutions and organization tips for a clutter-free, efficient kitchen.",
+    image: "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?w=800&q=80",
+    date: "Nov 2, 2024",
+    readTime: "8 min read",
+    author: "Organization Expert",
+    slug: "kitchen-organization-tips"
+  },
+  {
+    title: "Coffee Makers Comparison: Find Your Perfect Brew",
+    excerpt: "From drip to espresso machines, find the best coffee maker for your morning routine.",
+    image: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&q=80",
+    date: "Oct 30, 2024",
+    readTime: "9 min read",
+    author: "Coffee Expert",
+    slug: "coffee-makers-comparison"
+  },
+  {
+    title: "Baking Essentials: Tools for Perfect Results",
+    excerpt: "Essential baking tools, equipment, and accessories for aspiring bakers.",
+    image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80",
+    date: "Oct 27, 2024",
+    readTime: "7 min read",
+    author: "Baking Pro",
+    slug: "baking-essentials-guide"
+  },
+  {
+    title: "Kitchen Safety: Best Practices and Tools",
+    excerpt: "Important safety guidelines and tools to keep your kitchen safe and accident-free.",
+    image: "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=800&q=80",
+    date: "Oct 24, 2024",
+    readTime: "6 min read",
+    author: "Safety Expert",
+    slug: "kitchen-safety-guide"
+  },
+];
+---
+
+<Layout title="Kitchen Essentials & Cookware - InfoProds" description="Discover kitchen tools, cookware guides, and culinary equipment reviews.">
+  <main>
+    <!-- Hero with Diagonal Image Carousel -->
+    <section class="relative overflow-hidden bg-gradient-to-r from-green-900/50 to-emerald-900/50 py-8">
+      <div class="container mx-auto px-4">
+        <div class="grid grid-cols-12 items-center gap-0">
+          
+          <!-- Left: Diagonal White Image Carousel -->
+          <div class="col-span-5 relative h-64 ml-6">
+            <!-- White Diagonal Shape with Images Inside -->
+            <div class="absolute inset-0 bg-white transform -skew-x-12 origin-left shadow-2xl overflow-hidden">
+              <!-- Carousel Images - Fill entire diagonal shape -->
+              <div id="carousel" class="relative h-full w-full">
+                {featuredImages.map((image, index) => (
+                  <div 
+                    class={`carousel-slide absolute inset-0 transition-opacity duration-700 ${index === 0 ? 'opacity-100' : 'opacity-0'}`}
+                  >
+                    <img 
+                      src={image} 
+                      alt="Featured Article"
+                      class="w-full h-full object-cover transform scale-110"
+                    />
+                  </div>
+                ))}
+              </div>
+
+              <!-- Indicators -->
+              <div class="absolute bottom-4 left-1/2 transform -translate-x-1/2 flex gap-2 z-20">
+                {featuredImages.map((_, index) => (
+                  <button 
+                    class={`carousel-indicator w-2 h-2 rounded-full transition-all ${index === 0 ? 'bg-white w-8' : 'bg-white/50'}`}
+                    data-index={index}
+                  />
+                ))}
+              </div>
+            </div>
+          </div>
+
+          <!-- Right: Text -->
+          <div class="col-span-7 pl-12">
+            <h1 class="text-5xl font-bold mb-3">
+              Kitchen Essentials & Cookware
+            </h1>
+            <p class="text-lg text-gray-300">
+              Upgrade your kitchen with expert guides on tools, appliances, and cookware
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Articles Grid -->
+    <section class="py-2 -mt-4">
+      <div class="container mx-auto px-4">
+        <div class="flex justify-between items-center mb-4">
+          <div>
+            <h2 class="text-4xl font-bold mb-1">Latest Articles</h2>
+            <p class="text-gray-400 text-sm">Expert kitchen and cookware recommendations</p>
+          </div>
+          <div class="flex gap-3">
+            <button class="px-4 py-2 bg-white/5 border border-white/10 rounded-lg hover:bg-white/10 transition text-sm">
+              Filter
+            </button>
+            <button class="px-4 py-2 bg-white/5 border border-white/10 rounded-lg hover:bg-white/10 transition text-sm">
+              Sort
+            </button>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {articles.map((article) => (
+            <article class="group bg-white/5 rounded-2xl overflow-hidden border border-white/10 hover:border-green-500/50 transition-all hover:scale-105">
+              <div class="relative h-40 overflow-hidden">
+                <img 
+                  src={article.image} 
+                  alt={article.title}
+                  class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                />
+                <div class="absolute top-4 left-4">
+                  <span class="px-3 py-1 bg-green-600 rounded-full text-xs font-semibold">
+                    Kitchen
+                  </span>
+                </div>
+              </div>
+
+              <div class="p-6">
+                <div class="flex items-center gap-2 text-sm text-gray-400 mb-3">
+                  <span>{article.date}</span>
+                  <span>•</span>
+                  <span>{article.readTime}</span>
+                </div>
+
+                <h3 class="text-xl font-bold mb-3 group-hover:text-green-400 transition line-clamp-2">
+                  {article.title}
+                </h3>
+                
+                <p class="text-gray-300 text-sm mb-4 line-clamp-2">
+                  {article.excerpt}
+                </p>
+
+                <div class="flex items-center justify-between">
+                  <span class="text-xs text-gray-500">{article.author}</span>
+                  <a 
+                    href={`/blog/${article.slug}`}
+                    class="text-green-400 hover:text-green-300 text-sm font-semibold"
+                  >
+                    Read More →
+                  </a>
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        <div class="text-center mt-12">
+          <button class="px-8 py-3 bg-white/10 hover:bg-white/20 rounded-lg font-semibold transition border border-white/20">
+            Load More Articles
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Guides -->
+    <section class="py-16 bg-black/20">
+      <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center mb-12">Popular Kitchen Categories</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div class="bg-gradient-to-br from-green-500/10 to-emerald-500/10 rounded-2xl p-6 border border-green-500/20">
+            <div class="text-4xl mb-4">🍳</div>
+            <h3 class="text-xl font-bold mb-2">Cookware & Pots</h3>
+            <p class="text-gray-300 text-sm mb-4">Pots, pans, and essential cooking vessels</p>
+            <a href="#" class="text-green-400 hover:text-green-300 text-sm font-semibold">
+              Explore →
+            </a>
+          </div>
+
+          <div class="bg-gradient-to-br from-emerald-500/10 to-teal-500/10 rounded-2xl p-6 border border-emerald-500/20">
+            <div class="text-4xl mb-4">🔪</div>
+            <h3 class="text-xl font-bold mb-2">Knives & Cutlery</h3>
+            <p class="text-gray-300 text-sm mb-4">Chef's knives, cutting tools, and accessories</p>
+            <a href="#" class="text-emerald-400 hover:text-emerald-300 text-sm font-semibold">
+              Explore →
+            </a>
+          </div>
+
+          <div class="bg-gradient-to-br from-teal-500/10 to-green-500/10 rounded-2xl p-6 border border-teal-500/20">
+            <div class="text-4xl mb-4">⚡</div>
+            <h3 class="text-xl font-bold mb-2">Small Appliances</h3>
+            <p class="text-gray-300 text-sm mb-4">Mixers, blenders, and kitchen gadgets</p>
+            <a href="#" class="text-teal-400 hover:text-teal-300 text-sm font-semibold">
+              Explore →
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="py-16 bg-gradient-to-r from-green-900/30 to-emerald-900/30">
+      <div class="container mx-auto px-4 text-center">
+        <h2 class="text-3xl font-bold mb-4">Explore More Categories</h2>
+        <p class="text-gray-300 mb-6">Discover articles about home decor, gifts, tech gadgets, and more</p>
+        <div class="flex justify-center gap-4 flex-wrap">
+          <a href="/categories/home" class="px-6 py-3 bg-amber-600 hover:bg-amber-700 rounded-lg font-semibold transition">
+            Home Decor
+          </a>
+          <a href="/categories/gifts" class="px-6 py-3 bg-white/10 hover:bg-white/20 rounded-lg font-semibold transition border border-white/20">
+            Gifts
+          </a>
+          <a href="/categories/tech-gadgets" class="px-6 py-3 bg-white/10 hover:bg-white/20 rounded-lg font-semibold transition border border-white/20">
+            Tech Gadgets
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Carousel Script -->
+  <script>
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.carousel-slide');
+    const indicators = document.querySelectorAll('.carousel-indicator');
+    const totalSlides = slides.length;
+
+    function showSlide(index: number) {
+      slides.forEach((slide, i) => {
+        slide.classList.toggle('opacity-100', i === index);
+        slide.classList.toggle('opacity-0', i !== index);
+      });
+
+      indicators.forEach((indicator, i) => {
+        if (i === index) {
+          indicator.classList.add('bg-white', 'w-8');
+          indicator.classList.remove('bg-white/50', 'w-2');
+        } else {
+          indicator.classList.remove('bg-white', 'w-8');
+          indicator.classList.add('bg-white/50', 'w-2');
+        }
+      });
+    }
+
+    function nextSlide() {
+      currentSlide = (currentSlide + 1) % totalSlides;
+      showSlide(currentSlide);
+    }
+
+    setInterval(nextSlide, 4000);
+
+    indicators.forEach((indicator, index) => {
+      indicator.addEventListener('click', () => {
+        currentSlide = index;
+        showSlide(currentSlide);
+      });
+    });
+  </script>
+</Layout>

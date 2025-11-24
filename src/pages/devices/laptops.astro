@@ -1,0 +1,259 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const featuredImages = [
+  "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&h=600&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=600&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800&h=600&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&h=600&fit=crop&q=80",
+];
+
+const laptops = [
+  {
+    title: "MacBook Pro M3: Professional Powerhouse",
+    excerpt: "Apple's M3 chip delivers unmatched performance for creative professionals and developers.",
+    image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&h=600&fit=crop&q=80",
+    date: "Nov 20, 2024",
+    readTime: "7 min read",
+    author: "Tech Expert",
+    specs: "M3 Pro • 18GB RAM • 14\" Liquid Retina XDR",
+    price: "$1,999"
+  },
+  {
+    title: "Dell XPS 15: Windows Excellence",
+    excerpt: "Premium Windows laptop with stunning OLED display and powerful Intel performance.",
+    image: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&h=600&fit=crop&q=80",
+    date: "Nov 18, 2024",
+    readTime: "6 min read",
+    author: "Laptop Pro",
+    specs: "Intel i9 • 32GB RAM • 15.6\" OLED 3.5K",
+    price: "$2,499"
+  },
+  {
+    title: "Lenovo ThinkPad X1 Carbon: Business Beast",
+    excerpt: "Legendary business laptop with military-grade durability and all-day battery life.",
+    image: "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=800&h=600&fit=crop&q=80",
+    date: "Nov 15, 2024",
+    readTime: "5 min read",
+    author: "Business Tech",
+    specs: "Intel i7 • 16GB RAM • 14\" 2.8K Display",
+    price: "$1,799"
+  },
+  {
+    title: "ASUS ROG Zephyrus G14: Gaming Champion",
+    excerpt: "Compact gaming laptop with AMD Ryzen power and RTX graphics for serious gamers.",
+    image: "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&h=600&fit=crop&q=80",
+    date: "Nov 12, 2024",
+    readTime: "8 min read",
+    author: "Gaming Expert",
+    specs: "Ryzen 9 • RTX 4070 • 14\" QHD+ 165Hz",
+    price: "$1,899"
+  },
+  {
+    title: "HP Spectre x360: 2-in-1 Versatility",
+    excerpt: "Premium convertible laptop with stunning design and versatile touchscreen display.",
+    image: "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=800&h=600&fit=crop&q=80",
+    date: "Nov 10, 2024",
+    readTime: "6 min read",
+    author: "Hybrid Pro",
+    specs: "Intel i7 • 16GB RAM • 13.5\" 3K2K Touch",
+    price: "$1,499"
+  },
+  {
+    title: "Microsoft Surface Laptop Studio 2: Creator's Dream",
+    excerpt: "Innovative design meets powerful performance for digital artists and creators.",
+    image: "https://images.unsplash.com/photo-1593640495253-23196b27a87f?w=800&h=600&fit=crop&q=80",
+    date: "Nov 8, 2024",
+    readTime: "7 min read",
+    author: "Creative Tech",
+    specs: "Intel i7 • RTX 4050 • 14.4\" PixelSense",
+    price: "$2,399"
+  },
+  {
+    title: "Razer Blade 15: Sleek Gaming Power",
+    excerpt: "Ultra-thin gaming laptop with premium build quality and top-tier performance.",
+    image: "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?w=800&h=600&fit=crop&q=80",
+    date: "Nov 5, 2024",
+    readTime: "6 min read",
+    author: "Gaming Guru",
+    specs: "Intel i9 • RTX 4080 • 15.6\" QHD 240Hz",
+    price: "$2,999"
+  },
+  {
+    title: "Framework Laptop: Modular Innovation",
+    excerpt: "Revolutionary repairable and upgradeable laptop that puts you in control.",
+    image: "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=800&h=600&fit=crop&q=80",
+    date: "Nov 3, 2024",
+    readTime: "5 min read",
+    author: "Sustainability Pro",
+    specs: "Intel i7 • 32GB RAM • 13.5\" 2256x1504",
+    price: "$1,399"
+  },
+];
+---
+
+<Layout title="Laptops - InfoProds" description="Compare the latest laptops and find your perfect device">
+  <main>
+    <!-- Hero with Diagonal Image Carousel -->
+    <section class="relative overflow-hidden bg-gradient-to-r from-purple-900/50 to-indigo-900/50 py-8">
+      <div class="container mx-auto px-4">
+        <div class="grid grid-cols-12 items-center gap-0">
+          
+          <!-- Left: Diagonal White Image Carousel -->
+          <div class="col-span-5 relative h-64 ml-6">
+            <div class="absolute inset-0 bg-white transform -skew-x-12 origin-left shadow-2xl overflow-hidden">
+              <div id="carousel" class="relative h-full w-full">
+                {featuredImages.map((image, index) => (
+                  <div 
+                    class={`carousel-slide absolute inset-0 transition-opacity duration-700 ${index === 0 ? 'opacity-100' : 'opacity-0'}`}
+                  >
+                    <img 
+                      src={image} 
+                      alt="Featured Laptop"
+                      class="w-full h-full object-cover transform scale-110"
+                    />
+                  </div>
+                ))}
+              </div>
+
+              <div class="absolute bottom-4 left-1/2 transform -translate-x-1/2 flex gap-2 z-20">
+                {featuredImages.map((_, index) => (
+                  <button 
+                    class={`carousel-indicator w-2 h-2 rounded-full transition-all ${index === 0 ? 'bg-white w-8' : 'bg-white/50'}`}
+                    data-index={index}
+                  />
+                ))}
+              </div>
+            </div>
+          </div>
+
+          <!-- Right: Text -->
+          <div class="col-span-7 pl-12">
+            <h1 class="text-5xl font-bold mb-3">
+              Laptops
+            </h1>
+            <p class="text-lg text-gray-300">
+              Compare the best laptops for work, gaming, and creativity
+            </p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- Laptops Grid -->
+    <section class="py-2 -mt-4">
+      <div class="container mx-auto px-4">
+        <div class="flex justify-between items-center mb-4">
+          <div>
+            <h2 class="text-4xl font-bold mb-1">Latest Laptops</h2>
+            <p class="text-gray-400 text-sm">Expert reviews and buying guides</p>
+          </div>
+          <div class="flex gap-3">
+            <button class="px-4 py-2 bg-white/5 border border-white/10 rounded-lg hover:bg-white/10 transition text-sm">
+              Filter
+            </button>
+            <button class="px-4 py-2 bg-white/5 border border-white/10 rounded-lg hover:bg-white/10 transition text-sm">
+              Sort
+            </button>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {laptops.map((laptop) => (
+            <article class="group bg-white/5 rounded-2xl overflow-hidden border border-white/10 hover:border-purple-500/50 transition-all hover:scale-105">
+              <div class="relative h-40 overflow-hidden">
+                <img 
+                  src={laptop.image} 
+                  alt={laptop.title}
+                  class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                />
+                <div class="absolute top-4 left-4">
+                  <span class="px-3 py-1 bg-purple-600 rounded-full text-xs font-semibold">
+                    Laptops
+                  </span>
+                </div>
+              </div>
+
+              <div class="p-6">
+                <div class="flex items-center gap-2 text-sm text-gray-400 mb-3">
+                  <span>{laptop.date}</span>
+                  <span>•</span>
+                  <span>{laptop.readTime}</span>
+                </div>
+
+                <h3 class="text-xl font-bold mb-3 group-hover:text-purple-400 transition line-clamp-2">
+                  {laptop.title}
+                </h3>
+                
+                <p class="text-gray-300 text-sm mb-3 line-clamp-2">
+                  {laptop.excerpt}
+                </p>
+
+                <div class="text-xs text-gray-400 mb-3">
+                  {laptop.specs}
+                </div>
+
+                <div class="flex items-center justify-between pt-3 border-t border-white/10">
+                  <span class="text-xl font-bold text-green-400">{laptop.price}</span>
+                  <a 
+                    href="#"
+                    class="text-purple-400 hover:text-purple-300 text-sm font-semibold"
+                  >
+                    View Deals →
+                  </a>
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        <div class="text-center mt-12">
+          <a href="/devices" class="inline-flex items-center gap-2 px-8 py-3 bg-white/10 hover:bg-white/20 rounded-lg font-semibold transition border border-white/20">
+            <span>←</span>
+            <span>Back to All Devices</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <script>
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.carousel-slide');
+    const indicators = document.querySelectorAll('.carousel-indicator');
+    const totalSlides = slides.length;
+
+    function showSlide(index: number) {
+      slides.forEach((slide, i) => {
+        slide.classList.toggle('opacity-100', i === index);
+        slide.classList.toggle('opacity-0', i !== index);
+      });
+
+      indicators.forEach((indicator, i) => {
+        if (i === index) {
+          indicator.classList.add('bg-white', 'w-8');
+          indicator.classList.remove('bg-white/50', 'w-2');
+        } else {
+          indicator.classList.remove('bg-white', 'w-8');
+          indicator.classList.add('bg-white/50', 'w-2');
+        }
+      });
+    }
+
+    function nextSlide() {
+      currentSlide = (currentSlide + 1) % totalSlides;
+      showSlide(currentSlide);
+    }
+
+    setInterval(nextSlide, 4000);
+
+    indicators.forEach((indicator, index) => {
+      indicator.addEventListener('click', () => {
+        currentSlide = index;
+        showSlide(currentSlide);
+      });
+    });
+  </script>
+</Layout>

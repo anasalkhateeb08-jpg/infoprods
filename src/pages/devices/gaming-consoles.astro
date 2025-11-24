@@ -1,0 +1,240 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const featuredImages = [
+  "https://images.unsplash.com/photo-1486401899868-0e435ed85128?w=800&h=600&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=800&h=600&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1622297845775-5ff3fef71d13?w=800&h=600&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=800&h=600&fit=crop&q=80",
+];
+
+const consoles = [
+  {
+    title: "PlayStation 5: Next-Gen Gaming Excellence",
+    excerpt: "Sony's flagship console delivers stunning graphics, fast loading, and exclusive games.",
+    image: "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=800&h=600&fit=crop&q=80",
+    date: "Nov 20, 2024",
+    readTime: "7 min read",
+    author: "Gaming Expert",
+    specs: "AMD Zen 2 • 16GB GDDR6 • 4K 120fps • 825GB SSD",
+    price: "$499"
+  },
+  {
+    title: "Xbox Series X: Power and Performance",
+    excerpt: "Microsoft's most powerful console with Game Pass and backward compatibility.",
+    image: "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=800&h=600&fit=crop&q=80",
+    date: "Nov 18, 2024",
+    readTime: "6 min read",
+    author: "Xbox Specialist",
+    specs: "AMD Zen 2 • 16GB GDDR6 • 4K 120fps • 1TB SSD",
+    price: "$499"
+  },
+  {
+    title: "Nintendo Switch OLED: Portable Gaming King",
+    excerpt: "Enhanced OLED display and versatile gaming anywhere you go.",
+    image: "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?w=800&h=600&fit=crop&q=80",
+    date: "Nov 15, 2024",
+    readTime: "5 min read",
+    author: "Nintendo Fan",
+    specs: "Custom NVIDIA • 4GB RAM • 7\" OLED • 64GB Storage",
+    price: "$349"
+  },
+  {
+    title: "Steam Deck: PC Gaming Portable",
+    excerpt: "Play your Steam library on the go with this powerful handheld gaming PC.",
+    image: "https://images.unsplash.com/photo-1622297845775-5ff3fef71d13?w=800&h=600&fit=crop&q=80",
+    date: "Nov 12, 2024",
+    readTime: "8 min read",
+    author: "PC Gamer",
+    specs: "AMD APU • 16GB RAM • 7\" LCD 800p • 512GB SSD",
+    price: "$649"
+  },
+  {
+    title: "Xbox Series S: Budget Gaming Powerhouse",
+    excerpt: "Compact console with impressive performance at an affordable price.",
+    image: "https://images.unsplash.com/photo-1486401899868-0e435ed85128?w=800&h=600&fit=crop&q=80",
+    date: "Nov 10, 2024",
+    readTime: "5 min read",
+    author: "Budget Gamer",
+    specs: "AMD Zen 2 • 10GB GDDR6 • 1440p 120fps • 512GB SSD",
+    price: "$299"
+  },
+  {
+    title: "ASUS ROG Ally: Windows Gaming Handheld",
+    excerpt: "Full Windows experience in a portable gaming device with Ryzen power.",
+    image: "https://images.unsplash.com/photo-1612287230202-1ff1d85d1bdf?w=800&h=600&fit=crop&q=80",
+    date: "Nov 8, 2024",
+    readTime: "6 min read",
+    author: "Handheld Pro",
+    specs: "Ryzen Z1 Extreme • 16GB RAM • 7\" FHD 120Hz • 512GB",
+    price: "$699"
+  },
+  {
+    title: "PlayStation 5 Digital: All-Digital Gaming",
+    excerpt: "Same power as PS5 without disc drive for a lower price point.",
+    image: "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=800&h=600&fit=crop&q=80",
+    date: "Nov 5, 2024",
+    readTime: "5 min read",
+    author: "Digital Gamer",
+    specs: "AMD Zen 2 • 16GB GDDR6 • 4K 120fps • 825GB SSD",
+    price: "$399"
+  },
+  {
+    title: "Meta Quest 3: VR Gaming Revolution",
+    excerpt: "Next-generation VR headset with mixed reality and wireless freedom.",
+    image: "https://images.unsplash.com/photo-1622979135225-d2f876c77f1c?w=800&h=600&fit=crop&q=80",
+    date: "Nov 3, 2024",
+    readTime: "7 min read",
+    author: "VR Expert",
+    specs: "Snapdragon XR2 Gen 2 • 8GB RAM • 4K+ Display • 128GB",
+    price: "$499"
+  },
+];
+---
+
+<Layout title="Gaming Consoles - InfoProds" description="Compare the best gaming consoles and handhelds">
+  <main>
+    <section class="relative overflow-hidden bg-gradient-to-r from-red-900/50 to-orange-900/50 py-8">
+      <div class="container mx-auto px-4">
+        <div class="grid grid-cols-12 items-center gap-0">
+          
+          <div class="col-span-5 relative h-64 ml-6">
+            <div class="absolute inset-0 bg-white transform -skew-x-12 origin-left shadow-2xl overflow-hidden">
+              <div id="carousel" class="relative h-full w-full">
+                {featuredImages.map((image, index) => (
+                  <div 
+                    class={`carousel-slide absolute inset-0 transition-opacity duration-700 ${index === 0 ? 'opacity-100' : 'opacity-0'}`}
+                  >
+                    <img 
+                      src={image} 
+                      alt="Featured Console"
+                      class="w-full h-full object-cover transform scale-110"
+                    />
+                  </div>
+                ))}
+              </div>
+
+              <div class="absolute bottom-4 left-1/2 transform -translate-x-1/2 flex gap-2 z-20">
+                {featuredImages.map((_, index) => (
+                  <button 
+                    class={`carousel-indicator w-2 h-2 rounded-full transition-all ${index === 0 ? 'bg-white w-8' : 'bg-white/50'}`}
+                    data-index={index}
+                  />
+                ))}
+              </div>
+            </div>
+          </div>
+
+          <div class="col-span-7 pl-12">
+            <h1 class="text-5xl font-bold mb-3">Gaming Consoles</h1>
+            <p class="text-lg text-gray-300">Discover the best gaming platforms and handhelds</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="py-2 -mt-4">
+      <div class="container mx-auto px-4">
+        <div class="flex justify-between items-center mb-4">
+          <div>
+            <h2 class="text-4xl font-bold mb-1">Latest Gaming Consoles</h2>
+            <p class="text-gray-400 text-sm">Expert gaming console reviews</p>
+          </div>
+          <div class="flex gap-3">
+            <button class="px-4 py-2 bg-white/5 border border-white/10 rounded-lg hover:bg-white/10 transition text-sm">Filter</button>
+            <button class="px-4 py-2 bg-white/5 border border-white/10 rounded-lg hover:bg-white/10 transition text-sm">Sort</button>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {consoles.map((console) => (
+            <article class="group bg-white/5 rounded-2xl overflow-hidden border border-white/10 hover:border-red-500/50 transition-all hover:scale-105">
+              <div class="relative h-40 overflow-hidden">
+                <img 
+                  src={console.image} 
+                  alt={console.title}
+                  class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                />
+                <div class="absolute top-4 left-4">
+                  <span class="px-3 py-1 bg-red-600 rounded-full text-xs font-semibold">Gaming</span>
+                </div>
+              </div>
+
+              <div class="p-6">
+                <div class="flex items-center gap-2 text-sm text-gray-400 mb-3">
+                  <span>{console.date}</span>
+                  <span>•</span>
+                  <span>{console.readTime}</span>
+                </div>
+
+                <h3 class="text-xl font-bold mb-3 group-hover:text-red-400 transition line-clamp-2">
+                  {console.title}
+                </h3>
+                
+                <p class="text-gray-300 text-sm mb-3 line-clamp-2">
+                  {console.excerpt}
+                </p>
+
+                <div class="text-xs text-gray-400 mb-3">
+                  {console.specs}
+                </div>
+
+                <div class="flex items-center justify-between pt-3 border-t border-white/10">
+                  <span class="text-xl font-bold text-green-400">{console.price}</span>
+                  <a href="#" class="text-red-400 hover:text-red-300 text-sm font-semibold">View Deals →</a>
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        <div class="text-center mt-12">
+          <a href="/devices" class="inline-flex items-center gap-2 px-8 py-3 bg-white/10 hover:bg-white/20 rounded-lg font-semibold transition border border-white/20">
+            <span>←</span>
+            <span>Back to All Devices</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <script>
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.carousel-slide');
+    const indicators = document.querySelectorAll('.carousel-indicator');
+    const totalSlides = slides.length;
+
+    function showSlide(index: number) {
+      slides.forEach((slide, i) => {
+        slide.classList.toggle('opacity-100', i === index);
+        slide.classList.toggle('opacity-0', i !== index);
+      });
+
+      indicators.forEach((indicator, i) => {
+        if (i === index) {
+          indicator.classList.add('bg-white', 'w-8');
+          indicator.classList.remove('bg-white/50', 'w-2');
+        } else {
+          indicator.classList.remove('bg-white', 'w-8');
+          indicator.classList.add('bg-white/50', 'w-2');
+        }
+      });
+    }
+
+    function nextSlide() {
+      currentSlide = (currentSlide + 1) % totalSlides;
+      showSlide(currentSlide);
+    }
+
+    setInterval(nextSlide, 4000);
+
+    indicators.forEach((indicator, index) => {
+      indicator.addEventListener('click', () => {
+        currentSlide = index;
+        showSlide(currentSlide);
+      });
+    });
+  </script>
+</Layout>

@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Home",
+    "blog": "Blog",
+    "devices": "Devices",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "welcome": "Welcome to InfoProds",
+    "tagline": "Your Ultimate Information & Shopping Hub",
+    "explore_blog": "Explore Blog",
+    "browse_devices": "Browse Devices",
+    "shop_from": "Shop from Trusted Stores"
+  },
+  "devices": {
+    "title": "DeviceSpecs",
+    "description": "Your comprehensive device database with detailed specs, intelligent comparisons, and smart recommendations",
+    "stats": {
+      "devices": "Devices",
+      "categories": "Categories",
+      "powered": "Powered"
+    },
+    "browse": "Browse by Category"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}

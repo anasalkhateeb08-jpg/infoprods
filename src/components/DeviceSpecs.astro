@@ -1,0 +1,83 @@
+---
+const devices = [
+  { 
+    name: "Smartphones", 
+    icon: "📱", 
+    count: "2,500+", 
+    href: "/devices/smartphones",
+    image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&q=80"
+  },
+  { 
+    name: "Laptops", 
+    icon: "💻", 
+    count: "1,800+", 
+    href: "/devices/laptops",
+    image: "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&q=80"
+  },
+  { 
+    name: "Tablets", 
+    icon: "📟", 
+    count: "600+", 
+    href: "/devices/tablets",
+    image: "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=800&q=80"
+  },
+  { 
+    name: "Cameras", 
+    icon: "📷", 
+    count: "900+", 
+    href: "/devices/cameras",
+    image: "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&q=80"
+  },
+  { 
+    name: "Smartwatches", 
+    icon: "⌚", 
+    count: "400+", 
+    href: "/devices/smartwatches",
+    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80"
+  },
+];
+---
+
+<section class="py-20 bg-black/20">
+  <div class="container mx-auto px-4">
+    <div class="flex items-center justify-center gap-3 mb-4">
+      <h2 class="text-4xl font-bold text-center">DeviceSpecs</h2>
+      <span class="px-3 py-1 bg-purple-500/20 border border-purple-500/50 rounded-full text-sm text-purple-300 font-semibold">
+        POWERED BY AI
+      </span>
+    </div>
+    <p class="text-xl text-gray-300 text-center mb-12">Comprehensive device database with AI-powered recommendations</p>
+    
+    <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-6">
+      {devices.map((device) => (
+        <a 
+          href={device.href}
+          class="group relative overflow-hidden rounded-2xl h-80 hover:scale-105 transition-all duration-300"
+        >
+          <!-- Background Image -->
+          <div class="absolute inset-0">
+            <img 
+              src={device.image} 
+              alt={device.name}
+              class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+            />
+            <div class="absolute inset-0 bg-gradient-to-t from-black via-purple-900/50 to-transparent"></div>
+          </div>
+          
+          <!-- Content -->
+          <div class="relative z-10 h-full flex flex-col justify-end p-6">
+            <div class="text-5xl mb-4 text-center">{device.icon}</div>
+            <h3 class="text-xl font-bold mb-2 text-white text-center">{device.name}</h3>
+            <p class="text-purple-300 text-sm text-center font-semibold">{device.count} Devices</p>
+          </div>
+
+          <!-- Hover Gradient -->
+          <div class="absolute inset-0 bg-gradient-to-br from-purple-600/30 to-blue-600/30 opacity-0 group-hover:opacity-100 transition-opacity z-[5]"></div>
+          
+          <!-- Border Glow on Hover -->
+          <div class="absolute inset-0 border-2 border-purple-500/0 group-hover:border-purple-500/50 rounded-2xl transition-colors"></div>
+        </a>
+      ))}
+    </div>
+  </div>
+</section>

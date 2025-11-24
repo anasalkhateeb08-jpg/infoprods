@@ -1,0 +1,240 @@
+---
+import Layout from '../../layouts/Layout.astro';
+
+const featuredImages = [
+  "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&h=600&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800&h=600&fit=crop&q=80",
+  "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=800&h=600&fit=crop&q=80",
+];
+
+const smartwatches = [
+  {
+    title: "Apple Watch Series 9: Ultimate Smartwatch",
+    excerpt: "Most advanced Apple Watch with double tap gesture and all-day battery life.",
+    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop&q=80",
+    date: "Nov 20, 2024",
+    readTime: "6 min read",
+    author: "Wearable Expert",
+    specs: "S9 Chip • Always-On Display • ECG & Blood Oxygen",
+    price: "$399"
+  },
+  {
+    title: "Samsung Galaxy Watch 6: Android's Best",
+    excerpt: "Premium smartwatch with comprehensive health tracking and long battery life.",
+    image: "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&h=600&fit=crop&q=80",
+    date: "Nov 18, 2024",
+    readTime: "6 min read",
+    author: "Samsung Pro",
+    specs: "Exynos W930 • 1.5\" AMOLED • Body Composition",
+    price: "$299"
+  },
+  {
+    title: "Garmin Fenix 7: Outdoor Champion",
+    excerpt: "Rugged multisport GPS watch with incredible battery life and mapping features.",
+    image: "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800&h=600&fit=crop&q=80",
+    date: "Nov 15, 2024",
+    readTime: "7 min read",
+    author: "Fitness Pro",
+    specs: "Solar Charging • 18 Days Battery • Topo Maps",
+    price: "$699"
+  },
+  {
+    title: "Google Pixel Watch 2: Wear OS Excellence",
+    excerpt: "Google's flagship smartwatch with Fitbit integration and sleek design.",
+    image: "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=800&h=600&fit=crop&q=80",
+    date: "Nov 12, 2024",
+    readTime: "5 min read",
+    author: "Google Specialist",
+    specs: "Snapdragon W5 • 1.2\" AMOLED • Continuous HR",
+    price: "$349"
+  },
+  {
+    title: "Amazfit GTR 4: Value Champion",
+    excerpt: "Feature-packed smartwatch with exceptional battery life at competitive price.",
+    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop&q=80",
+    date: "Nov 10, 2024",
+    readTime: "5 min read",
+    author: "Value Expert",
+    specs: "14 Days Battery • 1.43\" AMOLED • Dual-Band GPS",
+    price: "$199"
+  },
+  {
+    title: "Fitbit Sense 2: Health Focused",
+    excerpt: "Advanced health smartwatch with stress management and sleep tracking.",
+    image: "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&h=600&fit=crop&q=80",
+    date: "Nov 8, 2024",
+    readTime: "5 min read",
+    author: "Health Tracker",
+    specs: "6 Days Battery • cEDA Sensor • Sleep Profile",
+    price: "$299"
+  },
+  {
+    title: "Polar Vantage V3: Training Partner",
+    excerpt: "Professional sports watch with advanced training metrics and recovery tracking.",
+    image: "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800&h=600&fit=crop&q=80",
+    date: "Nov 5, 2024",
+    readTime: "6 min read",
+    author: "Training Pro",
+    specs: "140 Sports Modes • Dual-Frequency GPS • Nightly Recharge",
+    price: "$599"
+  },
+  {
+    title: "Huawei Watch GT 4: Style Meets Function",
+    excerpt: "Elegant smartwatch with premium design and comprehensive health features.",
+    image: "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=800&h=600&fit=crop&q=80",
+    date: "Nov 3, 2024",
+    readTime: "5 min read",
+    author: "Style Expert",
+    specs: "14 Days Battery • 1.43\" AMOLED • TruSeen 5.5+",
+    price: "$249"
+  },
+];
+---
+
+<Layout title="Smartwatches - InfoProds" description="Compare the best smartwatches and fitness trackers">
+  <main>
+    <section class="relative overflow-hidden bg-gradient-to-r from-teal-900/50 to-emerald-900/50 py-8">
+      <div class="container mx-auto px-4">
+        <div class="grid grid-cols-12 items-center gap-0">
+          
+          <div class="col-span-5 relative h-64 ml-6">
+            <div class="absolute inset-0 bg-white transform -skew-x-12 origin-left shadow-2xl overflow-hidden">
+              <div id="carousel" class="relative h-full w-full">
+                {featuredImages.map((image, index) => (
+                  <div 
+                    class={`carousel-slide absolute inset-0 transition-opacity duration-700 ${index === 0 ? 'opacity-100' : 'opacity-0'}`}
+                  >
+                    <img 
+                      src={image} 
+                      alt="Featured Smartwatch"
+                      class="w-full h-full object-cover transform scale-110"
+                    />
+                  </div>
+                ))}
+              </div>
+
+              <div class="absolute bottom-4 left-1/2 transform -translate-x-1/2 flex gap-2 z-20">
+                {featuredImages.map((_, index) => (
+                  <button 
+                    class={`carousel-indicator w-2 h-2 rounded-full transition-all ${index === 0 ? 'bg-white w-8' : 'bg-white/50'}`}
+                    data-index={index}
+                  />
+                ))}
+              </div>
+            </div>
+          </div>
+
+          <div class="col-span-7 pl-12">
+            <h1 class="text-5xl font-bold mb-3">Smartwatches</h1>
+            <p class="text-lg text-gray-300">Track your health and stay connected with the best smartwatches</p>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <section class="py-2 -mt-4">
+      <div class="container mx-auto px-4">
+        <div class="flex justify-between items-center mb-4">
+          <div>
+            <h2 class="text-4xl font-bold mb-1">Latest Smartwatches</h2>
+            <p class="text-gray-400 text-sm">Expert smartwatch reviews and comparisons</p>
+          </div>
+          <div class="flex gap-3">
+            <button class="px-4 py-2 bg-white/5 border border-white/10 rounded-lg hover:bg-white/10 transition text-sm">Filter</button>
+            <button class="px-4 py-2 bg-white/5 border border-white/10 rounded-lg hover:bg-white/10 transition text-sm">Sort</button>
+          </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {smartwatches.map((watch) => (
+            <article class="group bg-white/5 rounded-2xl overflow-hidden border border-white/10 hover:border-teal-500/50 transition-all hover:scale-105">
+              <div class="relative h-40 overflow-hidden">
+                <img 
+                  src={watch.image} 
+                  alt={watch.title}
+                  class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
+                />
+                <div class="absolute top-4 left-4">
+                  <span class="px-3 py-1 bg-teal-600 rounded-full text-xs font-semibold">Smartwatches</span>
+                </div>
+              </div>
+
+              <div class="p-6">
+                <div class="flex items-center gap-2 text-sm text-gray-400 mb-3">
+                  <span>{watch.date}</span>
+                  <span>•</span>
+                  <span>{watch.readTime}</span>
+                </div>
+
+                <h3 class="text-xl font-bold mb-3 group-hover:text-teal-400 transition line-clamp-2">
+                  {watch.title}
+                </h3>
+                
+                <p class="text-gray-300 text-sm mb-3 line-clamp-2">
+                  {watch.excerpt}
+                </p>
+
+                <div class="text-xs text-gray-400 mb-3">
+                  {watch.specs}
+                </div>
+
+                <div class="flex items-center justify-between pt-3 border-t border-white/10">
+                  <span class="text-xl font-bold text-green-400">{watch.price}</span>
+                  <a href="#" class="text-teal-400 hover:text-teal-300 text-sm font-semibold">View Deals →</a>
+                </div>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        <div class="text-center mt-12">
+          <a href="/devices" class="inline-flex items-center gap-2 px-8 py-3 bg-white/10 hover:bg-white/20 rounded-lg font-semibold transition border border-white/20">
+            <span>←</span>
+            <span>Back to All Devices</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <script>
+    let currentSlide = 0;
+    const slides = document.querySelectorAll('.carousel-slide');
+    const indicators = document.querySelectorAll('.carousel-indicator');
+    const totalSlides = slides.length;
+
+    function showSlide(index: number) {
+      slides.forEach((slide, i) => {
+        slide.classList.toggle('opacity-100', i === index);
+        slide.classList.toggle('opacity-0', i !== index);
+      });
+
+      indicators.forEach((indicator, i) => {
+        if (i === index) {
+          indicator.classList.add('bg-white', 'w-8');
+          indicator.classList.remove('bg-white/50', 'w-2');
+        } else {
+          indicator.classList.remove('bg-white', 'w-8');
+          indicator.classList.add('bg-white/50', 'w-2');
+        }
+      });
+    }
+
+    function nextSlide() {
+      currentSlide = (currentSlide + 1) % totalSlides;
+      showSlide(currentSlide);
+    }
+
+    setInterval(nextSlide, 4000);
+
+    indicators.forEach((indicator, index) => {
+      indicator.addEventListener('click', () => {
+        currentSlide = index;
+        showSlide(currentSlide);
+      });
+    });
+  </script>
+</Layout>

@@ -1,0 +1,13 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin areas (if any in future)
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://infoprods.com/sitemap.xml
+
+# Crawl-delay for politeness
+Crawl-delay: 1

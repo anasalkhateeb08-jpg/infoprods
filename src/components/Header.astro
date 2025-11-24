@@ -1,0 +1,127 @@
+---
+---
+
+<header class="sticky top-0 z-50 bg-gradient-to-r from-purple-900 via-blue-900 to-purple-900 shadow-lg backdrop-blur-sm bg-opacity-95">
+  <nav class="container mx-auto px-4 py-4 flex items-center justify-between">
+    <!-- Logo & Brand -->
+    <a href="/" class="flex items-center gap-3 hover:scale-105 transition">
+      <img src="/ip-logo.png" alt="InfoProds Logo" class="w-10 h-10 brightness-0 invert">
+      <span class="text-2xl font-black text-white">
+        InfoProds
+      </span>
+    </a>
+
+    <!-- Desktop Navigation -->
+    <div class="hidden md:flex items-center gap-6">
+      <a href="/" class="hover:text-cyan-400 transition font-semibold">Home</a>
+      <a href="/blog" class="hover:text-cyan-400 transition font-semibold">Blog</a>
+      <a href="/devices" class="hover:text-cyan-400 transition font-semibold">Devices</a>
+      <a href="/about" class="hover:text-cyan-400 transition font-semibold">About</a>
+      <a href="/contact" class="hover:text-cyan-400 transition font-semibold">Contact</a>
+      
+      <!-- Language Switcher -->
+      <button id="langBtn" class="text-2xl hover:scale-110 transition" aria-label="Change Language">
+        🌐
+      </button>
+    </div>
+
+    <!-- Mobile Menu Button -->
+    <button id="mobileMenuBtn" class="md:hidden text-2xl" aria-label="Toggle Menu">
+      ☰
+    </button>
+  </nav>
+
+  <!-- Mobile Menu -->
+  <div id="mobileMenu" class="hidden md:hidden bg-gradient-to-b from-purple-900 to-blue-900 px-4 py-4">
+    <a href="/" class="block py-2 hover:text-cyan-400 transition">Home</a>
+    <a href="/blog" class="block py-2 hover:text-cyan-400 transition">Blog</a>
+    <a href="/devices" class="block py-2 hover:text-cyan-400 transition">Devices</a>
+    <a href="/about" class="block py-2 hover:text-cyan-400 transition">About</a>
+    <a href="/contact" class="block py-2 hover:text-cyan-400 transition">Contact</a>
+    <button id="langBtnMobile" class="block py-2 text-left text-2xl">
+      🌐 Change Language
+    </button>
+  </div>
+
+  <!-- Language Modal -->
+  <div id="langModal" class="hidden fixed inset-0 bg-black bg-opacity-75 z-[9999]">
+    <div class="flex items-center justify-center min-h-screen p-4">
+      <div class="bg-gradient-to-br from-purple-900 to-blue-900 rounded-2xl p-8 max-w-md w-full shadow-2xl">
+        <h3 class="text-2xl font-bold mb-6 text-center">Select Language</h3>
+        <div class="grid grid-cols-2 gap-3">
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="en">🇬🇧 English</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="ar">🇸🇦 العربية</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="fr">🇫🇷 Français</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="es">🇪🇸 Español</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="de">🇩🇪 Deutsch</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="it">🇮🇹 Italiano</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="pt">🇵🇹 Português</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="ru">🇷🇺 Русский</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="zh">🇨🇳 中文</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="ja">🇯🇵 日本語</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="ko">🇰🇷 한국어</button>
+          <button class="lang-option px-4 py-3 bg-white/10 hover:bg-white/20 rounded-lg transition font-semibold" data-lang="tr">🇹🇷 Türkçe</button>
+        </div>
+        <button id="closeLangModal" class="mt-6 w-full px-4 py-3 bg-red-600 hover:bg-red-700 rounded-lg transition font-bold">
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<script>
+  // Mobile Menu Toggle
+  const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+  const mobileMenu = document.getElementById('mobileMenu');
+  
+  mobileMenuBtn?.addEventListener('click', () => {
+    mobileMenu?.classList.toggle('hidden');
+  });
+
+  // Language Modal
+  const langBtn = document.getElementById('langBtn');
+  const langBtnMobile = document.getElementById('langBtnMobile');
+  const langModal = document.getElementById('langModal');
+  const closeLangModal = document.getElementById('closeLangModal');
+
+  langBtn?.addEventListener('click', () => {
+    langModal?.classList.remove('hidden');
+  });
+
+  langBtnMobile?.addEventListener('click', () => {
+    langModal?.classList.remove('hidden');
+    mobileMenu?.classList.add('hidden');
+  });
+
+  closeLangModal?.addEventListener('click', () => {
+    langModal?.classList.add('hidden');
+  });
+
+  langModal?.addEventListener('click', (e) => {
+    if (e.target === langModal) {
+      langModal.classList.add('hidden');
+    }
+  });
+
+  // Language Selection
+  const langOptions = document.querySelectorAll('.lang-option');
+  langOptions.forEach(option => {
+    option.addEventListener('click', () => {
+      const lang = option.getAttribute('data-lang');
+      if (lang) {
+        localStorage.setItem('selectedLang', lang);
+        document.documentElement.lang = lang;
+        
+        if (lang === 'ar') {
+          document.documentElement.dir = 'rtl';
+        } else {
+          document.documentElement.dir = 'ltr';
+        }
+        
+        window.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang } }));
+        langModal?.classList.add('hidden');
+      }
+    });
+  });
+</script>
