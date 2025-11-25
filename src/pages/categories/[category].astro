@@ -4,7 +4,6 @@ import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const blogPosts = await getCollection('blog');
-  
   const categories = [...new Set(blogPosts.map(post => post.data.category))];
   
   return categories.map(category => ({
@@ -21,70 +20,57 @@ const sortedPosts = posts.sort((a, b) => b.data.date.valueOf() - a.data.date.val
 ---
 
 <Layout 
-  title={`${category} Articles - InfoProds`}
-  description={`Browse all ${category} articles, reviews, and guides`}
+  title={`${category} - InfoProds`}
+  description={`Explore the latest ${category.toLowerCase()} articles, trends, and guides on InfoProds`}
 >
-  <section class="bg-gradient-to-r from-purple-900 via-purple-800 to-blue-900 text-white py-20">
-    <div class="max-w-7xl mx-auto px-4">
-      <h1 class="text-4xl md:text-5xl font-bold mb-4">{category}</h1>
-      <p class="text-xl text-purple-200">
-        Explore our latest {category.toLowerCase()} articles and guides
-      </p>
+  <section class="bg-gradient-to-br from-purple-600 via-blue-600 to-indigo-700 text-white py-20">
+    <div class="max-w-6xl mx-auto px-4 text-center">
+      <h1 class="text-5xl font-bold mb-4">{category}</h1>
+      <p class="text-xl text-gray-200">Expert {category.toLowerCase()} advice and trend analysis</p>
     </div>
   </section>
 
-  <section class="max-w-7xl mx-auto px-4 py-16">
-    <h2 class="text-3xl font-bold text-gray-900 mb-8">Latest Articles</h2>
-    
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-      {sortedPosts.map(post => (
-        <article class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow">
-          {post.data.image && (
-            <img 
-              src={post.data.image} 
-              alt={post.data.title}
-              class="w-full h-48 object-cover"
-            />
-          )}
-          
-          <div class="p-6">
-            <span class="text-xs text-purple-600 font-semibold uppercase tracking-wide">
-              {post.data.category}
-            </span>
-            
-            <h3 class="text-xl font-bold text-gray-900 mt-2 mb-3">
-              <a href={`/blog/${post.slug}`} class="hover:text-purple-600 transition-colors">
-                {post.data.title}
-              </a>
-            </h3>
-            
-            <p class="text-gray-600 text-sm mb-4 line-clamp-2">
-              {post.data.description}
-            </p>
-            
-            <div class="flex items-center justify-between text-sm text-gray-500">
-              <time datetime={post.data.date.toISOString()}>
-                {post.data.date.toLocaleDateString('en-US', { 
-                  month: 'short', 
-                  day: 'numeric',
-                  year: 'numeric'
-                })}
-              </time>
-              <a 
-                href={`/blog/${post.slug}`}
-                class="text-purple-600 hover:text-purple-700 font-medium"
-              >
-                Read More →
-              </a>
+  <section class="max-w-6xl mx-auto px-4 py-16">
+    {sortedPosts.length === 0 ? (
+      <div class="text-center py-20">
+        <p class="text-xl text-gray-400">No articles yet in this category. Check back soon!</p>
+      </div>
+    ) : (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {sortedPosts.map((post) => (
+          <article class="bg-gray-800 rounded-lg overflow-hidden hover:transform hover:scale-105 transition-all duration-300 shadow-lg">
+            {post.data.image && (
+              <img 
+                src={post.data.image} 
+                alt={post.data.title}
+                class="w-full h-48 object-cover"
+              />
+            )}
+            <div class="p-6">
+              <span class="text-xs text-purple-400 font-semibold uppercase tracking-wide">
+                {post.data.category}
+              </span>
+              <h2 class="text-xl font-bold mt-2 mb-3 text-white hover:text-purple-400 transition-colors">
+                <a href={`/blog/${post.slug}`}>
+                  {post.data.title}
+                </a>
+              </h2>
+              <p class="text-gray-300 text-sm mb-4 line-clamp-3">
+                {post.data.description}
+              </p>
+              <div class="flex items-center justify-between text-sm text-gray-400">
+                <span>{post.data.author}</span>
+                <time datetime={post.data.date.toISOString()}>
+                  {post.data.date.toLocaleDateString('en-US', { 
+                    year: 'numeric', 
+                    month: 'short', 
+                    day: 'numeric' 
+                  })}
+                </time>
+              </div>
             </div>
-          </div>
-        </article>
-      ))}
-    </div>
-
-    {sortedPosts.length === 0 && (
-      <div class="text-center py-12">
-        <p class="text-gray-600 text-lg">No articles found in this category yet.</p>
+          </article>
+        ))}
       </div>
     )}
   </section>
