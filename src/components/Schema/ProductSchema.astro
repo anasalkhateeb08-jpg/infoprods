@@ -1,0 +1,70 @@
+﻿---
+interface Props {
+  name: string;
+  description: string;
+  image: string;
+  brand: string;
+  model?: string;
+  price?: number;
+  priceCurrency?: string;
+  availability?: 'InStock' | 'OutOfStock' | 'PreOrder';
+  rating?: number;
+  reviewCount?: number;
+  url: string;
+}
+
+const { 
+  name, 
+  description, 
+  image, 
+  brand,
+  model,
+  price,
+  priceCurrency = "USD",
+  availability = "InStock",
+  rating,
+  reviewCount,
+  url
+} = Astro.props;
+
+const fullImageUrl = image.startsWith('http') ? image : https://infoprods.com;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": name,
+  "description": description,
+  "image": fullImageUrl,
+  "brand": {
+    "@type": "Brand",
+    "name": brand
+  },
+  "url": url
+};
+
+if (model) {
+  schema["model"] = model;
+}
+
+if (price) {
+  schema["offers"] = {
+    "@type": "Offer",
+    "price": price.toString(),
+    "priceCurrency": priceCurrency,
+    "availability": https://schema.org/,
+    "url": url
+  };
+}
+
+if (rating && reviewCount) {
+  schema["aggregateRating"] = {
+    "@type": "AggregateRating",
+    "ratingValue": rating.toString(),
+    "reviewCount": reviewCount.toString(),
+    "bestRating": "5",
+    "worstRating": "1"
+  };
+}
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />
