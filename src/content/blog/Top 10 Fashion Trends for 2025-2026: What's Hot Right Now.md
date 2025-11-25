@@ -1,5 +1,5 @@
 ---
-title: "Top 10 Fashion Trends for 2025-2026: What's Hot Right Now"
+title: "2024-11-25-fashion-trends-2026.md"
 description: Discover the hottest fashion trends that are dominating runways and streets this year.
 author: InfoProds Team
 date: 2025-11-24T16:52:00
