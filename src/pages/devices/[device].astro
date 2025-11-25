@@ -1,0 +1,78 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const devices = await getCollection('devices');
+  const deviceTypes = [...new Set(devices.map(device => device.data.deviceType))];
+  
+  return deviceTypes.map(deviceType => ({
+    params: { device: deviceType.toLowerCase().replace(/\s+/g, '-') },
+    props: { 
+      deviceType,
+      devices: devices.filter(device => device.data.deviceType === deviceType)
+    },
+  }));
+}
+
+const { deviceType, devices } = Astro.props;
+const sortedDevices = devices.sort((a, b) => b.data.releaseDate?.valueOf() - a.data.releaseDate?.valueOf());
+---
+
+<Layout 
+  title={`${deviceType} - InfoProds`}
+  description={`Explore detailed specifications and reviews of the latest ${deviceType.toLowerCase()} on InfoProds`}
+>
+  <section class="bg-gradient-to-br from-purple-600 via-blue-600 to-indigo-700 text-white py-20">
+    <div class="max-w-6xl mx-auto px-4 text-center">
+      <h1 class="text-5xl font-bold mb-4">{deviceType}</h1>
+      <p class="text-xl text-gray-200">Detailed specifications and expert reviews</p>
+    </div>
+  </section>
+
+  <section class="max-w-6xl mx-auto px-4 py-16">
+    {sortedDevices.length === 0 ? (
+      <div class="text-center py-20">
+        <p class="text-xl text-gray-400">No devices yet in this category. Check back soon!</p>
+      </div>
+    ) : (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {sortedDevices.map((device) => (
+          <article class="bg-gray-800 rounded-lg overflow-hidden hover:transform hover:scale-105 transition-all duration-300 shadow-lg">
+            {device.data.image && (
+              <img 
+                src={device.data.image} 
+                alt={device.data.title}
+                class="w-full h-48 object-cover"
+              />
+            )}
+            <div class="p-6">
+              <span class="text-xs text-purple-400 font-semibold uppercase tracking-wide">
+                {device.data.deviceType}
+              </span>
+              <h2 class="text-xl font-bold mt-2 mb-3 text-white hover:text-purple-400 transition-colors">
+                <a href={`/devices/${device.slug}`}>
+                  {device.data.title}
+                </a>
+              </h2>
+              <div class="text-gray-300 text-sm mb-4">
+                <p><strong>Brand:</strong> {device.data.brand}</p>
+                {device.data.price && <p><strong>Price:</strong> {device.data.price}</p>}
+              </div>
+              {device.data.releaseDate && (
+                <div class="text-sm text-gray-400">
+                  <time datetime={device.data.releaseDate.toISOString()}>
+                    Released: {device.data.releaseDate.toLocaleDateString('en-US', { 
+                      year: 'numeric', 
+                      month: 'short'
+                    })}
+                  </time>
+                </div>
+              )}
+            </div>
+          </article>
+        ))}
+      </div>
+    )}
+  </section>
+</Layout>
