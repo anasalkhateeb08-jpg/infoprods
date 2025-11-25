@@ -134,8 +134,6 @@ The Y2K revival continues in 2026, but with a sophisticated, tech-enhanced twist
 
 Oversized silhouettes remain dominant in 2026, but with sharper, more structured tailoring that commands attention.
 
-**[📸 ضع الصورة رقم 3 هنا]**
-
 **Trending pieces:**
 
 - Exaggerated shoulder blazers
@@ -233,7 +231,26 @@ Wearing a single color head-to-toe creates a sleek, sophisticated look in 2026, 
 
 Platform shoes continue dominating 2026, but now they're everywhere—not just on your feet.
 
-**[📸 ضع الصورة رقم 4 هنا]**
+[![](/images/uploads/EXP.png)](https://www.aliexpress.com/w/wholesale-platform-sneakers-women.html?aff_fcid=ae490677)
+
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">
+  🛍️ Shop via AliExpress
+</a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+[![](/images/uploads/aliexprs.png)](https://www.aliexpress.com/w/wholesale-platform-sneakers-women.html?aff_fcid=ae490677)
 
 **Platform styles ruling 2026:**
 
