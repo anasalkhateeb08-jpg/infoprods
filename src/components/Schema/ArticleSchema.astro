@@ -1,4 +1,4 @@
-﻿---
+---
 interface Props {
   title: string;
   description: string;
@@ -21,7 +21,7 @@ const {
   tags = []
 } = Astro.props;
 
-const fullImageUrl = image.startsWith('http') ? image : https://infoprods.com;
+const fullImageUrl = image.startsWith("http") ? image : "https://infoprods.com" + image;
 
 const schema = {
   "@context": "https://schema.org",

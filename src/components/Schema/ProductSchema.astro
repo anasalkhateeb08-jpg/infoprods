@@ -1,4 +1,4 @@
-﻿---
+---
 interface Props {
   name: string;
   description: string;
@@ -7,7 +7,7 @@ interface Props {
   model?: string;
   price?: number;
   priceCurrency?: string;
-  availability?: 'InStock' | 'OutOfStock' | 'PreOrder';
+  availability?: string;
   rating?: number;
   reviewCount?: number;
   url: string;
@@ -27,7 +27,7 @@ const {
   url
 } = Astro.props;
 
-const fullImageUrl = image.startsWith('http') ? image : https://infoprods.com;
+const fullImageUrl = image.startsWith("http") ? image : "https://infoprods.com" + image;
 
 const schema = {
   "@context": "https://schema.org",
@@ -51,7 +51,7 @@ if (price) {
     "@type": "Offer",
     "price": price.toString(),
     "priceCurrency": priceCurrency,
-    "availability": https://schema.org/,
+    "availability": "https://schema.org/" + availability,
     "url": url
   };
 }
