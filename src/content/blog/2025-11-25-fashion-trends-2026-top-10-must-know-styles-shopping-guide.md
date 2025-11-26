@@ -248,7 +248,8 @@ Platform shoes continue dominating 2026, but now they're everywhere—not just o
 }
 </style>
 
-![](/images/uploads/ezgif.com-animated-gif-maker%20%282%29.gif)
+[![](/images/uploads/ezgif.com-animated-gif-maker%20%282%29.gif)](https://www.aliexpress.com/w/wholesale-platform-sneakers-women.html?aff_fcid=ae490677)
+
 
 **Platform styles ruling 2026:**
 
