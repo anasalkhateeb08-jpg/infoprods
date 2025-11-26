@@ -240,11 +240,7 @@ Platform shoes continue dominating 2026, but now they're everywhere—not just o
   animation: pulse 2s infinite;
   text-decoration: none;
   display: inline-block;
-">
-  🛍️ Shop via AliExpress [![](/images/uploads/a3.png)](https://www.aliexpress.com/w/wholesale-platform-sneakers-women.html?aff_fcid=ae490677)
-
-
-</a>
+">  🛍️ Shop via AliExpress   </a>
 <style>
 @keyframes pulse {
   0%, 100% { opacity: 1; transform: scale(1); }
@@ -252,6 +248,7 @@ Platform shoes continue dominating 2026, but now they're everywhere—not just o
 }
 </style>
 
+![](/images/uploads/ezgif.com-animated-gif-maker.gif)
 
 **Platform styles ruling 2026:**
 
