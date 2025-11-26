@@ -36,6 +36,8 @@ Performance is smooth and responsive thanks to the Tensor G3 chip, which excels 
 
 **Best For:** Photography enthusiasts and users who value software updates and AI features.
 
+[![Google Pixel 8a](/images/uploads/frte.png)](https://www.aliexpress.com/w/wholesale-google-pixel-8a.html?aff_fcid=ae490677)
+
 ## 2. Samsung Galaxy A54 5G: The Complete Package
 
 Samsung's Galaxy A54 5G strikes an impressive balance between features, performance, and price. With its premium build quality and versatile camera system, it feels like a flagship phone at a mid-range price.
