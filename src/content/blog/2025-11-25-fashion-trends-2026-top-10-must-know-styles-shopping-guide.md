@@ -35,7 +35,7 @@ Artificial intelligence has revolutionized fashion design in 2026. AI algorithms
 }
 </style>
 
-[![](/images/uploads/SHEIN.png)](https://www.shein.com/new/Tops-New-in-15-Days-sc-00204866.html?attr_values=pink&attr_ids=27_513&ref=6026848900)
+[![](/images/uploads/shein.gif)](https://www.shein.com/new/Tops-New-in-15-Days-sc-00204866.html?attr_values=pink&attr_ids=27_513&ref=6026848900)
 
 **What makes it special:**
 
