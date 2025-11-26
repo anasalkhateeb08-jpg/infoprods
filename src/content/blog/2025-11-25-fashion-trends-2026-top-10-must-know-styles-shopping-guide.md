@@ -250,7 +250,7 @@ Platform shoes continue dominating 2026, but now they're everywhere—not just o
 }
 </style>
 
-![](/images/uploads/aasww.png)
+![](/images/uploads/rrs.png)
 
 **Platform styles ruling 2026:**
 
