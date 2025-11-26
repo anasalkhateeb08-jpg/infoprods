@@ -22,10 +22,10 @@ collections:
       - {label: "Category", name: "category", widget: "select", required: true, options: ["Beauty", "Fashion", "Fitness", "Gifts", "Home", "Jewelry", "Kitchen", "Tech Gadgets"]}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: true}
-  # Device Specs Collection - Updated with Article Fields
-  - name: "devices"
-    label: "Device Specs"
-    folder: "src/content/devices"
+  # Device Reviews - New Collection
+  - name: "device-reviews"
+    label: "Device Reviews"
+    folder: "src/content/device-reviews"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
@@ -36,8 +36,6 @@ collections:
       - {label: "Author", name: "author", widget: "string", default: "InfoProds Team"}
       - {label: "Publish Date", name: "date", widget: "datetime", required: true}
       - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
-      - {label: "Device Type", name: "deviceType", widget: "select", required: true, options: ["Smartphones", "Laptops", "Tablets", "Gaming Consoles", "Cameras", "Smartwatches"]}
-      - {label: "Brand", name: "brand", widget: "string", required: false}
-      - {label: "Price", name: "price", widget: "string", required: false}
+      - {label: "Device Category", name: "deviceCategory", widget: "select", required: true, options: ["Smartphones", "Laptops", "Tablets", "Gaming Consoles", "Cameras", "Smartwatches"]}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: true}
