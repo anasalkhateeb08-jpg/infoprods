@@ -248,7 +248,7 @@ Platform shoes continue dominating 2026, but now they're everywhere—not just o
 }
 </style>
 
-![](/images/uploads/ezgif.com-animated-gif-maker.gif)
+![](/images/uploads/ezgif.com-animated-gif-maker%20%282%29.gif)
 
 **Platform styles ruling 2026:**
 
