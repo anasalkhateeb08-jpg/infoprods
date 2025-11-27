@@ -4,19 +4,22 @@ import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const devices = await getCollection('devices');
+  const deviceReviews = await getCollection('device-reviews');
   const deviceTypes = [...new Set(devices.map(device => device.data.deviceType))];
   
   return deviceTypes.map(deviceType => ({
     params: { device: deviceType.toLowerCase().replace(/\s+/g, '-') },
-    props: { 
+    props: {
       deviceType,
-      devices: devices.filter(device => device.data.deviceType === deviceType)
+      devices: devices.filter(device => device.data.deviceType === deviceType),
+      reviews: deviceReviews.filter(review => review.data.deviceCategory === deviceType)
     },
   }));
 }
 
-const { deviceType, devices } = Astro.props;
+const { deviceType, devices, reviews } = Astro.props;
 const sortedDevices = devices.sort((a, b) => b.data.releaseDate?.valueOf() - a.data.releaseDate?.valueOf());
+const sortedReviews = reviews.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf());
 ---
 
 <Layout 
@@ -30,7 +33,53 @@ const sortedDevices = devices.sort((a, b) => b.data.releaseDate?.valueOf() - a.d
     </div>
   </section>
 
-  <section class="max-w-6xl mx-auto px-4 py-16">
+  <!-- Device Reviews Section -->
+  {sortedReviews.length > 0 && (
+    <section class="max-w-6xl mx-auto px-4 py-16 bg-gray-50">
+      <h2 class="text-3xl font-bold mb-8 text-gray-900">Latest Reviews</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {sortedReviews.map((review) => (
+          <article class="bg-white rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-200">
+            {review.data.featuredImage && (
+              <img 
+                src={review.data.featuredImage} 
+                alt={review.data.title}
+                class="w-full h-48 object-cover"
+              />
+            )}
+            <div class="p-6">
+              <span class="text-xs text-purple-600 font-semibold uppercase tracking-wide">
+                {review.data.deviceCategory}
+              </span>
+              <h3 class="text-xl font-bold mt-2 mb-3 text-gray-900 hover:text-purple-600 transition-colors">
+                <a href={`/device-reviews/${review.data.slug}`}>
+                  {review.data.title}
+                </a>
+              </h3>
+              <p class="text-gray-600 text-sm mb-4 line-clamp-2">
+                {review.data.metaDescription}
+              </p>
+              <div class="flex items-center text-sm text-gray-500">
+                <span>{review.data.author}</span>
+                <span class="mx-2">•</span>
+                <time datetime={review.data.date}>
+                  {new Date(review.data.date).toLocaleDateString('en-US', {
+                    year: 'numeric',
+                    month: 'short',
+                    day: 'numeric'
+                  })}
+                </time>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Devices Specs Section -->
+  <section class="max-w-6xl mx-auto px-4 py-16 bg-white">
+    <h2 class="text-3xl font-bold mb-8 text-gray-900">Device Specifications</h2>
     {sortedDevices.length === 0 ? (
       <div class="text-center py-20">
         <p class="text-xl text-gray-400">No devices yet in this category. Check back soon!</p>
@@ -38,7 +87,7 @@ const sortedDevices = devices.sort((a, b) => b.data.releaseDate?.valueOf() - a.d
     ) : (
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {sortedDevices.map((device) => (
-          <article class="bg-gray-800 rounded-lg overflow-hidden hover:transform hover:scale-105 transition-all duration-300 shadow-lg">
+          <article class="bg-white rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-200">
             {device.data.image && (
               <img 
                 src={device.data.image} 
@@ -47,23 +96,23 @@ const sortedDevices = devices.sort((a, b) => b.data.releaseDate?.valueOf() - a.d
               />
             )}
             <div class="p-6">
-              <span class="text-xs text-purple-400 font-semibold uppercase tracking-wide">
+              <span class="text-xs text-purple-600 font-semibold uppercase tracking-wide">
                 {device.data.deviceType}
               </span>
-              <h2 class="text-xl font-bold mt-2 mb-3 text-white hover:text-purple-400 transition-colors">
+              <h3 class="text-xl font-bold mt-2 mb-3 text-gray-900 hover:text-purple-600 transition-colors">
                 <a href={`/devices/${device.slug}`}>
                   {device.data.title}
                 </a>
-              </h2>
-              <div class="text-gray-300 text-sm mb-4">
+              </h3>
+              <div class="text-gray-700 text-sm mb-4">
                 <p><strong>Brand:</strong> {device.data.brand}</p>
                 {device.data.price && <p><strong>Price:</strong> {device.data.price}</p>}
               </div>
               {device.data.releaseDate && (
-                <div class="text-sm text-gray-400">
+                <div class="text-sm text-gray-500">
                   <time datetime={device.data.releaseDate.toISOString()}>
-                    Released: {device.data.releaseDate.toLocaleDateString('en-US', { 
-                      year: 'numeric', 
+                    Released: {device.data.releaseDate.toLocaleDateString('en-US', {
+                      year: 'numeric',
                       month: 'short'
                     })}
                   </time>
