@@ -45,7 +45,7 @@ const sortedPosts = allPosts.sort((a, b) => {
   </section>
 
   <!-- Blog Posts Grid -->
-  <section class="max-w-6xl mx-auto px-4 py-16 bg-gray-50 min-h-screen">
+  <section class="max-w-6xl mx-auto px-4 py-16 bg-gray-900 min-h-screen">
     {sortedPosts.length === 0 ? (
       <div class="text-center py-20">
         <p class="text-xl text-gray-600">No blog posts yet. Check back soon!</p>
@@ -53,7 +53,7 @@ const sortedPosts = allPosts.sort((a, b) => {
     ) : (
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {sortedPosts.map((post) => (
-          <article class="bg-white rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-200">
+          <article class="bg-gray-800 rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-200">
             {post.image && (
               <img 
                 src={post.image} 
