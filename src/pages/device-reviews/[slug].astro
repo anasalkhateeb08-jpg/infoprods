@@ -1,157 +1,25 @@
-@"
 ---
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-import ArticleSchema from '../../components/Schema/ArticleSchema.astro';
-import BreadcrumbSchema from '../../components/Schema/BreadcrumbSchema.astro';
 
 export async function getStaticPaths() {
-  const deviceReviews = await getCollection('device-reviews');
-  return deviceReviews.map(post => ({
+  const posts = await getCollection('device-reviews');
+  return posts.map(post => ({
     params: { slug: post.data.slug },
-    props: { post },
+    props: { post }
   }));
 }
 
 const { post } = Astro.props;
 const { Content } = await post.render();
-
-const breadcrumbs = [
-  { name: "Home", url: "https://infoprods.com" },
-  { name: "Device Reviews", url: "https://infoprods.com/device-reviews" },
-  { name: post.data.title }
-];
 ---
 
-<Layout
-  title={post.data.title}
-  description={post.data.metaDescription}
->
-  <ArticleSchema
-    title={post.data.title}
-    description={post.data.metaDescription}
-    image={post.data.featuredImage}
-    date={post.data.date}
-    author={post.data.author}
-    url={Astro.url.href}
-    category={post.data.deviceCategory}
-    tags={post.data.tags || []}
-  />
-  <BreadcrumbSchema items={breadcrumbs} />
-
-  <article class="max-w-4xl mx-auto px-4 py-16 bg-white min-h-screen">
-    <header class="mb-8">
-      <span class="text-sm text-purple-600 font-semibold uppercase tracking-wide">
-        {post.data.deviceCategory}
-      </span>
-      <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mt-2 mb-4">
-        {post.data.title}
-      </h1>
-      <div class="flex items-center gap-4 text-gray-600 text-sm">
-        <span>{post.data.author}</span>
-        <span>•</span>
-        <time datetime={post.data.date.toISOString()}>
-          {post.data.date.toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-          })}
-        </time>
-      </div>
-    </header>
-
+<Layout title={post.data.title} description={post.data.metaDescription}>
+  <article class="max-w-4xl mx-auto px-4 py-16">
+    <h1 class="text-4xl font-bold mb-4">{post.data.title}</h1>
     {post.data.featuredImage && (
-      <img
-        src={post.data.featuredImage}
-        alt={post.data.title}
-        class="w-full h-96 object-cover rounded-lg mb-8 shadow-sm"
-      />
+      <img src={post.data.featuredImage} alt={post.data.title} class="w-full mb-8" />
     )}
-
-    <div class="prose prose-lg max-w-none">
-      <Content />
-    </div>
-
-    {post.data.tags && post.data.tags.length > 0 && (
-      <div class="mt-12 pt-8 border-t border-gray-200">
-        <h3 class="text-sm text-gray-600 uppercase tracking-wide mb-3">Tags</h3>
-        <div class="flex flex-wrap gap-2">
-          {post.data.tags.map((tag: string) => (
-            <span class="px-3 py-1 bg-gray-100 text-gray-700 text-sm rounded-full hover:bg-gray-200 transition-colors">
-              {tag}
-            </span>
-          ))}
-        </div>
-      </div>
-    )}
-
-    <div class="mt-12">
-      
-        href="/device-reviews"
-        class="inline-flex items-center text-purple-600 hover:text-purple-700 transition-colors font-medium"
-      >
-        ← Back to Device Reviews
-      </a>
-    </div>
+    <Content />
   </article>
 </Layout>
-
-<style>
-  .prose {
-    color: #374151;
-  }
-  .prose h2 {
-    color: #111827;
-    font-size: 2rem;
-    font-weight: 700;
-    margin-top: 2.5rem;
-    margin-bottom: 1rem;
-    line-height: 1.3;
-  }
-  .prose h3 {
-    color: #1f2937;
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin-top: 2rem;
-    margin-bottom: 0.75rem;
-  }
-  .prose p {
-    margin-bottom: 1.5rem;
-    line-height: 1.8;
-    color: #4b5563;
-  }
-  .prose ul, .prose ol {
-    margin-left: 1.5rem;
-    margin-bottom: 1.5rem;
-  }
-  .prose li {
-    margin-bottom: 0.5rem;
-    color: #4b5563;
-  }
-  .prose a {
-    color: #7c3aed;
-    text-decoration: none;
-    border-bottom: 1px solid #c4b5fd;
-    transition: all 0.2s;
-  }
-  .prose a:hover {
-    color: #6d28d9;
-    border-bottom-color: #7c3aed;
-  }
-  .prose strong {
-    color: #111827;
-    font-weight: 600;
-  }
-  .prose code {
-    background-color: #f3f4f6;
-    color: #6d28d9;
-    padding: 0.125rem 0.375rem;
-    border-radius: 0.25rem;
-    font-size: 0.875em;
-  }
-  .prose img {
-    border-radius: 0.5rem;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  }
-</style>
-"@ | Out-File -FilePath "src\pages\device-reviews\[slug].astro" -Encoding UTF8
