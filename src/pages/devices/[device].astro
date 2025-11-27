@@ -32,17 +32,17 @@ const sortedReviews = reviews.sort((a, b) => new Date(b.data.date).valueOf() - n
     </div>
   </section>
 
-   <section class="max-w-6xl mx-auto px-4 py-16 bg-gray-900 min-h-screen">
+  <section class="max-w-6xl mx-auto px-4 py-16 bg-gray-900 min-h-screen">
     {sortedReviews.length === 0 ? (
       <div class="text-center py-20">
-        <p class="text-xl text-gray-600">No reviews yet. Check back soon!</p>
+        <p class="text-xl text-gray-400">No reviews yet. Check back soon!</p>
       </div>
     ) : (
       <>
         <h2 class="text-3xl font-bold mb-8 text-white">Latest Reviews</h2>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {sortedReviews.map((review) => (
-            <article class="bg-gray-800 rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-200">
+            <article class="bg-gray-800 rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-700">
               {review.data.featuredImage && (
                 <img 
                   src={review.data.featuredImage} 
@@ -51,18 +51,18 @@ const sortedReviews = reviews.sort((a, b) => new Date(b.data.date).valueOf() - n
                 />
               )}
               <div class="p-6">
-                <span class="text-xs text-purple-600 font-semibold uppercase tracking-wide">
+                <span class="text-xs text-purple-400 font-semibold uppercase tracking-wide">
                   {review.data.deviceCategory}
                 </span>
-                <h3 class="text-xl font-bold mt-2 mb-3 text-gray-900 hover:text-purple-600 transition-colors">
+                <h3 class="text-xl font-bold mt-2 mb-3 text-white hover:text-purple-400 transition-colors">
                   <a href={`/device-reviews/${review.data.slug}`}>
                     {review.data.title}
                   </a>
                 </h3>
-                <p class="text-gray-600 text-sm mb-4 line-clamp-2">
+                <p class="text-gray-300 text-sm mb-4 line-clamp-2">
                   {review.data.metaDescription}
                 </p>
-                <div class="flex items-center text-sm text-gray-500">
+                <div class="flex items-center text-sm text-gray-400">
                   <span>{review.data.author}</span>
                   <span class="mx-2">•</span>
                   <time datetime={review.data.date}>

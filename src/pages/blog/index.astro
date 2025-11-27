@@ -48,12 +48,12 @@ const sortedPosts = allPosts.sort((a, b) => {
   <section class="max-w-6xl mx-auto px-4 py-16 bg-gray-900 min-h-screen">
     {sortedPosts.length === 0 ? (
       <div class="text-center py-20">
-        <p class="text-xl text-gray-600">No blog posts yet. Check back soon!</p>
+        <p class="text-xl text-gray-400">No blog posts yet. Check back soon!</p>
       </div>
     ) : (
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {sortedPosts.map((post) => (
-          <article class="bg-gray-800 rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-200">
+          <article class="bg-gray-800 rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-700">
             {post.image && (
               <img 
                 src={post.image} 
@@ -62,18 +62,18 @@ const sortedPosts = allPosts.sort((a, b) => {
               />
             )}
             <div class="p-6">
-              <span class="text-xs text-purple-600 font-semibold uppercase tracking-wide">
+              <span class="text-xs text-purple-400 font-semibold uppercase tracking-wide">
                 {post.category}
               </span>
-              <h2 class="text-xl font-bold mt-2 mb-3 text-gray-900 hover:text-purple-600 transition-colors">
+              <h2 class="text-xl font-bold mt-2 mb-3 text-white hover:text-purple-400 transition-colors">
                 <a href={post.url}>
                   {post.data.title}
                 </a>
               </h2>
-              <p class="text-gray-600 text-sm mb-4 line-clamp-3">
+              <p class="text-gray-300 text-sm mb-4 line-clamp-3">
                 {post.description}
               </p>
-              <div class="flex items-center justify-between text-sm text-gray-500">
+              <div class="flex items-center justify-between text-sm text-gray-400">
                 <span>{post.data.author}</span>
                 <time datetime={post.data.date instanceof Date ? post.data.date.toISOString() : new Date(post.data.date).toISOString()}>
                   {(post.data.date instanceof Date ? post.data.date : new Date(post.data.date)).toLocaleDateString('en-US', { 
