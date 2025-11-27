@@ -2,8 +2,34 @@
 import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 
+// قراءة المجلدين
 const blogPosts = await getCollection('blog');
-const sortedPosts = blogPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const deviceReviews = await getCollection('device-reviews');
+
+// دمج المقالات من المجلدين
+const allPosts = [
+  ...blogPosts.map(post => ({
+    ...post,
+    url: `/blog/${post.slug}`,
+    image: post.data.image,
+    category: post.data.category,
+    description: post.data.description
+  })),
+  ...deviceReviews.map(post => ({
+    ...post,
+    url: `/device-reviews/${post.data.slug}`,
+    image: post.data.featuredImage,
+    category: post.data.deviceCategory,
+    description: post.data.metaDescription
+  }))
+];
+
+// ترتيب حسب التاريخ
+const sortedPosts = allPosts.sort((a, b) => {
+  const dateA = a.data.date instanceof Date ? a.data.date : new Date(a.data.date);
+  const dateB = b.data.date instanceof Date ? b.data.date : new Date(b.data.date);
+  return dateB.valueOf() - dateA.valueOf();
+});
 ---
 
 <Layout 
@@ -19,38 +45,38 @@ const sortedPosts = blogPosts.sort((a, b) => b.data.date.valueOf() - a.data.date
   </section>
 
   <!-- Blog Posts Grid -->
-  <section class="max-w-6xl mx-auto px-4 py-16">
+  <section class="max-w-6xl mx-auto px-4 py-16 bg-gray-50 min-h-screen">
     {sortedPosts.length === 0 ? (
       <div class="text-center py-20">
-        <p class="text-xl text-gray-400">No blog posts yet. Check back soon!</p>
+        <p class="text-xl text-gray-600">No blog posts yet. Check back soon!</p>
       </div>
     ) : (
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
         {sortedPosts.map((post) => (
-          <article class="bg-gray-800 rounded-lg overflow-hidden hover:transform hover:scale-105 transition-all duration-300 shadow-lg">
-            {post.data.image && (
+          <article class="bg-white rounded-lg overflow-hidden hover:shadow-xl transition-all duration-300 border border-gray-200">
+            {post.image && (
               <img 
-                src={post.data.image} 
+                src={post.image} 
                 alt={post.data.title}
                 class="w-full h-48 object-cover"
               />
             )}
             <div class="p-6">
-              <span class="text-xs text-purple-400 font-semibold uppercase tracking-wide">
-                {post.data.category}
+              <span class="text-xs text-purple-600 font-semibold uppercase tracking-wide">
+                {post.category}
               </span>
-              <h2 class="text-xl font-bold mt-2 mb-3 text-white hover:text-purple-400 transition-colors">
-                <a href={`/blog/${post.slug}`}>
+              <h2 class="text-xl font-bold mt-2 mb-3 text-gray-900 hover:text-purple-600 transition-colors">
+                <a href={post.url}>
                   {post.data.title}
                 </a>
               </h2>
-              <p class="text-gray-300 text-sm mb-4 line-clamp-3">
-                {post.data.description}
+              <p class="text-gray-600 text-sm mb-4 line-clamp-3">
+                {post.description}
               </p>
-              <div class="flex items-center justify-between text-sm text-gray-400">
+              <div class="flex items-center justify-between text-sm text-gray-500">
                 <span>{post.data.author}</span>
-                <time datetime={post.data.date.toISOString()}>
-                  {post.data.date.toLocaleDateString('en-US', { 
+                <time datetime={post.data.date instanceof Date ? post.data.date.toISOString() : new Date(post.data.date).toISOString()}>
+                  {(post.data.date instanceof Date ? post.data.date : new Date(post.data.date)).toLocaleDateString('en-US', { 
                     year: 'numeric', 
                     month: 'short', 
                     day: 'numeric' 
