@@ -1,5 +1,6 @@
 ---
-title: 'Best Rugged Smartphones Under $450 in 2025-2026: Top 5 Phones with Massive Batteries'
+title: "Best Rugged Smartphones Under $450 in 2025-2026: Top 5 Phones with Massive Batteries"
+slug: "best-rugged-smartphones-under-450-2025"
 metaDescription: Discover the top 5 rugged smartphones under $450 in 2025 with massive batteries, projectors, and night vision. Complete buying guide with specs and prices.
 author: InfoProds Team
 date: 2025-11-27T05:04:00
