@@ -112,7 +112,6 @@ At 666g and 31mm thick, this is admittedly a heavy phone. But that weight comes 
 **Price:** $400
 **Best For:** Extended off-grid adventures, field workers, emergency responders, anyone who prioritizes battery life above all else
 
-
 ## **3. 8849 Tank 3S – Best Built-In Projector at $407**
 
 [![8849 Tank 3S with built-in projector and 15600mAh battery](/images/uploads/8849%20Tank%203S.png "8849 Tank 3S")](https://www.aliexpress.com/w/wholesale-8849-tank-3s.html?aff_fcid=ae490677)
@@ -210,7 +209,6 @@ The IP68 rating (dustproof and waterproof) combined with rugged construction mea
 
 **Price:** $420
 **Best For:** Users who want the best display in a rugged phone, mobile gaming, media consumption, professional photography
-
 
 ## **5. Unihertz SHARK 3 – Best Premium Features at $430**
 
