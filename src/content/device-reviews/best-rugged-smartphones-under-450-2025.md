@@ -61,7 +61,7 @@ The uSmart 2.0 Expansion Connector is a brilliant addition, allowing you to atta
 
 **Price:** $360
 **Best For:** Professionals needing thermal imaging, outdoor workers, and anyone wanting flagship features at a mid-range price
-\*\*🔗 [Shop Ulefone Armor 27T Pro on AliExpress](https://www.aliexpress.com/w/wholesale-ulefone-armor-27t-pro.html?aff_fcid=ae490677)
+
 
 ## **2. 8849 Tank 3 Rugged – Longest Battery Life at $400**
 
@@ -127,11 +127,28 @@ Running the latest Android 14, the Tank 3S offers a clean, intuitive interface w
 
 **Price:** $407
 **Best For:** Business travelers, outdoor movie enthusiasts, professionals needing portable presentations, content creators
-\*\*🔗 [Shop 8849 Tank 3S on AliExpress](https://www.aliexpress.com/w/wholesale-8849-tank-3s.html?aff_fcid=ae490677)
+
 
 ## **4. Unihertz Tank 4 – Best Display Quality at $420**
 
-[📸 Place Image #4 here]
+[![Unihertz Tank 4 with 2.6K AMOLED display](/images/uploads/tank%204.png "Unihertz Tank 4")](https://www.aliexpress.com/w/wholesale-unihertz-tank-4.html?aff_fcid=ae490677)
+
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">  🛍️ Shop via AliExpress   </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+[![](/images/uploads/ezgif.com-animated-gif-maker%20(2).gif)](https://www.aliexpress.com/w/wholesale-unihertz-tank-4.html?aff_fcid=ae490677)
 
 The Unihertz Tank 4 elevates the rugged phone category with its premium **2.6K AMOLED display**. At $420, it offers the best visual experience in this price range while maintaining the durability and battery life you expect from a rugged device.
 
@@ -165,7 +182,24 @@ The IP68 rating (dustproof and waterproof) combined with rugged construction mea
 
 ## **5. Unihertz SHARK 3 – Best Premium Features at $430**
 
-[📸 Place Image #5 here]
+[![Unihertz SHARK 3 with 3K AMOLED screen](/images/uploads/shar.png "Unihertz SHARK 3")](https://www.aliexpress.com/w/wholesale-unihertz-shark-3.html?aff_fcid=ae490677)
+
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">  🛍️ Shop via AliExpress   </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+[![](/images/uploads/ezgif.com-animated-gif-maker%20(2).gif)](https://www.aliexpress.com/w/wholesale-unihertz-shark-3.html?aff_fcid=ae490677)
 
 The Unihertz SHARK 3 represents the pinnacle of rugged phone technology under $450. At $430, it delivers premium features, exceptional performance, and a more refined design than typical rugged phones.
 
