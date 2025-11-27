@@ -64,7 +64,24 @@ The uSmart 2.0 Expansion Connector is a brilliant addition, allowing you to atta
 
 ## **2. 8849 Tank 3 Rugged – Longest Battery Life at $400**
 
-[📸 Place Image #2 here]
+[![8849 Tank 3 rugged smartphone with 23800mAh battery](/images/uploads/8849%20Tank%203%20Rugged.png "Tank 3 Rugged")](https://www.aliexpress.com/w/wholesale-8849-tank-3-rugged.html?aff_fcid=ae490677)
+
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">  🛍️ Shop via AliExpress   </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+[![](/images/uploads/ezgif.com-animated-gif-maker%20(2).gif)](https://www.aliexpress.com/w/wholesale-8849-tank-3-rugged.html?aff_fcid=ae490677)
 
 If battery life is your top priority, the 8849 Tank 3 Rugged absolutely dominates the competition. This beast packs a mind-blowing **23,800mAh battery**—the largest battery ever put in a commercially available smartphone. At $400, it's a bargain for anyone who needs their phone to last for days without charging.
 
@@ -94,7 +111,7 @@ At 666g and 31mm thick, this is admittedly a heavy phone. But that weight comes 
 
 **Price:** $400
 **Best For:** Extended off-grid adventures, field workers, emergency responders, anyone who prioritizes battery life above all else
-\*\*🔗 [Shop 8849 Tank 3 on AliExpress](https://www.aliexpress.com/w/wholesale-8849-tank-3.html?aff_fcid=ae490677)
+
 
 ## **3. 8849 Tank 3S – Best Built-In Projector at $407**
 
@@ -193,7 +210,7 @@ The IP68 rating (dustproof and waterproof) combined with rugged construction mea
 
 **Price:** $420
 **Best For:** Users who want the best display in a rugged phone, mobile gaming, media consumption, professional photography
-\*\*🔗 [Shop Unihertz Tank 4 on AliExpress](https://www.aliexpress.com/w/wholesale-unihertz-tank-4.html?aff_fcid=ae490677)
+
 
 ## **5. Unihertz SHARK 3 – Best Premium Features at $430**
 
@@ -248,7 +265,6 @@ Running Android 14 with minimal bloatware, the SHARK 3 offers a near-stock Andro
 
 **Price:** $430
 **Best For:** Users wanting flagship performance in a rugged package, mobile professionals, tech enthusiasts who need durability
-
 
 ## **Buying Guide: How to Choose the Right Rugged Smartphone**
 
