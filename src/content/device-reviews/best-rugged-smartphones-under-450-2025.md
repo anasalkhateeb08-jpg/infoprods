@@ -62,7 +62,6 @@ The uSmart 2.0 Expansion Connector is a brilliant addition, allowing you to atta
 **Price:** $360
 **Best For:** Professionals needing thermal imaging, outdoor workers, and anyone wanting flagship features at a mid-range price
 
-
 ## **2. 8849 Tank 3 Rugged – Longest Battery Life at $400**
 
 [📸 Place Image #2 here]
@@ -99,7 +98,24 @@ At 666g and 31mm thick, this is admittedly a heavy phone. But that weight comes 
 
 ## **3. 8849 Tank 3S – Best Built-In Projector at $407**
 
-[📸 Place Image #3 here]
+[![8849 Tank 3S with built-in projector and 15600mAh battery](/images/uploads/8849%20Tank%203S.png "8849 Tank 3S")](https://www.aliexpress.com/w/wholesale-8849-tank-3s.html?aff_fcid=ae490677)
+
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">  🛍️ Shop via AliExpress   </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+[![](/images/uploads/ezgif.com-animated-gif-maker%20(2).gif)](https://www.aliexpress.com/w/wholesale-8849-tank-3s.html?aff_fcid=ae490677)
 
 The 8849 Tank 3S brings entertainment and productivity to a whole new level with its built-in DLP projector. At $407, this phone is perfect for professionals who need to present on the go or outdoor enthusiasts who want to enjoy movies under the stars.
 
@@ -127,7 +143,6 @@ Running the latest Android 14, the Tank 3S offers a clean, intuitive interface w
 
 **Price:** $407
 **Best For:** Business travelers, outdoor movie enthusiasts, professionals needing portable presentations, content creators
-
 
 ## **4. Unihertz Tank 4 – Best Display Quality at $420**
 
@@ -233,7 +248,7 @@ Running Android 14 with minimal bloatware, the SHARK 3 offers a near-stock Andro
 
 **Price:** $430
 **Best For:** Users wanting flagship performance in a rugged package, mobile professionals, tech enthusiasts who need durability
-\*\*🔗 [Shop Unihertz SHARK 3 on AliExpress](https://www.aliexpress.com/w/wholesale-unihertz-shark-3.html?aff_fcid=ae490677)
+
 
 ## **Buying Guide: How to Choose the Right Rugged Smartphone**
 
@@ -258,14 +273,6 @@ Consider what you'll photograph most. Night vision is fantastic for outdoor acti
 ### **Future-Proofing**
 
 With prices ranging from $360 to $430, these phones represent significant investments. The Dimensity 8200 and 8300 processors will remain relevant for 3-4 years, ensuring your phone stays fast even as apps become more demanding. Choose the highest processor you can afford for better longevity.
-
-## **Related Articles**
-
-- [Best 5G Smartphones Under $500: Complete 2025 Guide](#)
-- [Thermal Imaging Smartphones: Professional Tools in Your Pocket](#)
-- [Longest Battery Life Smartphones: Top 10 Picks for 2025](#)
-- [Waterproof Phones for Outdoor Adventures: IP68 vs IP69K Explained](#)
-- [Night Vision Camera Phones: Complete Buyer's Guide](#)
 
 ## **Conclusion**
 
