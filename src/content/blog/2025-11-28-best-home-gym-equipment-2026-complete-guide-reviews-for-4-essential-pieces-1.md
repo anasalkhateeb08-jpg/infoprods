@@ -229,7 +229,22 @@ Total resistance when combining all bands should reach 100-150 lbs—sufficient 
 
 **User Reviews Summary**: Customers consistently rate this set 4.5+ stars, praising the comprehensive accessories and durable construction. Users report the bands last 6+ months of daily use. The door anchor receives specific praise for secure attachment and safety. Many reviewers mention replacing expensive gym memberships with this affordable set.
 
-**Shop Now**: [AliExpress Premium Resistance Bands 11-Piece Set](https://www.aliexpress.com/wholesale?SearchText=resistance+bands+set+11+piece&aff_fcid=ae490677)
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">  🛍️ Shop via AliExpress Premium Resistance Bands 11-Piece Set </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+[![](/images/uploads/ezgif.com-animated-gif-maker%20(2).gif)](https://www.aliexpress.com/w/wholesale-resistance-bands-set-11-piece.html?aff_fcid=ae490677)
 
 #### AliExpress: Pull-Up Assist Bands Set
 
@@ -242,7 +257,22 @@ Total resistance when combining all bands should reach 100-150 lbs—sufficient 
 
 **User Reviews Summary**: Reviews highlight the exceptional durability of these loop bands compared to cheaper alternatives. Users successfully progress from assisted pull-ups to unassisted within 8-12 weeks. The bands maintain elasticity even after hundreds of uses. Popular among CrossFit enthusiasts and calisthenics athletes.
 
-**Shop Now**: [AliExpress Pull-Up Assist Bands](https://www.aliexpress.com/wholesale?SearchText=pull+up+assist+bands&aff_fcid=ae490677)
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">  🛍️ Shop via  AliExpress Pull-Up Assist Bands </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+[![](/images/uploads/ezgif.com-animated-gif-maker%20(2).gif)](https://www.aliexpress.com/w/wholesale-pull-up-assist-bands.html?aff_fcid=ae490677)
 
 #### Banggood: Fitness Resistance Bands Kit
 
