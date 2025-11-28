@@ -22,7 +22,7 @@ When building a home gym, the goal is to maximize versatility while minimizing s
 
 ## 1. Adjustable Dumbbells: The Ultimate Versatile Training Tool
 
-Show Image
+[![](/images/uploads/aw.png "Dumbbells")](https://www.aliexpress.com/w/wholesale-adjustable-dumbbells.html?aff_fcid=ae490677)
 
 ### Why Adjustable Dumbbells Are Essential
 
@@ -49,14 +49,46 @@ The versatility is remarkable—you can perform hundreds of exercises targeting 
 - **Price**: $80-120
 - **Features**: 15 weight settings, fast dial adjustment, compact tray included
 - **Best for**: Beginners to intermediate users
-- [Shop on AliExpress](https://www.aliexpress.com/wholesale?SearchText=adjustable+dumbbells+52.5)
+
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">  🛍️ Shop via AliExpress   </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+[![Adjustable dumbbells set in multiple colors showing weight adjustment mechanism for home gym training](/images/uploads/ezgif.com-animated-gif-maker%20(2).gif "home gym training")](https://www.aliexpress.com/wholesale?SearchText=adjustable+dumbbells+52.5&aff_fcid=ae490677)
 
 **2. Premium Adjustable Dumbbells (10-90 lbs)**
 
 - **Price**: $250-350
 - **Features**: Heavy-duty construction, anti-slip handles, commercial grade
 - **Best for**: Advanced lifters and serious home gym builders
-- [Shop on AliExpress](https://www.aliexpress.com/wholesale?SearchText=adjustable+dumbbells+90+lbs)
+
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">  🛍️ Shop via AliExpress   </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+[![dumbbells set in multiple colors showing weight adjustment mechanism for home gym training](/images/uploads/ezgif.com-animated-gif-maker%20(2).gif "home gym")](https://www.aliexpress.com/wholesale?SearchText=adjustable+dumbbells+90+lbs&aff_fcid=ae490677)
 
 #### Banggood Options:
 
@@ -65,7 +97,23 @@ The versatility is remarkable—you can perform hundreds of exercises targeting 
 - **Price**: $70-100
 - **Features**: Steel construction, rubber coating, 5-25 lbs range
 - **Best for**: Budget-conscious fitness enthusiasts
-- [Shop on Banggood](https://www.banggood.com/search/adjustable-dumbbells.html)
+
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">  🛍️ Shop via Banggood    </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+
 
 **2. Smart Adjustable Dumbbells**
 
