@@ -40,7 +40,7 @@ We selected equipment based on five critical factors:
 
 All four pieces pass these criteria with exceptional scores. Together, they enable full-body workouts, progressive strength development, core training, and recovery—everything you need for complete fitness at home.
 
-**[IMAGE 1 PLACEMENT - Adjustable Dumbbells]**
+![Adjustable dumbbells set in multiple colors showing weight adjustment mechanism for home gym training](/images/uploads/istockphoto-1374747351-612x612.jpg "Adjustable Dumbbells - Foundation of Home Strength Training")
 
 ## 1. Adjustable Dumbbells: The Foundation of Home Strength Training
 
@@ -151,7 +151,7 @@ Premium dial systems adjust weights in under 5 seconds. Avoid cheap mechanisms t
 
 These workouts cover all major muscle groups and can be adjusted by changing weight, reps, or tempo to match your fitness level.
 
-**[IMAGE 2 PLACEMENT - Resistance Bands Set]**
+![Complete resistance bands set with multiple resistance levels and handles for full body workouts](/images/uploads/photo-1598289431512-b97b0917affc.jfif "Resistance Bands Set - Portable Gym Equipment")
 
 ## 2. Resistance Bands: Portable Gym Equipment That Works
 
@@ -269,7 +269,7 @@ Total resistance when combining all bands should reach 100-150 lbs—sufficient 
 - Banded squats: 4 sets x 15 reps
 - Single-leg deadlifts with band: 3 sets x 12 reps per leg
 
-**[IMAGE 3 PLACEMENT - AB Wheel Roller]**
+![AB wheel roller exercise equipment for core strength training at home](/images/uploads/71-ca8rrzvL.jpg "AB Wheel Roller - Ultimate Core Training Tool")
 
 ## 3. AB Wheel Roller: The Most Effective Core Training Tool
 
