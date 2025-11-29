@@ -13,16 +13,4 @@ const blog = defineCollection({
   }),
 });
 
-const devices = defineCollection({
-  type: 'content',
-  schema: z.object({
-    title: z.string(),
-    brand: z.string(),
-    deviceType: z.string(),
-    releaseDate: z.date().optional(),
-    price: z.string().optional(),
-    image: z.string().optional(),
-  }),
-});
-
-export const collections = { blog, devices };
+export const collections = { blog };

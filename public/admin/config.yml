@@ -1,4 +1,4 @@
-﻿backend:
+backend:
   name: github
   repo: anasalkhateeb08-jpg/infoprods
   branch: main
@@ -19,23 +19,6 @@ collections:
       - {label: "Author", name: "author", widget: "string", default: "InfoProds Team"}
       - {label: "Publish Date", name: "date", widget: "datetime", required: true}
       - {label: "Featured Image", name: "image", widget: "image", required: false}
-      - {label: "Category", name: "category", widget: "select", required: true, options: ["Beauty", "Fashion", "Fitness", "Gifts", "Home", "Jewelry", "Kitchen", "Tech Gadgets"]}
-      - {label: "Tags", name: "tags", widget: "list", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: true}
-  # Device Reviews - New Collection
-  - name: "device-reviews"
-    label: "Device Reviews"
-    folder: "src/content/device-reviews"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    editor:
-      preview: true
-    fields:
-      - {label: "Title", name: "title", widget: "string", required: true}
-      - {label: "Meta Description", name: "metaDescription", widget: "string", required: true}
-      - {label: "Author", name: "author", widget: "string", default: "InfoProds Team"}
-      - {label: "Publish Date", name: "date", widget: "datetime", required: true}
-      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
-      - {label: "Device Category", name: "deviceCategory", widget: "select", required: true, options: ["Smartphones", "Laptops", "Tablets", "Gaming Consoles", "Cameras", "Smartwatches"]}
+      - {label: "Category", name: "category", widget: "select", required: true, options: ["Beauty", "Fashion", "Fitness & Health", "Gifts", "Home", "Jewelry", "Kitchen", "Tech Gadgets", "Technology & Devices"]}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: true}
