@@ -632,7 +632,7 @@ Gentle massage gun use (low settings) before bed promotes relaxation and can imp
   animation: pulse 2s infinite;
   text-decoration: none;
   display: inline-block;
-">  🛍️ Shop via Banggood Deep Tissue Massage Gun Pro </a>
+">  🛍️ Shop via Banggood Deep Tissue Massage Gun Pro. </a>
 <style>
 @keyframes pulse {
   0%, 100% { opacity: 1; transform: scale(1); }
