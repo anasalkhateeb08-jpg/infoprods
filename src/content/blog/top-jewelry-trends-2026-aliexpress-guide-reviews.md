@@ -38,7 +38,7 @@ Fashion insiders recommend wearing beaded necklaces in stacks of 3-5 strands for
 
 ## 2. Statement Hoop Earrings: Bigger and Bolder Than Ever
 
-**[IMAGE 2 PLACEHOLDER]**
+[![Large statement gold hoop earrings demonstrating the bold oversized earring trend of 2026](/images/uploads/photo-1535632066927-ab7c9ab60908.jfif)](Statement Hoop Earrings - Bold Jewelry Trend 2026)
 
 Oversized hoop earrings are dominating 2026's jewelry landscape, with designers from Saint Laurent to Valentino showcasing larger-than-life designs that demand attention.
 
@@ -63,7 +63,7 @@ Look for hoops made from stainless steel or surgical steel, especially if you ha
 
 ## 3. Layered Chain Necklaces: The Art of Mixing Metals
 
-**[IMAGE 3 PLACEHOLDER]**
+![ Layered stainless steel chain necklaces in mixed metals showing paperclip, rope, and herringbone styles for 2026 trend](/images/uploads/photo-1611591437281-460bfbe1220a%20%281%29.jfif "Layered Chain Necklaces - Stainless Steel Jewelry Trend 2026")
 
 Chain necklaces have evolved from simple accessories into sculptural art pieces. The 2026 trend embraces mixed metals, varied link styles, and strategic layering to create personalized looks.
 
