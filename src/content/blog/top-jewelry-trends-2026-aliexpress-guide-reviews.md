@@ -34,7 +34,7 @@ AliExpress offers an incredible range of beaded necklaces crafted from various m
 
 Fashion insiders recommend wearing beaded necklaces in stacks of 3-5 strands for maximum impact. Mix different bead sizes and colors to create depth. Pair them with simple white t-shirts or crisp button-downs to let the jewelry take center stage. For evening looks, layer beaded necklaces over black dresses for a pop of color.
 
-**Shop on AliExpress:** [Colorful Beaded Necklaces Collection](https://www.aliexpress.com/w/wholesale-colorful-beaded-necklace.html)
+**Shop on AliExpressvia link:** [Colorful Beaded Necklaces Collection](https://www.aliexpress.com/w/wholesale-colorful-beaded-necklace.html)
 
 ## 2. Statement Hoop Earrings: Bigger and Bolder Than Ever
 
