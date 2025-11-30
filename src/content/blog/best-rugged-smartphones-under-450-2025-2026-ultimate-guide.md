@@ -125,7 +125,7 @@ IP68/IP69K ratings combined with MIL-STD-810H certification mean this phone surv
 
 ## **3. 8849 Tank 3S: Entertainment and Productivity Anywhere with Built-In Projector - $407**
 
-[IMAGE 3 PLACEHOLDER]
+![8849 Tank 3S rugged phone with built-in DLP projector for portable entertainment and presentations](/images/uploads/sh3.png "8849 Tank 3S - Rugged Smartphone with Built-In Projector")
 
 The 8849 Tank 3S introduces genuinely innovative functionality to the rugged phone category. Its built-in DLP projector transforms how you consume media, conduct presentations, and share content in remote locations. At $407, this phone appeals to business travelers, outdoor entertainment enthusiasts, and professionals needing portable presentation capabilities without carrying separate equipment.
 
@@ -170,7 +170,7 @@ Running Android 14 with minimal manufacturer modifications provides a clean, int
 
 ## **4. Unihertz Tank 4: Premium Display Quality in a Rugged Package - $420**
 
-[IMAGE 4 PLACEHOLDER]
+![ Unihertz Tank 4 featuring premium 2.6K AMOLED display with 120Hz refresh rate in rugged design](/images/uploads/sh4.png "Unihertz Tank 4 - Best Display Quality in Rugged Smartphone")
 
 The Unihertz Tank 4 elevates the visual experience in rugged smartphones to a level typically reserved for premium flagship devices. Its stunning 2.6K AMOLED display with 120Hz refresh rate delivers breathtaking image quality while maintaining the durability and battery longevity expected from serious rugged phones. At $420, it represents the best choice for users who refuse to compromise on display quality despite needing extreme durability.
 
