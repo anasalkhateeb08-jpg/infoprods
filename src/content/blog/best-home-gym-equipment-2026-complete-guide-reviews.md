@@ -219,7 +219,7 @@ Massage guns represent one of the most significant innovations in fitness recove
 
 ### The Science Behind Percussive Therapy
 
-**Enhanced Blood Circulation:** Rapid percussion (1,600-3,200 strikes per minute) dramatically increases local blood flow to treated tissues. This enhanced circulation delivers oxygen and nutrients while accelerating removal of metabolic waste products like lactic acid. The result is faster recovery and reduced delayed onset muscle soreness (DOMS)—that characteristic stiffness appearing 24-72 hours after intense exercise.
+**Enhanced Blood Circulation:** Rapid percussion (1,600-3,200 strikes per minute) dramatically increases local blood flow to treated tissues. This enhanced circulation delivers oxygen and nutrients while accelerating removal of metabolic waste products like lactic acid. The result is faster recovery and reduced delayed onset muscle soreness (DOMS)—that characteristic stiffness appearing 24-72 hours after intense exercise. .
 
 **Myofascial Release:** Fascia is the connective tissue network surrounding and supporting muscles throughout your body. Overuse, injury, poor posture, and repetitive movements create adhesions—areas where fascia sticks together inappropriately, limiting mobility and causing pain. Percussive therapy helps break up these adhesions, restoring normal movement patterns and reducing discomfort.
 
