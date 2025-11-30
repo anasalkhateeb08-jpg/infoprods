@@ -135,11 +135,11 @@ Before buying a single product, you need to understand your skin. Using the wron
 
 **What You'll See:**
 
-- **Oily:** Shine across forehead, nose, chin, and possibly cheeks
-- **Dry:** Tight feeling, possible flaking, no shine anywhere
-- **Combination:** Shine only in T-zone, cheeks feel normal or tight
-- **Sensitive:** Redness, irritation from cleanser
-- **Normal:** Comfortable, balanced, no shine or tightness
+- **Oily:** Shine across forehead, nose, chin, and possibly cheeks\*\*
+**- \*\*Dry:** Tight feeling, possible flaking, no shine anywhere\*\*
+**- \*\*Combination:** Shine only in T-zone, cheeks feel normal or tight\*\*
+**- \*\*Sensitive:** Redness, irritation from cleanser\*\*
+**- \*\*Normal:** Comfortable, balanced, no shine or tightness
 
 **Additional Considerations:**
 
@@ -154,8 +154,6 @@ Before buying a single product, you need to understand your skin. Using the wron
 A beginner's routine should include four fundamental steps performed twice daily (morning and evening). These basics address every skin type's core needs while remaining simple enough to maintain consistently.
 
 ## 1. Cleanser: The Foundation of Every Routine
-
-**[IMAGE 1 PLACEHOLDER]**
 
 Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumulate throughout the day and night. This step prepares your skin to absorb subsequent products effectively.
 
@@ -198,10 +196,10 @@ Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumul
 
 **Popular Ingredients:**
 
-- **Salicylic Acid** - Penetrates pores, prevents acne
-- **Tea Tree Oil** - Natural antibacterial properties
-- **Glycolic Acid** - Gentle exfoliation for smoother texture
-- **Niacinamide** - Regulates sebum production
+- **Salicylic Acid** - Penetrates pores, prevents acne\*\*
+**- \*\*Tea Tree Oil** - Natural antibacterial properties\*\*
+**- \*\*Glycolic Acid** - Gentle exfoliation for smoother texture\*\*
+**- \*\*Niacinamide** - Regulates sebum production
 
 **Application Tips:**
 
@@ -234,10 +232,10 @@ Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumul
 
 **Popular Ingredients:**
 
-- **Ceramides** - Repair and strengthen skin barrier
-- **Hyaluronic Acid** - Attracts and retains moisture
-- **Squalane** - Mimics skin's natural oils
-- **Colloidal Oatmeal** - Soothes and calms irritation
+- **Ceramides** - Repair and strengthen skin barrier\*\*
+**- \*\*Hyaluronic Acid** - Attracts and retains moisture\*\*
+**- \*\*Squalane** - Mimics skin's natural oils\*\*
+**- \*\*Colloidal Oatmeal** - Soothes and calms irritation
 
 **Application Tips:**
 
@@ -269,10 +267,10 @@ Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumul
 
 **Popular Oil Bases:**
 
-- **Jojoba Oil** - Similar to skin's natural sebum
-- **Grapeseed Oil** - Light, absorbs quickly
-- **Rice Bran Oil** - Rich in antioxidants
-- **Squalane** - Non-comedogenic, deeply nourishing
+- **Jojoba Oil** - Similar to skin's natural sebum\*\*
+**- \*\*Grapeseed Oil** - Light, absorbs quickly\*\*
+**- \*\*Rice Bran Oil** - Rich in antioxidants\*\*
+**- \*\*Squalane** - Non-comedogenic, deeply nourishing
 
 **Application Tips:**
 
@@ -305,10 +303,10 @@ Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumul
 
 **Popular Ingredients:**
 
-- **Micelles** - Tiny cleansing molecules that attract dirt and oil
-- **Glycerin** - Hydrates while cleansing
-- **Panthenol** - Soothes and calms
-- **Rose Water** - Gentle, refreshing
+- **Micelles** - Tiny cleansing molecules that attract dirt and oil\*\*
+**- \*\*Glycerin** - Hydrates while cleansing\*\*
+**- \*\*Panthenol** - Soothes and calms\*\*
+**- \*\*Rose Water** - Gentle, refreshing
 
 **Application Tips:**
 
@@ -365,28 +363,39 @@ Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumul
 **Step-by-Step Process:**
 
 1. **Remove Makeup First (if applicable)**
+
     - Use micellar water or oil cleanser
     - Pay special attention to eyes and lips
     - Don't tug or rub aggressively
+
 2. **Wet Face with Lukewarm Water**
+
     - Not hot (strips natural oils)
     - Not cold (doesn't cleanse effectively)
     - Lukewarm is ideal temperature
+
 3. **Apply Cleanser**
+
     - Use small amount (usually dime to nickel-sized)
     - Warm between hands
     - Apply to face and neck
+
 4. **Massage Gently**
+
     - Use circular motions
     - Focus on oily or congested areas
     - Don't scrub aggressively
     - Continue for 60 seconds minimum
+
 5. **Rinse Thoroughly**
+
     - Ensure no residue remains
     - Check hairline and jawline
     - Splash 10-15 times
     - Residue causes breakouts and irritation
+
 6. **Pat Dry**
+
     - Use clean, soft towel
     - Pat gently—don't rub
     - Consider dedicated face towel (changed frequently)
@@ -412,7 +421,7 @@ Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumul
 
 ## 2. Moisturizer: Hydration and Protection
 
-**[IMAGE 2 PLACEHOLDER]**
+![Moisturizer cream being applied to face showing hydration step in daily skincare routine for beginners](/images/uploads/aa2.jpg " Facial Moisturizer - Hydration Essential for All Skin Types")
 
 Moisturizers are non-negotiable for every skin type, including oily skin. They hydrate, strengthen the skin barrier, and prevent water loss while creating a protective layer against environmental stressors.
 
@@ -434,11 +443,11 @@ Moisturizers are non-negotiable for every skin type, including oily skin. They h
 
 **Common Humectants:**
 
-- **Hyaluronic Acid** - Holds up to 1000x its weight in water
-- **Glycerin** - Effective, affordable humectant in most moisturizers
-- **Urea** - Humectant that also gently exfoliates
-- **Aloe Vera** - Natural humectant with soothing properties
-- **Honey** - Natural humectant with antibacterial benefits
+- **Hyaluronic Acid** - Holds up to 1000x its weight in water\*\*
+**- \*\*Glycerin** - Effective, affordable humectant in most moisturizers\*\*
+**- \*\*Urea** - Humectant that also gently exfoliates\*\*
+**- \*\*Aloe Vera** - Natural humectant with soothing properties\*\*
+**- \*\*Honey** - Natural humectant with antibacterial benefits
 
 **Best For:** All skin types, especially dehydrated skin. Most effective in humid environments.
 
@@ -450,11 +459,11 @@ Moisturizers are non-negotiable for every skin type, including oily skin. They h
 
 **Common Emollients:**
 
-- **Squalane** - Mimics skin's natural sebum
-- **Ceramides** - Lipids naturally found in skin barrier
-- **Shea Butter** - Rich, nourishing emollient
-- **Jojoba Oil** - Light oil similar to sebum
-- **Argan Oil** - Vitamin E-rich, non-comedogenic oil
+- **Squalane** - Mimics skin's natural sebum\*\*
+**- \*\*Ceramides** - Lipids naturally found in skin barrier\*\*
+**- \*\*Shea Butter** - Rich, nourishing emollient\*\*
+**- \*\*Jojoba Oil** - Light oil similar to sebum\*\*
+**- \*\*Argan Oil** - Vitamin E-rich, non-comedogenic oil
 
 **Best For:** Dry, rough, or flaky skin that needs smoothing and softening.
 
@@ -464,11 +473,11 @@ Moisturizers are non-negotiable for every skin type, including oily skin. They h
 
 **Common Occlusives:**
 
-- **Petrolatum (Petroleum Jelly)** - Most effective occlusive
-- **Dimethicone** - Silicone-based, lightweight occlusive
-- **Mineral Oil** - Refined oil that seals moisture
-- **Lanolin** - Derived from sheep's wool, very moisturizing
-- **Beeswax** - Natural occlusive with protective properties
+- **Petrolatum (Petroleum Jelly)** - Most effective occlusive\*\*
+**- \*\*Dimethicone** - Silicone-based, lightweight occlusive\*\*
+**- \*\*Mineral Oil** - Refined oil that seals moisture\*\*
+**- \*\*Lanolin** - Derived from sheep's wool, very moisturizing\*\*
+**- \*\*Beeswax** - Natural occlusive with protective properties
 
 **Best For:** Very dry skin, nighttime use, or extremely dry climates.
 
@@ -603,22 +612,31 @@ Moisturizers are non-negotiable for every skin type, including oily skin. They h
 **Application Technique:**
 
 1. **Warm Product:**
+
     - Dispense into palm
     - Rub hands together to warm
     - Warming helps absorption
+
 2. **Apply in Dots:**
+
     - Dot moisturizer on forehead, cheeks, nose, chin
     - Ensures even distribution
     - Prevents using too much in one area
+
 3. **Spread Gently:**
+
     - Use upward, outward motions
     - Never pull or tug skin downward
     - Use gentle pressure
+
 4. **Don't Forget:**
+
     - Extend to jawline and neck
     - Include ears (often forgotten, show age)
     - Décolletage if you want (especially anti-aging focus)
+
 5. **Pat for Absorption:**
+
     - Gently pat remaining product
     - Helps penetration
     - Feels soothing
@@ -663,7 +681,7 @@ Moisturizers are non-negotiable for every skin type, including oily skin. They h
 
 ## 3. Sunscreen: Your Most Important Anti-Aging Product
 
-**[IMAGE 3 PLACEHOLDER]**
+![Woman applying sunscreen to face showing daily sun protection step in skincare routine for beginners](/images/uploads/aa3.jpg "Daily Sunscreen Application - Essential Anti-Aging Protection")
 
 If you remember only one thing from this guide, remember this: **Sunscreen is the single most important skincare product you can use.** Nothing prevents aging, sun damage, and skin cancer more effectively than daily sun protection.
 
@@ -673,10 +691,10 @@ If you remember only one thing from this guide, remember this: **Sunscreen is th
 
 **What UV Rays Do to Skin:**
 
-- **UVA rays** penetrate deep, causing premature aging (wrinkles, sagging, age spots)
-- **UVB rays** burn the surface, causing redness and skin cancer
-- **Both rays** break down collagen and elastin
-- **Cumulative damage** shows up as aging, pigmentation, and increased cancer risk
+- **UVA rays** penetrate deep, causing premature aging (wrinkles, sagging, age spots)\*\*
+**- \*\*UVB rays** burn the surface, causing redness and skin cancer\*\*
+**- \*\*Both rays** break down collagen and elastin\*\*
+**- \*\*Cumulative damage** shows up as aging, pigmentation, and increased cancer risk
 
 **The Statistics:**
 
@@ -695,9 +713,9 @@ If you remember only one thing from this guide, remember this: **Sunscreen is th
 
 **SPF Recommendations:**
 
-- **Minimum:** SPF 30 (blocks 97% of UVB rays)
-- **Better:** SPF 50 (blocks 98% of UVB rays)
-- **Higher:** SPF 50+ offers marginally more protection
+- **Minimum:** SPF 30 (blocks 97% of UVB rays)\*\*
+**- \*\*Better:** SPF 50 (blocks 98% of UVB rays)\*\*
+**- \*\*Higher:** SPF 50+ offers marginally more protection
 
 **Important Reality:** Higher SPF doesn't mean proportionally longer protection. SPF 30 to SPF 50 is meaningful; SPF 50 to SPF 100 provides minimal additional benefit. Focus on proper application and reapplication instead.
 
@@ -788,28 +806,37 @@ If you remember only one thing from this guide, remember this: **Sunscreen is th
 
 **How Much to Use:**
 
-- **Face:** 1/4 teaspoon
-- **Neck:** Additional small amount
-- **Total:** Approximately 1/2 teaspoon for face and neck
+- **Face:** 1/4 teaspoon\*\*
+**- \*\*Neck:** Additional small amount\*\*
+**- \*\*Total:** Approximately 1/2 teaspoon for face and neck
 
 **Why Amount Matters:** SPF testing is done with 2 mg/cm² of skin. Using less means significantly lower protection. SPF 50 applied at half the amount provides roughly SPF 25 protection—and most people use far less than even that.
 
 **Application Steps:**
 
 1. **Apply as Last Skincare Step (before makeup)**
+
     - After moisturizer has absorbed (1-2 minutes)
     - Before any makeup or powder
+
 2. **Use Enough Product**
+
     - Measure 1/4 teaspoon or 2-finger rule
     - Don't skip this—it's crucial
+
 3. **Apply Evenly**
+
     - Dot all over face and neck
     - Blend thoroughly
     - Don't forget ears, hairline, under chin
+
 4. **Wait Before Sun Exposure**
+
     - Chemical: 15-20 minutes to absorb
     - Mineral: Effective immediately
+
 5. **Reapply Every 2 Hours**
+
     - When outdoors or by windows
     - After swimming or sweating
     - Over makeup: use powder sunscreen or spray
@@ -855,7 +882,7 @@ If you remember only one thing from this guide, remember this: **Sunscreen is th
 
 ## 4. Treatment Products: Targeting Specific Concerns (Optional for Beginners)
 
-**[IMAGE 4 PLACEHOLDER]**
+![Skincare treatment serums including vitamin C, niacinamide, and retinol for targeting specific skin concerns](/images/uploads/aa4.jpg "Treatment Serums - Targeted Solutions for Skin Concerns")
 
 Once you've established the three basics (cleanse, moisturize, protect), you can add targeted treatments for specific concerns. These products contain active ingredients that address particular issues like acne, aging, or hyperpigmentation.
 
@@ -1001,19 +1028,19 @@ Once you've established the three basics (cleanse, moisturize, protect), you can
 
 **How to Use:**
 
-- **Start slowly:** Once or twice per week
-- **Always at night:** Retinol breaks down in sunlight
-- **After cleansing, on dry skin**
-- **Wait 20 minutes after cleansing** (reduces irritation)
-- **Pea-sized amount for entire face**
+- **Start slowly:** Once or twice per week\*\*
+**- \*\*Always at night:** Retinol breaks down in sunlight\*\*
+**- \*\*After cleansing, on dry skin**
+- **Wait 20 minutes after cleansing** (reduces irritation)\*\*
+**- \*\*Pea-sized amount for entire face**
 - **Follow with moisturizer**
 - **Always use sunscreen next morning** (retinol increases sun sensitivity)
 
 **What to Expect:**
 
-- **Initial Period (2-4 weeks):** Possible redness, flaking, purging (temporary breakouts as pores clear)
-- **After Adjustment (6-12 weeks):** Smoother texture, fading of dark spots, improved firmness
-- **Long Term (3-6 months+):** Significant improvement in fine lines, overall skin quality
+- **Initial Period (2-4 weeks):** Possible redness, flaking, purging (temporary breakouts as pores clear)\*\*
+**- \*\*After Adjustment (6-12 weeks):** Smoother texture, fading of dark spots, improved firmness\*\*
+**- \*\*Long Term (3-6 months+):** Significant improvement in fine lines, overall skin quality
 
 **Beginner Retinol Tips:**
 
