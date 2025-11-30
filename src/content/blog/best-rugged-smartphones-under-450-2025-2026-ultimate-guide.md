@@ -66,7 +66,7 @@ This modular approach transforms your phone into a comprehensive professional to
 **Price:** $360
 **Best For:** Electrical contractors, HVAC technicians, building inspectors, outdoor professionals, wildlife enthusiasts, security personnel, anyone needing thermal imaging capabilities
 
-**🛍️ Shop Ulefone Armor 27T Pro on AliExpress**
+<a href="https://s.click.aliexpress.com/e/_c3hGLVwH" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  Ulefone Armor 27T Pro  Collection </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 ## **2. 8849 Tank 3 Rugged: The Battery Champion That Never Quits - $400**
 
@@ -121,7 +121,7 @@ IP68/IP69K ratings combined with MIL-STD-810H certification mean this phone surv
 **Price:** $400
 **Best For:** Extended wilderness expeditions, field researchers, emergency responders, construction workers, off-grid living, anyone prioritizing battery life above all other considerations
 
-**🛍️ Shop 8849 Tank 3 Rugged on AliExpress**
+<a href="https://s.click.aliexpress.com/e/_c3veDfRB" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   8849 Tank 3 Rugged  Collection </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 ## **3. 8849 Tank 3S: Entertainment and Productivity Anywhere with Built-In Projector - $407**
 
@@ -170,7 +170,7 @@ Running Android 14 with minimal manufacturer modifications provides a clean, int
 
 ## **4. Unihertz Tank 4: Premium Display Quality in a Rugged Package - $420**
 
-![ Unihertz Tank 4 featuring premium 2.6K AMOLED display with 120Hz refresh rate in rugged design](/images/uploads/sh4.png "Unihertz Tank 4 - Best Display Quality in Rugged Smartphone")
+![Unihertz Tank 4 featuring premium 2.6K AMOLED display with 120Hz refresh rate in rugged design](/images/uploads/sh4.png "Unihertz Tank 4 - Best Display Quality in Rugged Smartphone")
 
 The Unihertz Tank 4 elevates the visual experience in rugged smartphones to a level typically reserved for premium flagship devices. Its stunning 2.6K AMOLED display with 120Hz refresh rate delivers breathtaking image quality while maintaining the durability and battery longevity expected from serious rugged phones. At $420, it represents the best choice for users who refuse to compromise on display quality despite needing extreme durability.
 
