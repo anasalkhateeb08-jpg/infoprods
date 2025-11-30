@@ -3,7 +3,7 @@ title: '"Home Decor Ideas for Small Spaces 2026: 4 Smart Solutions from AliExpre
 description: '"Transform small spaces with these 4 essential home decor solutions from AliExpress! Multi-functional furniture, vertical storage, mirrors & plants. Budget-friendly from $15!"'
 author: InfoProds Team
 date: 2025-11-30T17:00:00
-image: /images/uploads/photo-1556912173-46c336c7fd55.jfif
+image: /images/uploads/dd1.jpg
 category: Home
 tags:
   - home decor, small spaces, interior design, space saving furniture, AliExpress home, apartment decor, vertical storage, multi-functional furniture, small space living, budget home decor
