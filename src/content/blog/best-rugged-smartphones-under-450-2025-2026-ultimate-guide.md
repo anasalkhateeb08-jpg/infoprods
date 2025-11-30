@@ -1,13 +1,13 @@
 ---
-title: "Best Rugged Smartphones Under $450 in 2025-2026: Top 5 Phones with Massive Batteries"
-slug: "best-rugged-smartphones-under-450-2025"
-description: Discover the top 5 rugged smartphones under $450 in 2025 with massive batteries, projectors, and night vision. Complete buying guide with specs and prices.
+title: 'Best Rugged Smartphones Under $450 in 2025-2026: Top 5 Phones with Massive Batteries'
+description: '"Discover the 5 best rugged smartphones under $450! Complete guide to durable phones with thermal imaging, massive batteries, projectors & flagship features from AliExpress."'
 author: InfoProds Team
-date: 2025-11-27T05:04:00
-image: /images/uploads/photo-1511707171634-5f897ff02aa9.jfif
+date: 2025-11-30T23:56:00
+image: /images/uploads/tank4smartphone.jpg
 category: Technology & Devices
 tags:
   - rugged smartphones, budget phones, outdoor phones, 5G phones, waterproof phones, rugged phones 2025, phones under $450
+slug: best-rugged-smartphones-under-450-2025
 ---
 Looking for a rugged smartphone that won't break the bank? You're in the right place. The rugged phone market in 2025 has evolved dramatically, offering incredible features like massive batteries, built-in projectors, thermal imaging, and night vision cameras—all under $450. Gone are the days when you had to choose between durability and performance. Today's budget rugged phones deliver flagship-level specs wrapped in military-grade protection.
 
