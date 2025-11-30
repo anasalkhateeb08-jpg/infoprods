@@ -12,7 +12,7 @@ Living in a small space doesn't mean compromising on style, comfort, or function
 
 From multi-functional furniture that works overtime to vertical storage solutions that free up floor space, discover how to transform your small space into a stylish sanctuary. With prices starting from just $15, these budget-friendly solutions prove that great design doesn't require unlimited square footage—just smart choices and creative thinking.
 
-## Understanding Small Space Living in 2026
+## Understanding Small Space Living in 2026.
 
 The way we think about small spaces has fundamentally shifted. What was once seen as a limitation is now embraced as an opportunity for creativity, intentionality, and sustainable living. Urban populations continue to grow, and with them, the appreciation for well-designed compact homes that prioritize quality over quantity.
 
