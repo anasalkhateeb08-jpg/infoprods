@@ -66,19 +66,19 @@ Modern sofa beds have evolved far beyond the uncomfortable pull-out couches of p
 
 **What to Look For:**
 
-- **Mechanism Quality:** Look for European-style click-clack mechanisms or smooth-operating pull-out systems. Check customer reviews specifically mentioning ease of conversion.
-- **Mattress Thickness:** For comfortable sleeping, aim for at least 10cm (4 inches) of cushioning. Memory foam options provide the best sleep quality.
-- **Dimensions:** Measure your space carefully. Most sofa beds need additional clearance when fully extended—typically 180-200cm in length.
-- **Upholstery Durability:** Choose tightly woven fabrics like linen blends or performance fabrics that resist staining and wear.
+- **Mechanism Quality:** Look for European-style click-clack mechanisms or smooth-operating pull-out systems. Check customer reviews specifically mentioning ease of conversion.\*\*
+**- \*\*Mattress Thickness:** For comfortable sleeping, aim for at least 10cm (4 inches) of cushioning. Memory foam options provide the best sleep quality.\*\*
+**- \*\*Dimensions:** Measure your space carefully. Most sofa beds need additional clearance when fully extended—typically 180-200cm in length.\*\*
+**- \*\*Upholstery Durability:** Choose tightly woven fabrics like linen blends or performance fabrics that resist staining and wear.
 
 **Price Range on AliExpress:** $200-$600 depending on size and features
 
 **Popular Styles:**
 
-- **Scandinavian minimalist designs** - Clean lines, light woods, neutral fabrics
-- **Japanese futon-style** - Low-profile platforms that convert from seating to sleeping
-- **Storage sofa beds** - Include hidden compartments under seating for bedding or other items
-- **Sectional convertibles** - L-shaped designs that rearrange into bed configurations
+- **Scandinavian minimalist designs** - Clean lines, light woods, neutral fabrics\*\*
+**- \*\*Japanese futon-style** - Low-profile platforms that convert from seating to sleeping\*\*
+**- \*\*Storage sofa beds** - Include hidden compartments under seating for bedding or other items\*\*
+**- \*\*Sectional convertibles** - L-shaped designs that rearrange into bed configurations
 
 #### Storage Ottomans and Benches
 
@@ -93,10 +93,10 @@ Storage ottomans serve triple duty as seating, footrests, and hidden storage—p
 
 **Material Options:**
 
-- **Linen fabric ottomans** ($30-$60) - Breathable, natural texture, available in many colors
-- **Velvet upholstered** ($40-$80) - Luxe appearance, soft touch, jewel tones popular
-- **Faux leather** ($35-$70) - Easy to clean, modern aesthetic, pet-friendly
-- **Woven rattan** ($45-$90) - Boho style, excellent ventilation, lightweight
+- **Linen fabric ottomans** ($30-$60) - Breathable, natural texture, available in many colors\*\*
+**- \*\*Velvet upholstered** ($40-$80) - Luxe appearance, soft touch, jewel tones popular\*\*
+**- \*\*Faux leather** ($35-$70) - Easy to clean, modern aesthetic, pet-friendly\*\*
+**- \*\*Woven rattan** ($45-$90) - Boho style, excellent ventilation, lightweight
 
 **Size Considerations:**
 
@@ -110,9 +110,9 @@ Dining tables present a particular challenge in small spaces—you need them for
 
 **Drop-Leaf Tables:** These traditional designs feature sides that fold down when not in use, reducing width significantly. Modern versions incorporate sleek hardware and contemporary materials.
 
-- **Wall-mounted drop-leaf** - Attaches to wall, folds completely flat when not needed
-- **Freestanding drop-leaf** - Can be positioned anywhere, one or both sides fold down
-- **Gate-leg tables** - Include swing-out legs for additional support when extended
+- **Wall-mounted drop-leaf** - Attaches to wall, folds completely flat when not needed\*\*
+**- \*\*Freestanding drop-leaf** - Can be positioned anywhere, one or both sides fold down\*\*
+**- \*\*Gate-leg tables** - Include swing-out legs for additional support when extended
 
 **Expandable Console Tables:** Perhaps the most dramatic space-savers, these narrow console tables (30-40cm deep) extend to full dining tables (80-90cm deep) when needed.
 
@@ -133,16 +133,16 @@ With remote work now standard, dedicated workspace is essential even in tiny apa
 
 **Features to Prioritize:**
 
-- **Integrated cable management** - Holes and channels for computer cords
-- **Built-in shelving** - Keep supplies organized and easily accessible
-- **Sturdy mounting hardware** - Must support weight of computer, monitor, and work materials
-- **Locking mechanisms** - Secure desk in both open and closed positions
+- **Integrated cable management** - Holes and channels for computer cords\*\*
+**- \*\*Built-in shelving** - Keep supplies organized and easily accessible\*\*
+**- \*\*Sturdy mounting hardware** - Must support weight of computer, monitor, and work materials\*\*
+**- \*\*Locking mechanisms** - Secure desk in both open and closed positions
 
 **Alternative Options:**
 
-- **Floating desks** - Permanent wall-mounted surfaces (40-60cm deep)
-- **Corner desks** - Utilize often-wasted corner space efficiently
-- **Fold-down dining tables** - Can double as desks when working from home
+- **Floating desks** - Permanent wall-mounted surfaces (40-60cm deep)\*\*
+**- \*\*Corner desks** - Utilize often-wasted corner space efficiently\*\*
+**- \*\*Fold-down dining tables** - Can double as desks when working from home
 
 **Price Range:** $60-$180 for quality fold-down desks
 
@@ -200,11 +200,11 @@ Floating shelves mount directly to walls with hidden brackets, creating a clean,
 
 **Ideal Applications:**
 
-- **Living Rooms:** Display books, plants, framed photos, decorative objects
-- **Kitchens:** Store frequently used dishes, spices, cookbooks
-- **Bathrooms:** Hold toiletries, towels, plants
-- **Bedrooms:** Replace traditional nightstands or dressers
-- **Home Offices:** Keep supplies, files, reference books accessible
+- **Living Rooms:** Display books, plants, framed photos, decorative objects\*\*
+**- \*\*Kitchens:** Store frequently used dishes, spices, cookbooks\*\*
+**- \*\*Bathrooms:** Hold toiletries, towels, plants\*\*
+**- \*\*Bedrooms:** Replace traditional nightstands or dressers\*\*
+**- \*\*Home Offices:** Keep supplies, files, reference books accessible
 
 **Material Options:**
 
@@ -249,10 +249,10 @@ Corner shelves exploit the often-wasted triangular space where two walls meet, a
 
 **Types:**
 
-- **Floating corner shelves** - Single triangular shelves in various sizes
-- **Corner ladder shelves** - Vertical arrangements of multiple corner shelves
-- **Zigzag corner shelves** - Alternating corner shelves that climb walls
-- **Tension-mounted corner poles** - Floor-to-ceiling poles with adjustable shelves
+- **Floating corner shelves** - Single triangular shelves in various sizes\*\*
+**- \*\*Corner ladder shelves** - Vertical arrangements of multiple corner shelves\*\*
+**- \*\*Zigzag corner shelves** - Alternating corner shelves that climb walls\*\*
+**- \*\*Tension-mounted corner poles** - Floor-to-ceiling poles with adjustable shelves
 
 **Best Uses:**
 
@@ -270,17 +270,17 @@ Modular cube storage offers infinite configuration possibilities, adapting as yo
 
 **Popular Configurations:**
 
-- **Grid walls** - Multiple cubes creating geometric wall displays
-- **Asymmetric arrangements** - Cubes in varying sizes for dynamic compositions
-- **Hexagon clusters** - Honeycomb-inspired geometric storage
-- **Mixed cube and shelf combos** - Combine enclosed and open storage
+- **Grid walls** - Multiple cubes creating geometric wall displays\*\*
+**- \*\*Asymmetric arrangements** - Cubes in varying sizes for dynamic compositions\*\*
+**- \*\*Hexagon clusters** - Honeycomb-inspired geometric storage\*\*
+**- \*\*Mixed cube and shelf combos** - Combine enclosed and open storage
 
 **Advantages:**
 
-- **Modularity:** Add or rearrange cubes as needed
-- **Visual Interest:** Geometric arrangements create focal points
-- **Versatile Storage:** Use cubes alone or with fabric/wicker inserts for concealed storage
-- **Budget-Friendly:** Purchase cubes individually over time
+- **Modularity:** Add or rearrange cubes as needed\*\*
+**- \*\*Visual Interest:** Geometric arrangements create focal points\*\*
+**- \*\*Versatile Storage:** Use cubes alone or with fabric/wicker inserts for concealed storage\*\*
+**- \*\*Budget-Friendly:** Purchase cubes individually over time
 
 **Styling Cube Storage:** Vary what you display—some cubes fully filled, some with single statement objects, some with plants. Mix enclosed (using baskets) and open cubes for visual rhythm.
 
@@ -584,9 +584,9 @@ The strategic use of mirrors and lighting is perhaps the most powerful tool in s
 
 **Understanding Kelvin:**
 
-- **2700-3000K (Warm White):** Cozy, relaxing, best for bedrooms and living rooms
-- **3500-4100K (Neutral White):** Balanced, suitable for kitchens and bathrooms
-- **5000-6500K (Cool White/Daylight):** Energizing, ideal for home offices and task lighting
+- **2700-3000K (Warm White):** Cozy, relaxing, best for bedrooms and living rooms\*\*
+**- \*\*3500-4100K (Neutral White):** Balanced, suitable for kitchens and bathrooms\*\*
+**- \*\*5000-6500K (Cool White/Daylight):** Energizing, ideal for home offices and task lighting
 
 **Small Space Recommendation:** Use warm white (2700-3000K) as primary lighting to create inviting, comfortable spaces. Cool white in task areas only.
 
@@ -923,9 +923,9 @@ Small spaces still need personality, warmth, and individual character. The chall
 
 **Seller Badges to Look For:**
 
-- **Top Brand:** AliExpress verification of consistent quality
-- **Choice:** Items that meet specific quality standards
-- **Fast Shipping:** Guaranteed quick delivery timeframes
+- **Top Brand:** AliExpress verification of consistent quality\*\*
+**- \*\*Choice:** Items that meet specific quality standards\*\*
+**- \*\*Fast Shipping:** Guaranteed quick delivery timeframes
 
 **Feedback Analysis:**
 
