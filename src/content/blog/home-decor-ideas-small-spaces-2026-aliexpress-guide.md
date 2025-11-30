@@ -44,7 +44,7 @@ Before diving into specific products, understanding these foundational principle
 
 ## 1. Multi-Functional Furniture: The Foundation of Smart Small Space Living
 
-**[IMAGE 1 PLACEHOLDER]**
+![ Modern compact sofa bed in small living room showing space-saving multi-functional furniture for small apartments](/images/uploads/a1.jpg "Multi-Functional Sofa Bed - Smart Small Space Furniture from AliExpress")
 
 Multi-functional furniture is the cornerstone of successful small space design. These pieces work double or triple duty, providing essential functions while minimizing footprint. In 2026, the quality and variety of space-saving furniture available through AliExpress has reached new heights, offering solutions that don't sacrifice style for functionality.
 
@@ -178,7 +178,7 @@ With remote work now standard, dedicated workspace is essential even in tiny apa
 
 ## 2. Wall Shelves & Vertical Storage Solutions: Conquering the Vertical Dimension
 
-**[IMAGE 2 PLACEHOLDER]**
+![Floating wooden shelves with plants and books demonstrating vertical storage solutions for small space organization](/images/uploads/a2.jpg "Floating Wall Shelves - Vertical Storage Solutions for Small Homes")
 
 When floor space is precious, the solution is literally on the walls. Vertical storage is the secret weapon of successful small space design, transforming empty wall expanses into functional, attractive storage that doesn't consume any floor area.
 
@@ -356,7 +356,7 @@ Beyond traditional shelves, hanging organizers offer flexible, often portable st
 
 ## 3. Mirrors & Lighting: Optical Illusions That Transform Small Spaces
 
-**[IMAGE 3 PLACEHOLDER]**
+![ Large round mirror and modern pendant lighting creating illusion of space in compact living area](/images/uploads/a3.jpg "Mirrors and Lighting - Optical Tricks to Expand Small Spaces")
 
 The strategic use of mirrors and lighting is perhaps the most powerful tool in small space design. These elements manipulate perception, making rooms feel dramatically larger, brighter, and more welcoming without changing physical dimensions.
 
@@ -609,7 +609,7 @@ The strategic use of mirrors and lighting is perhaps the most powerful tool in s
 
 ## 4. Plants & Minimalist Accessories: Adding Life and Personality Without Clutter
 
-**[IMAGE 4 PLACEHOLDER]**
+![Indoor plants in minimalist planters and curated accessories creating personality in small space decor](/images/uploads/a4.jpg "Plants and Minimalist Decor - Adding Life to Small Spaces")
 
 Small spaces still need personality, warmth, and individual character. The challenge is adding these elements without creating visual chaos. Plants and carefully selected minimalist accessories solve this beautifully, bringing life and style without overwhelming limited square footage.
 
