@@ -3,7 +3,7 @@ title: '"Top Jewelry Trends 2026: 6 Must-Have Pieces from AliExpress - Complete 
 description: '"Discover 2026''s hottest jewelry trends from AliExpress! Complete guide to beaded necklaces, baroque pearls, chain layers & more. Reviews + styling tips!"'
 author: InfoProds Team
 date: 2025-11-30T01:30:00
-image: /images/uploads/photo-1611591437281-460bfbe1220a.jfif
+image: /images/uploads/llllll.jpg
 category: Jewelry
 tags:
   - jewelry trends 2026, AliExpress jewelry, beaded necklaces, baroque pearls, statement hoop earrings
@@ -63,7 +63,7 @@ Look for hoops made from stainless steel or surgical steel, especially if you ha
 
 ## 3. Layered Chain Necklaces: The Art of Mixing Metals
 
-![Layered stainless steel chain necklaces in mixed metals showing paperclip, rope, and herringbone styles for 2026 trend](/images/uploads/photo-1611591437281-460bfbe1220a.jfif "Layered Chain Necklaces - Stainless Steel Jewelry Trend 2026")
+![Layered stainless steel chain necklaces in mixed metals showing paperclip, rope, and herringbone styles for 2026 trend](/images/uploads/llllll.jpg "Layered Chain Necklaces - Stainless Steel Jewelry Trend 2026")
 
 Chain necklaces have evolved from simple accessories into sculptural art pieces. The 2026 trend embraces mixed metals, varied link styles, and strategic layering to create personalized looks.
 
