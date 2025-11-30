@@ -155,6 +155,8 @@ A beginner's routine should include four fundamental steps performed twice daily
 
 ## 1. Cleanser: The Foundation of Every Routine
 
+![Woman washing face with gentle cleanser demonstrating proper cleansing technique for healthy skincare routine](/images/uploads/aa1.jpg "Facial Cleanser - Essential First Step in Beginner Skincare Routine")
+
 Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumulate throughout the day and night. This step prepares your skin to absorb subsequent products effectively.
 
 ### Why Cleansing Matters
