@@ -126,12 +126,12 @@ Research in the Journal of Strength and Conditioning Research found that resista
 
 ### What Complete Sets Should Include
 
-- **5 Resistance Levels:** Light through extra heavy (typically 10-35 lbs each)
-- **Comfortable Handles:** Padded, non-slip handles that attach securely
-- **Secure Door Anchor:** Heavy-duty anchor compatible with standard doors
-- **Ankle Straps:** For lower body cable-style exercises
-- **Carrying Case:** Portable storage keeping everything organized
-- **Exercise Guide:** Printed or digital access to workout programs
+- **5 Resistance Levels:** Light through extra heavy (typically 10-35 lbs each)\*\*
+**- \*\*Comfortable Handles:** Padded, non-slip handles that attach securely\*\*
+**- \*\*Secure Door Anchor:** Heavy-duty anchor compatible with standard doors\*\*
+**- \*\*Ankle Straps:** For lower body cable-style exercises\*\*
+**- \*\*Carrying Case:** Portable storage keeping everything organized\*\*
+**- \*\*Exercise Guide:** Printed or digital access to workout programs
 
 Total resistance when combining all bands should reach 100-150 lbs—sufficient for virtually any exercise and most strength levels.
 
@@ -151,7 +151,7 @@ The door anchor receives specific praise for secure, safe attachment. Many revie
 
 ## 3. AB Wheel Roller: The Most Effective Core Tool Available
 
-**[IMAGE 3 PLACEHOLDER]**
+![AB wheel roller demonstrating core training exercise with proper form for home workouts](/images/uploads/er3.png "AB Wheel Roller - Most Effective Core Training Tool")
 
 The AB wheel roller delivers core training intensity that far surpasses traditional ab exercises. This deceptively simple tool provides one of the most challenging and effective core workouts possible, engaging your entire midsection in ways that crunches and sit-ups simply cannot match.
 
@@ -213,7 +213,7 @@ Users consistently praise the sturdy construction at this budget-friendly price 
 
 ## 4. Massage Gun: Professional Recovery Technology at Home
 
-**[IMAGE 4 PLACEHOLDER]**
+![Professional massage gun with multiple heads for muscle recovery and percussive therapy at home](/images/uploads/How-to-use-massage-gun.avif "Massage Gun - Professional Recovery Technology for Home Gym")
 
 Massage guns represent one of the most significant innovations in fitness recovery technology. These powerful devices deliver percussive therapy that accelerates recovery, reduces muscle soreness, improves flexibility, and helps prevent injuries—benefits that were once only available through expensive professional massage therapy.
 
@@ -253,12 +253,12 @@ Physical therapists increasingly incorporate massage guns into treatment protoco
 
 **Attachment Heads:** Standard sets include 4-6 specialized heads:
 
-- **Round Ball:** General use on large muscles
-- **Flat Head:** Less intense option for any muscle group
-- **Bullet/Point:** Pinpoint trigger point work
-- **Fork/U-Shape:** Designed for areas around the spine
-- **Spade:** Deep tissue work on larger areas
-- **Air Cushion:** Gentlest option for sensitive zones
+- **Round Ball:** General use on large muscles\*\*
+**- \*\*Flat Head:** Less intense option for any muscle group\*\*
+**- \*\*Bullet/Point:** Pinpoint trigger point work\*\*
+**- \*\*Fork/U-Shape:** Designed for areas around the spine\*\*
+**- \*\*Spade:** Deep tissue work on larger areas\*\*
+**- \*\*Air Cushion:** Gentlest option for sensitive zones
 
 ### Recommended Massage Gun Options
 
