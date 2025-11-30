@@ -421,7 +421,7 @@ Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumul
 
 ## 2. Moisturizer: Hydration and Protection
 
-![Moisturizer cream being applied to face showing hydration step in daily skincare routine for beginners](/images/uploads/aa2.jpg " Facial Moisturizer - Hydration Essential for All Skin Types")
+![Moisturizer cream being applied to face showing hydration step in daily skincare routine for beginners](/images/uploads/aa2.jpg "Facial Moisturizer - Hydration Essential for All Skin Types")
 
 Moisturizers are non-negotiable for every skin type, including oily skin. They hydrate, strengthen the skin barrier, and prevent water loss while creating a protective layer against environmental stressors.
 
