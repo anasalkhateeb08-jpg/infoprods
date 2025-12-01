@@ -10,7 +10,7 @@ import Layout from '../layouts/Layout.astro';
 >
   <main>
     <!-- Hero Section - Smaller Height -->
-    <section class="relative h-[60vh] flex items-center justify-center overflow-hidden">
+    <section class="relative h-[40vh] flex items-center justify-center overflow-hidden">
       <!-- Background -->
       <div class="absolute inset-0 bg-gradient-to-br from-purple-900 via-blue-900 to-black">
         <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-10"></div>
@@ -25,36 +25,10 @@ import Layout from '../layouts/Layout.astro';
           Your space for the right information and products
         </p>
         
-        <div class="flex flex-col md:flex-row gap-3 justify-center mb-8">
+        <div class="flex flex-col md:flex-row gap-3 justify-center">
           <a href="/blog" class="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg font-bold text-base transition shadow-lg" data-i18n="home.exploreBlog">
             Explore Blog
           </a>
-          <a href="/devices" class="px-6 py-3 bg-cyan-600 hover:bg-cyan-700 rounded-lg font-bold text-base transition shadow-lg" data-i18n="home.browseDevices">
-            Browse Devices
-          </a>
-        </div>
-
-        <!-- Store Links -->
-        <div>
-          <p class="text-gray-300 text-sm mb-3" data-i18n="home.shopFrom">Shop from Trusted Stores</p>
-          <div class="flex flex-wrap gap-3 justify-center">
-            <a href="https://aliexpress.com" target="_blank" class="px-4 py-2 bg-red-600 hover:bg-red-700 rounded-lg text-sm font-semibold transition flex items-center gap-2" aria-label="Shop on AliExpress">
-              <span>🛒</span>
-              <span>AliExpress</span>
-            </a>
-            <a href="https://banggood.com" target="_blank" class="px-4 py-2 bg-orange-600 hover:bg-orange-700 rounded-lg text-sm font-semibold transition flex items-center gap-2" aria-label="Shop on Banggood">
-              <span>🛍️</span>
-              <span>Banggood</span>
-            </a>
-           <a href="https://temu.com" target="_blank" class="px-4 py-2 bg-yellow-600 hover:bg-yellow-700 rounded-lg text-sm font-semibold transition flex items-center gap-2" aria-label="Shop on Temu">
-              <span>🏪</span>
-              <span>Temu</span>
-            </a>
-            <a href="https://shein.com" target="_blank" class="px-4 py-2 bg-black hover:bg-gray-900 rounded-lg text-sm font-semibold transition flex items-center gap-2" aria-label="Shop on Shein">
-              <span>👗</span>
-              <span>Shein</span>
-            </a>
-          </div>
         </div>
       </div>
     </section>
@@ -71,80 +45,72 @@ import Layout from '../layouts/Layout.astro';
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           <!-- Fashion -->
-          <a href="/categories/fashion" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/fashion" data-category="Fashion" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600&q=80" alt="Fashion" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <div class="text-4xl mb-2">👗</div>
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.fashion">Fashion & Clothing</h3>
               <p class="text-sm text-gray-300" data-i18n="categories.fashionCount">5,000+ Products</p>
             </div>
           </a>
 
           <!-- Jewelry -->
-          <a href="/categories/jewelry" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/jewelry" data-category="Jewelry" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80" alt="Jewelry" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <div class="text-4xl mb-2">💎</div>
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.jewelry">Jewelry & Accessories</h3>
               <p class="text-sm text-gray-300" data-i18n="categories.jewelryCount">3,000+ Products</p>
             </div>
           </a>
 
           <!-- Home -->
-          <a href="/categories/home" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/home" data-category="Home" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&q=80" alt="Home" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <div class="text-4xl mb-2">🏠</div>
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.home">Home & Decor</h3>
               <p class="text-sm text-gray-300" data-i18n="categories.homeCount">4,000+ Products</p>
             </div>
           </a>
 
           <!-- Beauty -->
-          <a href="/categories/beauty" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/beauty" data-category="Beauty" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&q=80" alt="Beauty" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <div class="text-4xl mb-2">💄</div>
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.beauty">Beauty & Skincare</h3>
               <p class="text-sm text-gray-300" data-i18n="categories.beautyCount">3,500+ Products</p>
             </div>
           </a>
 
           <!-- Kitchen -->
-          <a href="/categories/kitchen" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/kitchen" data-category="Kitchen" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1556911220-bff31c812dba?w=600&q=80" alt="Kitchen" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <div class="text-4xl mb-2">🍳</div>
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.kitchen">Kitchen & Cookware</h3>
               <p class="text-sm text-gray-300" data-i18n="categories.kitchenCount">2,500+ Products</p>
             </div>
           </a>
 
-          <!-- Electronics -->
-          <a href="/categories/electronics" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1498049794561-7780e7231661?w=600&q=80" alt="Electronics" class="w-full h-full object-cover">
+          <!-- Miscellaneous -->
+          <a href="/categories/miscellaneous" data-category="Miscellaneous" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+            <img src="https://images.unsplash.com/photo-1526738549149-8e07eca6c147?w=600&q=80" alt="Miscellaneous" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <div class="text-4xl mb-2">📱</div>
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.electronics">Electronics</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.electronicsCount">6,000+ Products</p>
+              <h3 class="text-xl font-bold mb-1" data-i18n="categories.miscellaneous">Miscellaneous</h3>
+              <p class="text-sm text-gray-300" data-i18n="categories.miscellaneousCount">Various Products</p>
             </div>
           </a>
 
           <!-- Sports -->
-          <a href="/categories/fitness-&-health" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/fitness-&-health" data-category="Fitness & Health" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&q=80" alt="Sports" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <div class="text-4xl mb-2">⚽</div>
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.fitness">Fitness & Health</h3>
               <p class="text-sm text-gray-300" data-i18n="categories.fitnessCount">2,000+ Products</p>
             </div>
           </a>
 
           <!-- Technology & Devices -->
-          <a href="/categories/technology-&-devices" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/technology-&-devices" data-category="Technology & Devices" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80" alt="Technology & Devices" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <div class="text-4xl mb-2"></div>
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.techDevices">Technology & Devices</h3>
               <p class="text-sm text-gray-300" data-i18n="categories.techDevicesCount">1,500+ Products</p>
             </div>
@@ -152,8 +118,7 @@ import Layout from '../layouts/Layout.astro';
         </div>
       </div>
     </section>
-
-    </main>
+  </main>
 
   <!-- Additional Schema for HomePage -->
   <script type="application/ld+json" set:html={JSON.stringify({
@@ -193,8 +158,8 @@ import Layout from '../layouts/Layout.astro';
       {
         "@type": "ListItem",
         "position": 6,
-        "name": "Electronics",
-        "url": "https://infoprods.com/categories/electronics"
+        "name": "Miscellaneous",
+        "url": "https://infoprods.com/categories/miscellaneous"
       },
       {
         "@type": "ListItem",
@@ -260,9 +225,30 @@ import Layout from '../layouts/Layout.astro';
       translatePage(e.detail.lang);
     });
   </script>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      const categories = document.querySelectorAll('[data-category]');
+      
+      for (const card of categories) {
+        const category = card.dataset.category;
+        const img = card.querySelector('img');
+        
+        try {
+          const response = await fetch(`/api/category-images?category=${encodeURIComponent(category)}`);
+          const images = await response.json();
+          
+          if (images.length > 1) {
+            let currentIndex = 0;
+            setInterval(() => {
+              currentIndex = (currentIndex + 1) % images.length;
+              img.src = images[currentIndex];
+            }, 2000);
+          }
+        } catch (error) {
+          console.error(`Error loading images for ${category}:`, error);
+        }
+      }
+    });
+  </script>
 </Layout>
-
-
-
-
-

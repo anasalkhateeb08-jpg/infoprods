@@ -19,6 +19,6 @@ collections:
       - {label: "Author", name: "author", widget: "string", default: "InfoProds Team"}
       - {label: "Publish Date", name: "date", widget: "datetime", required: true}
       - {label: "Featured Image", name: "image", widget: "image", required: false}
-      - {label: "Category", name: "category", widget: "select", required: true, options: ["Beauty", "Fashion", "Fitness & Health", "Gifts", "Home", "Jewelry", "Kitchen", "Tech Gadgets", "Technology & Devices"]}
+      - {label: "Category", name: "category", widget: "select", required: true, options: ["Beauty", "Fashion", "Fitness & Health", "Home", "Jewelry", "Kitchen", "Miscellaneous", "Technology & Devices"]}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: true}
