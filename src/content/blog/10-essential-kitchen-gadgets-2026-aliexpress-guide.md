@@ -29,7 +29,7 @@ Before we jump into the products, it’s crucial to understand \*why\* these spe
 
 ## 1. The Prep Masters: Speed & Precision
 
-[IMAGE 1 PLACEHOLDER]
+![Fresh vegetables on a cutting board with knife and chopping tools illustrating kitchen preparation](/images/uploads/mt1.jpg "Kitchen Prep Essentials - Vegetable Chopper and Tools")
 
 The most time-consuming part of cooking isn't the actual time on the stove—it's the preparation. Washing, peeling, chopping, and measuring can take hours. These first three gadgets are dedicated to reclaiming your time.
 
@@ -81,7 +81,7 @@ Traditional whetstones take skill to use. A modern electric or rolling knife sha
 
 ## 2. The Cooking Essentials: Heat & Handling
 
-[IMAGE 2 PLACEHOLDER]
+![Someone cooking on a stove using silicone kitchen utensils and holding a digital thermometer.](/images/uploads/mt2.jfif "Essential Cooking Gadgets - Thermometer and Silicone Utensils")
 
 Once the prep is done, the heat turns on. These tools ensure your food is cooked safely, handled hygienically, and tastes delicious.
 
@@ -143,7 +143,7 @@ Store-bought cooking sprays often contain propellants (chemicals) to spray the o
 
 ## 3. Small Appliances: Power & Preservation
 
-[IMAGE 3 PLACEHOLDER]
+![Modern kitchen counter with personal blender and vacuum sealer machine. * **Title:** Small Kitchen Appliances - Blender and Food Sealer](/images/uploads/mt3.jpg "Small Kitchen Appliances - Blender and Food Sealer")
 
 You don't need a counter full of machines, but these two small appliances are game-changers for modern living.
 
@@ -183,7 +183,7 @@ In an era of rising food costs, throwing away food is throwing away money. A vac
 
 ## 4. Baking & Finishing Touches
 
-[IMAGE 4 PLACEHOLDER]
+![Baking tray with silicone mat, garlic press, and fresh ingredients on kitchen counter.](/images/uploads/mt4.jfif "Baking Essentials - Silicone Mats and Garlic Press")
 
 The final category covers those "small but mighty" tools that make specific tasks infinitely easier.
 
