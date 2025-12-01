@@ -90,7 +90,7 @@ A dash cam serves as your **impartial witness**, recording everything that happe
 
 Beyond accident documentation, dash cams offer peace of mind. Knowing that you have a recording device monitoring the road ahead changes your driving experience. You feel more secure, more protected, and more confident in your ability to prove what actually happened in any situation. This psychological benefit alone makes dash cams valuable—the reduction in anxiety and stress during every drive.
 
-**[Image 2 - Insert here]**
+!["1080P dashboard camera with night vision capability mounted on windshield recording clear HD road footage with wide-angle lens view"](/images/uploads/ca2.png "'Full HD Dash Cam with Night Vision and 170-Degree Wide Angle for Vehicle Safety'")
 
 ### **Understanding Dash Cam Technology**
 
@@ -164,7 +164,7 @@ Open the average family car, and you'll find a chaotic collection of items scatt
 
 Beyond safety concerns, car clutter creates psychological stress. Studies in environmental psychology show that cluttered environments elevate cortisol levels and reduce our ability to focus. When your car is disorganized, every trip becomes slightly more stressful than it needs to be. You waste time searching for items, feel embarrassed when giving people rides, and experience a constant low-level irritation that affects your mood.
 
-**[Image 3 - Insert here]**
+!["Multi-pocket car back seat organizer with tablet holder and storage compartments filled with travel essentials and children's items"](/images/uploads/ca3.png "'Multi-Pocket Car Seat Organizer with Tablet Holder for Back Seat Storage and Organization'")
 
 ### **The Solution: Strategic Organization Systems**
 
@@ -240,7 +240,7 @@ The problem? Holding your phone while driving or glancing down at it in your lap
 
 The solution isn't to stop using navigation—that's impractical in 2025 when we depend on real-time traffic updates and turn-by-turn directions. The solution is to position your phone properly, at eye level, where you can glance at it safely without taking your attention completely off the road. This is where a quality phone mount becomes not just convenient but essential for safety.
 
-**[Image 4 - Insert here]**
+!["Universal magnetic car phone mount with 360-degree rotation holding smartphone on dashboard for hands-free GPS navigation while driving"](/images/uploads/ca4.png "'360-Degree Magnetic Phone Mount for Car Dashboard Safe Hands-Free Navigation'")
 
 ### **Magnetic Mounting Technology: Simple Yet Ingenious**
 
