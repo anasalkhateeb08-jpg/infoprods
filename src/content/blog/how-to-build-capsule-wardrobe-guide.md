@@ -96,10 +96,10 @@ Before purchasing anything new, thoroughly evaluate what you already own and how
 
 Sort items into four categories:
 
-1. **Love and wear regularly** - Items that fit perfectly, make you feel confident, and suit your lifestyle. These pieces work effortlessly in your daily life.
-2. **Like but rarely wear** - Items that are objectively nice but don't fit your current lifestyle, need alterations, don't coordinate with other pieces, or represent an aspirational version of yourself that doesn't match reality.
-3. **Keep for sentimental reasons** - Items with emotional significance that you can't part with despite not wearing them. Be honest about whether these belong in your active wardrobe or should be stored separately.
-4. **Donate or sell** - Items that don't fit, are damaged beyond repair, haven't been worn in over a year, or never felt quite right. These need to leave your closet immediately.
+1. **Love and wear regularly** - Items that fit perfectly, make you feel confident, and suit your lifestyle. These pieces work effortlessly in your daily life.\*\*
+**2. \*\*Like but rarely wear** - Items that are objectively nice but don't fit your current lifestyle, need alterations, don't coordinate with other pieces, or represent an aspirational version of yourself that doesn't match reality.\*\*
+**3. \*\*Keep for sentimental reasons** - Items with emotional significance that you can't part with despite not wearing them. Be honest about whether these belong in your active wardrobe or should be stored separately.\*\*
+**4. \*\*Donate or sell** - Items that don't fit, are damaged beyond repair, haven't been worn in over a year, or never felt quite right. These need to leave your closet immediately.
 
 **Analyze your lifestyle honestly:** Most people build wardrobes based on how they wish they lived rather than how they actually live. You own cocktail dresses but attend formal events twice yearly. You have gym clothes but work out at home in old t-shirts. You own hiking boots but haven't hiked in three years. This disconnect wastes money and closet space.
 
@@ -123,11 +123,11 @@ Understanding your personal style prevents impulse purchases and ensures every i
 
 **Explore style archetypes:** While you're unique, most people gravitate toward recognizable style categories. Identifying yours provides direction:
 
-- **Classic/Traditional:** Timeless pieces, structured silhouettes, neutral colors, minimal embellishment, polished appearance. Think tailored blazers, crisp white shirts, well-fitted trousers, simple dresses. Icons: Audrey Hepburn, Kate Middleton.
-- **Casual/Relaxed:** Comfortable fabrics, easy-fitting garments, practical choices, effortless vibe. Think soft sweaters, well-worn jeans, simple t-shirts, comfortable shoes. Icons: Jennifer Aniston, Ryan Gosling.
-- **Romantic/Feminine:** Soft fabrics, flowing silhouettes, delicate details, floral patterns, gentle colors. Think wrap dresses, lace accents, flowy skirts, soft pastels. Icons: Taylor Swift, Florence Welch.
-- **Edgy/Modern:** Contemporary cuts, bold choices, leather elements, asymmetrical details, monochromatic looks. Think moto jackets, skinny jeans, bold accessories, unexpected combinations. Icons: Rihanna, Harry Styles.
-- **Bohemian/Eclectic:** Natural fabrics, layered pieces, ethnic influences, mixed patterns, artistic flair. Think maxi dresses, embroidered details, mixed textures, unique accessories. Icons: Sienna Miller, Jason Momoa.
+- **Classic/Traditional:** Timeless pieces, structured silhouettes, neutral colors, minimal embellishment, polished appearance. Think tailored blazers, crisp white shirts, well-fitted trousers, simple dresses. Icons: Audrey Hepburn, Kate Middleton.\*\*
+**- \*\*Casual/Relaxed:** Comfortable fabrics, easy-fitting garments, practical choices, effortless vibe. Think soft sweaters, well-worn jeans, simple t-shirts, comfortable shoes. Icons: Jennifer Aniston, Ryan Gosling.\*\*
+**- \*\*Romantic/Feminine:** Soft fabrics, flowing silhouettes, delicate details, floral patterns, gentle colors. Think wrap dresses, lace accents, flowy skirts, soft pastels. Icons: Taylor Swift, Florence Welch.\*\*
+**- \*\*Edgy/Modern:** Contemporary cuts, bold choices, leather elements, asymmetrical details, monochromatic looks. Think moto jackets, skinny jeans, bold accessories, unexpected combinations. Icons: Rihanna, Harry Styles.\*\*
+**- \*\*Bohemian/Eclectic:** Natural fabrics, layered pieces, ethnic influences, mixed patterns, artistic flair. Think maxi dresses, embroidered details, mixed textures, unique accessories. Icons: Sienna Miller, Jason Momoa.
 
 Most people blend elements from multiple categories. You might be primarily classic with romantic touches, or casual with edgy accents. Define your primary style (60-70% of your wardrobe) and secondary influences (30-40%) to create a cohesive but interesting capsule wardrobe.
 
@@ -153,17 +153,17 @@ Finally, include 1-2 accent colors for visual interest:
 
 Example color palette:
 
-- **Neutrals:** Navy, white, camel
-- **Core colors:** Burgundy, forest green
-- **Accent colors:** Mustard yellow, rust orange
+- **Neutrals:** Navy, white, camel\*\*
+**- \*\*Core colors:** Burgundy, forest green\*\*
+**- \*\*Accent colors:** Mustard yellow, rust orange
 
 This palette creates numerous combinations while maintaining visual harmony. Navy pairs with everything. Burgundy and forest green work together and individually with all neutrals. Accent colors add pops of interest without clashing.
 
 **Consider your coloring:** Personal color analysis helps identify which color families suit you best:
 
-- **Cool undertones:** Look best in blues, purples, cool greens, true whites, black, gray. Silver jewelry complements better than gold.
-- **Warm undertones:** Look best in oranges, yellows, warm greens, browns, cream, camel. Gold jewelry is more flattering than silver.
-- **Neutral undertones:** Can wear both cool and warm colors successfully. Both silver and gold jewelry work well.
+- **Cool undertones:** Look best in blues, purples, cool greens, true whites, black, gray. Silver jewelry complements better than gold.\*\*
+**- \*\*Warm undertones:** Look best in oranges, yellows, warm greens, browns, cream, camel. Gold jewelry is more flattering than silver.\*\*
+**- \*\*Neutral undertones:** Can wear both cool and warm colors successfully. Both silver and gold jewelry work well.
 
 Determine your undertone by examining your wrist veins in natural light. Blue or purple veins suggest cool undertones; green veins suggest warm undertones; difficulty distinguishing or seeing both suggests neutral undertones.
 
@@ -173,37 +173,37 @@ Foundation pieces form the backbone of your capsule wardrobe. These are versatil
 
 **Essential tops (8-10 pieces):**
 
-- **2-3 high-quality t-shirts** in neutral colors (white, black, gray, or navy). Choose flattering necklines for your body type—crew neck for longer necks, v-neck for shorter necks or broader shoulders. Quality t-shirts maintain shape, don't pill, and survive countless washes without fading or stretching.
-- **2 button-up shirts** in neutral colors. One crisp white shirt is non-negotiable—endlessly versatile for professional settings, casual wear with jeans, or layered under sweaters. Add one in another neutral or subtle pattern. Fit is crucial—shirts should follow your body line without pulling or gaping.
-- **2-3 blouses or casual tops** in core or accent colors. These add personality while remaining versatile. Choose styles that suit multiple occasions—a silk blouse works for office and dinner, a soft cotton top transitions from errands to lunch with friends.
-- **1-2 sweaters or cardigans** in neutral or core colors. Sweaters provide warmth and layering options while adding texture to outfits. Choose medium-weight options that work across multiple seasons rather than bulky winter-only styles.
+- **2-3 high-quality t-shirts** in neutral colors (white, black, gray, or navy). Choose flattering necklines for your body type—crew neck for longer necks, v-neck for shorter necks or broader shoulders. Quality t-shirts maintain shape, don't pill, and survive countless washes without fading or stretching.\*\*
+**- \*\*2 button-up shirts** in neutral colors. One crisp white shirt is non-negotiable—endlessly versatile for professional settings, casual wear with jeans, or layered under sweaters. Add one in another neutral or subtle pattern. Fit is crucial—shirts should follow your body line without pulling or gaping.\*\*
+**- \*\*2-3 blouses or casual tops** in core or accent colors. These add personality while remaining versatile. Choose styles that suit multiple occasions—a silk blouse works for office and dinner, a soft cotton top transitions from errands to lunch with friends.\*\*
+**- \*\*1-2 sweaters or cardigans** in neutral or core colors. Sweaters provide warmth and layering options while adding texture to outfits. Choose medium-weight options that work across multiple seasons rather than bulky winter-only styles.
 
 **Essential bottoms (6-8 pieces):**
 
-- **2-3 pairs of well-fitted jeans** in dark washes without excessive distressing or embellishment. Classic cuts like straight-leg or slim-fit remain stylish across years while trendy styles quickly date. One pair can be lighter wash or a more relaxed fit for variety.
-- **2 pairs of dress pants or trousers** in neutral colors (black, navy, gray). These elevate any outfit instantly. Choose classic cuts that suit your body type—wide-leg for petite frames, straight-leg for balanced proportions, tapered for athletic builds.
-- **1-2 skirts or shorts** appropriate for your lifestyle and climate. A-line skirts suit most body types and dress up or down easily. Choose knee-length or midi length for maximum versatility.
+- **2-3 pairs of well-fitted jeans** in dark washes without excessive distressing or embellishment. Classic cuts like straight-leg or slim-fit remain stylish across years while trendy styles quickly date. One pair can be lighter wash or a more relaxed fit for variety.\*\*
+**- \*\*2 pairs of dress pants or trousers** in neutral colors (black, navy, gray). These elevate any outfit instantly. Choose classic cuts that suit your body type—wide-leg for petite frames, straight-leg for balanced proportions, tapered for athletic builds.\*\*
+**- \*\*1-2 skirts or shorts** appropriate for your lifestyle and climate. A-line skirts suit most body types and dress up or down easily. Choose knee-length or midi length for maximum versatility.
 
 **Essential dresses (2-3 pieces):**
 
-- **1 versatile day dress** in a neutral or core color that works for multiple occasions. Wrap dresses, shirt dresses, and A-line styles offer excellent versatility and suit various body types.
-- **1 dressier option** for special occasions. A classic little black dress works for most people, or choose a sophisticated style in a core color that makes you feel confident and attractive.
+- **1 versatile day dress** in a neutral or core color that works for multiple occasions. Wrap dresses, shirt dresses, and A-line styles offer excellent versatility and suit various body types.\*\*
+**- \*\*1 dressier option** for special occasions. A classic little black dress works for most people, or choose a sophisticated style in a core color that makes you feel confident and attractive.
 
 **Essential outerwear (2-4 pieces):**
 
-- **1 structured blazer** in a neutral color. This transforms any outfit from casual to polished. Wear it with jeans for smart-casual looks, over dresses for professional settings, or with trousers for traditional business attire.
-- **1 all-weather coat** appropriate for your climate. Trench coats work in temperate climates, wool coats for cold regions, lighter jackets for warm areas. Choose neutral colors that coordinate with your entire wardrobe.
-- **1 casual jacket** like a denim jacket, leather jacket, or utility jacket. This adds personality while remaining practical for everyday wear.
-- **1 seasonal coat** if needed (winter puffer, raincoat, etc.)
+- **1 structured blazer** in a neutral color. This transforms any outfit from casual to polished. Wear it with jeans for smart-casual looks, over dresses for professional settings, or with trousers for traditional business attire.\*\*
+**- \*\*1 all-weather coat** appropriate for your climate. Trench coats work in temperate climates, wool coats for cold regions, lighter jackets for warm areas. Choose neutral colors that coordinate with your entire wardrobe.\*\*
+**- \*\*1 casual jacket** like a denim jacket, leather jacket, or utility jacket. This adds personality while remaining practical for everyday wear.\*\*
+**- \*\*1 seasonal coat** if needed (winter puffer, raincoat, etc.)
 
 **Essential shoes (4-6 pairs):**
 
-- **1 pair of versatile sneakers** in white or a neutral color for casual wear and walking
-- **1 pair of ankle boots** in black or brown—incredibly versatile across seasons
-- **1 pair of professional shoes** (loafers, oxfords, or low heels) for work settings
-- **1 pair of dressier shoes** for special occasions
-- **1 pair of sandals** (if climate appropriate) for warm weather
-- **1 pair of weather-appropriate boots** (if needed for your climate)
+- **1 pair of versatile sneakers** in white or a neutral color for casual wear and walking\*\*
+**- \*\*1 pair of ankle boots** in black or brown—incredibly versatile across seasons\*\*
+**- \*\*1 pair of professional shoes** (loafers, oxfords, or low heels) for work settings\*\*
+**- \*\*1 pair of dressier shoes** for special occasions\*\*
+**- \*\*1 pair of sandals** (if climate appropriate) for warm weather\*\*
+**- \*\*1 pair of weather-appropriate boots** (if needed for your climate)
 
 These foundation pieces create the structure of your capsule wardrobe. Everything else builds upon this versatile base, adding personality, variety, and seasonal adaptation while maintaining coordination and wearability.
 
@@ -248,10 +248,10 @@ Many pieces transition between seasons with smart layering. A sleeveless dress w
 
 Accessories multiply outfit options without requiring closet space or significant investment. Choose quality over quantity:
 
-- **2-3 versatile bags:** One structured bag for professional settings, one casual everyday bag, one small evening bag
-- **1-2 belts:** One in black or brown leather, one more decorative option
-- **Minimal jewelry:** A few favorite pieces you actually wear rather than extensive collections that overwhelm
-- **Scarves, hats, or other accent pieces** that suit your style and climate
+- **2-3 versatile bags:** One structured bag for professional settings, one casual everyday bag, one small evening bag\*\*
+**- \*\*1-2 belts:** One in black or brown leather, one more decorative option\*\*
+**- \*\*Minimal jewelry:** A few favorite pieces you actually wear rather than extensive collections that overwhelm\*\*
+**- \*\*Scarves, hats, or other accent pieces** that suit your style and climate
 
 Accessories shouldn't be an afterthought—they complete outfits and provide personality. However, avoid accumulating excessive accessories that clutter your space and complicate decisions.
 
@@ -265,25 +265,25 @@ Quality clothing costs more initially but provides better value through longevit
 
 **Fabric quality indicators:**
 
-- **Natural fibers:** Cotton, linen, wool, silk, and cashmere generally outperform synthetic alternatives in durability, comfort, breathability, and appearance. Quality synthetics like polyester blends can work well in specific applications (athletic wear, weather-resistant outerwear), but for foundational capsule pieces, prioritize natural fibers.
-- **Fabric weight and density:** Hold fabric up to light—quality fabric has consistent density without thin patches or irregular weaving. Heavier fabrics generally last longer, though weight should suit the garment's purpose.
-- **Fabric hand feel:** Quality fabric feels substantial and smooth, not papery or rough. Run your fingers across the surface—it should feel pleasant and consistent without snags or irregularities.
-- **Pattern alignment:** On patterned fabrics, check that patterns align at seams. Misaligned patterns indicate rushed, low-quality construction where fabric conservation took priority over appearance.
+- **Natural fibers:** Cotton, linen, wool, silk, and cashmere generally outperform synthetic alternatives in durability, comfort, breathability, and appearance. Quality synthetics like polyester blends can work well in specific applications (athletic wear, weather-resistant outerwear), but for foundational capsule pieces, prioritize natural fibers.\*\*
+**- \*\*Fabric weight and density:** Hold fabric up to light—quality fabric has consistent density without thin patches or irregular weaving. Heavier fabrics generally last longer, though weight should suit the garment's purpose.\*\*
+**- \*\*Fabric hand feel:** Quality fabric feels substantial and smooth, not papery or rough. Run your fingers across the surface—it should feel pleasant and consistent without snags or irregularities.\*\*
+**- \*\*Pattern alignment:** On patterned fabrics, check that patterns align at seams. Misaligned patterns indicate rushed, low-quality construction where fabric conservation took priority over appearance.
 
 **Construction quality indicators:**
 
-- **Seam allowances:** Examine inside seams—quality garments have substantial seam allowances (at least 1/2 inch) with finished or serged edges that prevent fraying. Narrow, unfinished seams indicate cost-cutting that limits alterability and longevity.
-- **Stitching quality:** Stitches should be straight, even, and appropriately tight. Loose threads, skipped stitches, or irregular tension suggest poor construction that will fail with regular wear.
-- **Button and fastener quality:** Quality buttons are thick, securely attached with reinforcement, and often include spare buttons sewn inside the garment. Zippers should operate smoothly with substantial teeth—YKK zippers are generally reliable.
-- **Lining presence:** Quality garments in structured fabrics (blazers, dress pants, skirts) include full or partial lining that protects the outer fabric, increases comfort, and improves drape and movement.
-- **Hem quality:** Hems should be substantial (at least 1-2 inches), evenly sewn, and appropriate for the fabric type. Quality hems allow for alterations if needed.
+- **Seam allowances:** Examine inside seams—quality garments have substantial seam allowances (at least 1/2 inch) with finished or serged edges that prevent fraying. Narrow, unfinished seams indicate cost-cutting that limits alterability and longevity.\*\*
+**- \*\*Stitching quality:** Stitches should be straight, even, and appropriately tight. Loose threads, skipped stitches, or irregular tension suggest poor construction that will fail with regular wear.\*\*
+**- \*\*Button and fastener quality:** Quality buttons are thick, securely attached with reinforcement, and often include spare buttons sewn inside the garment. Zippers should operate smoothly with substantial teeth—YKK zippers are generally reliable.\*\*
+**- \*\*Lining presence:** Quality garments in structured fabrics (blazers, dress pants, skirts) include full or partial lining that protects the outer fabric, increases comfort, and improves drape and movement.\*\*
+**- \*\*Hem quality:** Hems should be substantial (at least 1-2 inches), evenly sewn, and appropriate for the fabric type. Quality hems allow for alterations if needed.
 
 **Fit and proportion indicators:**
 
-- **Armhole size:** Quality garments have properly sized armholes that follow your natural shoulder line. Oversized armholes (common in fast fashion) restrict movement and create poor drape.
-- **Sleeve length and width:** Sleeves should taper gradually and appropriately for the garment style rather than being uniformly wide tubes.
-- **Darts and shaping:** Quality women's garments include darts and shaping that follow the body's natural curves rather than being flat, sack-like constructions.
-- **Collar and lapel construction:** These should have interfacing that creates structure while maintaining flexibility. Press them gently—they should spring back into shape.
+- **Armhole size:** Quality garments have properly sized armholes that follow your natural shoulder line. Oversized armholes (common in fast fashion) restrict movement and create poor drape.\*\*
+**- \*\*Sleeve length and width:** Sleeves should taper gradually and appropriately for the garment style rather than being uniformly wide tubes.\*\*
+**- \*\*Darts and shaping:** Quality women's garments include darts and shaping that follow the body's natural curves rather than being flat, sack-like constructions.\*\*
+**- \*\*Collar and lapel construction:** These should have interfacing that creates structure while maintaining flexibility. Press them gently—they should spring back into shape.
 
 ### Strategic Shopping Approach
 
@@ -330,10 +330,10 @@ Inspect secondhand items carefully for wear, stains, odors, missing buttons, bro
 
 **Time your purchases strategically:** Retailers follow predictable seasonal markdown schedules. Shopping during these periods maximizes value:
 
-- **January-February:** Winter clearance sales, new season preview sales
-- **July-August:** Summer clearance, back-to-school promotions
-- **November:** Black Friday and Cyber Monday deep discounts
-- **December:** Post-holiday clearance
+- **January-February:** Winter clearance sales, new season preview sales\*\*
+**- \*\*July-August:** Summer clearance, back-to-school promotions\*\*
+**- \*\*November:** Black Friday and Cyber Monday deep discounts\*\*
+**- \*\*December:** Post-holiday clearance
 
 However, don't let sales drive purchases—only buy items that fit your defined needs and meet quality standards. A 50% discount on something you won't wear is still wasted money.
 
@@ -445,10 +445,10 @@ Not every outfit requires all layers, but understanding this hierarchy helps cre
 
 **Layering guidelines:**
 
-- **Vary thickness:** Each layer should be slightly thicker/heavier than the previous one to create proper proportion and avoid bulkiness.
-- **Consider necklines:** Layer different necklines for visual interest—crew neck under v-neck, collared shirt under crew neck sweater, etc.
-- **Watch silhouettes:** Balance fitted and relaxed pieces. If your base is form-fitting, outer layers can be looser. If your base is relaxed, outer layers should be more structured.
-- **Coordinate lengths:** Ensure each layer is visible—don't hide a beautiful blouse completely under a sweater. Show collars, cuffs, or hem edges to create dimension.
+- **Vary thickness:** Each layer should be slightly thicker/heavier than the previous one to create proper proportion and avoid bulkiness.\*\*
+**- \*\*Consider necklines:** Layer different necklines for visual interest—crew neck under v-neck, collared shirt under crew neck sweater, etc.\*\*
+**- \*\*Watch silhouettes:** Balance fitted and relaxed pieces. If your base is form-fitting, outer layers can be looser. If your base is relaxed, outer layers should be more structured.\*\*
+**- \*\*Coordinate lengths:** Ensure each layer is visible—don't hide a beautiful blouse completely under a sweater. Show collars, cuffs, or hem edges to create dimension.
 
 **Seasonal layering strategies:**
 
@@ -477,9 +477,9 @@ Accessories transform basic outfits into polished, personalized looks. Strategic
 
 **Jewelry guidelines:**
 
-- **Less is more:** Choose one or two focal pieces rather than wearing everything simultaneously. A statement necklace OR bold earrings, not both.
-- **Coordinate with necklines:** Crew necks work well with longer necklaces, v-necks with shorter necklaces, off-shoulder with statement earrings.
-- **Match metals to outfit tone:** Silver/white gold complements cool-toned outfits; yellow gold suits warm-toned outfits. However, mixed metals are perfectly acceptable in modern styling.
+- **Less is more:** Choose one or two focal pieces rather than wearing everything simultaneously. A statement necklace OR bold earrings, not both.\*\*
+**- \*\*Coordinate with necklines:** Crew necks work well with longer necklaces, v-necks with shorter necklaces, off-shoulder with statement earrings.\*\*
+**- \*\*Match metals to outfit tone:** Silver/white gold complements cool-toned outfits; yellow gold suits warm-toned outfits. However, mixed metals are perfectly acceptable in modern styling.
 
 **Bag selection strategies:**
 
@@ -510,45 +510,45 @@ Quality clothing deserves quality care. Proper maintenance preserves appearance,
 
 **Washing wisdom:**
 
-- **Wash less frequently:** Most clothing doesn't need washing after every wear. Jeans can go 5-6 wears between washes; sweaters 3-4 wears; button-up shirts 1-2 wears. Overwashing degrades fabric, fades colors, and shortens garment life.
-- **Follow care labels:** Manufacturers understand their fabrics and construction. Following their care instructions prevents damage and ensures warranty validity.
-- **Use cold water:** Cold water preserves colors, prevents shrinkage, reduces energy consumption, and cleans effectively for most items. Reserve hot water for heavily soiled items or sanitization needs.
-- **Turn garments inside out:** This protects outer surfaces from abrasion, preserves colors, and reduces pilling.
-- **Use gentle cycles:** Aggressive washing damages fabric fibers. Gentle cycles provide effective cleaning with less wear.
-- **Invest in quality detergent:** Premium detergents clean more effectively with less product, rinse completely without residue, and protect fabric integrity better than cheap alternatives.
+- **Wash less frequently:** Most clothing doesn't need washing after every wear. Jeans can go 5-6 wears between washes; sweaters 3-4 wears; button-up shirts 1-2 wears. Overwashing degrades fabric, fades colors, and shortens garment life.\*\*
+**- \*\*Follow care labels:** Manufacturers understand their fabrics and construction. Following their care instructions prevents damage and ensures warranty validity.\*\*
+**- \*\*Use cold water:** Cold water preserves colors, prevents shrinkage, reduces energy consumption, and cleans effectively for most items. Reserve hot water for heavily soiled items or sanitization needs.\*\*
+**- \*\*Turn garments inside out:** This protects outer surfaces from abrasion, preserves colors, and reduces pilling.\*\*
+**- \*\*Use gentle cycles:** Aggressive washing damages fabric fibers. Gentle cycles provide effective cleaning with less wear.\*\*
+**- \*\*Invest in quality detergent:** Premium detergents clean more effectively with less product, rinse completely without residue, and protect fabric integrity better than cheap alternatives.
 
 **Drying best practices:**
 
-- **Air dry when possible:** Heat from dryers shrinks fabrics, weakens fibers, fades colors, and damages elastic. Air drying extends garment life dramatically.
-- **Hang or lay flat:** Hang woven fabrics (shirts, pants, dresses) on appropriate hangers. Lay knits flat to prevent stretching from hanger weight.
-- **Avoid direct sunlight:** Sun fades colors over time. Dry in shaded areas or indoors.
-- **If using a dryer:** Remove items while slightly damp and hang to finish drying. This reduces heat exposure while minimizing wrinkles.
+- **Air dry when possible:** Heat from dryers shrinks fabrics, weakens fibers, fades colors, and damages elastic. Air drying extends garment life dramatically.\*\*
+**- \*\*Hang or lay flat:** Hang woven fabrics (shirts, pants, dresses) on appropriate hangers. Lay knits flat to prevent stretching from hanger weight.\*\*
+**- \*\*Avoid direct sunlight:** Sun fades colors over time. Dry in shaded areas or indoors.\*\*
+**- \*\*If using a dryer:** Remove items while slightly damp and hang to finish drying. This reduces heat exposure while minimizing wrinkles.
 
 **Storage strategies:**
 
-- **Use quality hangers:** Wire hangers distort garment shoulders and cause permanent damage. Invest in wooden or padded hangers that support garments properly.
-- **Fold knits:** Hanging stretches knit fabrics under their own weight. Fold sweaters, knit dresses, and heavy cardigans.
-- **Give clothes space:** Overcrowded closets cause wrinkles and prevent air circulation. One benefit of capsule wardrobes is adequate closet space for each piece.
-- **Seasonal rotation:** Store off-season clothing in breathable garment bags or bins. Clean everything before storage to prevent stains from setting and pests from being attracted to food residues or body oils.
+- **Use quality hangers:** Wire hangers distort garment shoulders and cause permanent damage. Invest in wooden or padded hangers that support garments properly.\*\*
+**- \*\*Fold knits:** Hanging stretches knit fabrics under their own weight. Fold sweaters, knit dresses, and heavy cardigans.\*\*
+**- \*\*Give clothes space:** Overcrowded closets cause wrinkles and prevent air circulation. One benefit of capsule wardrobes is adequate closet space for each piece.\*\*
+**- \*\*Seasonal rotation:** Store off-season clothing in breathable garment bags or bins. Clean everything before storage to prevent stains from setting and pests from being attracted to food residues or body oils.
 
 ### Seasonal Capsule Transitions
 
 Transitioning between seasonal capsules keeps your wardrobe relevant and prevents closet overcrowding. Most people need 2-3 seasonal capsules depending on climate:
 
-- **Warm weather:** Spring and summer pieces
-- **Cold weather:** Fall and winter pieces
-- **Transitional:** Items that work across seasons (optional separate category or integrated into both)
+- **Warm weather:** Spring and summer pieces\*\*
+**- \*\*Cold weather:** Fall and winter pieces\*\*
+**- \*\*Transitional:** Items that work across seasons (optional separate category or integrated into both)
 
 **Transition timing:** Don't rigidly follow calendar dates. Transition based on actual weather patterns in your location. Someone in Southern California has different seasonal needs than someone in Minnesota.
 
 **Transition process:**
 
-1. **Assess current season's performance:** Which pieces did you wear constantly? Which rarely saw use? This information guides future purchasing decisions.
-2. **Clean everything:** Properly launder or dry clean all items before storage. Stains set over time, and body oils attract pests.
-3. **Make repairs:** Fix loose buttons, repair small tears, treat stains now rather than discovering problems when the season returns.
-4. **Store properly:** Use breathable storage containers in cool, dry locations. Avoid plastic bags which trap moisture and promote mildew.
-5. **Introduce next season:** Bring out the upcoming season's capsule and evaluate whether anything needs replacement, updating, or addition.
-6. **Shop strategically:** Fill any identified gaps with intentional purchases rather than impulse buying.
+1. **Assess current season's performance:** Which pieces did you wear constantly? Which rarely saw use? This information guides future purchasing decisions.\*\*
+**2. \*\*Clean everything:** Properly launder or dry clean all items before storage. Stains set over time, and body oils attract pests.\*\*
+**3. \*\*Make repairs:** Fix loose buttons, repair small tears, treat stains now rather than discovering problems when the season returns.\*\*
+**4. \*\*Store properly:** Use breathable storage containers in cool, dry locations. Avoid plastic bags which trap moisture and promote mildew.\*\*
+**5. \*\*Introduce next season:** Bring out the upcoming season's capsule and evaluate whether anything needs replacement, updating, or addition.\*\*
+**6. \*\*Shop strategically:** Fill any identified gaps with intentional purchases rather than impulse buying.
 
 ### Knowing When to Replace Items
 
@@ -556,18 +556,18 @@ Even quality clothing eventually wears out. Knowing when to replace items preven
 
 **Replace when:**
 
-- **Fabric integrity fails:** Holes, thin patches, tears beyond repair, significant pilling that can't be removed
-- **Fit changes permanently:** Body changes happen—replace items that no longer fit rather than keeping them "just in case"
-- **Irreparable stains:** Despite best efforts, some stains don't come out
-- **Extreme fading:** Colors that have faded unevenly or dramatically look worn regardless of garment condition
-- **Style evolution:** Your style changes over time—it's okay to replace items that no longer reflect your authentic aesthetic
+- **Fabric integrity fails:** Holes, thin patches, tears beyond repair, significant pilling that can't be removed\*\*
+**- \*\*Fit changes permanently:** Body changes happen—replace items that no longer fit rather than keeping them "just in case"\*\*
+**- \*\*Irreparable stains:** Despite best efforts, some stains don't come out\*\*
+**- \*\*Extreme fading:** Colors that have faded unevenly or dramatically look worn regardless of garment condition\*\*
+**- \*\*Style evolution:** Your style changes over time—it's okay to replace items that no longer reflect your authentic aesthetic
 
 **Don't replace when:**
 
-- **Minor repairs needed:** Loose buttons, small tears, and loose hems are easily fixable
-- **Slight fading:** Even fading creates a lived-in aesthetic many people prefer
-- **Temporary fit issues:** Weight fluctuations happen—consider alterations before replacing
-- **Trend changes:** If the item still suits your style, ignore trend cycles
+- **Minor repairs needed:** Loose buttons, small tears, and loose hems are easily fixable\*\*
+**- \*\*Slight fading:** Even fading creates a lived-in aesthetic many people prefer\*\*
+**- \*\*Temporary fit issues:** Weight fluctuations happen—consider alterations before replacing\*\*
+**- \*\*Trend changes:** If the item still suits your style, ignore trend cycles
 
 ### Avoiding Wardrobe Creep
 
