@@ -1,13 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-/* تلوين العناوين بالبنفسجي تلقائياً */
-article h2,
-article h3,
-article h4,
-.prose h2,
-.prose h3,
-.prose h4 {
-  color: #7D366A !important;
-}
