@@ -26,7 +26,7 @@ In this comprehensive guide, we'll walk you through every step of building your 
 
 Whether you're a busy professional tired of decision fatigue, a minimalist seeking simplicity, an environmentally conscious consumer wanting to reduce fashion waste, or simply someone who wants to look put-together without the stress—this guide will transform your relationship with your wardrobe and, by extension, with getting dressed every single day.
 
-[Image 1 - Insert here]
+![ "Coordinated color palette for capsule wardrobe showing neutral foundations with core and accent colors arranged harmoniously for maximum versatility"](/images/uploads/fas1.webp "'Capsule Wardrobe Color Coordination - Neutral Palette with Complementary Accent Colors'")
 
 ## 1. Understanding the Capsule Wardrobe Philosophy: More Than Just Minimalism
 
@@ -207,6 +207,8 @@ Foundation pieces form the backbone of your capsule wardrobe. These are versatil
 
 These foundation pieces create the structure of your capsule wardrobe. Everything else builds upon this versatile base, adding personality, variety, and seasonal adaptation while maintaining coordination and wearability.
 
+<a href="https://s.click.aliexpress.com/e/_c3BJ6T5j" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> Women's winter clothing </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
+
 ### Step 4: Add Personality and Seasonal Pieces
 
 Once your foundation is solid, add pieces that reflect your personality, accommodate seasonal changes, and provide visual interest. These items still follow your color palette and coordinate with foundation pieces but offer more variety in style, pattern, and texture.
@@ -248,12 +250,14 @@ Many pieces transition between seasons with smart layering. A sleeveless dress w
 
 Accessories multiply outfit options without requiring closet space or significant investment. Choose quality over quantity:
 
-- **2-3 versatile bags:** One structured bag for professional settings, one casual everyday bag, one small evening bag\*\*
+**2-3 versatile bags:** One structured bag for professional settings, one casual everyday bag, one small evening bag\*\*
 **- \*\*1-2 belts:** One in black or brown leather, one more decorative option\*\*
 **- \*\*Minimal jewelry:** A few favorite pieces you actually wear rather than extensive collections that overwhelm\*\*
 **- \*\*Scarves, hats, or other accent pieces** that suit your style and climate
 
 Accessories shouldn't be an afterthought—they complete outfits and provide personality. However, avoid accumulating excessive accessories that clutter your space and complicate decisions.
+
+<a href="https://s.click.aliexpress.com/e/_c3dfUUzf" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-capsule-wardrobe </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 [Image 3 - Insert here]
 
@@ -262,6 +266,8 @@ Accessories shouldn't be an afterthought—they complete outfits and provide per
 ### Identifying Quality Clothing
 
 Quality clothing costs more initially but provides better value through longevity, appearance retention, comfort, and cost-per-wear. Learning to recognize quality prevents expensive mistakes and ensures your capsule wardrobe investment pays dividends for years.
+
+<a href="https://s.click.aliexpress.com/e/_c4LNEY2t" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-quality-women-clothing </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 **Fabric quality indicators:**
 
@@ -501,6 +507,8 @@ Shoes dramatically change an outfit's vibe and formality level. The same jeans a
 - Heels: Dressy, formal, feminine
 
 Understanding this transformative power lets you stretch outfit versatility significantly with strategic shoe choices.
+
+<a href="https://s.click.aliexpress.com/e/_c3kNbX57" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   wholesale-women-versatile-clothing </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 ## 5. Maintaining Your Capsule Wardrobe Long-Term
 
