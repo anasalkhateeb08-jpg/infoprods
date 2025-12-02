@@ -28,7 +28,7 @@ If you could only choose one anti-aging ingredient for the rest of your life, de
 
 Retinol works at the cellular level, actually changing how your skin cells behave. It accelerates skin cell turnover, replacing dull, damaged surface cells with fresh, healthy ones. It penetrates deep into the dermis where it stimulates fibroblasts—the cells responsible for producing collagen and elastin, the proteins that keep skin firm, smooth, and resilient. As we age, collagen production naturally declines by approximately **1% per year after age 30**. Retinol reverses this decline, instructing your skin to produce more collagen like it did when you were younger.
 
-**[Image 1 - Insert here]**
+!["Retinol anti-aging serum bottle with dropper applying golden serum to woman's face for wrinkle reduction and collagen production"](/images/uploads/be1.png "'Retinol Serum Application for Anti-Aging Wrinkle Treatment and Skin Renewal'")
 
 ### **The Visible Results You Can Expect**
 
@@ -102,7 +102,7 @@ Every day, your skin faces assault from **free radicals**—unstable molecules g
 
 Vitamin C neutralizes free radicals before they cause damage, acting like a shield protecting your skin from environmental aging. Studies show that applying vitamin C serum before sun exposure significantly reduces UV damage, sunburn severity, and long-term photodamage. While it doesn't replace sunscreen, vitamin C provides an additional layer of protection that sunscreen alone cannot offer.
 
-**[Image 2 - Insert here]**
+!["Vitamin C brightening serum with dropper showing clear antioxidant formula for age spots sun damage and radiant complexion"](/images/uploads/be2.png "'Vitamin C Antioxidant Serum for Brightening Dark Spots and Anti-Aging Protection'")
 
 ### **Brightening Effects and Even Skin Tone**
 
