@@ -126,7 +126,7 @@ The camera connects to your car's power via the cigarette lighter socket or can 
 
 Once installed, the dash cam operates automatically. When you start your car, the camera powers on and begins recording within seconds. When you turn off the ignition, it saves the current file and powers down. There's no need for daily interaction—the camera simply does its job silently in the background, requiring no more attention than your rearview mirror.
 
-### **##Parking Mode: Protection Even When You're Away**
+### **Parking Mode: Protection Even When You're Away**
 
 Many advanced dash cams offer **parking mode**, a feature that monitors your vehicle even when it's parked and you're away. Using the G-sensor, the camera detects impacts or motion near your vehicle and automatically begins recording. This feature has helped countless drivers identify hit-and-run perpetrators, vandals, and parking lot incidents that would otherwise go unresolved.
 
