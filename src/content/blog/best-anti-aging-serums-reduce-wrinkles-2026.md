@@ -198,7 +198,7 @@ This moisture loss creates several visible aging signs: Fine lines deepen into w
 
 **Hyaluronic acid serums** replenish this crucial moisture-binding molecule, restoring hydration levels and creating immediate visible improvements. Unlike moisturizers that sit primarily on the skin's surface, hyaluronic acid penetrates into deeper layers, attracting and binding water molecules where they're needed most.
 
-**[Image 3 - Insert here]**
+!["Hyaluronic acid hydrating serum with water droplets showing moisture-binding properties for plump skin and wrinkle reduction"](/images/uploads/be3.png "'Hyaluronic Acid Serum for Deep Hydration Plumping and Anti-Aging Moisture'")
 
 ### **The Immediate Plumping Effect**
 
@@ -302,7 +302,7 @@ Think of peptides as the language your skin cells use to communicate. Young skin
 
 The peptide category includes **hundreds of different compounds**, each with specific functions. Premium anti-aging serums combine multiple peptides to address various aspects of aging simultaneously. This multi-peptide approach delivers results that single-peptide formulations cannot match.
 
-**[Image 4 - Insert here]**
+!["Advanced peptide anti-aging serum with scientific dropper bottle showing collagen-boosting formula for firmer younger-looking skin"](/images/uploads/be4.png "'Peptide Serum for Collagen Production Skin Firming and Advanced Anti-Aging'")
 
 ### **Key Peptide Types and Their Functions**
 
