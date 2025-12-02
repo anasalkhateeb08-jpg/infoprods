@@ -90,7 +90,7 @@ Certain individuals should avoid or carefully consider retinol use:
 
 **Those using certain medications**: Some prescription drugs increase photosensitivity or interact with retinoids. Discuss retinol use with your doctor if you're on any long-term medications.
 
-[**Shop Retinol Anti-Aging Serums on AliExpress**](https://www.aliexpress.com/w/wholesale-retinol-serum-anti-aging.html)
+<a href="https://s.click.aliexpress.com/e/_c3ZlxlSz" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  Retinol Anti-Aging Serums  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 ## **2. Vitamin C Serum: Antioxidant Protection and Brightening Power**
 
@@ -186,7 +186,7 @@ Vitamin C plays well with many skincare ingredients:
 
 **Avoid**: Don't use vitamin C with benzoyl peroxide (deactivates vitamin C) or immediately with niacinamide at high concentrations (may cause temporary flushing in sensitive skin, though recent research suggests they're fine together).
 
-[**Shop Vitamin C Anti-Aging Serums on AliExpress**](https://www.aliexpress.com/w/wholesale-vitamin-c-serum-face.html)
+<a href="https://s.click.aliexpress.com/e/_c3enyaZP" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> Vitamin C Anti-Aging Serums   </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 ## **3. Hyaluronic Acid Serum: Deep Hydration and Plumping Power**
 
@@ -290,7 +290,7 @@ Look for these features in premium HA serums:
 
 **Proper packaging**: While HA is more stable than vitamin C, airless pumps still provide better protection than open jars.
 
-[**Shop Hyaluronic Acid Anti-Aging Serums on AliExpress**](https://www.aliexpress.com/w/wholesale-hyaluronic-acid-serum.html)
+<a href="https://s.click.aliexpress.com/e/_c3xhbZNT" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   Hyaluronic Acid Anti-Aging Serums </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 ## **4. Peptide Serum: Advanced Cellular Communication and Collagen Synthesis**
 
@@ -409,7 +409,7 @@ Look for these features when selecting a peptide serum:
 
 **Reputable brands**: Given the complexity of peptide formulation, established skincare brands with scientific backing tend to produce more reliable products than unknown manufacturers making exaggerated claims.
 
-[**Shop Peptide Anti-Aging Serums on AliExpress**](https://www.aliexpress.com/w/wholesale-peptide-serum-anti-aging.html)
+<a href="https://s.click.aliexpress.com/e/_c3Zmgt5F" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> Peptide Anti-Aging Serums  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 ## **Building the Complete Anti-Aging Routine**
 
