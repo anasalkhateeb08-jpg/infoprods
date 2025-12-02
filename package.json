@@ -11,6 +11,7 @@
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
     "@sveltia/cms": "^0.119.2",
+    "@tailwindcss/vite": "^4.1.17",
     "astro": "^5.16.0",
     "astro-i18next": "^1.0.0-beta.21",
     "i18next": "^25.6.3",
@@ -18,7 +19,6 @@
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.19",
-    "@tailwindcss/vite": "^4.1.17",
     "tailwindcss": "^4.1.17"
   }
 }
