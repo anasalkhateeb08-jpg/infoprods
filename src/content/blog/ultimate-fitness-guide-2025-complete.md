@@ -107,7 +107,7 @@ Recovery includes multiple components:
 
 [https://www.aliexpress.com/w/wholesale-fitness-recovery-equipment.html](https://www.aliexpress.com/w/wholesale-fitness-recovery-equipment.html)
 
-!["Runner in athletic gear performing outdoor cardio training showing high-intensity interval training for cardiovascular fitness improvement"](/images/uploads/FT2.jpg " 'Cardiovascular Training Methods - HIIT and Endurance Running for Heart Health and Fat Loss'")
+!["Runner in athletic gear performing outdoor cardio training showing high-intensity interval training for cardiovascular fitness improvement"](/images/uploads/FT2.jpg "'Cardiovascular Training Methods - HIIT and Endurance Running for Heart Health and Fat Loss'")
 
 ## 2. Strength Training Mastery: Building Muscle, Power, and Resilience
 
@@ -291,7 +291,7 @@ Replace running shoes based on mileage rather than visible wear. The cushioning 
 
 [https://www.aliexpress.com/w/wholesale-foam-roller-massage-tools.html](https://www.aliexpress.com/w/wholesale-foam-roller-massage-tools.html)
 
-[Image 4 - Insert here]
+![ "Person performing yoga stretching exercises demonstrating flexibility and mobility training for injury prevention and movement quality"](/images/uploads/FT4.jpg " 'Flexibility and Mobility Training - Yoga Stretches and Dynamic Warm-up for Injury Prevention'")
 
 ## 4. Flexibility and Mobility: The Foundation of Movement Quality
 
@@ -366,7 +366,7 @@ Perform static stretching after training when muscles are warm rather than befor
 
 Spend 5-10 minutes daily on mobility work targeting your specific restrictions. Consistency matters more than duration—brief daily practice produces better results than occasional lengthy sessions.
 
-[Image 5 - Insert here]
+!["Fitness Nutrition Guide - Meal Prep and Macronutrient Balance for Muscle Growth and Fat Loss"](/images/uploads/FT5.jpg " 'Healthy meal prep containers with lean protein, complex carbohydrates, and vegetables showing balanced nutrition for fitness performance'")
 
 ## 5. Nutrition for Performance: Fueling Your Fitness Journey
 
