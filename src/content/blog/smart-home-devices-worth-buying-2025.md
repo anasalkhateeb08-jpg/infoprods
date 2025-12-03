@@ -177,7 +177,7 @@ Thread is still emerging with limited device availability compared to establishe
 
 **Best for**: Early adopters willing to invest in emerging technology, users wanting future-proof systems, anyone building new smart home installations in 2025 and beyond.
 
-[https://www.aliexpress.com/w/wholesale-smart-home-hub-controller.html](https://www.aliexpress.com/w/wholesale-smart-home-hub-controller.html)
+<a href="https://s.click.aliexpress.com/e/_c30Mr73L" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-smart-home-hub-controller </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Smart LED light bulbs with color changing capability and smartphone app showing lighting controls for automated home ambiance and energy efficiency"](/images/uploads/ho2.jpg "'Smart Lighting Systems - Color Changing LED Bulbs and Automated Home Lighting Control'")
 
@@ -247,7 +247,7 @@ A single smart speaker in your living room provides limited utility. The real po
 
 Start with 2-3 speakers in high-traffic areas (kitchen, living room, bedroom), then expand based on usage patterns and needs. Most people find 4-6 speakers optimal for typical homes, providing coverage without excessive cost or maintenance.
 
-[https://www.aliexpress.com/w/wholesale-smart-speaker-alexa-google.html](https://www.aliexpress.com/w/wholesale-smart-speaker-alexa-google.html)
+<a href="https://s.click.aliexpress.com/e/_c3ZUOhxF" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-smart-speaker-alexa </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 <a name="smart-lighting"></a>
 
@@ -351,9 +351,9 @@ Sengled represents a quality middle ground for budget-conscious buyers wanting b
 
 **GE/Jasco**: Budget-friendly Z-Wave and Zigbee switches ($25-45) requiring hubs but offering excellent compatibility and reliability. These switches integrate well with SmartThings, Hubitat, and other advanced smart home hubs. Good choice for anyone building hub-based systems rather than relying on Wi-Fi.
 
-[https://www.aliexpress.com/w/wholesale-smart-led-bulbs-wifi.html](https://www.aliexpress.com/w/wholesale-smart-led-bulbs-wifi.html)
+<a href="https://s.click.aliexpress.com/e/_c2RUzON3" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   wholesale-smart-led-bulbs-wifi </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[Image 3 - Insert here]
+!["Smart home security camera with night vision and motion detection mounted outdoors monitoring property with smartphone app live view"](/images/uploads/ho3.jpg "'Smart Security Cameras - Video Surveillance and Home Monitoring with Remote Access'")
 
 <a name="smart-security"></a>
 
@@ -431,9 +431,9 @@ Installation is genuinely simple—adhesive mounts for sensors, plug-in base sta
 
 The Ring ecosystem's tight integration is its strength—when the alarm triggers, Ring cameras automatically record, Ring doorbells provide visual verification, and Alexa devices throughout your home can announce alerts. Setup is straightforward, reliability is good, and the Ring app provides centralized control over all security components.
 
-[https://www.aliexpress.com/w/wholesale-smart-door-lock-wifi.html](https://www.aliexpress.com/w/wholesale-smart-door-lock-wifi.html)
+<a href="https://s.click.aliexpress.com/e/_c3k4rSiN" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-smart-door-lock-wifi </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[Image 4 - Insert here]
+!["Smart thermostat with digital display showing temperature control and energy usage app interface for automated climate control and HVAC efficiency"](/images/uploads/ho4.jpg "'Smart Thermostats - Energy Efficient Climate Control with Learning Automation and Remote Access'")
 
 <a name="smart-climate"></a>
 
@@ -483,7 +483,7 @@ Smart fans complement air conditioning by circulating air more efficiently, enab
 
 Poor indoor air quality affects health, sleep, cognitive performance, and comfort—yet most people have no objective measure of their air quality. These monitors provide data enabling informed decisions about ventilation, air purification, and humidity control.
 
-[https://www.aliexpress.com/w/wholesale-smart-thermostat-wifi.html](https://www.aliexpress.com/w/wholesale-smart-thermostat-wifi.html)
+<a href="https://s.click.aliexpress.com/e/_c45zfli1" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-smart-thermostat-wifi </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 <a name="smart-plugs"></a>
 
@@ -539,9 +539,9 @@ The Amazon Smart Plug works only with Alexa and cannot integrate with Google or 
 
 **Coordinated scenes**: Include smart plugs in comprehensive scenes like "Movie Night" (turns on accent lighting, turns off overhead lights, powers on TV and sound system), "Good Morning" (starts coffee maker, turns on bathroom light, activates bedroom fan), or "Bedtime" (powers down all entertainment, turns off all lamps, activates white noise machine).
 
-[https://www.aliexpress.com/w/wholesale-smart-plug-wifi-outlet.html](https://www.aliexpress.com/w/wholesale-smart-plug-wifi-outlet.html)
+<a href="https://s.click.aliexpress.com/e/_c3vOFlgl" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   wholesale-smart-plug-wifi-outlet </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[Image 5 - Insert here]
+!["Smartphone displaying smart home control dashboard app with connected devices including lights, locks, cameras, and thermostat for centralized automation management"](/images/uploads/ho5.webp "'Smart Home Integration - Central Hub Dashboard Controlling All Connected Devices and Automation'")
 
 <a name="smart-entertainment"></a>
 
