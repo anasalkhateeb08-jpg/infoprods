@@ -836,7 +836,7 @@ A: Most people building modest smart home systems (10-30 devices) use only smart
 A: No single best ecosystem for everyone. Alexa offers widest device compatibility and affordability. Google provides superior AI and information retrieval. HomeKit delivers best privacy and Apple ecosystem integration. Choose based on your priorities, existing devices, and ecosystem allegiances. Most devices support multiple platforms, so initial choice isn't permanent lock-in.
 
 <a href="الرابط" style="
-  color: #4CFF74;
+  color: #C4476A;
   font-weight: bold;
   font-size: 18px;
   animation: pulse 2s infinite;
@@ -849,3 +849,5 @@ A: No single best ecosystem for everyone. Alexa offers widest device compatibili
   50% { opacity: 0.7; transform: scale(1.05); }
 }
 </style>
+
+- ["Home Decor Ideas for Small Spaces 2026: 4 Smart Solutions from AliExpress - Complete Transformation Guide!"](https://infoprods.com/blog/home-decor-ideas-small-spaces-2026-aliexpress-guide)
