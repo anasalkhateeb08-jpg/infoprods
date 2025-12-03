@@ -32,7 +32,7 @@ The fitness journey isn't about perfection—it's about progression. It's not ab
 
 Your body is the only place you have to live for your entire life. Doesn't it deserve the investment of understanding how to maintain it, strengthen it, and optimize its performance? Let's begin the transformation.
 
-[Image 1 - Insert here]
+
 
 ## 1. Understanding Fitness Fundamentals: The Science Behind Physical Transformation
 
