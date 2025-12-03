@@ -1,6 +1,6 @@
 ---
 title: 'How to Build a Capsule Wardrobe: The Complete Guide to Timeless Style and Effortless Fashion'
-description: Learn how to build a capsule wardrobe with our comprehensive guide. Discover essential pieces, color coordination, styling tips, and shopping strategies for a minimalist, versatile closet in 2025
+description: Learn how to build a capsule wardrobe with our comprehensive guide. Discover essential pieces, color coordination, styling tips, and shopping strategies for a minimalist, versatile closet in 2026
 author: InfoProds Team
 date: 2025-12-03T01:41:00
 image: /images/uploads/fash.jpg
