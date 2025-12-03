@@ -834,3 +834,18 @@ A: Most people building modest smart home systems (10-30 devices) use only smart
 **Q: What's the best smart home ecosystem—Alexa, Google, or HomeKit?**
 
 A: No single best ecosystem for everyone. Alexa offers widest device compatibility and affordability. Google provides superior AI and information retrieval. HomeKit delivers best privacy and Apple ecosystem integration. Choose based on your priorities, existing devices, and ecosystem allegiances. Most devices support multiple platforms, so initial choice isn't permanent lock-in.
+
+<a href="الرابط" style="
+  color: #4CFF74;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+">  Articles related:   </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
