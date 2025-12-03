@@ -52,7 +52,7 @@ The smart home revolution isn't coming—it's here, it's accelerating, and it's 
 
 Your journey toward a more convenient, efficient, secure, and enjoyable home starts right here, right now. Let's build your intelligent home together.
 
-[Image 1 - Insert here]
+![Home smart speaker with glowing LED light responding to voice commands controlling smart home devices hands-free](/images/uploads/ho1.webp "'Smart Speakers and Voice Assistants - Alexa and Google Home Command Centers for Smart Homes'")
 
 <a name="understanding-smart-home"></a>
 
@@ -179,7 +179,7 @@ Thread is still emerging with limited device availability compared to establishe
 
 [https://www.aliexpress.com/w/wholesale-smart-home-hub-controller.html](https://www.aliexpress.com/w/wholesale-smart-home-hub-controller.html)
 
-[Image 2 - Insert here]
+!["Smart LED light bulbs with color changing capability and smartphone app showing lighting controls for automated home ambiance and energy efficiency"](/images/uploads/ho2.jpg "'Smart Lighting Systems - Color Changing LED Bulbs and Automated Home Lighting Control'")
 
 <a name="smart-speakers"></a>
 
