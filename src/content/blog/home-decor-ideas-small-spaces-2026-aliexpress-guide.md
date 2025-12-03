@@ -1210,3 +1210,20 @@ AliExpress democratizes great design, offering solutions that were once availabl
 Remember that creating your ideal small space is a journey, not a destination. Start with the essentials, add thoughtfully over time, and regularly reassess what serves your life. Small spaces, when designed well, offer advantages—easier to clean, lower environmental impact, less consumption pressure, more intentional living.
 
 The items featured in this guide provide starting points, not prescriptions. Your taste, needs, and budget will guide your specific choices. Use these categories as frameworks, then make selections that resonate with your personal style and practical requirements.
+
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+"> Articles related:  </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+- [Smart Home Devices Worth Buying in 2025: The Complete Guide to Building Your Intelligent Home](https://infoprods.com/blog/smart-home-devices-worth-buying-2025)
