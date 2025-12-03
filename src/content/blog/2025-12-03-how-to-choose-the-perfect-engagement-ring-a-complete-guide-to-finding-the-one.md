@@ -39,7 +39,7 @@ Whether you're planning to propose next month or next year, whether your budget 
 
 The journey to finding the perfect engagement ring starts with education and ends with confidence. Let's begin.
 
-[Image 1 - Insert here]
+![ "Diamond engagement ring close-up showing cut quality, clarity, and brilliance demonstrating 4Cs of diamond selection](/images/uploads/RIN1.jpg "'Understanding Diamond 4Cs - Cut Color Clarity Carat Weight Guide for Engagement Rings'")
 
 <a name="diamond-quality"></a>
 
@@ -89,11 +89,11 @@ The color scale breaks into categories:
 
 Clarity measures internal inclusions (crystals, clouds, feathers) and external blemishes affecting a diamond's appearance. The GIA clarity scale ranges from Flawless to Included, with eleven grades total:
 
-- **Flawless (FL) / Internally Flawless (IF)**: No inclusions visible under 10x magnification. Extremely rare and expensive with no practical benefit for engagement rings—inclusions in lower grades are still invisible to naked eyes.
-- **Very Very Slightly Included (VVS1-VVS2)**: Minute inclusions extremely difficult for trained graders to see under 10x magnification. Completely invisible to naked eyes. Excellent quality but premium pricing for invisible improvements.
-- **Very Slightly Included (VS1-VS2)**: Minor inclusions visible under 10x magnification but rarely visible to naked eyes. **This is the sweet spot for value**—beautiful diamonds at significantly lower prices than VVS grades.
-- **Slightly Included (SI1-SI2)**: Noticeable inclusions under 10x magnification. SI1 inclusions are typically invisible to naked eyes, making SI1 another excellent value grade. SI2 inclusions may be visible to naked eyes depending on size, position, and type—careful selection required.
-- **Included (I1-I3)**: Obvious inclusions visible to naked eyes, potentially affecting durability and transparency. Generally not recommended for engagement rings.
+- **Flawless (FL) / Internally Flawless (IF)**: No inclusions visible under 10x magnification. Extremely rare and expensive with no practical benefit for engagement rings—inclusions in lower grades are still invisible to naked eyes.\*\*
+**- \*\*Very Very Slightly Included (VVS1-VVS2)**: Minute inclusions extremely difficult for trained graders to see under 10x magnification. Completely invisible to naked eyes. Excellent quality but premium pricing for invisible improvements.\*\*
+**- \*\*Very Slightly Included (VS1-VS2)**: Minor inclusions visible under 10x magnification but rarely visible to naked eyes. **This is the sweet spot for value**—beautiful diamonds at significantly lower prices than VVS grades.\*\*
+**- \*\*Slightly Included (SI1-SI2)**: Noticeable inclusions under 10x magnification. SI1 inclusions are typically invisible to naked eyes, making SI1 another excellent value grade. SI2 inclusions may be visible to naked eyes depending on size, position, and type—careful selection required.\*\*
+**- \*\*Included (I1-I3)**: Obvious inclusions visible to naked eyes, potentially affecting durability and transparency. Generally not recommended for engagement rings.
 
 **Smart buying strategy**: Choose VS2 or SI1 clarity grades. These diamonds are "eye-clean" (inclusions invisible to naked eyes without magnification) while costing substantially less than VVS or FL grades. The money saved can significantly increase carat weight or cut quality—factors that actually impact visible beauty.
 
@@ -109,12 +109,12 @@ Carat measures diamond weight, not size, though weight and size correlate closel
 
 **Size perception factors**: Diamond size perception depends on multiple factors beyond carat weight:
 
-- **Cut quality**: Well-cut diamonds appear larger than poorly cut diamonds of equal weight because more light returns through the top, creating larger visual face-up appearance.
-- **Shape**: Some shapes appear larger than others at equal carat weights. Oval, marquise, and pear shapes show larger face-up areas than round brilliants of equal weight.
-- **Setting style**: Halo settings (small diamonds surrounding the center stone) make center diamonds appear significantly larger. Thin bands make center stones appear larger by contrast.
-- **Finger size**: The same diamond appears larger on smaller fingers, smaller on larger fingers—proportional perception matters.
+- **Cut quality**: Well-cut diamonds appear larger than poorly cut diamonds of equal weight because more light returns through the top, creating larger visual face-up appearance.\*\*
+**- \*\*Shape**: Some shapes appear larger than others at equal carat weights. Oval, marquise, and pear shapes show larger face-up areas than round brilliants of equal weight.\*\*
+**- \*\*Setting style**: Halo settings (small diamonds surrounding the center stone) make center diamonds appear significantly larger. Thin bands make center stones appear larger by contrast.\*\*
+**- \*\*Finger size**: The same diamond appears larger on smaller fingers, smaller on larger fingers—proportional perception matters.
 
-[Image 2 - Insert here]
+!["Collection of different engagement ring styles including solitaire, halo, three-stone, and vintage settings displaying variety of options"](/images/uploads/RIN2.jpg "'Engagement Ring Styles and Settings - Solitaire Halo Vintage and Modern Designs'")
 
 <a name="ring-styles"></a>
 
@@ -188,7 +188,7 @@ The perfect ring style ultimately depends on your partner's personal aesthetic p
 
 **Subtle conversation**: Casually browse jewelry together, noting what catches her eye. Point out engagement rings you encounter (in stores, on TV, friends' rings) and gauge her reactions. Most partners will readily share opinions when asked generally, not realizing the specific purpose behind your interest.
 
-[Image 3 - Insert here]
+!["Comparison of engagement ring metal options showing platinum, white gold, yellow gold, and rose gold bands with diamonds"](/images/uploads/RI3.webp " 'Engagement Ring Metal Guide - Platinum White Gold Yellow Gold Rose Gold Comparison'")
 
 <a name="metal-options"></a>
 
@@ -272,18 +272,18 @@ Ring sizes are measured in numerical sizes (in the US) ranging typically from 4 
 
 **Important sizing considerations**:
 
-- **Knuckle vs. finger base**: The ring must fit over the knuckle (typically the widest point) but not spin loosely on the finger base. If there's significant size difference between knuckle and finger base, choose a size fitting the knuckle comfortably.
-- **Wide vs. narrow bands**: Wide bands (over 4mm) require slightly larger sizes than narrow bands because wide metal expands finger circumference. A size 6.5 in a 2mm band might require size 7 in a 6mm band.
-- **Temperature and time of day**: Fingers swell in heat and shrink in cold. They're typically smallest in the morning and largest in the evening. Ideally, measure when fingers are at average size—late afternoon, room temperature conditions.
-- **Seasonal variation**: Fingers are typically slightly larger in summer than winter. If proposing in winter but measuring in summer, the ring may be slightly loose initially but fit better in warmer months.
+- **Knuckle vs. finger base**: The ring must fit over the knuckle (typically the widest point) but not spin loosely on the finger base. If there's significant size difference between knuckle and finger base, choose a size fitting the knuckle comfortably.\*\*
+**- \*\*Wide vs. narrow bands**: Wide bands (over 4mm) require slightly larger sizes than narrow bands because wide metal expands finger circumference. A size 6.5 in a 2mm band might require size 7 in a 6mm band.\*\*
+**- \*\*Temperature and time of day**: Fingers swell in heat and shrink in cold. They're typically smallest in the morning and largest in the evening. Ideally, measure when fingers are at average size—late afternoon, room temperature conditions.\*\*
+**- \*\*Seasonal variation**: Fingers are typically slightly larger in summer than winter. If proposing in winter but measuring in summer, the ring may be slightly loose initially but fit better in warmer months.
 
 ### The "Educated Guess" Approach
 
 If stealth sizing proves impossible, make an educated guess based on her body type:
 
-- **Petite/slender build (under 5'4", under 130 lbs)**: Likely size 4.5-6
-- **Average build (5'4"-5'7", 130-160 lbs)**: Likely size 6-7
-- **Taller/larger build (over 5'7", over 160 lbs)**: Likely size 7-8.5
+- **Petite/slender build (under 5'4", under 130 lbs)**: Likely size 4.5-6\*\*
+**- \*\*Average build (5'4"-5'7", 130-160 lbs)**: Likely size 6-7\*\*
+**- \*\*Taller/larger build (over 5'7", over 160 lbs)**: Likely size 7-8.5
 
 When guessing, **err on the side of slightly too large**. A too-large ring can be temporarily worn on the middle finger or secured with temporary sizing beads until resizing. A too-small ring can't be worn at all, causing disappointment during the proposal moment.
 
@@ -291,7 +291,7 @@ Most jewelers offer free resizing within the first 30-60 days, making initial si
 
 [https://www.aliexpress.com/w/wholesale-ring-sizing-tool.html](https://www.aliexpress.com/w/wholesale-ring-sizing-tool.html)
 
-[Image 4 - Insert here]
+![ "Ring sizing tools and measurement guide showing how to determine correct engagement ring size accurately"](/images/uploads/RI4.avif "'How to Determine Ring Size - Secret Sizing Guide for Engagement Ring Shopping'")
 
 <a name="budget-planning"></a>
 
@@ -303,16 +303,16 @@ The famous "two to three months salary" rule was created by diamond marketing ca
 
 **Set your budget based on**:
 
-- **Your actual financial situation**: Can you afford this purchase without incurring debt, depleting emergency savings, or compromising other financial goals? If the answer is no, reduce your budget.
-- **Your partner's expectations**: Some people genuinely don't care about ring value and would prefer smaller rings with extra money allocated to other priorities (wedding, honeymoon, house down payment). Others have specific expectations based on family traditions or personal values. Honest assessment of their likely preferences matters.
-- **Your personal values**: What feels right to you? What amount represents your commitment meaningfully without feeling excessive or inadequate?
+- **Your actual financial situation**: Can you afford this purchase without incurring debt, depleting emergency savings, or compromising other financial goals? If the answer is no, reduce your budget.\*\*
+**- \*\*Your partner's expectations**: Some people genuinely don't care about ring value and would prefer smaller rings with extra money allocated to other priorities (wedding, honeymoon, house down payment). Others have specific expectations based on family traditions or personal values. Honest assessment of their likely preferences matters.\*\*
+**- \*\*Your personal values**: What feels right to you? What amount represents your commitment meaningfully without feeling excessive or inadequate?
 
 **Comfortable budget ranges**:
 
-- **$1,000-2,500**: Modest but genuine. Requires careful shopping focusing on SI clarity, G-H color, excellent cut, smaller carat weights (0.50-0.75), and possibly lab-grown diamonds for better value.
-- **$2,500-5,000**: Middle range enabling quality natural diamonds around 0.75-1.00 carats with good overall quality (VS2-SI1 clarity, G-H color, excellent cut).
-- **$5,000-10,000**: Upper-middle range affording excellent natural diamonds 1.00-1.50 carats with high quality across all factors, or spectacular larger lab-grown diamonds.
-- **$10,000+**: Premium range enabling large natural diamonds (1.50+ carats), exceptional quality across all factors, designer settings, or unique custom designs.
+- **$1,000-2,500**: Modest but genuine. Requires careful shopping focusing on SI clarity, G-H color, excellent cut, smaller carat weights (0.50-0.75), and possibly lab-grown diamonds for better value.\*\*
+**- \*\*$2,500-5,000**: Middle range enabling quality natural diamonds around 0.75-1.00 carats with good overall quality (VS2-SI1 clarity, G-H color, excellent cut).\*\*
+**- \*\*$5,000-10,000**: Upper-middle range affording excellent natural diamonds 1.00-1.50 carats with high quality across all factors, or spectacular larger lab-grown diamonds.\*\*
+**- \*\*$10,000+**: Premium range enabling large natural diamonds (1.50+ carats), exceptional quality across all factors, designer settings, or unique custom designs.
 
 ### Maximizing Value Within Any Budget
 
@@ -436,7 +436,7 @@ For truly unique rings, custom jewelers design one-of-a-kind pieces based on you
 
 Custom design requires longer timelines (typically 6-12 weeks from conception to completion), higher costs than ready-made rings, and detailed communication ensuring the designer understands your vision. However, for those wanting something no one else has, custom design delivers unmatched personalization.
 
-[Image 5 - Insert here]
+!["Colorful engagement rings featuring sapphire, emerald, and alternative gemstones as diamond alternatives for unique designs"](/images/uploads/RI5.webp " 'Alternative Engagement Ring Gemstones - Sapphire Moissanite and Colored Stone Options'")
 
 <a name="conclusion"></a>
 
