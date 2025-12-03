@@ -6,7 +6,7 @@ date: 2025-11-30T23:56:00
 image: /images/uploads/tank4smartphone.jpg
 category: Technology & Devices
 tags:
-  - rugged smartphones, budget phones, outdoor phones, 5G phones, waterproof phones, rugged phones 2025, phones under $450
+  - rugged smartphones, budget phones, outdoor phones, 5G phones, waterproof phones, rugged phones 2025, 2026 phones under $450
 slug: best-rugged-smartphones-under-450-2025
 ---
 #
