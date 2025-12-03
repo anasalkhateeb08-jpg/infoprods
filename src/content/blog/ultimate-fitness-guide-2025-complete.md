@@ -32,7 +32,7 @@ The fitness journey isn't about perfection—it's about progression. It's not ab
 
 Your body is the only place you have to live for your entire life. Doesn't it deserve the investment of understanding how to maintain it, strengthen it, and optimize its performance? Let's begin the transformation.
 
-![ "Person performing barbell squat exercise with proper form demonstrating fundamental strength training movement pattern for lower body development"](/images/uploads/FT1.jpg "'Strength Training Fundamentals - Proper Squat Form and Progressive Resistance Techniques'")
+!["Person performing barbell squat exercise with proper form demonstrating fundamental strength training movement pattern for lower body development"](/images/uploads/FT1.jpg "'Strength Training Fundamentals - Proper Squat Form and Progressive Resistance Techniques'")
 
 ## 1. Understanding Fitness Fundamentals: The Science Behind Physical Transformation
 
@@ -107,7 +107,7 @@ Recovery includes multiple components:
 
 [https://www.aliexpress.com/w/wholesale-fitness-recovery-equipment.html](https://www.aliexpress.com/w/wholesale-fitness-recovery-equipment.html)
 
-[Image 2 - Insert here]
+!["Runner in athletic gear performing outdoor cardio training showing high-intensity interval training for cardiovascular fitness improvement"](/images/uploads/FT2.jpg " 'Cardiovascular Training Methods - HIIT and Endurance Running for Heart Health and Fat Loss'")
 
 ## 2. Strength Training Mastery: Building Muscle, Power, and Resilience
 
@@ -223,7 +223,7 @@ Perfect technique serves two critical purposes: maximizing training effectivenes
 
 **Listen to your body**: Distinguish between productive training discomfort (muscle burn, cardiovascular challenge, general fatigue) and warning sign pain (joint pain, sharp localized pain, pain that persists beyond training). Training through productive discomfort builds adaptation; training through warning pain creates injuries.
 
-[Image 3 - Insert here]
+!["Home gym setup with adjustable dumbbells, resistance bands, yoga mat, and fitness accessories for complete at-home workout programs"](/images/uploads/FT3.webp "'Essential Home Workout Equipment - Dumbbells, Bands, and Fitness Gear for Effective Training'")
 
 ## 3. Cardiovascular Training Strategies: Building an Unstoppable Engine
 
