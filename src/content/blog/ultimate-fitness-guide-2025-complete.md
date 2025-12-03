@@ -291,7 +291,7 @@ Replace running shoes based on mileage rather than visible wear. The cushioning 
 
 [https://www.aliexpress.com/w/wholesale-foam-roller-massage-tools.html](https://www.aliexpress.com/w/wholesale-foam-roller-massage-tools.html)
 
-![ "Person performing yoga stretching exercises demonstrating flexibility and mobility training for injury prevention and movement quality"](/images/uploads/FT4.jpg " 'Flexibility and Mobility Training - Yoga Stretches and Dynamic Warm-up for Injury Prevention'")
+!["Person performing yoga stretching exercises demonstrating flexibility and mobility training for injury prevention and movement quality"](/images/uploads/FT4.jpg "'Flexibility and Mobility Training - Yoga Stretches and Dynamic Warm-up for Injury Prevention'")
 
 ## 4. Flexibility and Mobility: The Foundation of Movement Quality
 
@@ -366,7 +366,7 @@ Perform static stretching after training when muscles are warm rather than befor
 
 Spend 5-10 minutes daily on mobility work targeting your specific restrictions. Consistency matters more than duration—brief daily practice produces better results than occasional lengthy sessions.
 
-!["Fitness Nutrition Guide - Meal Prep and Macronutrient Balance for Muscle Growth and Fat Loss"](/images/uploads/FT5.jpg " 'Healthy meal prep containers with lean protein, complex carbohydrates, and vegetables showing balanced nutrition for fitness performance'")
+!["Fitness Nutrition Guide - Meal Prep and Macronutrient Balance for Muscle Growth and Fat Loss"](/images/uploads/FT5.jpg "'Healthy meal prep containers with lean protein, complex carbohydrates, and vegetables showing balanced nutrition for fitness performance'")
 
 ## 5. Nutrition for Performance: Fueling Your Fitness Journey
 
@@ -446,7 +446,7 @@ Most pre-workout supplements, BCAAs (if protein intake is adequate), testosteron
 
 [https://www.aliexpress.com/w/wholesale-protein-shaker-bottle.html](https://www.aliexpress.com/w/wholesale-protein-shaker-bottle.html)
 
-[Image 6 - Insert here]
+!["Person using foam roller for muscle recovery and myofascial release demonstrating post-workout recovery techniques for optimal adaptation"](/images/uploads/FT6.jpg "'Fitness Recovery Methods - Foam Rolling, Sleep Optimization, and Active Recovery Techniques'")
 
 ## 6. Recovery and Regeneration: Maximizing Training Adaptations
 
