@@ -78,12 +78,12 @@ The key principle is **progressive overload**: to continue adapting, you must pr
 
 Progressive overload can be achieved through multiple variables:
 
-- **Increasing weight/resistance**: The most obvious method—lift heavier weights over time
-- **Increasing volume**: More sets, reps, or total work performed
-- **Increasing frequency**: Training more often throughout the week
-- **Increasing density**: Performing the same work in less time (reduced rest periods)
-- **Increasing range of motion**: Performing exercises through greater movement ranges
-- **Improving technique**: Executing movements with better form and control
+- **Increasing weight/resistance**: The most obvious method—lift heavier weights over time\*\*
+**- \*\*Increasing volume**: More sets, reps, or total work performed\*\*
+**- \*\*Increasing frequency**: Training more often throughout the week\*\*
+**- \*\*Increasing density**: Performing the same work in less time (reduced rest periods)\*\*
+**- \*\*Increasing range of motion**: Performing exercises through greater movement ranges\*\*
+**- \*\*Improving technique**: Executing movements with better form and control
 
 Beginners can progress quickly because their adaptation potential is highest—they're furthest from their genetic limits. Intermediate trainees progress more slowly as they approach genetic potentials in various capacities. Advanced athletes measure progress in tiny increments because they're operating near their physiological ceilings. This is normal and expected—don't compare your progress to others at different training stages.
 
@@ -139,9 +139,9 @@ A complete strength program includes all seven patterns in appropriate proportio
 
 **Sets and Reps**: Training different rep ranges produces different primary adaptations:
 
-- **1-5 reps (Heavy)**: Primarily builds maximal strength and neural efficiency
-- **6-12 reps (Moderate)**: The "hypertrophy range" most effective for muscle growth
-- **12-20+ reps (Light)**: Develops muscular endurance and work capacity
+- **1-5 reps (Heavy)**: Primarily builds maximal strength and neural efficiency\*\*
+**- \*\*6-12 reps (Moderate)**: The "hypertrophy range" most effective for muscle growth\*\*
+**- \*\*12-20+ reps (Light)**: Develops muscular endurance and work capacity
 
 Most people benefit from spending the majority of training time in the 6-12 rep range with periodically incorporating both heavier strength work (1-5 reps) and lighter endurance work (12-20 reps). This varied approach develops all strength qualities while preventing adaptation plateaus.
 
@@ -263,13 +263,13 @@ The optimal cardiovascular training approach depends on your goals, current fitn
 
 **Sample Weekly Cardiovascular Program (Intermediate Level)**:
 
-- **Monday**: 45-minute LISS run/cycle
-- **Tuesday**: Rest or 20-minute easy walk
-- **Wednesday**: 20-minute HIIT session (30s hard / 90s easy x 8 rounds)
-- **Thursday**: 30-minute moderate-intensity steady-state
-- **Friday**: Rest or 20-minute easy walk
-- **Saturday**: 60-minute LISS run/cycle
-- **Sunday**: 20-minute HIIT session (different modality than Wednesday)
+- **Monday**: 45-minute LISS run/cycle\*\*
+**- \*\*Tuesday**: Rest or 20-minute easy walk\*\*
+**- \*\*Wednesday**: 20-minute HIIT session (30s hard / 90s easy x 8 rounds)\*\*
+**- \*\*Thursday**: 30-minute moderate-intensity steady-state\*\*
+**- \*\*Friday**: Rest or 20-minute easy walk\*\*
+**- \*\*Saturday**: 60-minute LISS run/cycle\*\*
+**- \*\*Sunday**: 20-minute HIIT session (different modality than Wednesday)
 
 This program provides approximately 195 minutes of cardiovascular training with a mix of intensities creating comprehensive adaptations.
 
@@ -307,15 +307,15 @@ Every training session should begin with a dynamic warm-up that gradually increa
 
 **Sample Dynamic Warm-Up (10 minutes)**:
 
-1. **Light cardio** (3-5 minutes): Easy jogging, cycling, or rowing to raise heart rate and tissue temperature
-2. **Leg swings** (10 each direction per leg): Forward/back and side-to-side to mobilize hips
-3. **Arm circles** (10 each direction): Small to large circles mobilizing shoulders
-4. **Bodyweight squats** (10-15 reps): Activating lower body movement patterns
-5. **Inchworms** (5-8 reps): Dynamic hamstring stretch combined with core activation
-6. **Walking lunges** (10 per leg): Mobilizing hips while activating glutes
-7. **Cat-cow stretches** (10 reps): Mobilizing spine through flexion and extension
-8. **Scapular push-ups** (10 reps): Activating shoulder blade muscles
-9. **Jumping jacks** (20-30 reps): Final heart rate elevation before training
+1. **Light cardio** (3-5 minutes): Easy jogging, cycling, or rowing to raise heart rate and tissue temperature\*\*
+**2. \*\*Leg swings** (10 each direction per leg): Forward/back and side-to-side to mobilize hips\*\*
+**3. \*\*Arm circles** (10 each direction): Small to large circles mobilizing shoulders\*\*
+**4. \*\*Bodyweight squats** (10-15 reps): Activating lower body movement patterns\*\*
+**5. \*\*Inchworms** (5-8 reps): Dynamic hamstring stretch combined with core activation\*\*
+**6. \*\*Walking lunges** (10 per leg): Mobilizing hips while activating glutes\*\*
+**7. \*\*Cat-cow stretches** (10 reps): Mobilizing spine through flexion and extension\*\*
+**8. \*\*Scapular push-ups** (10 reps): Activating shoulder blade muscles\*\*
+**9. \*\*Jumping jacks** (20-30 reps): Final heart rate elevation before training
 
 This sequence takes just 10 minutes but dramatically reduces injury risk while improving training performance by properly preparing your body for the work ahead.
 
