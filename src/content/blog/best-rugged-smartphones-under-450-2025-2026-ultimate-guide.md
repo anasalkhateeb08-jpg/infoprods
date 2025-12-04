@@ -331,3 +331,20 @@ These phones definitively prove you don't need to spend $800-1,200 for a smartph
 The Armor 27T Pro suits professionals needing thermal imaging or excellent value. The Tank 3 dominates for battery life and off-grid endurance. The Tank 3S adds portable entertainment and presentation capabilities. The Tank 4 satisfies display quality enthusiasts. The SHARK 3 delivers flagship performance without compromise.
 
 Your perfect rugged smartphone under $450 exists in this lineup. Choose based on your needs, order with confidence, and experience the freedom of a phone that survives your lifestyle while delivering premium features.
+
+<a href="الرابط" style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  text-decoration: none;
+  display: inline-block;
+"> Articles related:  </a>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+- [Best Rugged Smartphones Under $450 in 2025-2026: Top 5 Phones with Massive Batteries](https://infoprods.com/blog/best-rugged-smartphones-under-450-2025)
