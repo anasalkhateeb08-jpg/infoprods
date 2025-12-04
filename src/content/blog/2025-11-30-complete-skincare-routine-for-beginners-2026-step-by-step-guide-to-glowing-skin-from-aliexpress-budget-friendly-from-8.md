@@ -1,4 +1,4 @@
-﻿---
+---
 title: '"Complete Skincare Routine for Beginners 2026: Step-by-Step Guide to Glowing Skin from AliExpress - Budget-Friendly from $8!"'
 description: '"Master your first skincare routine! Complete beginner''s guide to cleansers, moisturizers, sunscreen & treatments from AliExpress. Healthy, glowing skin starts here!"'
 author: InfoProds Team
@@ -23,6 +23,7 @@ Before buying a single product, you need to understand your skin. Using the wron
 #### Oily Skin
 
 Characteristics:
+
 - Shiny appearance, especially in the T-zone (forehead, nose, chin)
 - Enlarged, visible pores
 - Prone to blackheads, whiteheads, and acne
@@ -34,6 +35,7 @@ Characteristics:
 **Benefits:** Oily skin actually has advantages—it ages more slowly than dry skin, develops fewer wrinkles, and maintains better elasticity over time.
 
 Common Mistakes:
+
 - Over-cleansing or using harsh products (triggers more oil production)
 - Skipping moisturizer (dehydrated oily skin produces even more oil)
 - Using heavy, pore-clogging products
@@ -41,6 +43,7 @@ Common Mistakes:
 #### Dry Skin
 
 Characteristics:
+
 - Rough, flaky texture
 - Tight feeling, especially after cleansing
 - Visible dry patches or flaking
@@ -53,6 +56,7 @@ Characteristics:
 **Challenges:** Dry skin can crack or become irritated more easily. It's more susceptible to sensitivity and redness.
 
 Common Mistakes:
+
 - Using foaming or gel cleansers (too stripping)
 - Hot showers (depletes moisture)
 - Not layering hydrating products
@@ -61,6 +65,7 @@ Common Mistakes:
 #### Combination Skin
 
 Characteristics:
+
 - Oily T-zone (forehead, nose, chin)
 - Normal to dry cheeks
 - Enlarged pores in oily areas
@@ -72,6 +77,7 @@ Characteristics:
 **Challenges:** Finding products that balance both oily and dry areas without over-treating either.
 
 Common Mistakes:
+
 - Using the same product everywhere (different zones need different care)
 - Only treating oily areas (neglects dry zones)
 - Not adjusting routine seasonally
@@ -79,6 +85,7 @@ Common Mistakes:
 #### Sensitive Skin
 
 Characteristics:
+
 - Reacts easily to products, weather, or stress
 - Redness, itching, burning sensations
 - Prone to irritation from fragrance or certain ingredients
@@ -91,6 +98,7 @@ Characteristics:
 **Challenges:** Requires careful product selection and patch testing. Many common skincare ingredients trigger reactions.
 
 Common Mistakes:
+
 - Using fragranced products
 - Over-exfoliating
 - Not patch-testing new products
@@ -99,6 +107,7 @@ Common Mistakes:
 #### Normal Skin
 
 Characteristics:
+
 - Balanced moisture and oil production
 - Few to no blemishes
 - Minimal sensitivity
@@ -111,18 +120,24 @@ Characteristics:
 **Benefits:** Most products work well. Fewer concerns to address.
 
 Common Mistakes:
+
 - Taking skin for granted (protection and prevention still essential)
 - Inconsistent routine (healthy skin still needs maintenance)
 
 ### How to Determine Your Skin Type
 
 The Bare-Faced Test:
+
 ## 1. Wash your face with gentle cleanser
+
 ## 2. Pat dry (don't apply any products)
+
 ## 3. Wait 30-60 minutes
+
 ## 4. Examine your skin in natural light
 
 What You'll See:
+
 - **Oily:** Shine across forehead, nose, chin, and possibly cheeks\*\*
 **- \*\*Dry:** Tight feeling, possible flaking, no shine anywhere\*\*
 **- \*\*Combination:** Shine only in T-zone, cheeks feel normal or tight\*\*
@@ -153,6 +168,7 @@ Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumul
 **Evening Cleansing:** This is the most crucial cleanse. Throughout the day, your skin collects makeup, sunscreen, pollution, sweat, and environmental debris. Sleeping with this buildup clogs pores and accelerates aging.
 
 What Happens Without Proper Cleansing:
+
 - Clogged pores leading to blackheads, whiteheads, and acne
 - Dull, congested appearance
 - Premature aging from accumulated free radicals
@@ -166,6 +182,7 @@ What Happens Without Proper Cleansing:
 **Best For:** Oily and combination skin
 
 Characteristics:
+
 - Clear, gel-like consistency
 - Often foaming when mixed with water
 - Effectively removes excess oil
@@ -173,6 +190,7 @@ Characteristics:
 - Usually contains surfactants for thorough cleansing
 
 What to Look For:
+
 - pH-balanced formulas (around 5.5)
 - Sulfate-free options to prevent stripping
 - Ingredients like salicylic acid for acne-prone skin
@@ -181,12 +199,14 @@ What to Look For:
 **Price Range on AliExpress:** $8-$18 for 100-150ml
 
 Popular Ingredients:
+
 - **Salicylic Acid** - Penetrates pores, prevents acne\*\*
 **- \*\*Tea Tree Oil** - Natural antibacterial properties\*\*
 **- \*\*Glycolic Acid** - Gentle exfoliation for smoother texture\*\*
 **- \*\*Niacinamide** - Regulates sebum production
 
 Application Tips:
+
 - Use lukewarm water (hot water strips skin)
 - Massage gently for 60 seconds
 - Focus on oily areas (T-zone)
@@ -197,6 +217,7 @@ Application Tips:
 **Best For:** Dry and sensitive skin
 
 Characteristics:
+
 - Rich, creamy texture
 - Non-foaming or low-foam
 - Hydrating and gentle
@@ -204,6 +225,7 @@ Characteristics:
 - Often contains moisturizing ingredients
 
 What to Look For:
+
 - Fragrance-free formulas
 - Ceramides for barrier repair
 - Hyaluronic acid for hydration
@@ -213,12 +235,14 @@ What to Look For:
 **Price Range on AliExpress:** $10-$20 for 100-150ml
 
 Popular Ingredients:
+
 - **Ceramides** - Repair and strengthen skin barrier\*\*
 **- \*\*Hyaluronic Acid** - Attracts and retains moisture\*\*
 **- \*\*Squalane** - Mimics skin's natural oils\*\*
 **- \*\*Colloidal Oatmeal** - Soothes and calms irritation
 
 Application Tips:
+
 - Apply to dry or damp skin
 - Massage gently in circular motions
 - Can be removed with water or soft cloth
@@ -229,6 +253,7 @@ Application Tips:
 **Best For:** All skin types, especially for removing makeup and sunscreen
 
 Characteristics:
+
 - Liquid oil consistency
 - Emulsifies with water
 - Dissolves makeup, sunscreen, and sebum
@@ -236,6 +261,7 @@ Characteristics:
 - Doesn't leave greasy residue when rinsed properly
 
 What to Look For:
+
 - Lightweight oils (jojoba, grapeseed, rice bran)
 - Easy emulsification when water is added
 - No added fragrance for sensitive skin
@@ -244,12 +270,14 @@ What to Look For:
 **Price Range on AliExpress:** $12-$25 for 100-200ml
 
 Popular Oil Bases:
+
 - **Jojoba Oil** - Similar to skin's natural sebum\*\*
 **- \*\*Grapeseed Oil** - Light, absorbs quickly\*\*
 **- \*\*Rice Bran Oil** - Rich in antioxidants\*\*
 **- \*\*Squalane** - Non-comedogenic, deeply nourishing
 
 Application Tips:
+
 - Apply to dry skin
 - Massage thoroughly for 1-2 minutes
 - Add water to emulsify (turns milky white)
@@ -261,6 +289,7 @@ Application Tips:
 **Best For:** All skin types, gentle cleansing, makeup removal
 
 Characteristics:
+
 - Clear, water-like liquid
 - Contains micelles (tiny oil molecules)
 - No rinsing required (though recommended)
@@ -268,6 +297,7 @@ Characteristics:
 - Quick and convenient
 
 What to Look For:
+
 - Alcohol-free formulas
 - Added hydrating ingredients
 - Suitable for eyes (if removing eye makeup)
@@ -276,12 +306,14 @@ What to Look For:
 **Price Range on AliExpress:** $8-$15 for 200-400ml
 
 Popular Ingredients:
+
 - **Micelles** - Tiny cleansing molecules that attract dirt and oil\*\*
 **- \*\*Glycerin** - Hydrates while cleansing\*\*
 **- \*\*Panthenol** - Soothes and calms\*\*
 **- \*\*Rose Water** - Gentle, refreshing
 
 Application Tips:
+
 - Saturate cotton pad
 - Gently swipe across face
 - No rubbing or tugging (especially around eyes)
@@ -293,6 +325,7 @@ Application Tips:
 **What Is It:** A two-step cleansing process originating from Korean skincare. First cleanse removes makeup, sunscreen, and oil-based impurities. Second cleanse addresses water-based impurities and deeper cleaning.
 
 When to Double Cleanse:
+
 - Evening, after wearing makeup or sunscreen
 - After particularly sweaty or dirty activities
 - When living in polluted environments
@@ -300,18 +333,27 @@ When to Double Cleanse:
 
 How to Double Cleanse:
 Step 1 - Oil-Based Cleanser:
+
 ## 1. Apply to dry skin
+
 ## 2. Massage for 1-2 minutes
+
 ## 3. Add water to emulsify
+
 ## 4. Rinse thoroughly
 
 Step 2 - Water-Based Cleanser:
+
 ## 1. Apply gel or cream cleanser to damp skin
+
 ## 2. Massage for 60 seconds
+
 ## 3. Rinse thoroughly
+
 ## 4. Pat dry with clean towel
 
 Benefits:
+
 - Thoroughly removes all impurities
 - Prevents clogged pores
 - Prepares skin for better product absorption
@@ -319,6 +361,7 @@ Benefits:
 - Skin feels genuinely clean without stripping
 
 Common Mistakes:
+
 - Using harsh cleansers in second step (first step did heavy lifting)
 - Double cleansing morning and night (overkill—evening only)
 - Not rinsing thoroughly between steps
@@ -327,6 +370,7 @@ Common Mistakes:
 ### How to Cleanse Properly
 
 Step-by-Step Process:
+
 ## 1. **Remove Makeup First (if applicable)**
 
     - Use micellar water or oil cleanser
@@ -407,6 +451,7 @@ Moisturizers are non-negotiable for every skin type, including oily skin. They h
 **What They Do:** Draw water from the environment and deeper skin layers to the surface, increasing hydration.
 
 Common Humectants:
+
 - **Hyaluronic Acid** - Holds up to 1000x its weight in water\*\*
 **- \*\*Glycerin** - Effective, affordable humectant in most moisturizers\*\*
 **- \*\*Urea** - Humectant that also gently exfoliates\*\*
@@ -422,6 +467,7 @@ Common Humectants:
 **What They Do:** Fill in gaps between skin cells, smoothing texture and softening skin. They improve the look and feel of skin immediately.
 
 Common Emollients:
+
 - **Squalane** - Mimics skin's natural sebum\*\*
 **- \*\*Ceramides** - Lipids naturally found in skin barrier\*\*
 **- \*\*Shea Butter** - Rich, nourishing emollient\*\*
@@ -435,6 +481,7 @@ Common Emollients:
 **What They Do:** Create a physical barrier on skin's surface that prevents water loss (TEWL). The final sealing step in moisturizing.
 
 Common Occlusives:
+
 - **Petrolatum (Petroleum Jelly)** - Most effective occlusive\*\*
 **- \*\*Dimethicone** - Silicone-based, lightweight occlusive\*\*
 **- \*\*Mineral Oil** - Refined oil that seals moisture\*\*
@@ -452,6 +499,7 @@ Common Occlusives:
 **Best For:** Oily, combination, and acne-prone skin
 
 Characteristics:
+
 - Lightweight, water-based formula
 - Absorbs quickly without residue
 - Non-greasy finish
@@ -460,6 +508,7 @@ Characteristics:
 - Suitable for humid climates
 
 Key Ingredients to Look For:
+
 - Hyaluronic acid for hydration
 - Niacinamide for oil control
 - Aloe vera for soothing
@@ -468,6 +517,7 @@ Key Ingredients to Look For:
 **Price Range on AliExpress:** $10-$20 for 50-100ml
 
 Application Tips:
+
 - Apply to damp skin for better absorption
 - Layer if needed (gel texture allows layering)
 - Perfect under makeup
@@ -478,6 +528,7 @@ Application Tips:
 **Best For:** Normal to combination skin
 
 Characteristics:
+
 - Balanced water-to-oil ratio
 - Lightweight to medium weight
 - Absorbs relatively quickly
@@ -485,6 +536,7 @@ Characteristics:
 - Good for all seasons
 
 Key Ingredients to Look For:
+
 - Ceramides for barrier support
 - Peptides for anti-aging
 - Antioxidants (vitamin C, E)
@@ -493,6 +545,7 @@ Key Ingredients to Look For:
 **Price Range on AliExpress:** $12-$25 for 50-100ml
 
 Application Tips:
+
 - Works well morning and night
 - Suitable under sunscreen
 - Can layer with serums
@@ -503,6 +556,7 @@ Application Tips:
 **Best For:** Dry, mature, and winter-dry skin
 
 Characteristics:
+
 - Rich, thick texture
 - Higher oil content
 - Longer absorption time
@@ -511,6 +565,7 @@ Characteristics:
 - Ideal for cold, dry climates
 
 Key Ingredients to Look For:
+
 - Shea butter for richness
 - Ceramides for barrier repair
 - Squalane for nourishment
@@ -519,6 +574,7 @@ Key Ingredients to Look For:
 **Price Range on AliExpress:** $15-$30 for 50-100ml
 
 Application Tips:
+
 - Warm between hands before applying
 - Perfect for nighttime
 - May be too heavy for daytime (depending on skin)
@@ -529,6 +585,7 @@ Application Tips:
 **Best For:** All skin types needing extra hydration
 
 Characteristics:
+
 - Very rich, intensive treatment
 - Applied as final nighttime step
 - Left on overnight
@@ -536,6 +593,7 @@ Characteristics:
 - Used 1-3 times per week
 
 Key Ingredients to Look For:
+
 - Hyaluronic acid for intense hydration
 - Botanical extracts for nourishment
 - Oils for overnight barrier support
@@ -544,6 +602,7 @@ Key Ingredients to Look For:
 **Price Range on AliExpress:** $10-$25 for 50-80ml
 
 Application Tips:
+
 - Apply generously as last step
 - Don't rinse off
 - Sleep on clean pillowcase
@@ -554,11 +613,13 @@ Application Tips:
 **Timing Matters:** Apply moisturizer to damp skin within 3 minutes of cleansing. Slightly damp skin absorbs products better and locks in more hydration.
 
 Proper Amount:
+
 - Face: Nickel-sized amount (about 1/4 teaspoon)
 - Neck: Additional small amount
 - Don't under-apply—skin needs adequate coverage
 
 Application Technique:
+
 ## 1. **Warm Product:**
 
     - Dispense into palm
@@ -595,12 +656,14 @@ Application Technique:
 
 Morning vs. Night Moisturizer:
 Morning Moisturizer Should:
+
 - Be lightweight enough for sunscreen on top
 - Provide hydration without greasiness
 - Work well under makeup
 - Contain antioxidants for environmental protection
 
 Night Moisturizer Can:
+
 - Be richer and more nourishing
 - Focus on repair and regeneration
 - Contain active ingredients (retinol, peptides)
@@ -608,12 +671,14 @@ Night Moisturizer Can:
 
 Seasonal Adjustments:
 Summer:
+
 - Switch to lighter formulas (gel or light lotion)
 - Focus on oil-free, mattifying options
 - Hydration still essential despite humidity
 - May need less product
 
 Winter:
+
 - Upgrade to richer formulas (cream)
 - Layer products for extra protection
 - May need to moisturize twice daily with cream
@@ -632,12 +697,14 @@ If you remember only one thing from this guide, remember this: **Sunscreen is th
 **UV Damage Happens Daily:** UV rays penetrate through windows, clouds, and even on overcast days. If there's daylight, there's UV exposure—and exposure accumulates over time.
 
 What UV Rays Do to Skin:
+
 - **UVA rays** penetrate deep, causing premature aging (wrinkles, sagging, age spots)\*\*
 **- \*\*UVB rays** burn the surface, causing redness and skin cancer\*\*
 **- \*\*Both rays** break down collagen and elastin\*\*
 **- \*\*Cumulative damage** shows up as aging, pigmentation, and increased cancer risk
 
 The Statistics:
+
 - 90% of visible aging is caused by sun exposure
 - Daily sunscreen use reduces melanoma risk by 50%
 - Skin cancer is the most common cancer globally
@@ -652,6 +719,7 @@ The Statistics:
 **How to Calculate:** If you burn in 10 minutes without protection, SPF 30 theoretically protects for 300 minutes (10 × 30 = 300). However, this is ideal conditions—real-world protection degrades faster.
 
 SPF Recommendations:
+
 - **Minimum:** SPF 30 (blocks 97% of UVB rays)\*\*
 **- \*\*Better:** SPF 50 (blocks 98% of UVB rays)\*\*
 **- \*\*Higher:** SPF 50+ offers marginally more protection
@@ -667,6 +735,7 @@ SPF Recommendations:
 **How They Work:** Absorb UV rays and convert them to heat, which is then released from skin.
 
 Common Active Ingredients:
+
 - Avobenzone
 - Octinoxate
 - Octisalate
@@ -674,6 +743,7 @@ Common Active Ingredients:
 - Homosalate
 
 Pros:
+
 - Lighter, more elegant texture
 - No white cast
 - Easier to layer under makeup
@@ -681,6 +751,7 @@ Pros:
 - Often more cosmetically elegant
 
 Cons:
+
 - Can irritate sensitive skin
 - Takes 15-20 minutes to become effective
 - Some ingredients may disrupt hormones (controversial)
@@ -696,10 +767,12 @@ Cons:
 **How They Work:** Sit on top of skin and physically deflect/scatter UV rays like a shield.
 
 Active Ingredients:
+
 - Zinc oxide
 - Titanium dioxide
 
 Pros:
+
 - Effective immediately upon application
 - Better for sensitive, reactive skin
 - Photostable (doesn't break down in sun)
@@ -708,6 +781,7 @@ Pros:
 - No hormone disruption concerns
 
 Cons:
+
 - Can leave white cast (especially on darker skin)
 - Often thicker, heavier texture
 - Can feel chalky or dry
@@ -725,6 +799,7 @@ Cons:
 **What They Are:** Combine both chemical and physical filters to get benefits of both.
 
 Advantages:
+
 - Broader protection
 - Better texture than pure mineral
 - Less white cast than pure mineral
@@ -737,6 +812,7 @@ Advantages:
 **The 2-Finger Rule:** Most people apply only 25-50% of the needed amount. Proper application requires approximately 1/4 teaspoon (about 2 finger-lengths worth) for face alone.
 
 How Much to Use:
+
 - **Face:** 1/4 teaspoon\*\*
 **- \*\*Neck:** Additional small amount\*\*
 **- \*\*Total:** Approximately 1/2 teaspoon for face and neck
@@ -744,6 +820,7 @@ How Much to Use:
 **Why Amount Matters:** SPF testing is done with 2 mg/cm² of skin. Using less means significantly lower protection. SPF 50 applied at half the amount provides roughly SPF 25 protection—and most people use far less than even that.
 
 Application Steps:
+
 ## 1. **Apply as Last Skincare Step (before makeup)**
 
     - After moisturizer has absorbed (1-2 minutes)
@@ -772,6 +849,7 @@ Application Steps:
     - Over makeup: use powder sunscreen or spray
 
 Commonly Missed Spots:
+
 - Eyelids
 - Around eyes
 - Ears
@@ -828,6 +906,7 @@ Once you've established the three basics (cleanse, moisturize, protect), you can
 #### Niacinamide (Vitamin B3)
 
 What It Does:
+
 - Regulates oil production
 - Minimizes pore appearance
 - Improves skin barrier
@@ -836,6 +915,7 @@ What It Does:
 - Increases ceramide production
 
 Best For:
+
 - Oily, acne-prone skin
 - Enlarged pores
 - Hyperpigmentation
@@ -843,12 +923,14 @@ Best For:
 - Dull, uneven skin tone
 
 How to Use:
+
 - Apply after cleansing, before moisturizer
 - Can be used morning and night
 - Concentration: 5-10% is effective
 - Compatible with most other ingredients
 
 What to Expect:
+
 - Visible results in 4-8 weeks
 - Gradual improvement in texture and tone
 - Reduced oiliness within 2-4 weeks
@@ -859,6 +941,7 @@ What to Expect:
 #### Vitamin C (Ascorbic Acid)
 
 What It Does:
+
 - Powerful antioxidant
 - Brightens skin and evens tone
 - Fades dark spots and hyperpigmentation
@@ -867,6 +950,7 @@ What It Does:
 - Enhances sunscreen effectiveness
 
 Best For:
+
 - Dull, tired-looking skin
 - Hyperpigmentation and dark spots
 - Early signs of aging
@@ -874,18 +958,21 @@ Best For:
 - Uneven skin tone
 
 How to Use:
+
 - Apply in morning (maximizes antioxidant protection)
 - After cleansing, before moisturizer and sunscreen
 - Start with lower concentration (10-15%)
 - Store in cool, dark place (oxidizes easily)
 
 What to Expect:
+
 - Brighter skin within 2-4 weeks
 - Fading of dark spots in 8-12 weeks
 - Improved texture over time
 - May cause mild tingling initially
 
 Important Notes:
+
 - Vitamin C oxidizes (turns yellow/brown)—this reduces effectiveness
 - Store properly and replace every 3-6 months
 - Use opaque or dark bottles
@@ -896,6 +983,7 @@ Important Notes:
 #### Hyaluronic Acid
 
 What It Does:
+
 - Holds up to 1000x its weight in water
 - Intensely hydrates without heaviness
 - Plumps fine lines temporarily
@@ -903,6 +991,7 @@ What It Does:
 - Suitable for all skin types
 
 Best For:
+
 - Dehydrated skin
 - Fine lines
 - Rough texture
@@ -910,12 +999,14 @@ Best For:
 - Layering under moisturizer
 
 How to Use:
+
 - Apply to damp skin (crucial for effectiveness)
 - Before moisturizer
 - Can be used morning and night
 - Layer other products on top while still damp
 
 What to Expect:
+
 - Immediate plumping effect
 - Softer, smoother skin
 - Reduced appearance of fine lines
@@ -926,6 +1017,7 @@ What to Expect:
 #### Retinol (Vitamin A)
 
 What It Does:
+
 - Gold standard anti-aging ingredient
 - Increases cell turnover
 - Boosts collagen production
@@ -934,6 +1026,7 @@ What It Does:
 - Smooths texture and fine lines
 
 Best For:
+
 - Signs of aging (wrinkles, loss of firmness)
 - Acne and clogged pores
 - Hyperpigmentation
@@ -941,6 +1034,7 @@ Best For:
 - Sun damage
 
 How to Use:
+
 - **Start slowly:** Once or twice per week\*\*
 **- \*\*Always at night:** Retinol breaks down in sunlight\*\*
 - \*\*After cleansing, on dry skin
@@ -950,11 +1044,13 @@ How to Use:
 - **Always use sunscreen next morning** (retinol increases sun sensitivity)
 
 What to Expect:
+
 - **Initial Period (2-4 weeks):** Possible redness, flaking, purging (temporary breakouts as pores clear)\*\*
 **- \*\*After Adjustment (6-12 weeks):** Smoother texture, fading of dark spots, improved firmness\*\*
 **- \*\*Long Term (3-6 months+):** Significant improvement in fine lines, overall skin quality
 
 Beginner Retinol Tips:
+
 - Start with 0.25-0.5% concentration
 - Use only 2x per week initially
 - Skip nights if irritation occurs
@@ -962,6 +1058,7 @@ Beginner Retinol Tips:
 - Be patient—results take months
 
 Important Warnings:
+
 - Not recommended during pregnancy or breastfeeding
 - Increases sun sensitivity—sunscreen mandatory
 - Can be irritating—introduce gradually
@@ -972,6 +1069,7 @@ Important Warnings:
 #### Salicylic Acid (BHA)
 
 What It Does:
+
 - Oil-soluble exfoliant
 - Penetrates pores deeply
 - Dissolves blackheads and whiteheads
@@ -979,6 +1077,7 @@ What It Does:
 - Prevents acne formation
 
 Best For:
+
 - Oily, acne-prone skin
 - Blackheads and whiteheads
 - Clogged pores
@@ -986,6 +1085,7 @@ Best For:
 - Back/body acne
 
 How to Use:
+
 - Start 2-3 times per week
 - Can be used morning or night
 - Apply after cleansing
@@ -993,12 +1093,14 @@ How to Use:
 - Concentration: 0.5-2% for beginners
 
 What to Expect:
+
 - Initial purging possible (1-2 weeks)
 - Clearer pores within 4-6 weeks
 - Reduced blackheads and breakouts
 - Smoother skin texture
 
 Important Notes:
+
 - Can be drying—don't overuse
 - Always moisturize after
 - Use sunscreen (increases sun sensitivity)
@@ -1011,32 +1113,48 @@ Important Notes:
 **Basic Layering Rule:** Thinnest to thickest consistency.
 
 Standard Routine Order:
+
 ## 1. Cleanser
+
 ## 2. Toner (if using)
+
 ## 3. Treatment serums (thinnest first)
+
 ## 4. Moisturizer
+
 ## 5. Sunscreen (AM only)
 
 Example Morning Routine:
+
 ## 1. Cleanser
+
 ## 2. Vitamin C serum
+
 ## 3. Hyaluronic acid serum
+
 ## 4. Moisturizer
+
 ## 5. Sunscreen
 
 Example Night Routine:
+
 ## 1. Cleanser (double cleanse if wearing makeup/sunscreen)
+
 ## 2. Niacinamide serum
+
 ## 3. Retinol (2-3x per week)
+
 ## 4. Moisturizer
 
 What NOT to Mix:
 Avoid Combining:
+
 - Retinol + Vitamin C (use one in AM, one in PM)
 - Retinol + AHA/BHA acids (too harsh combined)
 - Multiple strong acids in one routine
 
 Safe Combinations:
+
 - Niacinamide + Hyaluronic acid
 - Vitamin C + Hyaluronic acid
 - Niacinamide + most other ingredients
@@ -1048,17 +1166,23 @@ Safe Combinations:
 ### The Absolute Beginner Routine (First 1-2 Months)
 
 Morning:
+
 ## 1. Gentle cleanser
+
 ## 2. Moisturizer (for your skin type)
+
 ## 3. Sunscreen SPF 30+
 
 Evening:
+
 ## 1. Gentle cleanser (double cleanse if wearing makeup/sunscreen)
+
 ## 2. Moisturizer
 
 **Budget:** $40-$60 total
 
 Goals:
+
 - Establish consistency
 - Let skin adjust
 - Create the habit
@@ -1067,20 +1191,29 @@ Goals:
 ### The Intermediate Routine (Months 3-6)
 
 Morning:
+
 ## 1. Gentle cleanser
+
 ## 2. Vitamin C or Niacinamide serum
+
 ## 3. Moisturizer
+
 ## 4. Sunscreen SPF 50
 
 Evening:
+
 ## 1. Oil cleanser (if wearing makeup/sunscreen)
+
 ## 2. Water-based cleanser
+
 ## 3. Hyaluronic acid serum
+
 ## 4. Moisturizer
 
 **Budget:** $70-$100 total
 
 Goals:
+
 - Add targeted treatments
 - Address specific concerns
 - Continue consistency
@@ -1088,23 +1221,35 @@ Goals:
 ### The Advanced Beginner Routine (6+ Months)
 
 Morning:
+
 ## 1. Gentle cleanser
+
 ## 2. Vitamin C serum
+
 ## 3. Hyaluronic acid
+
 ## 4. Moisturizer
+
 ## 5. Sunscreen SPF 50
 
 Evening:
+
 ## 1. Oil cleanser
+
 ## 2. Water-based cleanser
+
 ## 3. Niacinamide or treatment serum
+
 ## 4. Retinol (2-3x per week)
+
 ## 5. Moisturizer
+
 ## 6. Sleeping mask or rich night cream (1-2x per week)
 
 **Budget:** $100-$150 total
 
 Goals:
+
 - Full routine with anti-aging focus
 - Multiple targeted treatments
 - Maintained consistency
@@ -1158,11 +1303,13 @@ Goals:
 ### Starting Budget Breakdown
 
 Essential Beginner Set ($40-$60):
+
 - Cleanser: $10-$15
 - Moisturizer: $12-$20
 - Sunscreen: $12-$25
 
 Intermediate Set ($70-$100):
+
 - Cleanser: $10-$15
 - Treatment serum: $10-$20
 - Moisturizer: $12-$20
@@ -1170,6 +1317,7 @@ Intermediate Set ($70-$100):
 - Additional treatment: $10-$20
 
 Advanced Set ($100-$150):
+
 - Cleansing oil: $12-$20
 - Water-based cleanser: $10-$15
 - Vitamin C serum: $10-$20
@@ -1183,6 +1331,7 @@ Advanced Set ($100-$150):
 ### Shopping Smart on AliExpress
 
 Finding Quality Products:
+
 - Look for sellers with 95%+ positive ratings
 - Check for "Top Brand" or "Choice" badges
 - Read reviews with photos
@@ -1190,12 +1339,14 @@ Finding Quality Products:
 - Compare prices across multiple sellers
 
 Understanding Shipping:
+
 - Standard shipping: 15-30 days
 - AliExpress Standard: 12-20 days with tracking
 - Express: 7-15 days (higher cost)
 - Factor shipping time into planning
 
 Safety Tips:
+
 - Check ingredient lists carefully
 - Look for certifications (if available)
 - Start with well-known, basic products
@@ -1203,11 +1354,13 @@ Safety Tips:
 - Buy from established sellers
 
 When to Pay More:
+
 - Sunscreen (quality matters most here)
 - Retinol (stability and effectiveness vary significantly)
 - Vitamin C (oxidizes quickly if poorly formulated)
 
 Where to Save:
+
 - Basic cleansers
 - Hyaluronic acid serums
 - Niacinamide serums
@@ -1222,6 +1375,7 @@ Without tracking, subtle improvements go unnoticed, leading to premature product
 ### How to Track Effectively
 
 Progress Photos:
+
 - Take photos in same location, lighting, angle
 - Weekly or bi-weekly
 - Include front view and both side profiles
@@ -1229,6 +1383,7 @@ Progress Photos:
 - Same time of day
 
 Skin Journal:
+
 - Date and products used
 - How skin feels (tight, oily, comfortable)
 - Any reactions or changes
@@ -1236,6 +1391,7 @@ Skin Journal:
 - Compare monthly
 
 What to Track:
+
 - Breakout frequency and severity
 - Dry patches or oiliness
 - Texture changes
@@ -1243,6 +1399,7 @@ What to Track:
 - Overall glow or dullness
 
 Patience Benchmarks:
+
 - 2 weeks: Hydration changes visible
 - 4 weeks: Texture improvements begin
 - 8 weeks: Tone and clarity improvements
