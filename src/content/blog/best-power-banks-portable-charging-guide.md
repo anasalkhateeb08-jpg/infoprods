@@ -54,7 +54,7 @@ Whether you're a frequent traveler needing laptop charging capability, a daily c
 
 Your devices are essential. Your power bank ensures they stay that way.
 
-[Image 1 - Insert here]
+!["Different capacity power banks from compact 5000mAh to high capacity 20000mAh showing size and portability differences"](/images/uploads/po1.jpg "'Power Bank Capacity Guide - Choosing Right Size for Smartphone and Device Charging Needs'")
 
 <a name="understanding-specs"></a>
 
@@ -115,7 +115,7 @@ Pass-through charging allows simultaneously charging the power bank while it cha
 
 [https://www.aliexpress.com/w/wholesale-portable-power-bank.html](https://www.aliexpress.com/w/wholesale-portable-power-bank.html)
 
-[Image 2 - Insert here]
+!["USB-C Power Delivery fast charging power bank connected to smartphone showing rapid charging technology"](/images/uploads/po2.png "'Fast Charging Power Banks - USB-C PD and Quick Charge Technology for Rapid Device Power'")
 
 <a name="capacity-guide"></a>
 
