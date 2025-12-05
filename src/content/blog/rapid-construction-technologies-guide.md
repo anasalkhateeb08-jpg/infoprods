@@ -49,7 +49,7 @@ Whether you're a construction professional exploring efficiency improvements, a 
 
 The future of construction isn't coming—it's here, being built right now at unprecedented speed.
 
-![ "Factory manufacturing prefabricated modular building components showing controlled environment and precision construction for rapid assembly"](/images/uploads/bm1.jpg "'Prefabricated Modular Construction - Factory-Built Building Systems for Fast Project Completion'")
+!["Factory manufacturing prefabricated modular building components showing controlled environment and precision construction for rapid assembly"](/images/uploads/bm1.jpg "'Prefabricated Modular Construction - Factory-Built Building Systems for Fast Project Completion'")
 
 <a name="prefab-modular"></a>
 
@@ -115,7 +115,7 @@ The United Kingdom leads in modular healthcare construction, building entire hos
 
 [https://www.aliexpress.com/w/wholesale-prefab-building-materials.html](https://www.aliexpress.com/w/wholesale-prefab-building-materials.html)
 
-![ "Large-scale 3D printer creating concrete building walls layer by layer demonstrating revolutionary construction technology"](/images/uploads/bm2.jpg "'3D Printing Construction Technology - Additive Manufacturing Creating Buildings in Record Time'")
+!["Large-scale 3D printer creating concrete building walls layer by layer demonstrating revolutionary construction technology"](/images/uploads/bm2.jpg "'3D Printing Construction Technology - Additive Manufacturing Creating Buildings in Record Time'")
 
 <a name="3d-printing"></a>
 
@@ -213,6 +213,8 @@ Self-healing concrete remains more expensive than conventional concrete and is p
 
 Wood construction benefits from renewable materials, carbon sequestration, and faster assembly than concrete/steel. However, traditional dimensional lumber has limitations—size restrictions from tree dimensions, strength variability, and susceptibility to warping and defects. Engineered wood products overcome these limitations while maintaining or exceeding traditional wood's advantages.
 
+![waves build](/images/uploads/bm.png "waves build")
+
 **Cross-Laminated Timber (CLT)**: Large panels formed by gluing lumber layers perpendicular orientations (cross-laminating), creating structural panels suitable for walls, floors, and roofs. CLT panels reach 10-12 feet wide and 60+ feet long, enabling rapid construction of timber buildings rivaling concrete/steel in scale.
 
 CLT's strength-to-weight ratio exceeds concrete, enabling lighter foundations and faster construction. CLT panels install rapidly—crane-lifting panels into place, connecting with metal fasteners—completing building structures in days or weeks versus months for concrete. A 10-story CLT building can be erected in weeks once foundations complete.
@@ -247,7 +249,7 @@ SIPs consist of foam insulation cores sandwiched between structural sheathing (t
 
 [https://www.aliexpress.com/w/wholesale-building-insulation-panels.html](https://www.aliexpress.com/w/wholesale-building-insulation-panels.html)
 
-[Image 4 - Insert here]
+!["Automated construction equipment and robotic systems working on building site demonstrating modern construction automation technology"](/images/uploads/bm4.jpg "'Construction Automation and Robotics - Machines and Technology Transforming Building Speed and Efficiency'")
 
 <a name="automation-robotics"></a>
 
@@ -299,7 +301,7 @@ Successful automation implementation includes workforce training and transition 
 
 [https://www.aliexpress.com/w/wholesale-construction-equipment-tools.html](https://www.aliexpress.com/w/wholesale-construction-equipment-tools.html)
 
-[Image 5 - Insert here]
+![ "Building Information Modeling BIM software showing 3D digital construction model for project planning and coordination"](/images/uploads/bm5.webp "'Building Information Modeling BIM - Digital Construction Technology for Project Management and Coordination'")
 
 <a name="fast-track-methods"></a>
 
