@@ -49,7 +49,7 @@ Whether you're a construction professional exploring efficiency improvements, a 
 
 The future of construction isn't coming—it's here, being built right now at unprecedented speed.
 
-[Image 1 - Insert here]
+![ "Factory manufacturing prefabricated modular building components showing controlled environment and precision construction for rapid assembly"](/images/uploads/bm1.jpg "'Prefabricated Modular Construction - Factory-Built Building Systems for Fast Project Completion'")
 
 <a name="prefab-modular"></a>
 
@@ -115,7 +115,7 @@ The United Kingdom leads in modular healthcare construction, building entire hos
 
 [https://www.aliexpress.com/w/wholesale-prefab-building-materials.html](https://www.aliexpress.com/w/wholesale-prefab-building-materials.html)
 
-[Image 2 - Insert here]
+![ "Large-scale 3D printer creating concrete building walls layer by layer demonstrating revolutionary construction technology"](/images/uploads/bm2.jpg "'3D Printing Construction Technology - Additive Manufacturing Creating Buildings in Record Time'")
 
 <a name="3d-printing"></a>
 
@@ -183,7 +183,7 @@ ICON's proprietary "Vulcan" printing system and "Lavacrete" material represent y
 
 [https://www.aliexpress.com/w/wholesale-construction-3d-printer-materials.html](https://www.aliexpress.com/w/wholesale-construction-3d-printer-materials.html)
 
-[Image 3 - Insert here]
+!["Cross-laminated timber panels and engineered wood materials showing sustainable modern building materials for rapid construction"](/images/uploads/bm3.webp "'Advanced Building Materials - Engineered Wood and High-Performance Systems for Fast Construction'")
 
 <a name="advanced-materials"></a>
 
