@@ -260,7 +260,7 @@ Wireless charging on power banks is a convenience feature rather than primary ch
 
 [https://www.aliexpress.com/w/wholesale-fast-charging-power-bank.html](https://www.aliexpress.com/w/wholesale-fast-charging-power-bank.html)
 
-[Image 3 - Insert here]
+!["Compact portable power bank in travel bag with passport showing TSA-friendly mobile charging for flights"](/images/uploads/po3.jpg "'Travel Power Banks - Portable Charging Solutions for Flights and International Travel'")
 
 <a name="smartphone-power-banks"></a>
 
@@ -318,7 +318,7 @@ These ultra-compact units aren't daily drivers—they're emergency backup for sp
 
 [https://www.aliexpress.com/w/wholesale-compact-power-bank-10000mah.html](https://www.aliexpress.com/w/wholesale-compact-power-bank-10000mah.html)
 
-[Image 4 - Insert here]
+!["High-capacity power bank charging laptop via USB-C demonstrating mobile workstation power capability"](/images/uploads/po4.jpg "'Laptop Power Banks - High-Wattage USB-C Charging for MacBook and Mobile Computing'")
 
 <a name="laptop-power-banks"></a>
 
@@ -472,7 +472,7 @@ Hand-crank chargers generate power through manual cranking—genuinely grid-inde
 
 Emergency preparedness kits benefit from crank chargers providing guaranteed power generation regardless of batteries, solar availability, or grid access. However, for anything beyond true emergency survival situations, conventional power banks provide far superior utility.
 
-[Image 5 - Insert here]
+!["Wireless Qi charging power bank with smartphone placed on top showing cable-free charging convenience"](/images/uploads/po5.jpg " 'Wireless Charging Power Banks - Qi Wireless and Multi-Device Portable Charging Solutions'")
 
 <a name="safety-quality"></a>
 
