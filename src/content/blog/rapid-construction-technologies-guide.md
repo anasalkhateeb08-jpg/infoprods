@@ -113,7 +113,7 @@ Student housing, military barracks, and workforce housing—projects with repeti
 
 The United Kingdom leads in modular healthcare construction, building entire hospital wings and facilities using volumetric modules. This approach addresses critical healthcare capacity needs more rapidly than conventional construction while maintaining stringent healthcare facility standards.
 
-[https://www.aliexpress.com/w/wholesale-prefab-building-materials.html](https://www.aliexpress.com/w/wholesale-prefab-building-materials.html)
+<a href="https://s.click.aliexpress.com/e/_c2u6bpDR" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-prefab-building-materials </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Large-scale 3D printer creating concrete building walls layer by layer demonstrating revolutionary construction technology"](/images/uploads/bm2.jpg "'3D Printing Construction Technology - Additive Manufacturing Creating Buildings in Record Time'")
 
@@ -181,7 +181,7 @@ ICON's proprietary "Vulcan" printing system and "Lavacrete" material represent y
 
 **WinSun (China)**: Early construction 3D printing pioneer, WinSun gained attention printing ten houses in 24 hours and a five-story apartment building. While some questioned their projects' durability and finishing, WinSun demonstrated 3D printing's potential scale and speed, advancing the industry significantly.
 
-[https://www.aliexpress.com/w/wholesale-construction-3d-printer-materials.html](https://www.aliexpress.com/w/wholesale-construction-3d-printer-materials.html)
+<a href="https://s.click.aliexpress.com/e/_c2z5u3BF" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-construction-3d-printer-materials </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Cross-laminated timber panels and engineered wood materials showing sustainable modern building materials for rapid construction"](/images/uploads/bm3.webp "'Advanced Building Materials - Engineered Wood and High-Performance Systems for Fast Construction'")
 
@@ -247,7 +247,7 @@ SIPs consist of foam insulation cores sandwiched between structural sheathing (t
 
 **Limitations**: Design must accommodate standard panel sizes (typically 4 or 8 feet wide, up to 24 feet long). Electrical and plumbing installation requires planning since running utilities through solid panels requires chases and careful coordination. Costs run 5-15% higher than conventional framing initially, though energy savings typically recover this premium within years.
 
-[https://www.aliexpress.com/w/wholesale-building-insulation-panels.html](https://www.aliexpress.com/w/wholesale-building-insulation-panels.html)
+<a href="https://s.click.aliexpress.com/e/_c38vYnuz" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-building-insulation-panels </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Automated construction equipment and robotic systems working on building site demonstrating modern construction automation technology"](/images/uploads/bm4.jpg "'Construction Automation and Robotics - Machines and Technology Transforming Building Speed and Efficiency'")
 
@@ -299,9 +299,9 @@ Research focuses on developing robots with sufficient perception, intelligence, 
 
 Successful automation implementation includes workforce training and transition planning, ensuring workers gain skills for evolving roles rather than being displaced.
 
-[https://www.aliexpress.com/w/wholesale-construction-equipment-tools.html](https://www.aliexpress.com/w/wholesale-construction-equipment-tools.html)
+<a href="https://s.click.aliexpress.com/e/_c3Jrmrvf" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   wholesale-construction-equipment-tools </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-![ "Building Information Modeling BIM software showing 3D digital construction model for project planning and coordination"](/images/uploads/bm5.webp "'Building Information Modeling BIM - Digital Construction Technology for Project Management and Coordination'")
+!["Building Information Modeling BIM software showing 3D digital construction model for project planning and coordination"](/images/uploads/bm5.webp "'Building Information Modeling BIM - Digital Construction Technology for Project Management and Coordination'")
 
 <a name="fast-track-methods"></a>
 
