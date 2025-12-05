@@ -8,6 +8,48 @@ const allPosts = await getCollection('blog');
 const shuffled = allPosts.sort(() => 0.5 - Math.random());
 const leftPosts = shuffled.slice(0, 3);
 const rightPosts = shuffled.slice(3, 6);
+
+// استخراج روابط AliExpress مع أسماء المنتجات
+import { readdirSync, readFileSync } from 'fs';
+import { join } from 'path';
+
+const affiliateLinks = [];
+const blogPath = './src/content/blog';
+
+try {
+  const files = readdirSync(blogPath);
+  
+  for (const file of files) {
+    if (file.endsWith('.md')) {
+      const filePath = join(blogPath, file);
+      const content = readFileSync(filePath, 'utf-8');
+      
+      // البحث عن كل رابط مع اسم المنتج
+      const regex = /<a[^>]*href="(https:\/\/s\.click\.aliexpress\.com\/e\/[^"]+)"[^>]*>.*?Shop on AliExpress via link:\s*<\/span>\s*([^<]+)<\/a>/gis;
+      let match;
+      
+      while ((match = regex.exec(content)) !== null) {
+        const url = match[1];
+        const productName = match[2].trim();
+        
+        if (!affiliateLinks.some(link => link.url === url)) {
+          affiliateLinks.push({
+            url: url,
+            product: productName,
+            file: file
+          });
+        }
+      }
+    }
+  }
+  
+  console.log('✅ Found', affiliateLinks.length, 'affiliate links');
+  if (affiliateLinks.length > 0) {
+    console.log('Sample:', affiliateLinks[0].product);
+  }
+} catch (e) {
+  console.error('❌ Error:', e.message);
+}
 ---
 
 <Layout 
@@ -98,14 +140,36 @@ const rightPosts = shuffled.slice(3, 6);
         </div>
       </div>
     </section>
+</div>
+      </div>
+    </section>
 
+  <!-- Affiliate Links Ticker -->
+  {affiliateLinks.length > 0 && (
+    <section class="ticker-section">
+      <div class="ticker-wrapper">
+        <div class="ticker-content">
+          {affiliateLinks.concat(affiliateLinks).map((link, index) => (
+           <div class="ticker-item" key={index}>
+  <span class="ticker-text">Shop on AliExpress via link:</span>
+  <a href={link.url} target="_blank" rel="nofollow noopener" class="ticker-link">
+    {link.product}
+  </a>
+</div>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+    
     <!-- Categories Section - Closer to Top -->
-    <section class="py-12 bg-gradient-to-b from-black to-gray-900">
+    <section class="py-4 bg-gradient-to-b from-black to-gray-900">
       <div class="container mx-auto px-4">
         <h2 class="text-3xl font-bold text-center mb-2" data-i18n="home.exploreCategories">
           Explore Categories
         </h2>
-        <p class="text-gray-300 text-center mb-8" data-i18n="home.discoverProducts">
+        <p class="text-gray-300 text-center mb-4" data-i18n="home.discoverProducts">
           Discover products across multiple categories
         </p>
 
@@ -434,6 +498,69 @@ const rightPosts = shuffled.slice(3, 6);
     .diamond-left,
     .diamond-right {
       display: none;
+    }
+  }
+  /* Affiliate Links Ticker */
+  .ticker-section {
+    background: black;
+    overflow: hidden;
+    padding: 1rem 0;
+    border-top: 2px solid rgba(139, 92, 246, 0.3);
+    border-bottom: 2px solid rgba(139, 92, 246, 0.3);
+  }
+
+  .ticker-wrapper {
+    width: 100%;
+    overflow: hidden;
+  }
+
+ .ticker-content {
+  display: flex;
+  animation: scroll 30s linear infinite;
+  gap: 3rem;
+}
+
+.ticker-content:hover {
+  animation-play-state: paused;
+}
+
+  .ticker-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .ticker-text {
+    color: #ef4444;
+    font-weight: 600;
+    font-size: 1rem;
+  }
+
+  .ticker-link {
+    color: #3b82f6;
+    text-decoration: underline;
+    font-weight: 700;
+    transition: color 0.3s ease;
+  }
+
+  .ticker-link:hover {
+    color: #60a5fa;
+  }
+
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .ticker-content {
+      animation: scroll 40s linear infinite;
     }
   }
 </style>

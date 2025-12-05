@@ -1,0 +1,31 @@
+name: Auto Rebuild for New Content
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # كل 12 ساعة
+  workflow_dispatch:  # تشغيل يدوي
+
+jobs:
+  check-and-rebuild:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Build project
+        run: npm run build
+      
+      - name: Trigger Vercel Deploy
+        run: |
+          echo "✅ Build successful - Vercel will auto-deploy from GitHub push"
