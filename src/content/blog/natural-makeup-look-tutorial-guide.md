@@ -118,7 +118,7 @@ This doesn't mean you need perfect skin to wear natural makeup—far from it. Co
 
 All three are "natural" makeup—they enhance rather than transform, maintain skin-like finishes, and look authentically you. Choose based on your time, skill level, and desired polish.
 
-[https://www.aliexpress.com/w/wholesale-natural-makeup-products.html](https://www.aliexpress.com/w/wholesale-natural-makeup-products.html)
+<a href="https://s.click.aliexpress.com/e/_c3uIwBWh" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-natural-makeup-products  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Woman applying lightweight foundation with beauty sponge demonstrating natural makeup base application for skin-like finish"](/images/uploads/or2.jfif "'Foundation Application Tutorial - Achieving Flawless Natural Skin-Like Makeup Base'")
 
@@ -210,7 +210,7 @@ Natural makeup uses concealer strategically rather than all over—only where ne
 
 **Spoolie:** Brush for blending brow products and brushing brows into place.
 
-[https://www.aliexpress.com/w/wholesale-makeup-brushes-set.html](https://www.aliexpress.com/w/wholesale-makeup-brushes-set.html)
+<a href="https://s.click.aliexpress.com/e/_c4ba6c2H" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-makeup-brushes-set </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 <a name="skin-prep"></a>
 
@@ -272,7 +272,7 @@ Apply thin layer, focusing on areas needing most help (T-zone for pore-minimizin
 
 **Visible pores:** Regular use of BHA (salicylic acid) at night keeps pores clear and minimized. Pore-filling primer before makeup creates smooth surface.
 
-![ "Close-up of natural eye makeup with neutral eyeshadow defined brows and mascara showing subtle enhancement technique"](/images/uploads/ro3.jfif "'Natural Eye Makeup Tutorial - Subtle Definition and Enhancement Without Looking Made Up'")
+!["Close-up of natural eye makeup with neutral eyeshadow defined brows and mascara showing subtle enhancement technique"](/images/uploads/ro3.jfif "'Natural Eye Makeup Tutorial - Subtle Definition and Enhancement Without Looking Made Up'")
 
 <a name="perfecting-base"></a>
 
@@ -346,7 +346,7 @@ Color correcting addresses discoloration before concealing, creating more natura
 - Build coverage gradually—multiple thin layers better than one thick layer
 - Set strategically—powder where needed, skip elsewhere for natural finish
 
-[https://www.aliexpress.com/w/wholesale-bb-cream-foundation.html](https://www.aliexpress.com/w/wholesale-bb-cream-foundation.html)
+<a href="https://s.click.aliexpress.com/e/_c2RWvsYZ" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-bb-cream-foundation </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 <a name="subtle-definition"></a>
 
@@ -517,7 +517,7 @@ Your natural lip color (when unstained by food/drink) provides the best guide—
 
 **Optional:** Apply tiny amount of gloss to center of lips (just the cupid's bow and center of lower lip) creating subtle dimension and fuller appearance.
 
-[https://www.aliexpress.com/w/wholesale-cream-blush-natural.html](https://www.aliexpress.com/w/wholesale-cream-blush-natural.html)
+<a href="https://s.click.aliexpress.com/e/_c3fDpCDx" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-cream-blush-natural  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Beautiful completed natural makeup look with glowing skin subtle definition and effortless beauty demonstrating final result"](/images/uploads/ro5.webp "'Natural Makeup Look Final Result - Polished Effortless Beauty with Enhanced Natural Features'")
 
