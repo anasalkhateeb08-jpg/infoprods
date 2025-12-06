@@ -95,7 +95,7 @@ Body type styling aims to create visual balance—not to achieve one idealized s
 
 Importantly, "balance" is subjective. Some rectangle body types love emphasizing their athletic straight lines rather than creating curves. Some apple body types prefer comfortable, flowing silhouettes over waist definition. Style goals are personal—these guidelines serve those wanting to create particular visual effects, not dictate what you must do.
 
-[https://www.aliexpress.com/w/wholesale-body-shaping-clothing.html](https://www.aliexpress.com/w/wholesale-body-shaping-clothing.html)
+<a href="https://s.click.aliexpress.com/e/_c2wSlvDf" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-body-shaping-clothing </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Woman with rectangle athletic body type wearing belted dress and structured clothing creating waist definition"](/images/uploads/s2t.png "'Rectangle Body Type Styling - Creating Curves and Definition with Strategic Fashion Choices'")
 
@@ -243,7 +243,7 @@ Pear body types have narrower shoulders and bust with wider hips and thighs. You
 
 **Statement jackets:** Structured jackets with interesting details, colors, or patterns add dimension and interest to the upper body.
 
-[https://www.aliexpress.com/w/wholesale-flattering-dresses-women.html](https://www.aliexpress.com/w/wholesale-flattering-dresses-women.html)
+<a href="https://s.click.aliexpress.com/e/_c3Lq2wIl" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   wholesale-flattering-dresses-women </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Pear shaped woman wearing A-line skirt and statement top showing balanced proportions and flattering silhouette"](/images/uploads/s3t.jpg "'Pear Body Type Fashion - Balancing Proportions with Flattering Clothing Styles'")
 
@@ -397,7 +397,7 @@ Hourglass body types have balanced shoulders and hips with a significantly small
 
 **Avoid:** Oversized, bulky styles unless you're specifically going for an intentionally loose look (which can work for casual styles). Extremely tight clothing—while you can carry fitted styles, overly tight clothing can be uncomfortable and unflattering. Horizontal stripes across the widest parts—these add visual width.
 
-[https://www.aliexpress.com/w/wholesale-waist-belts-women-fashion.html](https://www.aliexpress.com/w/wholesale-waist-belts-women-fashion.html)
+<a href="https://s.click.aliexpress.com/e/_c3B8pEJX" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-waist-belts-women-fashion </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Hourglass figure in fitted wrap dress emphasizing defined waist and balanced curves with elegant styling"](/images/uploads/Untitled.png "'Hourglass Body Type Styling - Emphasizing Waist and Curves with Tailored Fashion'")
 
@@ -529,7 +529,7 @@ The most important styling principle transcends body type: wear what makes you f
 
 Fashion guidelines are tools, not rules. If you love something and feel amazing wearing it, that matters infinitely more than whether it "flatters your body type." Use these guidelines when helpful; ignore them when they're not.
 
-[https://www.aliexpress.com/w/wholesale-shapewear-women-fashion.html](https://www.aliexpress.com/w/wholesale-shapewear-women-fashion.html)
+<a href="https://s.click.aliexpress.com/e/_c3fsKI9F" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-shapewear-women-fashion  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Women of various body types wearing well-fitted clothes demonstrating universal styling principles and proper fit"](/images/uploads/s5t.jpg "'Universal Fashion Styling Tips - Fit Proportion and Balance for All Body Types'")
 
