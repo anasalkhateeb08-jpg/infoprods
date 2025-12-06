@@ -41,7 +41,6 @@ Your windows are portals to the outside world. Modern technology ensures they're
 
 !["Modern home with large energy-efficient smart glass windows showing advanced insulating window technology and natural lighting"](/images/uploads/gs1.jfif "'Smart and Insulating Glass for Homes - Complete Guide to Energy Efficient Window Technology'")
 
-
 <a name="insulating-glass"></a>
 
 ## 1. Understanding Insulating Glass Technology
@@ -546,9 +545,9 @@ Generic payback calculations provide starting points, but your specific ROI depe
 
 **Step 1: Determine current energy costs**
 
-- Annual heating costs: $________
-- Annual cooling costs: $________
-- Total HVAC costs: $________
+- Annual heating costs: $**___**_
+- Annual cooling costs: $**___**_
+- Total HVAC costs: $**___**_
 
 **Step 2: Estimate savings percentage**
 
@@ -561,9 +560,9 @@ Generic payback calculations provide starting points, but your specific ROI depe
 
 **Step 4: Determine net investment**
 
-- Total window project cost: $________
-- Minus rebates and tax credits: $________
-- Net investment: $________
+- Total window project cost: $**___**_
+- Minus rebates and tax credits: $**___**_
+- Net investment: $**___**_
 
 **Step 5: Calculate simple payback** Net investment ÷ Annual savings = Payback period (years)
 
