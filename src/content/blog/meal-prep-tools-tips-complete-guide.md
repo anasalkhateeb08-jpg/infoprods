@@ -307,7 +307,7 @@ This timeline is flexible—your first session might take 4 hours; experienced p
 
 Sheet pan cooking is the meal prep MVP—minimal hands-on time producing large quantities of delicious roasted proteins and vegetables.
 
-**Proteins:** Chicken thighs, chicken breasts, salmon fillets, pork chops, and meatballs all roast beautifully. Season proteins with different spice blends on separate pans creating variety—Italian herbs on one batch, taco seasoning on another, teriyaki on a third.
+**Proteins:**  Chicken thighs, chicken breasts, salmon fillets, and meatballs all roast beautifully. Season proteins with different spice blends on separate pans creating variety—Italian herbs on one batch, taco seasoning on another, teriyaki on a third.
 
 **Vegetables:** Almost any vegetable roasts well—Brussels sprouts, broccoli, cauliflower, sweet potatoes, carrots, bell peppers, zucchini, asparagus. Toss with olive oil, salt, and pepper; spread in single layer; roast at 400-425°F for 20-35 minutes (timing depends on vegetable density and desired caramelization).
 
@@ -320,7 +320,7 @@ Sheet pan cooking is the meal prep MVP—minimal hands-on time producing large q
 
 ### Instant Pot Batch Cooking
 
-**Proteins:** Whole chickens, chicken breasts for shredding, pork shoulder, pot roast—all cook dramatically faster under pressure while staying tender and flavorful.
+**Proteins:** Whole chickens, chicken breasts for shredding, pot roast—all cook dramatically faster under pressure while staying tender and flavorful.
 
 **Grains and legumes:** Dried beans (no soaking required!) cook in 25-40 minutes. Brown rice cooks in 22 minutes. Quinoa cooks in 1 minute (plus natural pressure release). The ability to cook these staples faster than stovetop or rice cooker while you focus on other prep is invaluable.
 
@@ -330,14 +330,14 @@ Sheet pan cooking is the meal prep MVP—minimal hands-on time producing large q
 
 ### Slow Cooker Overnight Prep
 
-**Overnight cooking:** Load slow cooker before bed with chili, pulled pork, or soup. Wake to finished food ready for portioning. This "sleep cooking" essentially adds 6-8 hours of cooking time to your day without active involvement.
+**Overnight cooking:** Load slow cooker before bed with chili, or soup. Wake to finished food ready for portioning. This "sleep cooking" essentially adds 6-8 hours of cooking time to your day without active involvement.
 
 **Morning start:** Load slow cooker Sunday morning before running errands. Return to ready-to-portion meals.
 
 **Best slow cooker meals for prep:**
 
 - Chili (turkey, beef, or vegetarian)
-- Pulled pork or pulled chicken
+- pulled chicken
 - Beef stew
 - Whole chickens (incredibly tender, fall-off-bone meat)
 - Soup bases
@@ -385,7 +385,7 @@ Different foods have different refrigerator shelf lives. Proper storage and real
 
 **Cooked proteins:**
 
-- Chicken, turkey, pork: 3-4 days
+- Chicken, turkey : 3-4 days
 - Beef, lamb: 3-5 days
 - Fish and seafood: 2-3 days
 - Hard-boiled eggs: 1 week
@@ -405,7 +405,7 @@ Different foods have different refrigerator shelf lives. Proper storage and real
 
 - Complete meals: 3-4 days maximum
 
-**Strategic meal ordering:** Eat fish and seafood meals first (Days 1-2), beef and pork meals middle of week (Days 3-4), and chicken meals later (Days 4-5). This accounts for varying protein shelf lives.
+**Strategic meal ordering:** Eat fish and seafood meals first (Days 1-2), beef meals middle of week (Days 3-4), and chicken meals later (Days 4-5). This accounts for varying protein shelf lives.
 
 **The smell/look test is unreliable:** Food can harbor dangerous bacteria without looking or smelling bad. Don't rely on sensory evaluation—follow timelines.
 
@@ -417,7 +417,7 @@ Freezing dramatically extends meal prep timeline—prepare meals for 2-3 weeks o
 
 - Soups, stews, chilis
 - Cooked grains (rice, quinoa)
-- Cooked proteins (chicken, beef, pork—not fish)
+- Cooked proteins (chicken, beef—not fish)
 - Casseroles
 - Burritos and wraps
 - Cooked beans
