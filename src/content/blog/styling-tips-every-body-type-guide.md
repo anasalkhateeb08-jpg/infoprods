@@ -45,7 +45,7 @@ Fashion is personal. Style is individual. Your body is unique. This guide provid
 
 Your body isn't a "before" waiting to become an "after." It's the vessel carrying you through your beautiful life right now. Let's dress it with love, intention, and celebration.
 
-[Image 1 - Insert here]
+![ "Fashion styling illustration showing five different body types and proportions for understanding personal shape"](/images/uploads/s1t.webp "'Understanding Body Types - Rectangle Pear Apple Hourglass Inverted Triangle Shape Guide'")
 
 <a name="understanding-body-types"></a>
 
@@ -97,7 +97,7 @@ Importantly, "balance" is subjective. Some rectangle body types love emphasizing
 
 [https://www.aliexpress.com/w/wholesale-body-shaping-clothing.html](https://www.aliexpress.com/w/wholesale-body-shaping-clothing.html)
 
-[Image 2 - Insert here]
+!["Woman with rectangle athletic body type wearing belted dress and structured clothing creating waist definition"](/images/uploads/s2t.png " 'Rectangle Body Type Styling - Creating Curves and Definition with Strategic Fashion Choices'")
 
 <a name="rectangle-body-type"></a>
 
@@ -245,7 +245,7 @@ Pear body types have narrower shoulders and bust with wider hips and thighs. You
 
 [https://www.aliexpress.com/w/wholesale-flattering-dresses-women.html](https://www.aliexpress.com/w/wholesale-flattering-dresses-women.html)
 
-[Image 3 - Insert here]
+!["Pear shaped woman wearing A-line skirt and statement top showing balanced proportions and flattering silhouette"](/images/uploads/s3t.jpg "'Pear Body Type Fashion - Balancing Proportions with Flattering Clothing Styles'")
 
 <a name="apple-body-type"></a>
 
@@ -399,7 +399,7 @@ Hourglass body types have balanced shoulders and hips with a significantly small
 
 [https://www.aliexpress.com/w/wholesale-waist-belts-women-fashion.html](https://www.aliexpress.com/w/wholesale-waist-belts-women-fashion.html)
 
-[Image 4 - Insert here]
+!["Hourglass figure in fitted wrap dress emphasizing defined waist and balanced curves with elegant styling"](/images/uploads/Untitled.png "'Hourglass Body Type Styling - Emphasizing Waist and Curves with Tailored Fashion'")
 
 <a name="inverted-triangle"></a>
 
@@ -531,7 +531,7 @@ Fashion guidelines are tools, not rules. If you love something and feel amazing 
 
 [https://www.aliexpress.com/w/wholesale-shapewear-women-fashion.html](https://www.aliexpress.com/w/wholesale-shapewear-women-fashion.html)
 
-[Image 5 - Insert here]
+!["Women of various body types wearing well-fitted clothes demonstrating universal styling principles and proper fit"](/images/uploads/s5t.jpg "'Universal Fashion Styling Tips - Fit Proportion and Balance for All Body Types'")
 
 <a name="fit-and-tailoring"></a>
 
