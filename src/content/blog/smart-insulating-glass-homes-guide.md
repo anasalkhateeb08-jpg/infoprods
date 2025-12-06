@@ -92,9 +92,9 @@ Glass performance is crucial, but frames represent 10-30% of window area and sig
 
 **Composite frames** combine materials (wood core with vinyl/aluminum exterior, for example) attempting to capture benefits of multiple materials while minimizing drawbacks. These specialty frames typically command premium pricing.
 
-[https://www.aliexpress.com/w/wholesale-insulated-glass-windows.html](https://www.aliexpress.com/w/wholesale-insulated-glass-windows.html)
+<a href="https://s.click.aliexpress.com/e/_c4aNUaDL" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-insulated-glass-windows </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[Image 2 - Insert here]
+!["Electrochromic smart glass window transitioning from clear to tinted state demonstrating dynamic solar control technology"](/images/uploads/gs2.jfif "'Smart Glass Technology - Electrochromic Windows with Dynamic Tinting and Light Control'")
 
 <a name="smart-glass"></a>
 
@@ -204,9 +204,9 @@ These technologies provide instant switching between transparent and opaque stat
 
 Privacy glass suits specific applications where instant switchable privacy justifies cost and power requirements, but isn't generally used for whole-home window installations.
 
-[https://www.aliexpress.com/w/wholesale-smart-glass-windows.html](https://www.aliexpress.com/w/wholesale-smart-glass-windows.html)
+<a href="https://s.click.aliexpress.com/e/_c3vhV8RB" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-smart-glass-windows </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[Image 3 - Insert here]
+!["Modern living room with large energy-efficient windows showing natural light and thermal comfort from advanced glazing"](/images/uploads/gs3.jfif "'Energy Efficiency Benefits - How Smart and Insulating Glass Reduces Heating and Cooling Costs'")
 
 <a name="energy-efficiency"></a>
 
@@ -320,7 +320,7 @@ Many utilities, states, and federal programs offer financial incentives for ener
 
 These incentives can reduce net costs by 20-40%, significantly improving payback periods. A $7,500 window replacement project might net only $5,000 after incentives, improving payback from 15 years to 10 years—much more attractive investment.
 
-[Image 4 - Insert here]
+!["Close-up of low-emissivity coating on window glass reflecting infrared heat while transmitting visible light"](/images/uploads/gs4.jfif "'Low-E Glass Coatings - Advanced Window Technology for Maximum Energy Performance'")
 
 <a name="glass-coatings"></a>
 
@@ -383,7 +383,7 @@ Prevention strategies:
 
 Some windows include hydrophobic coatings causing condensation to sheet off glass rather than forming droplets, but these don't prevent condensation—they just manage how it behaves.
 
-[https://www.aliexpress.com/w/wholesale-low-e-glass-coating.html](https://www.aliexpress.com/w/wholesale-low-e-glass-coating.html)
+<a href="https://s.click.aliexpress.com/e/_c4qEBb0l" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-low-e-glass-coating </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 <a name="installation-costs"></a>
 
@@ -481,7 +481,7 @@ Window installation appears straightforward but involves precision, specialized 
 
 For smaller projects (single window replacement, interior storm windows), DIY may be appropriate for experienced homeowners, but full-home window replacement projects benefit from professional expertise.
 
-[Image 5 - Insert here]
+!["Smart home control system managing electrochromic windows with automated tinting and energy optimization"](/images/uploads/gs5.webp "'Smart Home Integration - Connecting Smart Glass Windows to Home Automation Systems'")
 
 <a name="smart-home-integration"></a>
 
