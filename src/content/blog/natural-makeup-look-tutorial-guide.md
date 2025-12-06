@@ -42,7 +42,7 @@ Whether you're a complete makeup beginner seeking an approachable entry point in
 
 Natural makeup isn't about hiding or minimizing yourself—it's about revealing and celebrating the beautiful person you already are, just with a little strategic enhancement. Let's discover how to make your natural beauty shine.
 
-[Image 1 - Insert here]
+!["Essential natural makeup products including lightweight foundation BB cream concealer and neutral eyeshadow palette for everyday beauty"](/images/uploads/or1.webp "'Natural Makeup Products - Essential Items for Creating Flawless No-Makeup Makeup Look'")
 
 <a name="natural-philosophy"></a>
 
@@ -120,7 +120,7 @@ All three are "natural" makeup—they enhance rather than transform, maintain sk
 
 [https://www.aliexpress.com/w/wholesale-natural-makeup-products.html](https://www.aliexpress.com/w/wholesale-natural-makeup-products.html)
 
-[Image 2 - Insert here]
+!["Woman applying lightweight foundation with beauty sponge demonstrating natural makeup base application for skin-like finish"](/images/uploads/or2.jfif "'Foundation Application Tutorial - Achieving Flawless Natural Skin-Like Makeup Base'")
 
 <a name="essential-products"></a>
 
@@ -272,7 +272,7 @@ Apply thin layer, focusing on areas needing most help (T-zone for pore-minimizin
 
 **Visible pores:** Regular use of BHA (salicylic acid) at night keeps pores clear and minimized. Pore-filling primer before makeup creates smooth surface.
 
-[Image 3 - Insert here]
+![ "Close-up of natural eye makeup with neutral eyeshadow defined brows and mascara showing subtle enhancement technique"](/images/uploads/ro3.jfif "'Natural Eye Makeup Tutorial - Subtle Definition and Enhancement Without Looking Made Up'")
 
 <a name="perfecting-base"></a>
 
@@ -432,7 +432,7 @@ Tightlining—applying liner to the upper waterline (the space between lashes ra
 
 This technique requires practice and steady hand but creates subtle definition impossible to achieve otherwise.
 
-[Image 4 - Insert here]
+!["Woman applying cream blush to cheeks showing natural flush and healthy glow makeup application technique"](/images/uploads/ro4.jfif "'Natural Blush Application - Creating Fresh Healthy Glow with Subtle Color and Definition'")
 
 <a name="natural-flush"></a>
 
@@ -519,7 +519,7 @@ Your natural lip color (when unstained by food/drink) provides the best guide—
 
 [https://www.aliexpress.com/w/wholesale-cream-blush-natural.html](https://www.aliexpress.com/w/wholesale-cream-blush-natural.html)
 
-[Image 5 - Insert here]
+!["Beautiful completed natural makeup look with glowing skin subtle definition and effortless beauty demonstrating final result"](/images/uploads/ro5.webp "'Natural Makeup Look Final Result - Polished Effortless Beauty with Enhanced Natural Features'")
 
 <a name="setting-finishing"></a>
 
