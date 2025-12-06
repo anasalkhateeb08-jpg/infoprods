@@ -39,7 +39,7 @@ This comprehensive guide provides everything you need to properly care for your 
 
 Whether you own a single precious engagement ring or an extensive jewelry collection, whether your pieces are contemporary or vintage, whether you're a jewelry novice or experienced collector—this guide empowers you to preserve your treasures for your lifetime and beyond. Your jewelry deserves care worthy of its value and meaning. Let's ensure it remains beautiful for generations.
 
-[Image 1 - Insert here]
+!["Diamond ring being gently cleaned with soft brush in soapy water demonstrating proper at-home jewelry cleaning method"](/images/uploads/cl1.jpg "'Jewelry Cleaning Methods - Safe At-Home Care for Diamonds Gold and Precious Stones'")
 
 <a name="understanding-materials"></a>
 
@@ -77,7 +77,7 @@ Understanding your jewelry's materials determines appropriate care methods. What
 
 [https://www.aliexpress.com/w/wholesale-jewelry-cleaning-kit.html](https://www.aliexpress.com/w/wholesale-jewelry-cleaning-kit.html)
 
-[Image 2 - Insert here]
+![ "Professional jeweler examining diamond ring settings with loupe showing importance of regular jewelry inspection"](/images/uploads/cl2.webp "'Professional Jewelry Maintenance - Annual Inspection and Repair Services for Fine Jewelry'")
 
 <a name="daily-care"></a>
 
@@ -254,7 +254,7 @@ Professional cleaning is recommended:
 - For delicate or valuable pieces requiring expert handling
 - Combined with professional inspection (discussed next section)
 
-[Image 3 - Insert here]
+!["Organized jewelry box with separated compartments storing rings necklaces and earrings preventing damage and tangling"](/images/uploads/cl3.jpg "'Jewelry Storage Solutions - Proper Organization Preventing Scratches Tarnish and Damage'")
 
 <a name="professional-maintenance"></a>
 
@@ -388,7 +388,7 @@ Traveling with fine jewelry requires special care preventing loss, theft, and da
 
 [https://www.aliexpress.com/w/wholesale-jewelry-travel-case.html](https://www.aliexpress.com/w/wholesale-jewelry-travel-case.html)
 
-[Image 4 - Insert here]
+!["Delicate pearl necklace being gently wiped with soft cloth showing special care required for organic gemstones"](/images/uploads/cl4.webp "'Pearl Jewelry Care - Special Handling and Cleaning for Delicate Organic Gems'")
 
 <a name="protecting-jewelry"></a>
 
@@ -526,7 +526,7 @@ Store photos digitally in cloud storage and physically in safety deposit box or 
 4. Contact local pawn shops and watch online marketplaces (stolen jewelry often appears for resale)
 5. Check with local jewelers (stolen jewelry sometimes brought for "repairs" or resizing)
 
-[Image 5 - Insert here]
+!["Diamond engagement ring with appraisal certificate and insurance documents showing importance of jewelry documentation"](/images/uploads/cl5.jpg " 'Jewelry Insurance and Appraisal - Protecting Your Precious Investment with Proper Documentation'")
 
 <a name="conclusion"></a>
 
