@@ -45,7 +45,7 @@ Meal prep isn't about eating the same bland chicken and broccoli for seven days 
 
 Your future self—the one enjoying a delicious home-cooked meal on Thursday night while your unprepared neighbors are waiting 45 minutes for delivery—will thank you for mastering these skills. Let's begin your meal prep transformation.
 
-[Image 1 - Insert here]
+!["Glass and plastic meal prep containers in various sizes for storing prepared meals and ingredients"](/images/uploads/fo1.jpg "'Meal Prep Containers - Essential Storage Solutions for Batch Cooking and Weekly Meal Planning'")
 
 <a name="essential-containers"></a>
 
@@ -103,9 +103,9 @@ Meal prep container sizes should match your typical portion sizes and meal types
 
 **Portion control containers:** Color-coded containers sized for specific macronutrients (protein, carbs, vegetables, fats) help people following specific dietary protocols. While not essential, they simplify meal construction for fitness goals.
 
-[https://www.aliexpress.com/w/wholesale-meal-prep-containers.html](https://www.aliexpress.com/w/wholesale-meal-prep-containers.html)
+<a href="https://s.click.aliexpress.com/e/_c4FA0qzT" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-meal-prep-containers  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[Image 2 - Insert here]
+![](/images/uploads/fo2.jpg "'Meal Prep Kitchen Tools - Essential Equipment for Efficient Batch Cooking and Food Preparation'")
 
 <a name="kitchen-tools"></a>
 
@@ -165,9 +165,9 @@ Choose heavy, quality sheet pans that won't warp under high heat. Line with parc
 
 **Garlic press:** If you use garlic frequently (which adds tremendous flavor to meal prep), a garlic press is faster and easier than mincing. Fresh garlic tastes dramatically better than pre-minced jarred garlic.
 
-[https://www.aliexpress.com/w/wholesale-kitchen-food-processor.html](https://www.aliexpress.com/w/wholesale-kitchen-food-processor.html)
+<a href="https://s.click.aliexpress.com/e/_c3YXPRVJ" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-kitchen-food-processor </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[Image 3 - Insert here]
+!["Sheet pans with roasted vegetables and proteins demonstrating batch cooking meal prep techniques"](/images/uploads/fo3.jpg "'Batch Cooking Techniques - Efficient Methods for Preparing Multiple Meals Simultaneously'")
 
 <a name="sunday-strategy"></a>
 
@@ -354,9 +354,9 @@ When cooking, automatically double or triple quantities storing extras:
 
 This "future batch cooking" means every cooking session contributes to future meal prep, gradually building ingredient reserves reducing future prep time.
 
-[https://www.aliexpress.com/w/wholesale-instant-pot-pressure-cooker.html](https://www.aliexpress.com/w/wholesale-instant-pot-pressure-cooker.html)
+<a href="https://s.click.aliexpress.com/e/_c31wFhSv" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-instant-pot-pressure-cooker </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[Image 4 - Insert here]
+!["Neatly organized refrigerator with labeled meal prep containers showing weekly meal planning organization"](/images/uploads/po4-1.jpg "'Meal Prep Organization - Proper Food Storage and Labeling for Safe Weekly Meal Planning'")
 
 <a name="food-safety"></a>
 
@@ -503,9 +503,9 @@ Freezing dramatically extends meal prep timeline—prepare meals for 2-3 weeks o
 
 **Example keto meal prep:** Grilled chicken thighs with sautéed spinach and garlic, ground beef taco bowls with cauliflower rice, salmon with roasted Brussels sprouts and avocado, cheese and vegetable frittatas.
 
-[https://www.aliexpress.com/w/wholesale-portion-control-containers.html](https://www.aliexpress.com/w/wholesale-portion-control-containers.html)
+<a href="https://s.click.aliexpress.com/e/_c4dKSDlX" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-portion-control-containers  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[Image 5 - Insert here]
+!["Colorful healthy meal prep bowls with proteins grains and vegetables showing balanced nutrition planning"](/images/uploads/fo5.webp "'Healthy Meal Prep - Balanced Nutritious Meals for Different Dietary Goals and Lifestyles'")
 
 <a name="time-saving-tips"></a>
 
