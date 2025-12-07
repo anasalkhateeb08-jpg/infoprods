@@ -206,7 +206,7 @@ Athletes should consume **20-35% of total calories from fat**, with emphasis on 
 
 **Excessive saturated fats** (while not inherently harmful in moderate amounts) should be balanced with unsaturated fats. Focus on lean protein sources and incorporate plant-based fats.
 
-[https://www.aliexpress.com/w/wholesale-protein-powder-athletes.html](https://www.aliexpress.com/w/wholesale-protein-powder-athletes.html)
+<a href="https://s.click.aliexpress.com/e/_c4cC1o2N" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-protein-powder-athletes </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Athlete drinking water showing proper hydration strategies for sports performance and recovery"](/images/uploads/MA2.jpeg "'Hydration for Athletes - Water and Electrolyte Strategies for Peak Performance'")
 
@@ -412,7 +412,7 @@ Athletes lose approximately 500-1,000 mg sodium per liter of sweat. During exerc
 
 **Include hydrating foods:** Fruits (watermelon, oranges, berries) and vegetables (cucumber, lettuce, celery) contribute to daily fluid intake.
 
-[https://www.aliexpress.com/w/wholesale-sports-water-bottles.html](https://www.aliexpress.com/w/wholesale-sports-water-bottles.html)
+<a href="https://s.click.aliexpress.com/e/_c3iHRKh3" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>wholesale-sports-water-bottles  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Pre-workout meal with carbohydrates and protein showing proper nutrition timing for athletes"](/images/uploads/MA3.jfif "'Pre-Workout Nutrition - Optimal Meal Timing and Food Choices for Athletic Performance'")
 
@@ -648,7 +648,7 @@ Beyond basic nutrition, several supplements demonstrate pre-workout performance 
 
 **Nitric oxide precursors (beetroot juice, citrulline):** Improve blood flow and oxygen delivery. Beetroot juice: 500 mL 2-3 hours pre-workout. Citrulline malate: 6-8g 30-60 minutes pre-workout.
 
-[https://www.aliexpress.com/w/wholesale-pre-workout-supplements.html](https://www.aliexpress.com/w/wholesale-pre-workout-supplements.html)
+<a href="https://s.click.aliexpress.com/e/_c4tYqXSD" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-pre-workout-supplements  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Post-workout recovery meal with protein shake and healthy foods for muscle recovery and glycogen replenishment"](/images/uploads/MA4.jfif "'Post-Workout Recovery Nutrition - Protein and Carbs for Muscle Growth and Recovery'")
 
@@ -996,7 +996,7 @@ Critical for oxygen transport, but only supplement if deficient (confirmed by bl
 
 **Whole foods first:** No supplement replaces a solid nutrition foundation. Supplements are exactly what the name implies—supplemental to whole food nutrition.
 
-[https://www.aliexpress.com/w/wholesale-creatine-monohydrate.html](https://www.aliexpress.com/w/wholesale-creatine-monohydrate.html)
+<a href="https://s.click.aliexpress.com/e/_c3ELBk4p" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-creatine-monohydrate  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Evidence-based sports supplements including protein powder creatine and vitamins for athlete performance"](/images/uploads/MA5.avif "'Sports Supplements That Work - Science-Backed Nutrition for Athletes'")
 
