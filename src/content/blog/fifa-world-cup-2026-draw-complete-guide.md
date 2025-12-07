@@ -373,7 +373,13 @@ Curaçao's qualification resonates beyond football. For small island nations and
 
 [https://www.aliexpress.com/w/wholesale-football-jerseys-2026.html](https://www.aliexpress.com/w/wholesale-football-jerseys-2026.html)
 
-[Image 3 - Insert here]
+!["Jordan Uzbekistan Cape Verde Curaçao flags celebrating first World Cup qualification historic achievement"](/images/uploads/fi3.png "jordan 'World Cup Debut Nations 2026 - Jordan Uzbekistan Cape Verde Curaçao Historic Qualification'")
+
+(Jordanian national football team)
+
+!["Jordan Uzbekistan Cape Verde Curaçao flags celebrating first World Cup qualification historic achievement"](/images/uploads/fv.jpg "Uzbekistan 'World Cup Debut Nations 2026 - Jordan Uzbekistan Cape Verde Curaçao Historic Qualification'")
+
+(Uzbekistan national football team)
 
 <a name="format-explained"></a>
 
