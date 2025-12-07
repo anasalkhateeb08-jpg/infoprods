@@ -48,7 +48,7 @@ The 2026 FIFA World Cup isn't just bigger—it's fundamentally different, creati
 
 Football's biggest show is about to get exponentially bigger. Let's explore how this unprecedented tournament will unfold.
 
-[Image 1 - Insert here]
+!["Kennedy Center Washington DC hosting FIFA World Cup 2026 official draw ceremony with world leaders and football legends"](/images/uploads/fi1.jpeg "'FIFA World Cup 2026 Draw Ceremony - Historic 48 Team Tournament Groups Revealed'")
 
 <a name="draw-ceremony"></a>
 
@@ -86,7 +86,7 @@ The Washington ceremony succeeded in its primary mission: distributing 48 teams 
 
 [https://www.aliexpress.com/w/wholesale-world-cup-merchandise.html](https://www.aliexpress.com/w/wholesale-world-cup-merchandise.html)
 
-[Image 2 - Insert here]
+!["FIFA World Cup 2026 groups display showing all 12 groups with participating nations and tournament structure"](/images/uploads/fi2.webp "'World Cup 2026 Groups Breakdown - All 48 Teams Group Stage Analysis'")
 
 <a name="group-breakdown"></a>
 
@@ -529,7 +529,7 @@ The 48-team format fundamentally changes tournament strategy:
 
 The 2026 tournament will test whether expansion enhances or diminishes World Cup magic. Only after July 19 will we know if FIFA's gamble succeeded in creating a more inclusive, exciting tournament—or if critics' concerns about dilution prove valid.
 
-[Image 4 - Insert here]
+!["FIFA World Cup 2026 tournament format showing 48 team structure with 12 groups and knockout rounds"](/images/uploads/FI4.jfif "'World Cup 2026 Format Explained - Revolutionary 48 Team Structure Round of 32'")
 
 <a name="stadiums"></a>
 
@@ -746,7 +746,7 @@ The venue diversity showcases North American football's geographic spread while 
 
 [https://www.aliexpress.com/w/wholesale-world-cup-2026-tickets.html](https://www.aliexpress.com/w/wholesale-world-cup-2026-tickets.html)
 
-[Image 5 - Insert here]
+!["FIFA World Cup 2026 stadiums across USA Mexico Canada showing 16 venues hosting tournament matches"](/images/uploads/FI5.jfif "'World Cup 2026 Stadiums - Complete Guide to 16 Venues Across Three Nations'")
 
 <a name="schedule"></a>
 
