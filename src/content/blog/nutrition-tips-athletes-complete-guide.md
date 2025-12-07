@@ -45,7 +45,7 @@ Your body is a high-performance machine. Like any sophisticated machine, it requ
 
 Let's build your nutritional foundation for peak athletic performance.
 
-[Image 1 - Insert here]
+!["Balanced macronutrients for athletes showing protein sources carbohydrates and healthy fats for peak performance"](/images/uploads/MA1.webp "'Athletic Macronutrients - Protein Carbohydrates and Fats for Sports Performance'")
 
 <a name="macronutrients"></a>
 
@@ -208,7 +208,7 @@ Athletes should consume **20-35% of total calories from fat**, with emphasis on 
 
 [https://www.aliexpress.com/w/wholesale-protein-powder-athletes.html](https://www.aliexpress.com/w/wholesale-protein-powder-athletes.html)
 
-[Image 2 - Insert here]
+!["Athlete drinking water showing proper hydration strategies for sports performance and recovery"](/images/uploads/MA2.jpeg "'Hydration for Athletes - Water and Electrolyte Strategies for Peak Performance'")
 
 <a name="micronutrients"></a>
 
@@ -414,7 +414,7 @@ Athletes lose approximately 500-1,000 mg sodium per liter of sweat. During exerc
 
 [https://www.aliexpress.com/w/wholesale-sports-water-bottles.html](https://www.aliexpress.com/w/wholesale-sports-water-bottles.html)
 
-[Image 3 - Insert here]
+!["Pre-workout meal with carbohydrates and protein showing proper nutrition timing for athletes"](/images/uploads/MA3.jfif "'Pre-Workout Nutrition - Optimal Meal Timing and Food Choices for Athletic Performance'")
 
 <a name="meal-timing"></a>
 
@@ -650,7 +650,7 @@ Beyond basic nutrition, several supplements demonstrate pre-workout performance 
 
 [https://www.aliexpress.com/w/wholesale-pre-workout-supplements.html](https://www.aliexpress.com/w/wholesale-pre-workout-supplements.html)
 
-[Image 4 - Insert here]
+!["Post-workout recovery meal with protein shake and healthy foods for muscle recovery and glycogen replenishment"](/images/uploads/MA4.jfif "'Post-Workout Recovery Nutrition - Protein and Carbs for Muscle Growth and Recovery'")
 
 <a name="post-workout"></a>
 
@@ -998,7 +998,7 @@ Critical for oxygen transport, but only supplement if deficient (confirmed by bl
 
 [https://www.aliexpress.com/w/wholesale-creatine-monohydrate.html](https://www.aliexpress.com/w/wholesale-creatine-monohydrate.html)
 
-[Image 5 - Insert here]
+!["Evidence-based sports supplements including protein powder creatine and vitamins for athlete performance"](/images/uploads/MA5.avif "'Sports Supplements That Work - Science-Backed Nutrition for Athletes'")
 
 <a name="mistakes"></a>
 
