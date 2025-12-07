@@ -990,7 +990,7 @@ The metal chassis feels more premium than expected at this price. The keyboard i
 
 ### General AliExpress Laptop Shopping
 
-**Browse comprehensive selections:** 
+**Browse comprehensive selections:**
 
 <a href="https://s.click.aliexpress.com/e/_c435gPxx" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-business-laptop </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
