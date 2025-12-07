@@ -45,7 +45,7 @@ Fashion is personal. Style is individual. Your body is unique. This guide provid
 
 Your body isn't a "before" waiting to become an "after." It's the vessel carrying you through your beautiful life right now. Let's dress it with love, intention, and celebration.
 
-!["Fashion styling illustration showing five different body types and proportions for understanding personal shape"](/images/uploads/s1t.webp "'Understanding Body Types - Rectangle Pear Apple Hourglass Inverted Triangle Shape Guide'")
+!["Fashion styling illustration showing five different body types and proportions for understanding personal shape"](/images/uploads/RET5.jpg "'Understanding Body Types - Rectangle Pear Apple Hourglass Inverted Triangle Shape Guide'")
 
 <a name="understanding-body-types"></a>
 
