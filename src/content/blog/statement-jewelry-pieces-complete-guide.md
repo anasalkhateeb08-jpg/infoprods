@@ -49,7 +49,7 @@ Whether you're a jewelry novice taking your first steps into bolder accessories,
 
 **Statement jewelry is personal expression made visible**. It's the exclamation point at the end of your style sentence, the signature flourish that makes your look uniquely yours. Let's discover how to make statement pieces work for you.
 
-[Image 1 - Insert here]
+!["Collection of statement jewelry featuring bold necklaces dramatic earrings and chunky accessories"](/images/uploads/mj1.jpg "'Bold Statement Jewelry - Essential Pieces for Transforming Your Style'")
 
 <a name="necklaces"></a>
 
@@ -134,7 +134,7 @@ Statement necklaces are perhaps the most immediately impactful category of bold 
 
 [https://www.aliexpress.com/w/wholesale-statement-necklaces.html](https://www.aliexpress.com/w/wholesale-statement-necklaces.html)
 
-[Image 2 - Insert here]
+!["Bold statement necklaces including chunky chains collar necklaces and pendant pieces"](/images/uploads/mj2.webp "'Statement Necklaces - Chunky Chains and Bold Collar Designs'")
 
 <a name="earrings"></a>
 
@@ -223,7 +223,7 @@ Statement earrings frame your face, draw attention to your features, and express
 
 [https://www.aliexpress.com/w/wholesale-statement-earrings.html](https://www.aliexpress.com/w/wholesale-statement-earrings.html)
 
-[Image 3 - Insert here]
+!["Oversized statement earrings featuring hoops chandelier designs and bold drop earrings"](/images/uploads/mj3.webp "'Bold Statement Earrings - Oversized Hoops and Dramatic Designs'")
 
 <a name="rings-bracelets"></a>
 
@@ -308,7 +308,7 @@ While necklaces and earrings occupy the most immediately visible body real estat
 
 [https://www.aliexpress.com/w/wholesale-statement-rings.html](https://www.aliexpress.com/w/wholesale-statement-rings.html)
 
-[Image 4 - Insert here]
+!["Statement rings cocktail rings stacked bands and chunky cuff bracelets"](/images/uploads/mj4.webp "'Statement Rings and Bracelets - Bold Hand and Wrist Accessories'")
 
 <a name="brooches"></a>
 
@@ -400,7 +400,7 @@ Jewelry layering—wearing multiple pieces in complementary combinations—creat
 
 [https://www.aliexpress.com/w/wholesale-layered-jewelry.html](https://www.aliexpress.com/w/wholesale-layered-jewelry.html)
 
-[Image 5 - Insert here]
+!["Layered jewelry styling with multiple necklaces stacked rings and coordinated accessories"](/images/uploads/mj5.jpg "'Jewelry Layering Techniques - Creating Statement Looks with Multiple Pieces'")
 
 <a name="choosing"></a>
 
