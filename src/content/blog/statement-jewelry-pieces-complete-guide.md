@@ -132,7 +132,7 @@ Statement necklaces are perhaps the most immediately impactful category of bold 
 
 **Lifestyle consideration:** Tassel and fringe necklaces require slightly more care than solid pieces—tassels can tangle and require occasional straightening, making them better suited for occasional wear rather than daily workhorses.
 
-[https://www.aliexpress.com/w/wholesale-statement-necklaces.html](https://www.aliexpress.com/w/wholesale-statement-necklaces.html)
+<a href="https://s.click.aliexpress.com/e/_c4PnsrBX" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-statement-necklaces  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Bold statement necklaces including chunky chains collar necklaces and pendant pieces"](/images/uploads/mj2.webp "'Statement Necklaces - Chunky Chains and Bold Collar Designs'")
 
@@ -221,7 +221,7 @@ Statement earrings frame your face, draw attention to your features, and express
 
 **Trend awareness:** Ear climbers represent more contemporary, trend-aware jewelry—they communicate that you follow fashion and appreciate unique, unconventional pieces.
 
-[https://www.aliexpress.com/w/wholesale-statement-earrings.html](https://www.aliexpress.com/w/wholesale-statement-earrings.html)
+<a href="https://s.click.aliexpress.com/e/_c3BYNblx" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-statement-earrings </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Oversized statement earrings featuring hoops chandelier designs and bold drop earrings"](/images/uploads/mj3.webp "'Bold Statement Earrings - Oversized Hoops and Dramatic Designs'")
 
@@ -306,7 +306,7 @@ While necklaces and earrings occupy the most immediately visible body real estat
 
 **Gender fluidity:** Substantial chain bracelets transcend traditional gender boundaries in jewelry—they work beautifully in both traditionally feminine and more androgynous or masculine aesthetics.
 
-[https://www.aliexpress.com/w/wholesale-statement-rings.html](https://www.aliexpress.com/w/wholesale-statement-rings.html)
+<a href="https://s.click.aliexpress.com/e/_c3m3OW3j" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-statement-rings </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Statement rings cocktail rings stacked bands and chunky cuff bracelets"](/images/uploads/mj4.webp "'Statement Rings and Bracelets - Bold Hand and Wrist Accessories'")
 
@@ -398,7 +398,7 @@ Jewelry layering—wearing multiple pieces in complementary combinations—creat
 
 **Knuckle awareness:** Avoid placing rings directly on knuckles (uncomfortable and visually awkward)—position rings between knuckles or on finger bases.
 
-[https://www.aliexpress.com/w/wholesale-layered-jewelry.html](https://www.aliexpress.com/w/wholesale-layered-jewelry.html)
+<a href="https://s.click.aliexpress.com/e/_c30nVi2v" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-layered-jewelry </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Layered jewelry styling with multiple necklaces stacked rings and coordinated accessories"](/images/uploads/mj5.jpg "'Jewelry Layering Techniques - Creating Statement Looks with Multiple Pieces'")
 
