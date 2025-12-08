@@ -7,7 +7,7 @@ const shuffled = allPosts.sort(() => 0.5 - Math.random());
 const leftPosts = [...shuffled];
 const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
 
-// قراءة روابط الأفلييت من ملف JSON
+
 import { readFileSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
@@ -22,13 +22,11 @@ const affiliateLinks = affiliateLinksData.map(link => ({
   product: link.title
 }));
 
-
-
 console.log('Loaded', affiliateLinks.length, 'affiliate links from JSON file');
-
+---
 
 <Layout 
-  title="InfoProds - Your Knowledge Hub for Smart Shopping" 
+  title="InfoProds - Your Knowledge Hub for Smart Shopping"
   description="In-depth articles, expert reviews, and comprehensive buying guides for tech, fashion, beauty, and home products. Make informed purchasing decisions."
   keywords="product reviews, buying guides, fashion trends, technology reviews, beauty skincare, home decor, expert reviews, shopping guide, InfoProds, smart shopping"
   type="website"
