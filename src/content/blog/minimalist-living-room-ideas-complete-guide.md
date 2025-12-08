@@ -64,7 +64,7 @@ Whether you're completely redesigning your living room, gradually transitioning 
 
 **Minimalism isn't about perfection or rigid rules. It's about creating spaces that serve your life rather than demanding your constant attention**. Let's discover how to design a living room that brings you genuine peace and joy.
 
-[Image 1 - Insert here]
+!["Clean minimalist living room layout with simple furniture natural materials and open space](/images/uploads/mi1.webp "'Minimalist Living Room Design - Simple Furniture and Smart Layout Ideas'")
 
 <a name="principles"></a>
 
@@ -132,7 +132,7 @@ Understanding minimalist design's foundational principles is crucial before sele
 
 [https://www.aliexpress.com/w/wholesale-minimalist-furniture.html](https://www.aliexpress.com/w/wholesale-minimalist-furniture.html)
 
-[Image 2 - Insert here]
+!["Minimalist living room with neutral color palette white walls and natural wood accents"](/images/uploads/mi2.webp "'Minimalist Color Palette - Neutral Living Room Design Ideas'")
 
 <a name="colors"></a>
 
@@ -343,7 +343,7 @@ Minimalist furniture selection requires strategic thinking—every piece must ea
 
 [https://www.aliexpress.com/w/wholesale-minimalist-home-decor.html](https://www.aliexpress.com/w/wholesale-minimalist-home-decor.html)
 
-[Image 3 - Insert here]
+!["Minimalist living room storage solutions with hidden cabinets and clean organization"](/images/uploads/mi3.jpg "'Minimalist Storage Ideas - Smart Solutions for Clutter-Free Living")
 
 <a name="storage"></a>
 
@@ -489,7 +489,7 @@ Lighting fundamentally shapes how minimalist living rooms feel—good lighting m
 
 [https://www.aliexpress.com/w/wholesale-modern-lighting.html](https://www.aliexpress.com/w/wholesale-modern-lighting.html)
 
-[Image 4 - Insert here]
+!["Bright minimalist living room with natural light large windows and green plants"](/images/uploads/mi4.jfif "'Minimalist Living Room Lighting - Natural Light and Plant Integration'")
 
 <a name="materials"></a>
 
@@ -688,7 +688,7 @@ Minimalist decor follows the "less is more" principle—every decorative element
 
 [https://www.aliexpress.com/w/wholesale-minimalist-decor.html](https://www.aliexpress.com/w/wholesale-minimalist-decor.html)
 
-[Image 5 - Insert here]
+!["Scandinavian minimalist living room with light wood cozy textiles and hygge aesthetic"](/images/uploads/mi5.jpg "'Scandinavian Minimalist Living Room - Warm Cozy Simple Design'")
 
 <a name="plants"></a>
 
