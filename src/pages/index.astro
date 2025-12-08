@@ -7,57 +7,15 @@ const shuffled = allPosts.sort(() => 0.5 - Math.random());
 const leftPosts = [...shuffled];
 const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
 
-// استخراج روابط AliExpress مع أسماء المنتجات
-import { readdirSync, readFileSync } from 'fs';
-import { join } from 'path';
+// استيراد روابط الأفلييت من ملف JSON
+import affiliateLinksData from '../data/affiliateLinks.json';
 
-const affiliateLinks = [];
-const blogPath = './src/content/blog';
+const affiliateLinks = affiliateLinksData.map(link => ({
+  url: link.url,
+  product: link.title
+}));
 
-try {
-  const files = readdirSync(blogPath);
-  
-  for (const file of files) {
-    if (file.endsWith('.md')) {
-      const filePath = join(blogPath, file);
-      const content = readFileSync(filePath, 'utf-8');
-      
-      // نبحث عن كل روابط AliExpress في المحتوى
-      const regex = /<a[^>]*href="(https:\/\/s\.click\.aliexpress\.com\/e\/[^"]+)"[^>]*>([\s\S]*?)<\/a>/gi;
-      let match;
-      
-      while ((match = regex.exec(content)) !== null) {
-        const url = match[1];
-        const innerHtml = match[2];
-        
-        // استخراج اسم المنتج
-        let productName = 'AliExpress Product';
-        
-        // نحاول استخراج النص بعد </span>
-        const nameMatch = innerHtml.match(/<\/span>\s*([^<]+)/i);
-        if (nameMatch && nameMatch[1].trim()) {
-          productName = nameMatch[1].trim();
-        } else {
-          // لو ما لقينا، نأخذ أي نص نظيف
-          const cleanText = innerHtml.replace(/<[^>]+>/g, ' ').trim();
-          if (cleanText) {
-            productName = cleanText.slice(0, 100);
-          }
-        }
-        
-        affiliateLinks.push({
-          url: url,
-          product: productName,
-          file: file
-        });
-      }
-    }
-  }
-  
-  console.log('Found', affiliateLinks.length, 'affiliate links from', files.filter(f => f.endsWith('.md')).length, 'files');
-} catch (e) {
-  console.error('Error:', e.message);
-}
+console.log('Loaded', affiliateLinks.length, 'affiliate links from JSON file');
 ---
 
 <Layout 
