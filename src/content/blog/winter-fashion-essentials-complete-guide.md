@@ -40,7 +40,7 @@ Whether you're building a winter wardrobe from scratch, refining an existing col
 
 Let's build your essential winter wardrobe.
 
-[Image 1 - Insert here]
+!["Winter fashion essentials featuring stylish coats sweaters accessories and boots for cold weather style"](/images/uploads/wi1.png "'Winter Fashion Essentials - Complete Guide to Stylish Cold-Weather Dressing'")
 
 <a name="coats"></a>
 
@@ -111,7 +111,7 @@ Your winter coat is the most visible and expensive piece of your cold-weather wa
 
 [https://www.aliexpress.com/w/wholesale-women-winter-coats.html](https://www.aliexpress.com/w/wholesale-women-winter-coats.html)
 
-[Image 2 - Insert here]
+!["Stylish winter coats and jackets showing essential outerwear for cold weather fashion"](/images/uploads/wi2.avif "'Winter Coats and Outerwear - Essential Cold Weather Fashion'")
 
 <a name="layering"></a>
 
@@ -181,7 +181,7 @@ Layering is the foundation of winter dressing—it provides warmth, allows tempe
 
 [https://www.aliexpress.com/w/wholesale-winter-sweaters-women.html](https://www.aliexpress.com/w/wholesale-winter-sweaters-women.html)
 
-[Image 3 - Insert here]
+!["Cozy winter sweaters and knitwear showing layering essentials for cold weather style"](/images/uploads/wi3.jpg " 'Winter Sweaters and Knitwear - Cozy Layering Fashion Essentials'")
 
 <a name="bottoms"></a>
 
@@ -313,7 +313,7 @@ Accessories are where winter fashion truly shines—these pieces provide warmth,
 
 [https://www.aliexpress.com/w/wholesale-winter-scarves-women.html](https://www.aliexpress.com/w/wholesale-winter-scarves-women.html)
 
-[Image 4 - Insert here]
+!["Winter fashion accessories including scarves hats and gloves for stylish cold weather looks"](/images/uploads/wi4.jpg "'Winter Accessories - Scarves Hats and Gloves for Cold Weather Style'")
 
 <a name="footwear"></a>
 
@@ -386,7 +386,7 @@ Winter footwear must balance style with practical demands—traction for icy con
 
 [https://www.aliexpress.com/w/wholesale-winter-boots-women.html](https://www.aliexpress.com/w/wholesale-winter-boots-women.html)
 
-[Image 5 - Insert here]
+!["Stylish winter boots and footwear showing essential cold weather shoe options"](/images/uploads/wi5.webp "'Winter Boots and Footwear - Essential Cold Weather Shoe Styles'")
 
 <a name="fabrics"></a>
 
