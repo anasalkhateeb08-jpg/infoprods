@@ -241,7 +241,7 @@ Use **lukewarm water—not hot**. Hot water strips excessive natural oils and ca
 
 **Co-washing:** Washing with conditioner instead of shampoo—popular with curly, coily, very dry hair types. Co-washing is gentler, less stripping, but doesn't clean as deeply. Alternate co-washing with occasional shampooing to prevent buildup.
 
-[https://www.aliexpress.com/w/wholesale-natural-hair-oils.html](https://www.aliexpress.com/w/wholesale-natural-hair-oils.html)
+<a href="https://s.click.aliexpress.com/e/_c38NY7WH" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-natural-hair-oils  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Woman washing hair properly with correct shampooing technique for healthy hair care"](/images/uploads/ha2.jpg "'Proper Hair Washing Technique - Healthy Hair Care Routine'")
 
@@ -444,7 +444,7 @@ Apply generously to damp hair. Cover with shower cap. Leave 20-60 minutes. Shamp
 
 **Consistency matters:** Weekly deep conditioning provides cumulative benefits—one treatment won't transform damaged hair, but weekly treatments over months produce dramatic improvements.
 
-[https://www.aliexpress.com/w/wholesale-hair-styling-tools.html](https://www.aliexpress.com/w/wholesale-hair-styling-tools.html)
+<a href="https://s.click.aliexpress.com/e/_c37OxLTB" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-hair-styling-tools </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Natural hair care products oils masks and treatments for healthy hair maintenance"](/images/uploads/ha3.avif "Title: 'Natural Hair Care Treatments - Oils Masks and DIY Remedies'")
 
@@ -647,7 +647,7 @@ Covered in previous section—key points: use heat protectant, keep 6-8 inches d
 - Flexi-rods or perm rods on damp hair
 - Bantu knots
 
-[https://www.aliexpress.com/w/wholesale-hair-care-brushes.html](https://www.aliexpress.com/w/wholesale-hair-care-brushes.html)
+<a href="https://s.click.aliexpress.com/e/_c3aRI0KD" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-hair-care-brushes  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Woman blow drying hair with proper technique using heat protection for safe styling"](/images/uploads/ha4.jpg "'Safe Hair Drying and Styling - Heat Protection Techniques'")
 
@@ -1038,7 +1038,7 @@ Regular trimming is essential for maintaining healthy hair—contrary to popular
 - **Trim regularly preventing small splits from becoming major damage**
 - **Avoid over-processing with chemical treatments**
 
-[https://www.aliexpress.com/w/wholesale-hair-treatment-masks.html](https://www.aliexpress.com/w/wholesale-hair-treatment-masks.html)
+<a href="https://s.click.aliexpress.com/e/_c45nUcQh" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-hair-treatment-masks </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 !["Beautiful healthy shiny hair showing results of proper hair care routine and maintenance"](/images/uploads/ha5.jpg "'Healthy Hair Results - Beautiful Shiny Strong Hair from Proper Care'")
 
