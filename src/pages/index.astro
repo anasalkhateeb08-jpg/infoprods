@@ -8,14 +8,7 @@ const leftPosts = [...shuffled];
 const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
 
 
-import affiliateLinksData from '../data/affiliateLinks.json';
 
-const affiliateLinks = affiliateLinksData.map(link => ({
-  url: link.url,
-  product: link.title
-}));
-
-console.log('Loaded', affiliateLinks.length, 'affiliate links from JSON file');
 
 
 ---
@@ -104,23 +97,7 @@ console.log('Loaded', affiliateLinks.length, 'affiliate links from JSON file');
       </div>
     </section>
 
-    <!-- Affiliate Links Ticker -->
-    {affiliateLinks.length > 0 && (
-      <section class="ticker-section">
-        <div class="ticker-wrapper">
-          <div class="ticker-content">
-            {affiliateLinks.concat(affiliateLinks).map((link, index) => (
-              <div class="ticker-item" key={index}>
-                <span class="ticker-text">Shop on AliExpress via link:</span>
-                <a href={link.url} target="_blank" rel="nofollow noopener" class="ticker-link">
-                  {link.product}
-                </a>
-              </div>
-            ))}
-          </div>
-        </div>
-      </section>
-    )}
+
 
     <!-- Categories Section - Closer to Top -->
     <section class="py-4 bg-gradient-to-b from-black to-gray-900">
