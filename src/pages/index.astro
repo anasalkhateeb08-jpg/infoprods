@@ -8,14 +8,7 @@ const leftPosts = [...shuffled];
 const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
 
 
-import { readFileSync } from 'fs';
-import { fileURLToPath } from 'url';
-import { dirname, join } from 'path';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
-const affiliateLinksPath = join(process.cwd(), 'public/data/affiliateLinks.json');
-const affiliateLinksData = JSON.parse(readFileSync(affiliateLinksPath, 'utf-8'));
+import affiliateLinksData from '../data/affiliateLinks.json';
 
 const affiliateLinks = affiliateLinksData.map(link => ({
   url: link.url,
@@ -23,6 +16,8 @@ const affiliateLinks = affiliateLinksData.map(link => ({
 }));
 
 console.log('Loaded', affiliateLinks.length, 'affiliate links from JSON file');
+
+
 ---
 
 <Layout 
