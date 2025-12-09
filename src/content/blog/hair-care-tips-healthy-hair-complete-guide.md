@@ -49,7 +49,7 @@ Whether you're dealing with damaged hair requiring rehabilitation, wanting to ma
 
 **Hair care isn't vanity—it's self-care**. Your hair frames your face, affects how you're perceived, and impacts your self-confidence. Investing time in proper care pays dividends in appearance, hair health, and personal satisfaction. Let's begin your journey to the healthiest hair you've ever had.
 
-[Image 1 - Insert here]
+!["Different hair types and textures showing straight wavy curly and coily hair varieties"](/images/uploads/ha1.png "'Understanding Hair Types - Guide to Hair Texture and Porosity'")
 
 <a name="hair-types"></a>
 
@@ -243,7 +243,7 @@ Use **lukewarm water—not hot**. Hot water strips excessive natural oils and ca
 
 [https://www.aliexpress.com/w/wholesale-natural-hair-oils.html](https://www.aliexpress.com/w/wholesale-natural-hair-oils.html)
 
-[Image 2 - Insert here]
+!["Woman washing hair properly with correct shampooing technique for healthy hair care"](/images/uploads/ha2.jpg "'Proper Hair Washing Technique - Healthy Hair Care Routine'")
 
 <a name="products"></a>
 
@@ -446,7 +446,7 @@ Apply generously to damp hair. Cover with shower cap. Leave 20-60 minutes. Shamp
 
 [https://www.aliexpress.com/w/wholesale-hair-styling-tools.html](https://www.aliexpress.com/w/wholesale-hair-styling-tools.html)
 
-[Image 3 - Insert here]
+!["Natural hair care products oils masks and treatments for healthy hair maintenance"](/images/uploads/ha3.avif "Title: 'Natural Hair Care Treatments - Oils Masks and DIY Remedies'")
 
 <a name="styling"></a>
 
@@ -649,7 +649,7 @@ Covered in previous section—key points: use heat protectant, keep 6-8 inches d
 
 [https://www.aliexpress.com/w/wholesale-hair-care-brushes.html](https://www.aliexpress.com/w/wholesale-hair-care-brushes.html)
 
-[Image 4 - Insert here]
+!["Woman blow drying hair with proper technique using heat protection for safe styling"](/images/uploads/ha4.jpg "'Safe Hair Drying and Styling - Heat Protection Techniques'")
 
 <a name="nutrition"></a>
 
@@ -1040,7 +1040,7 @@ Regular trimming is essential for maintaining healthy hair—contrary to popular
 
 [https://www.aliexpress.com/w/wholesale-hair-treatment-masks.html](https://www.aliexpress.com/w/wholesale-hair-treatment-masks.html)
 
-[Image 5 - Insert here]
+!["Beautiful healthy shiny hair showing results of proper hair care routine and maintenance"](/images/uploads/ha5.jpg "'Healthy Hair Results - Beautiful Shiny Strong Hair from Proper Care'")
 
 <a name="nighttime"></a>
 
