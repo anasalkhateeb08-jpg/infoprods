@@ -121,7 +121,7 @@ Effective hair care begins with accurately identifying your hair type—differen
 
 **Damage susceptibility:** Fine hair breaks easily from mechanical stress; coily hair's natural dryness makes it fragile; chemically-treated hair regardless of type requires gentle handling.
 
-[https://www.aliexpress.com/w/wholesale-hair-care-products.html](https://www.aliexpress.com/w/wholesale-hair-care-products.html)
+<a href="https://s.click.aliexpress.com/e/_c4FM12o5" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-hair-care-products </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 <a name="science"></a>
 
