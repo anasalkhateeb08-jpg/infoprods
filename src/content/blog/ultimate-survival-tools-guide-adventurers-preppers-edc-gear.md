@@ -122,8 +122,6 @@ Scenario-based training helps identify gaps in equipment or skills. Plan hypothe
 
 Physical practice outdoors provides invaluable experience. Camp using only what's in your survival kit, discovering what you really need versus what's dead weight. Hike with your EDC items, learning if they're comfortable to carry daily or if adjustments are needed. This hands-on experience teaches more than any amount of reading or video watching.
 
-<a href="https://s.click.aliexpress.com/e/_c3Oq8v4Z" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-survival-kit </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
-
 Understanding survival philosophy prevents common mistakes while building genuinely useful capabilities. Balance skills, knowledge, and equipment rather than relying on any single element. Choose quality tools for critical needs while economizing sensibly on less essential items. Practice regularly with your gear, developing real proficiency rather than just accumulating equipment. Layer your preparedness from everyday carry through vehicle kits to home supplies. Follow the Rule of Threes prioritizing immediate needs appropriately. This foundation guides all subsequent equipment selection and skill development.
 
 <a name="knives"></a>
@@ -583,8 +581,6 @@ Recording medical information and effectively communicating with professional re
 Patient assessment and documentation track injuries, vital signs, treatments, and changes over time. Simple notes with timestamps provide crucial information for professional responders. Include patient name, age, medical history, injury description, vital signs, treatments administered, and response to treatment.
 
 Communication with emergency services requires clear, concise information. Be prepared to provide your location (GPS coordinates or clear landmarks), nature of emergency, number of people injured, extent of injuries, treatments provided, and any hazards responders should know about. Stay calm, speak clearly, and follow dispatcher instructions.
-
-<a href="https://s.click.aliexpress.com/e/_c3cYfqeh" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-first-aid-kit  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 Understanding first aid—from kit contents through proper training to treating common injuries—provides crucial capability for outdoor adventures and emergencies. Carry appropriately comprehensive first aid kits tailored to activities and group sizes. Obtain proper training matching your adventure level, refreshing skills regularly. Practice basic first aid techniques before needing them in stressful emergencies. Prioritize prevention through proper planning, appropriate caution, and good decision-making, as avoiding injuries is far better than treating them.
 
