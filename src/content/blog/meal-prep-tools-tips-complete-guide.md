@@ -163,7 +163,7 @@ Choose heavy, quality sheet pans that won't warp under high heat. Line with parc
 
 **Kitchen scale:** For people tracking macros or wanting precise portions, digital kitchen scales ($15-30) provide accuracy measuring tools cannot match. Weigh proteins, grains, and vegetables ensuring consistent calorie and macro targets.
 
-**Garlic press:** If you use garlic frequently (which adds tremendous flavor to meal prep), a garlic press is faster and easier than mincing. Fresh garlic tastes dramatically better than pre-minced jarred garlic.
+[**Garlic](https://en.wikipedia.org/wiki/Garlic) press:** If you use garlic frequently (which adds tremendous flavor to meal prep), a garlic press is faster and easier than mincing. Fresh garlic tastes dramatically better than pre-minced jarred garlic.
 
 <a href="https://s.click.aliexpress.com/e/_c3YXPRVJ" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-kitchen-food-processor </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
@@ -491,7 +491,7 @@ Freezing dramatically extends meal prep timeline—prepare meals for 2-3 weeks o
 
 **Grain and vegetable bowls:** Build meals around grains (rice, quinoa, farro) with roasted vegetables, plant proteins, and flavorful sauces (tahini, peanut sauce, chimichurri).
 
-**Freezer-friendly vegan meals:** Many vegan meals freeze excellently—vegetable curries, bean-based chilis, vegetable soups, grain bowls. This allows longer-term prep reducing weekly time commitment.
+[**Freezer-friendly vegan meals](https://en.wikipedia.org/wiki/Category:Vegan_cuisine):** Many vegan meals freeze excellently—vegetable curries, bean-based chilis, vegetable soups, grain bowls. This allows longer-term prep reducing weekly time commitment.
 
 ### Keto and Low-Carb Meal Prep
 
