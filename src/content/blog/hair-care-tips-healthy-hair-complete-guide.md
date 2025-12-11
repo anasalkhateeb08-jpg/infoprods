@@ -131,7 +131,7 @@ Understanding hair's biological structure and growth cycle helps you make inform
 
 ### Hair Structure: The Three Layers
 
-**The Cuticle (Outer Layer):** The cuticle consists of overlapping protective cells resembling roof shingles or fish scales. When healthy, these cells lay flat creating smooth, shiny surface reflecting light beautifully. When damaged, cuticles lift and separate creating rough texture, dullness, tangling, and breakage. **The cuticle contains no pigment—hair color comes from deeper cortex layer**.
+**The Cuticle (Outer Layer):** [The cuticle consists of overlapping protective cells resembling roof shingles or fish scales. When healthy, these cells lay flat creating smooth, shiny surface reflecting light beautifully](https://www.ncbi.nlm.nih.gov/books/NBK499948/). When damaged, cuticles lift and separate creating rough texture, dullness, tangling, and breakage. **The cuticle contains no pigment—hair color comes from deeper cortex layer**.
 
 Cuticle damage results from: heat styling (literally cooking proteins), chemical treatments (breaking and reforming structural bonds), mechanical damage (rough brushing, tight hairstyles), environmental damage (sun, chlorine, salt water), and pH disruption (very alkaline or acidic products forcing cuticles open).
 
@@ -143,13 +143,13 @@ Cuticle damage results from: heat styling (literally cooking proteins), chemical
 
 **Hair grows in distinct phases—understanding these explains why hair reaches maximum length, why shedding happens, and why growth-promoting products have limitations:**
 
-**Anagen (Growth Phase):** Lasts 2-7 years depending on genetics—this phase length determines your maximum hair length. Approximately 85-90% of scalp hair is in anagen phase at any time. Hair grows approximately 6 inches (15 cm) annually, or 0.5 inches (1.25 cm) monthly. Individual follicles cycle independently—otherwise you'd go completely bald periodically.
+[**Anagen (Growth Phase):** Lasts 2-7 years depending on genetics](https://www.ncbi.nlm.nih.gov/books/NBK499948/)—this phase length determines your maximum hair length. Approximately 85-90% of scalp hair is in anagen phase at any time. Hair grows approximately 6 inches (15 cm) annually, or 0.5 inches (1.25 cm) monthly. Individual follicles cycle independently—otherwise you'd go completely bald periodically.
 
 **Catagen (Transition Phase):** Lasts 2-3 weeks. Hair stops growing, follicle shrinks, hair detaches from blood supply. Only 1-2% of hair is in this phase simultaneously.
 
 **Telogen (Resting Phase):** Lasts approximately 3 months. Hair remains in follicle but doesn't grow. New hair begins forming beneath the old. Approximately 10-15% of hair is in telogen phase. At the end of telogen, old hair sheds when you wash, brush, or simply move—this is normal shedding, not hair loss.
 
-**Normal shedding:** 50-100 hairs daily represents natural cycle turnover. Hair in brushes, shower drains, on pillows—this is expected. Concern arises when shedding exceeds 150-200 hairs daily or you notice thinning areas, increased scalp visibility, or dramatic shedding increases.
+[**Normal shedding:** 50-100 hairs daily represents natural cycle turnover. Hair in brushes, shower drains, on pillows—this is expected](https://pmc.ncbi.nlm.nih.gov/articles/PMC9917549/). Concern arises when shedding exceeds 150-200 hairs daily or you notice thinning areas, increased scalp visibility, or dramatic shedding increases.
 
 ### What Hair Needs to Thrive
 
