@@ -53,7 +53,7 @@ The 33W wired fast charging restores 50% capacity in approximately 45 minutes, m
 
 ### **Military-Grade Durability You Can Trust**
 
-IP68 and IP69K ratings mean this phone survives complete submersion in 2 meters of water for 30 minutes and withstands high-pressure, high-temperature water jets. The MIL-STD-810H certification validates its ability to survive drops from 1.5 meters onto concrete, function in extreme temperatures ranging from -30°C to 55°C, resist shock and vibration, and operate in dusty, humid, or corrosive environments.
+IP68 and IP69K ratings mean this phone survives complete submersion in 2 meters of water for 30 minutes and withstands high-pressure, high-temperature water jets. [The MIL-STD-810H certification validates its ability to survive drops from](https://www.iec.ch/ip-ratings) 1.5 meters onto concrete, function in extreme temperatures ranging from -30°C to 55°C, resist shock and vibration, and operate in dusty, humid, or corrosive environments.
 
 Corning Gorilla Glass Victus protects the 6.78-inch display, offering exceptional scratch resistance and drop protection. The reinforced corners and raised bezels provide additional impact absorption.
 
