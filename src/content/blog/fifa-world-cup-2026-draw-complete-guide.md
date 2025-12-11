@@ -30,7 +30,7 @@ History was made on December 5, 2025, when FIFA conducted the most anticipated d
 
 The magnitude of this moment cannot be overstated. Since the World Cup expanded to 32 teams in 1998—a format that became the standard for nearly three decades—football fans worldwide grew accustomed to a specific tournament structure: eight groups of four teams, 64 total matches, and a straightforward progression to knockout rounds. That familiar framework has now been completely reimagined for an unprecedented era of expanded global competition.
 
-The 2026 FIFA World Cup represents football's most ambitious undertaking: 48 nations competing across three countries (United States, Mexico, and Canada), 16 world-class stadiums spanning four time zones, 104 total matches over 39 days, and a revolutionary tournament format featuring 12 groups and a new Round of 32. This expansion isn't merely numerical—it's philosophical, reflecting FIFA's commitment to bringing football's greatest stage to more nations, more fans, and more corners of the globe than ever before.
+[The 2026 FIFA World Cup represents football's most ambitious undertaking: 48 nations competing across three countries (United States, Mexico, and Canada), 16 world-class stadiums spanning four time zones, 104 total matches over 39 days](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup), and a revolutionary tournament format featuring 12 groups and a new Round of 32. This expansion isn't merely numerical—it's philosophical, reflecting FIFA's commitment to bringing football's greatest stage to more nations, more fans, and more corners of the globe than ever before.
 
 The significance extends far beyond logistics and infrastructure. Four nations—Jordan, Uzbekistan, Cape Verde, and Curaçao—will experience their first-ever World Cup appearances, representing continents and communities that have dreamed of this moment for generations. Curaçao, with a population of just 156,000, becomes the smallest nation by population to ever qualify, demonstrating that football excellence isn't determined by geography or resources alone. These debut nations embody the expansion's core promise: providing pathways to glory for footballing nations previously locked out of the sport's ultimate stage.
 
@@ -381,7 +381,7 @@ Curaçao's qualification resonates beyond football. For small island nations and
 
 ## 4. Revolutionary 48-Team Format Explained
 
-The expansion from 32 to 48 teams represents FIFA's most significant structural change since the tournament adopted 32 teams in 1998. This isn't merely numerical expansion—it's a fundamental reimagining of World Cup structure, qualification pathways, and competitive dynamics.
+[The expansion from 32 to 48 teams represents FIFA's most significant structural change since the tournament adopted 32 teams in 1998](https://www.espn.com/soccer/story/_/id/47108758/2026-fifa-world-cup-format-tiebreakers-fixtures-schedule). This isn't merely numerical expansion—it's a fundamental reimagining of World Cup structure, qualification pathways, and competitive dynamics.
 
 ### Why Expand? FIFA's Rationale
 
@@ -531,7 +531,7 @@ The 2026 tournament will test whether expansion enhances or diminishes World Cup
 
 ## 5. The 16 Stadiums Hosting Football History
 
-The 2026 World Cup will unfold across 16 stadiums in three nations—the most venues since the 2002 tournament in Japan and South Korea (which used 20 stadiums). This geographic spread creates logistical complexity but allows more fans to experience matches without traveling across continents.
+[The 2026 World Cup will unfold across 16 stadiums in three nations—the most venues since the 2002 tournament in Japan and South Korea (which used 20 stadiums)](https://www.nbcsports.com/soccer/news/2026-world-cup-schedule-confirmed-dates-times-stadiums-full-details). This geographic spread creates logistical complexity but allows more fans to experience matches without traveling across continents.
 
 Due to FIFA's strict rules against commercial stadium naming, venues will use alternative names during the tournament (shown in parentheses where applicable). Here's the complete stadium guide:
 
