@@ -353,7 +353,7 @@ Lab diamonds offer the same hardness (10 on Mohs scale), same brilliance and fir
 
 For many modern couples, lab-grown diamonds represent intelligent value—getting more beauty and size while avoiding ethical concerns associated with diamond mining.
 
-### Sapphires: Colorful and Durable
+### [Sapphires](https://en.wikipedia.org/wiki/Sapphire): Colorful and Durable
 
 Sapphires are the second-hardest gemstone (9 on Mohs scale) making them excellent for daily wear in engagement rings. While blue sapphires are most famous, sapphires come in virtually every color—pink, yellow, orange, green, purple, white, and even color-changing varieties.
 
@@ -450,7 +450,7 @@ Remember these key principles:
 
 **Choose eye-clean clarity and near-colorless color grades** that look identical to premium grades while costing significantly less.
 
-**Buy slightly below magic numbers** to maximize value—0.90 carats looks identical to 1.00 carats at substantially lower cost.
+**Buy slightly below magic numbers** to maximize value—0.90 [carats](https://en.wikipedia.org/wiki/Carat_(mass)) looks identical to 1.00 carats at substantially lower cost.
 
 **Match the ring to her personal style** by observing jewelry preferences, fashion aesthetic, and lifestyle requirements.
 
