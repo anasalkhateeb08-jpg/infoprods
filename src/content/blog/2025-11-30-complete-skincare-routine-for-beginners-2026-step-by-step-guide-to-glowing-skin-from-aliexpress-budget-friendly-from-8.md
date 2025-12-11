@@ -165,7 +165,7 @@ Cleansing removes dirt, oil, makeup, pollution, and dead skin cells that accumul
 
 **Morning Cleansing:** During sleep, your skin produces oil, sheds dead cells, and residue from nighttime products accumulates. Morning cleansing refreshes skin and creates a clean canvas for daytime products.
 
-**Evening Cleansing:** This is the most crucial cleanse. Throughout the day, your skin collects makeup, sunscreen, pollution, sweat, and environmental debris. Sleeping with this buildup clogs pores and accelerates aging.
+**Evening Cleansing:** This is the most crucial cleanse. Throughout the day, your skin collects makeup, sunscreen, pollution, sweat, and environmental debris. [Sleeping with this buildup](https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101) clogs pores and accelerates aging.
 
 What Happens Without Proper Cleansing:
 
@@ -432,7 +432,7 @@ Step-by-Step Process:
 
 ![Moisturizer cream being applied to face showing hydration step in daily skincare routine for beginners](/images/uploads/aa2.jpg "Facial Moisturizer - Hydration Essential for All Skin Types")
 
-Moisturizers are non-negotiable for every skin type, including oily skin. They hydrate, strengthen the skin barrier, and prevent water loss while creating a protective layer against environmental stressors.
+[Moisturizers are non-negotiable for every skin type, ](https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101)including oily skin. They hydrate, strengthen the skin barrier, and prevent water loss while creating a protective layer against environmental stressors.
 
 ### Why Every Skin Type Needs Moisturizer
 
@@ -1018,7 +1018,7 @@ What to Expect:
 
 What It Does:
 
-- Gold standard anti-aging ingredient
+- Gold standard [anti-aging ingredient](https://pmc.ncbi.nlm.nih.gov/articles/PMC2699641/)
 - Increases cell turnover
 - Boosts collagen production
 - Fades hyperpigmentation
