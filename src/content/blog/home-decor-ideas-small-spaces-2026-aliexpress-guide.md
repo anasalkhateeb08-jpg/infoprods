@@ -20,7 +20,7 @@ The way we think about small spaces has fundamentally shifted. What was once see
 
 **Economic Accessibility:** Smaller spaces are more affordable, allowing people to live in desirable locations without breaking the bank. Smart design maximizes the value of every square foot.
 
-**Environmental Sustainability:** Smaller homes require less energy to heat and cool, use fewer materials, and encourage mindful consumption. In 2026, this aligns perfectly with growing environmental consciousness.
+**Environmental Sustainability:** [Smaller homes require less energy to heat and cool, use fewer materials, and encourage mindful consumption](https://www.energy.gov/energysaver/efficient-home-design). In 2026, this aligns perfectly with growing environmental consciousness.
 
 **Lifestyle Flexibility:** Compact living supports mobile, flexible lifestyles. Whether you're a young professional, a digital nomad, or someone downsizing, small spaces adapt to changing life circumstances.
 
@@ -362,7 +362,7 @@ The strategic use of mirrors and lighting is perhaps the most powerful tool in s
 
 **Light Reflection and Multiplication:** Mirrors bounce natural and artificial light around rooms, effectively multiplying available illumination. A single window can feel like two when mirrored opposite it.
 
-**Depth Creation:** Large mirrors create the illusion of additional space beyond walls. The brain perceives reflected space as real space, making rooms feel twice as deep.
+**Depth Creation:** Large mirrors create the illusion of additional space beyond walls. The [brain](https://pmc.ncbi.nlm.nih.gov/articles/PMC4141622/) perceives reflected space as real space, making rooms feel twice as deep.
 
 **Visual Expansion:** Mirrors placed strategically at room ends extend sight lines, making narrow spaces feel wider and short walls feel more distant.
 
@@ -609,7 +609,7 @@ Small spaces still need personality, warmth, and individual character. The chall
 
 ### Why Plants Are Perfect for Small Spaces
 
-**Biophilic Benefits:** Humans have an innate connection to nature. Bringing plants indoors reduces stress, improves mood, and creates psychological comfort—especially valuable in compact living.
+**Biophilic Benefits:** [Humans have an innate connection to nature. Bringing plants indoors reduces stress, improves mood, and creates psychological comfort](https://www.health.harvard.edu/mind-and-mood/sour-mood-getting-you-down-get-back-to-nature)—especially valuable in compact living.
 
 **Air Quality Improvement:** Many common houseplants naturally filter air pollutants and produce oxygen, creating healthier indoor environments. NASA studies confirm plants remove toxins like formaldehyde and benzene.
 
