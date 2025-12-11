@@ -25,9 +25,9 @@ tags:
 
 ## Introduction: Protecting Your Precious Investment
 
-Your fine jewelry represents far more than precious metals and gemstones—it embodies memories, milestones, love, achievement, and family history. That engagement ring symbolizes a life partnership. Those inherited earrings carry your grandmother's elegance and stories. That anniversary bracelet commemorates years of shared experiences. These pieces aren't merely accessories; they're tangible connections to the most important moments and people in your life, meant to be treasured, worn, and eventually passed down to future generations.
+Your fine[ jewelry represents](https://www.jewelersmutual.com/jewelry-insurance-explained/coverage) far more than precious metals and gemstones—it embodies memories, milestones, love, achievement, and family history. That engagement ring symbolizes a life partnership. Those inherited earrings carry your grandmother's elegance and stories. That anniversary bracelet commemorates years of shared experiences. These pieces aren't merely accessories; they're tangible connections to the most important moments and people in your life, meant to be treasured, worn, and eventually passed down to future generations.
 
-Yet despite their emotional and monetary value, many people unknowingly damage their fine jewelry through improper care, inadequate storage, or simple neglect. A diamond engagement ring worn during gardening accumulates dirt dulling its brilliance. Gold chains tangled in jewelry boxes develop scratches and kinks. Pearl necklaces stored improperly lose their luster. Silver earrings tarnish black in humid environments. Prong settings loosen gradually until gemstones fall out, often unnoticed until it's too late.
+Yet despite their emotional and monetary value, many people unknowingly damage their fine jewelry through improper care, inadequate storage, or simple neglect. A diamond engagement ring worn during gardening accumulates dirt dulling its brilliance. Gold chains tangled in jewelry boxes develop scratches and kinks. [Pearl necklaces](https://www.gia.edu/pearl-care-cleaning) stored improperly lose their luster. Silver earrings tarnish black in humid environments. Prong settings loosen gradually until gemstones fall out, often unnoticed until it's too late.
 
 The harsh reality: most jewelry damage is entirely preventable. With proper care, maintenance, and storage, fine jewelry maintains its beauty and integrity for decades—even centuries. Family heirlooms passed through generations prove this—Victorian rings still sparkle brilliantly, Art Deco necklaces remain stunning, vintage bracelets continue dazzling. These survived not through luck but through proper care from owners who understood preservation principles.
 
@@ -59,7 +59,7 @@ Whether you own a single precious engagement ring or an extensive jewelry collec
 
 ### Gemstones: Understanding Hardness and Care Needs
 
-Gemstones vary dramatically in hardness, durability, and care requirements. The Mohs hardness scale (1-10) measures scratch resistance, with diamonds at 10 (hardest natural material) and talc at 1 (softest).
+Gemstones vary dramatically in hardness, durability, and care requirements. [The Mohs hardness scale (1-10) measures scratch resistance](https://4cs.gia.edu/en-us/blog/mohs-scale/), with diamonds at 10 (hardest natural material) and talc at 1 (softest).
 
 **Diamonds (Mohs 10):** Extremely hard and durable, diamonds resist scratching and withstand daily wear excellently. However, diamonds can chip or fracture from sharp impacts at vulnerable points (corners, edges, thin sections). Despite their hardness, diamonds aren't indestructible—dropping on hard surfaces or striking with force can damage them. Diamonds are also lipophilic (oil-attracting), meaning they accumulate oils, lotions, and dirt that dull brilliance, requiring regular cleaning for optimal sparkle.
 
@@ -396,7 +396,7 @@ Traveling with fine jewelry requires special care preventing loss, theft, and da
 
 ### High-Risk Activities Requiring Jewelry Removal
 
-**Swimming (pools, oceans, lakes):** Cold water causes fingers to shrink—rings slip off easily in water and are lost forever. Chlorine in pools corrodes metals over time. Saltwater corrodes metals and leaves deposits. Sand scratches metals and gemstones. Ocean swimming risks losing jewelry in vast expanses making recovery impossible.
+**Swimming (pools, oceans, lakes):** Cold water causes fingers to shrink—rings slip off easily in water and are lost forever. [Chlorine in pools](https://www.koserjewelers.com/blogs/jewelry/is-it-ok-to-wear-fine-jewelry-in-the-pool) corrodes metals over time. Saltwater corrodes metals and leaves deposits. Sand scratches metals and gemstones. Ocean swimming risks losing jewelry in vast expanses making recovery impossible.
 
 **Hot tubs and saunas:** High heat can damage some gemstones (opals, emeralds, pearls) and cause thermal shock leading to cracks. Chlorine and chemicals corrode metals. Heat causes fingers to swell, then shrinking when cooling creates loss risk.
 
