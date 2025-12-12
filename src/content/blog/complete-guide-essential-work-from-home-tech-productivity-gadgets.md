@@ -74,7 +74,7 @@ Your computer serves as the foundation of remote work capability—every digital
 
 **Laptop vs Desktop Considerations**
 
-The fundamental decision between laptop and desktop computers involves balancing portability, performance, upgradability, and cost. Neither option is universally superior—optimal choice depends entirely on your specific needs, work style, and circumstances.
+[The fundamental decision](https://me.pcmag.com/en/) between laptop and desktop computers involves balancing portability, performance, upgradability, and cost. Neither option is universally superior—optimal choice depends entirely on your specific needs, work style, and circumstances.
 
 Laptops provide essential portability enabling work from multiple locations—home office, couch, dining table, coffee shops, while traveling, or transitioning between home and traditional offices for hybrid workers. The all-in-one nature means no separate monitor, keyboard, or mouse required for basic functionality, simplifying initial setup and reducing desk space requirements. Modern laptops deliver impressive performance rivaling desktops for many tasks, with high-end models handling demanding applications like video editing, 3D modeling, or software development.
 
@@ -144,7 +144,7 @@ Computing hardware represents your most fundamental work-from-home investment, a
 
 ## 2. Monitors and Display Solutions
 
-Screen real estate dramatically impacts productivity—multiple studies demonstrate that additional display space enables significantly faster task completion, easier multitasking, and reduced context switching compared to working on single laptop screens. Monitor investment represents one of the highest-value upgrades for remote workers, often providing more perceivable productivity improvements than computer upgrades costing far more.
+Screen real estate dramatically impacts productivity—[Multiple studies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6174084/) demonstrate that additional display space enables significantly faster task completion, easier multitasking, and reduced context switching compared to working on single laptop screens. Research from University of Utah shows productivity gains of 20-30% with dual monitors. Monitor investment represents one of the highest-value upgrades for remote workers, often providing more perceivable productivity improvements than computer upgrades costing far more.
 
 **The Productivity Case for Multiple Monitors**
 
@@ -776,7 +776,7 @@ Bitwarden offers similar features to 1Password with free tier including unlimite
 
 LastPass provides free password management with device-type restriction (mobile or desktop, not both on free tier). Premium removes restrictions and adds advanced features.
 
-Password managers dramatically improve security through unique, complex passwords for every account while requiring remembering just one master password. The convenience of autofill and cross-device sync improves productivity while enhancing security.
+[Password managers dramatically](https://www.nist.gov/itl/applied-cybersecurity/back-basics-multi-factor-authentication-mfa) improve security through unique, complex passwords for every account while requiring remembering just one master password. The convenience of autofill and cross-device sync improves productivity while enhancing security.
 
 **Automation and Integration**
 
