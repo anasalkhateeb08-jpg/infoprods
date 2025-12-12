@@ -202,7 +202,7 @@ Statement earrings frame your face, draw attention to your features, and express
 - **Size:** Sculptural earrings make statements through form regardless of actual size—even relatively compact pieces create impact through striking shapes
 - **Asymmetry:** Some sculptural earrings deliberately feature non-matching left and right designs, embracing contemporary aesthetics
 
-**Styling mastery:** Sculptural earrings work best with minimalist, modern clothing that echoes their contemporary aesthetic—think clean lines, architectural silhouettes, monochromatic color schemes, and uncluttered designs. They look spectacular against simple backdrops: black turtlenecks, white button-downs, sleek slip dresses, or structured blazers. For cohesive styling, coordinate the earrings' metallic tone (gold, silver, rose gold) with other minimal accessories like thin rings or simple watches.
+**Styling mastery:** Sculptural earrings work best with minimalist, modern clothing that echoes their contemporary aesthetic—think clean lines, architectural silhouettes, monochromatic color schemes, and uncluttered designs. They look spectacular against simple backdrops: black turtlenecks, white button-downs, sleek slip dresses, or structured blazers. For cohesive styling, coordinate the earrings' metallic tone (gold, silver, rose gold) with other minimal accessories like thin [rings or simple ](https://finesilverjewels.com/blogs/fine-silver-jewels-says/types-of-earrings-for-women-styles-and-guide?utm_source=copilot.com)watches.
 
 **Artistic expression:** Sculptural earrings particularly appeal to those who view fashion as personal expression and appreciate jewelry as wearable art rather than traditional adornment.
 
@@ -454,7 +454,7 @@ Understanding which statement pieces work with various outfit styles ensures you
 
 ### Casual Weekend Wear
 
-**Perfect statement pieces:** Chunky hoops; layered delicate necklaces; stacked rings; bold cuff bracelets; contemporary pins on denim jackets; statement pendant necklaces.
+**Perfect statement pieces:** Chunky hoops; layered delicate [necklaces; stacked rings; bold cuff bracelets; contemporary pins on denim jackets; statement pendant necklaces](https://spirajewels.com/blogs/spira-jewels/what-is-statement-jewelry-a-complete-guide-for-beginners?utm_source=copilot.com).
 
 **Styling freedom:** Casual contexts allow more experimental mixing—layer multiple pieces, mix metals freely, and embrace bohemian or eclectic combinations. The relaxed setting permits more creative expression.
 
