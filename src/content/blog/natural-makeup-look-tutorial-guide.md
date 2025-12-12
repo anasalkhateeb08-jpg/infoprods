@@ -262,7 +262,7 @@ Apply thin layer, focusing on areas needing most help (T-zone for pore-minimizin
 
 ### Quick Skin Fixes for Common Issues
 
-**Dry, flaky skin:** Exfoliate with gentle chemical exfoliant (lactic acid, PHA) the night before. Morning of, apply hydrating sheet mask for 15 minutes before skincare. Use facial oil mixed with moisturizer for extra hydration.
+**Dry, [flaky skin](https://en.wikipedia.org/wiki/Skin_sloughing):** Exfoliate with gentle chemical exfoliant (lactic acid, PHA) the night before. Morning of, apply hydrating sheet mask for 15 minutes before skincare. Use facial oil mixed with moisturizer for extra hydration.
 
 **Oily, shiny skin:** Use mattifying primer only in T-zone (forehead, nose, chin) where oil concentrates. Avoid over-using setting powder—it can paradoxically cause more oil production. Blotting papers throughout day maintain matte finish without disrupting makeup.
 
@@ -632,7 +632,7 @@ Before leaving house, do quick final check:
 
 ### Eye Makeup Mistakes
 
-**Mistake: Too much eyeshadow** Dark, intense eyeshadow or poorly blended colors look obviously made-up rather than naturally defined.
+**Mistake: Too much [eyeshadow](https://en.wikipedia.org/wiki/Eye_shadow)** Dark, intense eyeshadow or poorly blended colors look obviously made-up rather than naturally defined.
 
 **Solution:** Stick to neutral shades close to skin tone. Blend thoroughly—no harsh lines. Remember: natural eye makeup creates subtle dimension, not dramatic transformation.
 
