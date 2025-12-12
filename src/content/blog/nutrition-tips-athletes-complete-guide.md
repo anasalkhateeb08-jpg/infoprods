@@ -402,7 +402,7 @@ Athletes lose approximately 500-1,000 mg sodium per liter of sweat. During exerc
 
 ### Practical Hydration Tips
 
-**Develop a hydration routine:** Don't rely on thirst—establish scheduled fluid intake before, during, and after training.
+**Develop a [hydration](https://en.wikipedia.org/wiki/Moisturizer) routine:** Don't rely on thirst—establish scheduled fluid intake before, during, and after training.
 
 **Monitor body weight:** Weigh yourself before and after training sessions. Significant weight loss indicates dehydration requiring adjustment to fluid intake strategies.
 
@@ -1052,7 +1052,7 @@ Even dedicated athletes often sabotage their progress through nutritional errors
 
 **Consequences:** Wasted money, potential health risks from excessive/unproven supplements, and missing the superior nutrition from whole foods.
 
-**The solution:** Build nutrition foundation from whole foods. Use supplements strategically and evidence-based (creatine, protein powder for convenience, caffeine). Don't replace meals with supplements.
+**The solution:** Build nutrition foundation from whole foods. Use supplements strategically and evidence-based (creatine, protein powder for convenience, [caffeine](https://en.wikipedia.org/wiki/Caffeine)). Don't replace meals with supplements.
 
 ### Mistake #7: Restricting Fats Too Severely
 
