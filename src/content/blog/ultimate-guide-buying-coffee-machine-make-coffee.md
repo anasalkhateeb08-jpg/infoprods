@@ -58,7 +58,7 @@ Coffee preparation rewards curiosity and experimentation. As you develop underst
 
 Your coffee education begins now. Every improvement, no matter how small, compounds over time—better beans, more consistent grinding, proper water temperature, correct brewing ratios. These incremental refinements accumulate into dramatic quality improvements that make you wonder how you ever accepted mediocre coffee. Let's begin transforming your coffee experience from disappointing or merely acceptable into something truly exceptional, one cup at a time.
 
-!["Assorted coffee machines and brewing equipment displayed on modern kitchen counter"](/images/uploads/co1.webp "'Different Types of Coffee Machines - Drip Espresso French Press Pour Over'")
+![Assorted coffee machines and brewing equipment displayed on modern kitchen counter](/images/uploads/co1.webp "Different Types of Coffee Machines - Drip Espresso French Press Pour Over")
 
 <a name="types"></a>
 
@@ -138,7 +138,7 @@ Limitations include lack of true espresso pressure—moka pots generate approxim
 
 Understanding these machine categories helps narrow options dramatically. Your ideal choice depends on how you drink coffee—black coffee versus milk drinks; single servings versus multiple cups; quick preparation versus ritual enjoyment; and budget considerations. Many enthusiasts eventually own multiple devices for different situations, but starting with one machine matching your primary needs makes most sense. The perfect machine isn't necessarily the most expensive or feature-rich; it's the one you'll actually use consistently, producing coffee you genuinely enjoy.
 
-!["Various coffee brewing methods showing espresso machine French press and pour over setup"](/images/uploads/co2.jfif "'Coffee Brewing Techniques and Methods for Perfect Home Coffee'")
+![Various coffee brewing methods showing espresso machine French press and pour over setup](/images/uploads/co2.jfif "Coffee Brewing Techniques and Methods for Perfect Home Coffee")
 
 <a name="features"></a>
 
@@ -250,7 +250,7 @@ Consider total cost of ownership beyond initial purchase. Cheaper machines somet
 
 Ultimately, the right budget depends on individual circumstances including current coffee spending patterns, household consumption levels, skill level and interest in coffee preparation as hobby, available space and whether equipment will be prominently visible, and financial priorities balancing coffee enjoyment against other spending. Focus on value alignment with your specific needs rather than absolute spending or arbitrary quality tiers when establishing your coffee budget.
 
-!["Fresh coffee beans in containers with coffee equipment and grinder"](/images/uploads/co3.jfif "'Selecting Quality Coffee Beans for Home Brewing and Espresso'")
+![Fresh coffee beans in containers with coffee equipment and grinder](/images/uploads/co3.jfif "Selecting Quality Coffee Beans for Home Brewing and Espresso")
 
 <a name="beans"></a>
 
@@ -374,7 +374,7 @@ Grinder cleaning tablets offer convenient deep-cleaning option. These food-safe 
 
 Understanding and optimizing grinding transforms it from an afterthought into a crucial step deserving attention and appropriate investment. The difference between mediocre and excellent coffee often hinges more on grind quality than any other single variable. While premium grinders represent significant investments, even modest upgrades from blade to entry-level burr grinders produce dramatic improvements. For those ready to enhance their coffee setup with reliable grinding capability, exploring quality burr grinders reveals options across price ranges delivering the consistent particle size that unlocks coffee's full potential.
 
-!["Burr coffee grinder with fresh ground coffee and whole beans"](/images/uploads/co4.webp "'Coffee Grinding Techniques and Burr Grinder Selection Guide'")
+![Burr coffee grinder with fresh ground coffee and whole beans](/images/uploads/co4.webp "Coffee Grinding Techniques and Burr Grinder Selection Guide")
 
 <a name="brewing"></a>
 
@@ -516,7 +516,7 @@ Battery-powered handheld frothers use spinning whisks creating foam through mech
 
 Understanding and practicing frothing is essential for milk-based drinks. While requiring deliberate practice, achieving consistently good microfoam happens relatively quickly. The capability to create café-quality milk drinks adds tremendous value to espresso machine investments.
 
-!["Beautiful espresso shot with perfect crema in white cup"](/images/uploads/co5.png "'Perfect Coffee Results - Café Quality Coffee at Home'")
+![Beautiful espresso shot with perfect crema in white cup](/images/uploads/co5.png "Perfect Coffee Results - Café Quality Coffee at Home")
 
 <a name="maintenance"></a>
 
