@@ -106,7 +106,7 @@ Understanding minimalist design's foundational principles is crucial before sele
 
 **The principle:** All elements in a minimalist living room should feel deliberately chosen to work together—coordinated color palettes, consistent design languages, and harmonious material choices create unified, peaceful spaces rather than collections of individual items fighting for attention.
 
-**In practice:** Choose a defined color palette (typically 2-3 main colors with 1-2 accent colors) and use it consistently. Select furniture pieces that share design sensibilities—whether mid-century modern, Scandinavian, contemporary, or Japanese-inspired, maintaining stylistic consistency prevents visual fragmentation. Limit material variety—perhaps wood, metal, and natural textiles—rather than introducing numerous competing materials.
+**In practice:** Choose a defined color palette (typically 2-3 main colors with 1-2 accent colors) and use it consistently. Select furniture pieces that share design sensibilities—whether mid-century modern, Scandinavian, contemporary, or Japanese-inspired, maintaining stylistic consistency prevents visual fragmentation. Limit material variety—perhaps[ wood](https://www.84lumber.com/?utm_source=copilot.com), metal, and natural textiles—rather than introducing numerous competing materials.
 
 **The "could this be a hotel lobby" test:** High-end minimalist hotel lobbies achieve serene sophistication through rigorous aesthetic cohesion. While your home should feel warmer and more personal than a hotel, this test helps identify items disrupting visual harmony. If a piece would look jarringly out of place in a carefully designed hotel lobby, it might not fit your minimalist living room's aesthetic cohesion.
 
