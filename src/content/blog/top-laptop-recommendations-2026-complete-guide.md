@@ -616,7 +616,7 @@ The OLED display is one of the best in any laptop—perfect for creative work, c
 
 Performance from the Core Ultra 7 155H (16 cores vs. 12 cores in the U-series) provides more headroom for demanding tasks. Bang & Olufsen-tuned quad speakers deliver surprisingly good audio for a thin laptop—acceptable for casual entertainment without external speakers.
 
-Battery life reaches **10-14 hours during mixed productivity use**—excellent for a convertible. HP's fast charging provides 50% in 30 minutes. Connectivity includes two Thunderbolt 4 ports, one USB-A, HDMI, and a microSD card reader. A physical webcam kill switch provides privacy peace of mind.
+Battery life reaches **10-14 hours during mixed productivity use**—excellent for a convertible. HP's fast charging provides 50% in 30 minutes. Connectivity includes two Thunderbolt 4 ports, one [USB](https://en.wikipedia.org/wiki/USB)-A, HDMI, and a microSD card reader. A physical webcam kill switch provides privacy peace of mind.
 
 **Trade-offs:** Heavier than traditional ultrabooks due to stronger hinges and touchscreen. The OLED display has potential burn-in risk with static content. The convertible design and touchscreen add cost compared to traditional clamshells. Pen storage is external—no integrated slot.
 
@@ -972,7 +972,7 @@ The 13.5-inch display uses a 3:2 aspect ratio (like Surface Pro)—the extra ver
 
 The Intel Core m3-8100Y is a low-power fanless processor—this laptop has no cooling fans, running completely silently. Performance is adequate for light productivity tasks but struggles with anything demanding. The fanless design is a double-edged sword: silence and no moving parts to fail, but performance limitations under sustained load.
 
-The metal chassis feels more premium than expected at this price. The keyboard is adequate for typing, and the trackpad is functional if not exceptional. Connectivity includes two USB-C ports, one USB-A port, and a headphone jack.
+The metal chassis feels more premium than expected at this price. The keyboard is adequate for typing, and the trackpad is functional if not exceptional. Connectivity includes two USB-C ports, one USB-A port, and a[ headphone](https://infoprods.com/blog/2025-12-04-best-wireless-earbuds-and-headphones-the-complete-guide-to-finding-your-perfect-audio-companion) jack.
 
 **Realistic expectations and limitations:**
 
@@ -1056,7 +1056,7 @@ The 15.6-inch display provides spacious workspace for multitasking—viewing lec
 
 Battery life reaches 6-9 hours during typical use—not all-day capability but sufficient for most class schedules with opportunistic charging between classes. The laptop includes a fingerprint reader for quick secure login and supports fast charging (60% in 49 minutes).
 
-ASUS's MyASUS software provides battery health management, system diagnostics, and customer support access. Build quality is budget-tier plastic, but the laptop feels solid enough for daily student use. The keyboard is adequate for typing papers, and the trackpad is functional if not exceptional.
+ASUS's MyASUS software provides [battery health ](https://en.wikipedia.org/wiki/State_of_health)management, system diagnostics, and customer support access. Build quality is budget-tier plastic, but the laptop feels solid enough for daily student use. The keyboard is adequate for typing papers, and the trackpad is functional if not exceptional.
 
 **Best for:** Budget-conscious students prioritizing affordability, community college or technical school students with basic computing needs, students already owning tablets or other devices for specialized tasks, anyone needing basic reliable laptop at minimal cost.
 
