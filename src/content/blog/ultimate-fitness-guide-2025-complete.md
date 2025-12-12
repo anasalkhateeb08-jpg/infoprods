@@ -235,7 +235,7 @@ Cardiovascular training isn't just "cardio"—multiple distinct training methods
 
 LISS often gets dismissed in favor of more intense training, but it provides unique benefits: extremely high calorie burn (due to long duration), improved mitochondrial density, enhanced fat metabolism, minimal muscle loss or interference with strength training, sustainable adherence, and powerful stress-reduction effects. For many people, LISS should comprise 60-80% of total cardiovascular training volume.
 
-**Moderate-Intensity Continuous Training (MICT)**: Training at approximately 70-85% of maximum heart rate for moderate durations (20-60 minutes). This represents the "traditional cardio" most people think of—steady-state running, cycling, or rowing at a challenging but sustainable pace. MICT improves cardiovascular fitness, burns significant calories, and builds mental toughness while being more time-efficient than LISS.
+**Moderate-Intensity Continuous Training (MICT)**: Training at approximately 70-85% of maximum heart rate for moderate durations (20-60 minutes). This represents the "traditional cardio" most people think of—steady-state [running](https://www.who.int/publications/i/item/9789240015128?utm_source=copilot.com), cycling, or rowing at a challenging but sustainable pace. MICT improves cardiovascular fitness, burns significant calories, and builds mental toughness while being more time-efficient than LISS.
 
 MICT occupies a middle ground that's neither the most effective for maximum cardiovascular adaptation (that's high-intensity training) nor optimal for recovery and fat oxidation (that's LISS). However, it's practical, time-efficient, and psychologically satisfying for many people who enjoy pushing themselves to moderate discomfort levels.
 
@@ -372,7 +372,7 @@ Spend 5-10 minutes daily on mobility work targeting your specific restrictions. 
 
 ### Macronutrient Fundamentals: Protein, Carbohydrates, and Fats
 
-Understanding macronutrients—protein, carbohydrates, and fats—is essential for optimizing body composition, performance, and recovery. Each macronutrient serves specific functions and should be consumed in appropriate amounts based on your goals and training demands.
+[Understanding macronutrients](https://en.wikipedia.org/wiki/List_of_macronutrients)—protein, carbohydrates, and fats—is essential for optimizing body composition, performance, and recovery. Each macronutrient serves specific functions and should be consumed in appropriate amounts based on your goals and training demands.
 
 **Protein: The Building Block of Adaptation**
 
@@ -452,7 +452,7 @@ Most pre-workout supplements, BCAAs (if protein intake is adequate), testosteron
 
 ### Sleep: The Ultimate Performance Enhancer
 
-Sleep is when your body actually adapts to training stimulus. During deep sleep, growth hormone release peaks, muscle protein synthesis accelerates, metabolic waste is cleared from the brain, motor learning is consolidated, and immune function strengthens. Inadequate sleep doesn't just make you tired—it directly impairs training adaptation, performance, body composition, and injury prevention.
+[Sleep is when your body actually adapts to training stimulus](https://www.technologynetworks.com/proteomics/news/sleep-powers-muscle-bone-and-brain-404513?utm_source=copilot.com). During deep sleep, growth hormone release peaks, muscle protein synthesis accelerates, metabolic waste is cleared from the brain, motor learning is consolidated, and immune function strengthens. Inadequate sleep doesn't just make you tired—it directly impairs training adaptation, performance, body composition, and injury prevention.
 
 Research on athletes shows that sleep deprivation (<7 hours nightly) increases injury risk by nearly 2x, impairs reaction time and decision-making equivalently to alcohol intoxication, reduces time to exhaustion during endurance exercise by 10-30%, and decreases muscle protein synthesis despite adequate protein intake.
 
