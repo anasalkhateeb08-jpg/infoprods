@@ -187,7 +187,7 @@ Pear body types have narrower shoulders and bust with wider hips and thighs. You
 
 ### Tops for Pear Body Type
 
-**Structured shoulders:** Shoulder pads, cap sleeves, off-shoulder styles, boat necks, and embellished shoulders add width to the upper body creating balance. What might look excessive on other body types creates perfect proportion on pears.
+**Structured shoulders:** Shoulder pads, cap sleeves, off-shoulder styles, boat necks, and embellished shoulders add width to the upper [body ](https://en.wikipedia.org/wiki/Human_body)creating balance. What might look excessive on other body types creates perfect proportion on pears.
 
 **Bright colors and patterns on top:** Wear bold colors, patterns, prints, and embellishments on your upper body while keeping lower body styling simpler. This draws eyes upward and balances proportions.
 
@@ -333,7 +333,7 @@ Hourglass body types have balanced shoulders and hips with a significantly small
 
 ### Styling Goals for Hourglass Body Type
 
-**Emphasize the waist:** Your defined waist is your major asset—showcase it! Anything that highlights the waist flatters hourglass figures.
+**Emphasize the waist:** Your defined waist is your major asset—[showcase it! Anything that highlights the waist flatters hourglass figures](https://www.urbanebox.com/blog/2025/01/28/how-to-dress-for-an-hourglass-shape-the-ultimate-styling-guide/?utm_source=copilot.com).
 
 **Maintain balance:** Since your proportions are naturally balanced (shoulders and hips similar width), maintain that balance rather than adding disproportionate volume to either area.
 
