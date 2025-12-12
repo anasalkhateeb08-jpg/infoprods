@@ -355,7 +355,7 @@ Winter footwear must balance style with practical demands—traction for icy con
 
 ### Snow Boots: Practical Protection
 
-**Why they're essential:** For regions experiencing genuine winter weather—significant snow, ice, and freezing temperatures—functional snow boots are non-negotiable. The good news is that modern snow boots no longer sacrifice style for function.
+**Why they're essential:** For regions experiencing genuine winter weather—significant snow, ice, and freezing temperatures—[functional snow boots are non](https://en.wikipedia.org/wiki/Snow_boot)-negotiable. The good news is that modern snow boots no longer sacrifice style for function.
 
 **What to look for:**
 
@@ -408,7 +408,7 @@ Understanding fabrics helps you choose pieces that perform well in winter condit
 
 ### Synthetic Materials: Functional Alternatives
 
-**Polyester:** Common in affordable winter clothing. Quality polyester can perform well—providing warmth, easy care, and durability. However, it doesn't breathe as well as natural fibers and can feel less luxurious.
+[**Polyester](https://en.wikipedia.org/wiki/Polyester):** Common in affordable winter clothing. Quality polyester can perform well—providing warmth, easy care, and durability. However, it doesn't breathe as well as natural fibers and can feel less luxurious.
 
 **Nylon:** Often used in puffer coats and waterproof shells. Durable, lightweight, and wind-resistant. Modern nylons have improved handfeel and drape compared to older versions.
 
