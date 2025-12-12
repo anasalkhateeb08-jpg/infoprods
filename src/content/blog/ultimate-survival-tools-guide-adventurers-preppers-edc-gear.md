@@ -62,7 +62,7 @@ The ultimate goal isn't just surviving hypothetical disasters but thriving in da
 
 Let's begin exploring the essential tools and knowledge that form the foundation of survival preparedness, starting with understanding the philosophy behind effective gear selection and moving through each major category of survival equipment. Your journey toward genuine preparedness and capability starts now.
 
-!["Everyday carry EDC gear and survival tools laid out showing knife flashlight multi-tool and emergency equipment"](/images/uploads/sr1.jfif "'Understanding EDC Philosophy and Survival Tool Selection for Preparedness'")
+![Everyday carry EDC gear and survival tools laid out showing knife flashlight multi-tool and emergency equipment](/images/uploads/sr1.jfif "Understanding EDC Philosophy and Survival Tool Selection for Preparedness")
 
 <a name="philosophy"></a>
 
@@ -196,7 +196,7 @@ Storage in dry locations protects knives from environmental damage. Sheaths shou
 
 Understanding knives—from selection through technique to maintenance—provides foundation for countless survival and outdoor tasks. Quality knives represent investments lasting decades or lifetimes when properly cared for. Develop skills with your knives through regular practice, building confidence and capability that serves you across all outdoor activities and potential survival situations.
 
-!["Collection of survival knives bushcraft tools and cutting equipment for outdoor adventures"](/images/uploads/sr2.jpg "'Essential Survival Knives Fixed Blades and Cutting Tools for Wilderness'")
+![Collection of survival knives bushcraft tools and cutting equipment for outdoor adventures](/images/uploads/sr2.jpg "Essential Survival Knives Fixed Blades and Cutting Tools for Wilderness")
 
 <a name="fire"></a>
 
@@ -348,7 +348,7 @@ Indicator species suggest water sources even when water isn't visible. Lush vege
 
 Understanding water sourcing, purification, and management ensures safe hydration across all outdoor activities and survival situations. Carry multiple purification methods—combine filter with chemical treatment for redundancy. Practice purification techniques before emergencies, becoming familiar with equipment operation. Plan water needs realistically, carrying capacity appropriate for trip lengths and source availability. Proper hydration maintains physical and cognitive function, making water management skills among the most crucial survival capabilities.
 
-!["Fire starting tools water filters and survival equipment for emergency preparedness"](/images/uploads/sr3.jfif "'Fire Starting Tools and Water Purification Systems for Survival Situations'")
+![Fire starting tools water filters and survival equipment for emergency preparedness](/images/uploads/sr3.jfif "Fire Starting Tools and Water Purification Systems for Survival Situations")
 
 <a name="shelter"></a>
 
@@ -500,7 +500,7 @@ Staying found is easier than getting found—when uncertain of position, stop an
 
 Understanding navigation—from traditional map and compass through modern GPS to effective signaling—provides confidence for wilderness travel while ensuring you can find your way or summon help when needed. Carry redundant navigation tools, never relying on single systems. Practice navigation skills regularly in familiar areas before applying them in remote locations. Plan trips carefully, maintain awareness throughout, and don't hesitate to turn back when conditions exceed your capabilities or comfort level.
 
-!["Compass map and navigation tools with emergency shelter and outdoor survival gear"](/images/uploads/sr4.webp "'Navigation Tools Emergency Shelter and Wilderness Survival Equipment'")
+![Compass map and navigation tools with emergency shelter and outdoor survival gear](/images/uploads/sr4.webp "Navigation Tools Emergency Shelter and Wilderness Survival Equipment")
 
 <a name="medical"></a>
 
@@ -824,7 +824,7 @@ Seek sales and deals without compromising quality. End-of-season sales, used gea
 
 Building comprehensive survival kits requires systematic thinking, realistic testing, and ongoing refinement. Start with clear understanding of scenarios you're preparing for, build layered kits appropriate for different carrying options, organize logically for efficient access, test thoroughly in realistic conditions, and maintain diligently ensuring continued readiness. Quality kits aren't assembled overnight—they evolve through experience and reflection, ultimately providing genuine capability for adventures and potential emergencies.
 
-!["Comprehensive survival kit with all essential tools first aid camping gear and emergency supplies"](/images/uploads/VBS1.jpg "'Complete Survival Kit Setup - Building Your Adventure and Emergency Preparedness System'")
+![Comprehensive survival kit with all essential tools first aid camping gear and emergency supplies](/images/uploads/VBS1.jpg "Complete Survival Kit Setup - Building Your Adventure and Emergency Preparedness System")
 
 <a name="conclusion"></a>
 
