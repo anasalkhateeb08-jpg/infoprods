@@ -64,7 +64,7 @@ Whether you're completely redesigning your living room, gradually transitioning 
 
 **Minimalism isn't about perfection or rigid rules. It's about creating spaces that serve your life rather than demanding your constant attention**. Let's discover how to design a living room that brings you genuine peace and joy.
 
-!["Clean minimalist living room layout with simple furniture natural materials and open space](/images/uploads/mi1.webp "'Minimalist Living Room Design - Simple Furniture and Smart Layout Ideas'")
+![Clean minimalist living room layout with simple furniture natural materials and open space](/images/uploads/mi1.webp "Minimalist Living Room Design - Simple Furniture and Smart Layout Ideas")
 
 <a name="principles"></a>
 
@@ -132,7 +132,7 @@ Understanding minimalist design's foundational principles is crucial before sele
 
 <a href="https://s.click.aliexpress.com/e/_c3POSOlr" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-minimalist-furniture  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Minimalist living room with neutral color palette white walls and natural wood accents"](/images/uploads/mi2.webp "'Minimalist Color Palette - Neutral Living Room Design Ideas'")
+![Minimalist living room with neutral color palette white walls and natural wood accents](/images/uploads/mi2.webp "Minimalist Color Palette - Neutral Living Room Design Ideas")
 
 <a name="colors"></a>
 
@@ -343,7 +343,7 @@ Minimalist furniture selection requires strategic thinking—every piece must ea
 
 <a href="https://s.click.aliexpress.com/e/_c4PNMqVB" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-minimalist-home-decor  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Minimalist living room storage solutions with hidden cabinets and clean organization"](/images/uploads/mi3.jpg "'Minimalist Storage Ideas - Smart Solutions for Clutter-Free Living")
+![Minimalist living room storage solutions with hidden cabinets and clean organization](/images/uploads/mi3.jpg "Minimalist Storage Ideas - Smart Solutions for Clutter-Free Living")
 
 <a name="storage"></a>
 
@@ -489,7 +489,7 @@ Lighting fundamentally shapes how minimalist living rooms feel—good lighting m
 
 <a href="https://s.click.aliexpress.com/e/_c386Oevn" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-modern-lighting </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Bright minimalist living room with natural light large windows and green plants"](/images/uploads/mi4.jfif "'Minimalist Living Room Lighting - Natural Light and Plant Integration'")
+![Bright minimalist living room with natural light large windows and green plants](/images/uploads/mi4.jfif "Minimalist Living Room Lighting - Natural Light and Plant Integration")
 
 <a name="materials"></a>
 
@@ -688,7 +688,7 @@ Minimalist decor follows the "less is more" principle—every decorative element
 
 <a href="https://s.click.aliexpress.com/e/_c3z6QQwh" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-minimalist-deco </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Scandinavian minimalist living room with light wood cozy textiles and hygge aesthetic"](/images/uploads/mi5.jpg "'Scandinavian Minimalist Living Room - Warm Cozy Simple Design'")
+![Scandinavian minimalist living room with light wood cozy textiles and hygge aesthetic](/images/uploads/mi5.jpg "Scandinavian Minimalist Living Room - Warm Cozy Simple Design")
 
 <a name="plants"></a>
 
