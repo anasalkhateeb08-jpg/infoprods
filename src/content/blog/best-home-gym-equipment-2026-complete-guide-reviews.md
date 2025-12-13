@@ -313,53 +313,53 @@ Equipment Included:
 
 Monday - Full Body A:
 
-## 1. Goblet squats (dumbbells): 3 sets x 12 reps
+1. Goblet squats (dumbbells): 3 sets x 12 reps
 
-## 2. Resistance band chest press: 3 sets x 12 reps
+2. Resistance band chest press: 3 sets x 12 reps
 
-## 3. Dumbbell rows: 3 sets x 10 reps each side
+3. Dumbbell rows: 3 sets x 10 reps each side
 
-## 4. Shoulder press (dumbbells): 3 sets x 10 reps
+4. Shoulder press (dumbbells): 3 sets x 10 reps
 
-## 5. Bicep curls: 2 sets x 12 reps
+5. Bicep curls: 2 sets x 12 reps
 
-## 6. AB wheel rollouts (wall): 2 sets x 8 reps
+6. AB wheel rollouts (wall): 2 sets x 8 reps
 
-## 7. Post-workout massage gun: 5 minutes
+7. Post-workout massage gun: 5 minutes
 
 Wednesday - Full Body B:
 
-## 1. Romanian deadlifts (dumbbells): 3 sets x 12 reps
+1. Romanian deadlifts (dumbbells): 3 sets x 12 reps
 
-## 2. Resistance band rows: 3 sets x 12 reps
+2. Resistance band rows: 3 sets x 12 reps
 
-## 3. Dumbbell chest press: 3 sets x 10 reps
+3. Dumbbell chest press: 3 sets x 10 reps
 
-## 4. Lateral raises (dumbbells): 3 sets x 15 reps
+4. Lateral raises (dumbbells): 3 sets x 15 reps
 
-## 5. Tricep extensions (bands): 2 sets x 12 reps
+5. Tricep extensions (bands): 2 sets x 12 reps
 
-## 6. AB wheel rollouts (wall): 2 sets x 10 reps
+6. AB wheel rollouts (wall): 2 sets x 10 reps
 
-## 7. Post-workout massage gun: 5 minutes
+7. Post-workout massage gun: 5 minutes
 
 Friday - Full Body C:
 
-## 1. Lunges (dumbbells): 3 sets x 10 each leg
+1. Lunges (dumbbells): 3 sets x 10 each leg
 
-## 2. Resistance band lat pulldowns: 3 sets x 12 reps
+2. Resistance band lat pulldowns: 3 sets x 12 reps
 
-## 3. Push-ups: 3 sets x maximum reps
+3. Push-ups: 3 sets x maximum reps
 
-## 4. Arnold press (dumbbells): 3 sets x 10 reps
+4. Arnold press (dumbbells): 3 sets x 10 reps
 
-## 5. Hammer curls (dumbbells): 2 sets x 12 reps
+5. Hammer curls (dumbbells): 2 sets x 12 reps
 
-## 6. AB wheel rollouts (wall): 3 sets x 8 reps
+6. AB wheel rollouts (wall): 3 sets x 8 reps
 
-## 7. Post-workout massage gun: 5 minutes
+7. Post-workout massage gun: 5 minutes
 
-## Frequently Asked Questions
+Frequently Asked Questions
 
 **Q: Can I really build muscle with just these four pieces?** A: Absolutely. Progressive overload—not equipment type—drives muscle growth. As long as you consistently increase difficulty over time, your muscles adapt by growing stronger and larger. Countless athletes have built impressive physiques using basic equipment. The key is progressive training with adequate nutrition, not fancy machines.
 
