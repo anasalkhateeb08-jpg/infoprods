@@ -52,7 +52,7 @@ The smart home revolution isn't coming—it's here, it's accelerating, and it's 
 
 Your journey toward a more convenient, efficient, secure, and enjoyable home starts right here, right now. Let's build your intelligent home together.
 
-![Home smart speaker with glowing LED light responding to voice commands controlling smart home devices hands-free](/images/uploads/ho1.webp "'Smart Speakers and Voice Assistants - Alexa and Google Home Command Centers for Smart Homes'")
+![Home smart speaker with glowing LED light responding to voice commands controlling smart home devices hands-free](/images/uploads/ho1.webp "Smart Speakers and Voice Assistants - Alexa and Google Home Command Centers for Smart Homes")
 
 <a name="understanding-smart-home"></a>
 
@@ -179,7 +179,7 @@ Thread is still emerging with limited device availability compared to establishe
 
 <a href="https://s.click.aliexpress.com/e/_c30Mr73L" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-smart-home-hub-controller </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Smart LED light bulbs with color changing capability and smartphone app showing lighting controls for automated home ambiance and energy efficiency"](/images/uploads/ho2.jpg "'Smart Lighting Systems - Color Changing LED Bulbs and Automated Home Lighting Control'")
+![Smart LED light bulbs with color changing capability and smartphone app showing lighting controls for automated home ambiance and energy efficiency](/images/uploads/ho2.jpg "Smart Lighting Systems - Color Changing LED Bulbs and Automated Home Lighting Control")
 
 <a name="smart-speakers"></a>
 
@@ -353,7 +353,7 @@ Sengled represents a quality middle ground for budget-conscious buyers wanting b
 
 <a href="https://s.click.aliexpress.com/e/_c2RUzON3" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   wholesale-smart-led-bulbs-wifi </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Smart home security camera with night vision and motion detection mounted outdoors monitoring property with smartphone app live view"](/images/uploads/ho3.jpg "'Smart Security Cameras - Video Surveillance and Home Monitoring with Remote Access'")
+![Smart home security camera with night vision and motion detection mounted outdoors monitoring property with smartphone app live view](/images/uploads/ho3.jpg "Smart Security Cameras - Video Surveillance and Home Monitoring with Remote Access")
 
 <a name="smart-security"></a>
 
@@ -433,7 +433,7 @@ The Ring ecosystem's tight integration is its strength—when the alarm triggers
 
 <a href="https://s.click.aliexpress.com/e/_c3k4rSiN" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-smart-door-lock-wifi </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Smart thermostat with digital display showing temperature control and energy usage app interface for automated climate control and HVAC efficiency"](/images/uploads/ho4.jpg "'Smart Thermostats - Energy Efficient Climate Control with Learning Automation and Remote Access'")
+![Smart thermostat with digital display showing temperature control and energy usage app interface for automated climate control and HVAC efficiency](/images/uploads/ho4.jpg "Smart Thermostats - Energy Efficient Climate Control with Learning Automation and Remote Access")
 
 <a name="smart-climate"></a>
 
@@ -541,7 +541,7 @@ The Amazon Smart Plug works only with Alexa and cannot integrate with Google or 
 
 <a href="https://s.click.aliexpress.com/e/_c3vOFlgl" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   wholesale-smart-plug-wifi-outlet </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Smartphone displaying smart home control dashboard app with connected devices including lights, locks, cameras, and thermostat for centralized automation management"](/images/uploads/ho5.webp "'Smart Home Integration - Central Hub Dashboard Controlling All Connected Devices and Automation'")
+![Smartphone displaying smart home control dashboard app with connected devices including lights, locks, cameras, and thermostat for centralized automation management](/images/uploads/ho5.webp "Smart Home Integration - Central Hub Dashboard Controlling All Connected Devices and Automation")
 
 <a name="smart-entertainment"></a>
 
