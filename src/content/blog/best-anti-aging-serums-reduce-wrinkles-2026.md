@@ -102,7 +102,7 @@ Every day, your skin faces assault from **free radicals**—unstable molecules g
 
 Vitamin C neutralizes free radicals before they cause damage, acting like a shield protecting your skin from environmental aging. Studies show that applying vitamin C serum before sun exposure significantly reduces UV damage, sunburn severity, and long-term photodamage. While it doesn't replace sunscreen, vitamin C provides an additional layer of protection that sunscreen alone cannot offer.
 
-!["Vitamin C brightening serum with dropper showing clear antioxidant formula for age spots sun damage and radiant complexion"](/images/uploads/be2.png "'Vitamin C Antioxidant Serum for Brightening Dark Spots and Anti-Aging Protection'")
+![Vitamin C brightening serum with dropper showing clear antioxidant formula for age spots sun damage and radiant complexion](/images/uploads/be2.png "Vitamin C Antioxidant Serum for Brightening Dark Spots and Anti-Aging Protection")
 
 ### **Brightening Effects and Even Skin Tone**
 
@@ -198,7 +198,7 @@ This moisture loss creates several visible aging signs: Fine lines deepen into w
 
 **Hyaluronic acid serums** replenish this crucial moisture-binding molecule, restoring hydration levels and creating immediate visible improvements. Unlike moisturizers that sit primarily on the skin's surface, hyaluronic acid penetrates into deeper layers, attracting and binding water molecules where they're needed most.
 
-!["Hyaluronic acid hydrating serum with water droplets showing moisture-binding properties for plump skin and wrinkle reduction"](/images/uploads/be3.png "'Hyaluronic Acid Serum for Deep Hydration Plumping and Anti-Aging Moisture'")
+![Hyaluronic acid hydrating serum with water droplets showing moisture-binding properties for plump skin and wrinkle reduction](/images/uploads/be3.png "Hyaluronic Acid Serum for Deep Hydration Plumping and Anti-Aging Moisture")
 
 ### **The Immediate Plumping Effect**
 
@@ -302,7 +302,7 @@ Think of peptides as the language your skin cells use to communicate. Young skin
 
 The peptide category includes **hundreds of different compounds**, each with specific functions. Premium anti-aging serums combine multiple peptides to address various aspects of aging simultaneously. This multi-peptide approach delivers results that single-peptide formulations cannot match.
 
-!["Advanced peptide anti-aging serum with scientific dropper bottle showing collagen-boosting formula for firmer younger-looking skin"](/images/uploads/be4.png "'Peptide Serum for Collagen Production Skin Firming and Advanced Anti-Aging'")
+![Advanced peptide anti-aging serum with scientific dropper bottle showing collagen-boosting formula for firmer younger-looking skin](/images/uploads/be4.png "Peptide Serum for Collagen Production Skin Firming and Advanced Anti-Aging")
 
 ### **Key Peptide Types and Their Functions**
 
@@ -419,27 +419,27 @@ While each serum discussed provides substantial benefits individually, **strateg
 
 **Morning routine**:
 
-## 1. Cleanser
+1. Cleanser
 
-## 2. Vitamin C serum (antioxidant protection and brightening)
+2. Vitamin C serum (antioxidant protection and brightening)
 
-## 3. Peptide serum (collagen stimulation)
+3. Peptide serum (collagen stimulation)
 
-## 4. Hyaluronic acid serum (hydration)
+4. Hyaluronic acid serum (hydration)
 
-## 5. Moisturizer with SPF 30+ (hydration and sun protection)
+5. Moisturizer with SPF 30+ (hydration and sun protection)
 
 **Evening routine**:
 
-## 1. Cleanser
+1. Cleanser
 
-## 2. Retinol serum (cell turnover and collagen production)
+2. Retinol serum (cell turnover and collagen production)
 
-## 3. Hyaluronic acid serum (hydration to counteract retinol dryness)
+3. Hyaluronic acid serum (hydration to counteract retinol dryness)
 
-## 4. Peptide serum (collagen stimulation)
+4. Peptide serum (collagen stimulation)
 
-## 5. Rich night moisturizer (seal in treatments and hydration)
+5. Rich night moisturizer (seal in treatments and hydration)
 
 This schedule allows you to use all four serum types without conflicts or excessive layering at once. Each ingredient works at its optimal time for maximum effectiveness.
 
