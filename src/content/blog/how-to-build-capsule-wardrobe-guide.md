@@ -26,7 +26,7 @@ In this comprehensive guide, we'll walk you through every step of building your 
 
 Whether you're a busy professional tired of decision fatigue, a minimalist seeking simplicity, an environmentally conscious consumer wanting to reduce fashion waste, or simply someone who wants to look put-together without the stress—this guide will transform your relationship with your wardrobe and, by extension, with getting dressed every single day.
 
-!["Coordinated color palette for capsule wardrobe showing neutral foundations with core and accent colors arranged harmoniously for maximum versatility"](/images/uploads/fas1.webp "'Capsule Wardrobe Color Coordination - Neutral Palette with Complementary Accent Colors'")
+![Coordinated color palette for capsule wardrobe showing neutral foundations with core and accent colors arranged harmoniously for maximum versatility](/images/uploads/fas1.webp "Capsule Wardrobe Color Coordination - Neutral Palette with Complementary Accent Colors")
 
 ## 1. Understanding the Capsule Wardrobe Philosophy: More Than Just Minimalism
 
@@ -84,7 +84,7 @@ Reality: While individual items cost more, the total investment is lower than co
 
 Reality: Capsule wardrobes can include color, patterns, and personality. The key is coordination, not elimination of visual interest. Many successful capsule wardrobes incorporate vibrant colors and distinctive pieces while maintaining versatility through thoughtful selection.
 
-!["Essential capsule wardrobe foundation pieces including blazer, white shirt, jeans, and versatile basics laid out showing timeless clothing staples"](/images/uploads/fas2.jpg "'Capsule Wardrobe Foundation Pieces - Essential Versatile Clothing Basics for Every Style'")
+![Essential capsule wardrobe foundation pieces including blazer, white shirt, jeans, and versatile basics laid out showing timeless clothing staples](/images/uploads/fas2.jpg "Capsule Wardrobe Foundation Pieces - Essential Versatile Clothing Basics for Every Style")
 
 ## 2. Step-by-Step Guide: Building Your Perfect Capsule Wardrobe
 
@@ -259,7 +259,7 @@ Accessories shouldn't be an afterthought—they complete outfits and provide per
 
 <a href="https://s.click.aliexpress.com/e/_c3dfUUzf" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-capsule-wardrobe </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Multiple outfit combinations created from minimal capsule wardrobe pieces demonstrating versatility and styling options with coordinated clothing"](/images/uploads/fas3.jpg "'Capsule Wardrobe Outfit Ideas - Creating Multiple Looks from Minimal Coordinated Pieces'")
+![Multiple outfit combinations created from minimal capsule wardrobe pieces demonstrating versatility and styling options with coordinated clothing](/images/uploads/fas3.jpg "Capsule Wardrobe Outfit Ideas - Creating Multiple Looks from Minimal Coordinated Pieces")
 
 ## 3. Shopping Strategies: Quality Over Quantity
 
@@ -363,7 +363,7 @@ Don't rush to build your entire capsule wardrobe immediately. Gradual developmen
 
 This timeline assumes starting from scratch. If you already own useful pieces from your closet audit, your timeline compresses significantly—you might only need 5-10 new items to complete a functional capsule wardrobe.
 
-!["Beautifully organized minimalist closet with curated capsule wardrobe pieces hanging neatly showing proper garment care and storage methods"](/images/uploads/fas4.webp "'Organized Capsule Wardrobe Closet - Minimalist Storage and Garment Care for Longevity'")
+![Beautifully organized minimalist closet with curated capsule wardrobe pieces hanging neatly showing proper garment care and storage methods](/images/uploads/fas4.webp "Organized Capsule Wardrobe Closet - Minimalist Storage and Garment Care for Longevity")
 
 ## 4. Styling Your Capsule Wardrobe: Maximum Outfits from Minimal Pieces
 
