@@ -39,7 +39,7 @@ Whether you're planning to propose next month or next year, whether your budget 
 
 The journey to finding the perfect engagement ring starts with education and ends with confidence. Let's begin.
 
-!["Diamond engagement ring close-up showing cut quality, clarity, and brilliance demonstrating 4Cs of diamond selection](/images/uploads/RIN1.jpg "'Understanding Diamond 4Cs - Cut Color Clarity Carat Weight Guide for Engagement Rings'")
+![Diamond engagement ring close-up showing cut quality, clarity, and brilliance demonstrating 4Cs of diamond selection](/images/uploads/RIN1.jpg "Understanding Diamond 4Cs - Cut Color Clarity Carat Weight Guide for Engagement Rings")
 
 <a name="diamond-quality"></a>
 
@@ -114,7 +114,7 @@ Carat measures diamond weight, not size, though weight and size correlate closel
 **- \*\*Setting style**: Halo settings (small diamonds surrounding the center stone) make center diamonds appear significantly larger. Thin bands make center stones appear larger by contrast.\*\*
 **- \*\*Finger size**: The same diamond appears larger on smaller fingers, smaller on larger fingers—proportional perception matters.
 
-!["Collection of different engagement ring styles including solitaire, halo, three-stone, and vintage settings displaying variety of options"](/images/uploads/RIN2.jpg "'Engagement Ring Styles and Settings - Solitaire Halo Vintage and Modern Designs'")
+![Collection of different engagement ring styles including solitaire, halo, three-stone, and vintage settings displaying variety of options](/images/uploads/RIN2.jpg "Engagement Ring Styles and Settings - Solitaire Halo Vintage and Modern Designs")
 
 <a name="ring-styles"></a>
 
@@ -188,7 +188,7 @@ The perfect ring style ultimately depends on your partner's personal aesthetic p
 
 **Subtle conversation**: Casually browse jewelry together, noting what catches her eye. Point out engagement rings you encounter (in stores, on TV, friends' rings) and gauge her reactions. Most partners will readily share opinions when asked generally, not realizing the specific purpose behind your interest.
 
-!["Comparison of engagement ring metal options showing platinum, white gold, yellow gold, and rose gold bands with diamonds"](/images/uploads/RI3.webp "'Engagement Ring Metal Guide - Platinum White Gold Yellow Gold Rose Gold Comparison'")
+![Comparison of engagement ring metal options showing platinum, white gold, yellow gold, and rose gold bands with diamonds](/images/uploads/RI3.webp "Engagement Ring Metal Guide - Platinum White Gold Yellow Gold Rose Gold Comparison")
 
 <a name="metal-options"></a>
 
@@ -291,7 +291,7 @@ Most jewelers offer free resizing within the first 30-60 days, making initial si
 
 <a href="https://s.click.aliexpress.com/e/_c4Tjvs4Z" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-ring-sizing-tool  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Ring sizing tools and measurement guide showing how to determine correct engagement ring size accurately"](/images/uploads/RI4.avif "'How to Determine Ring Size - Secret Sizing Guide for Engagement Ring Shopping'")
+![Ring sizing tools and measurement guide showing how to determine correct engagement ring size accurately](/images/uploads/RI4.avif "How to Determine Ring Size - Secret Sizing Guide for Engagement Ring Shopping")
 
 <a name="budget-planning"></a>
 
@@ -436,7 +436,7 @@ For truly unique rings, custom jewelers design one-of-a-kind pieces based on you
 
 Custom design requires longer timelines (typically 6-12 weeks from conception to completion), higher costs than ready-made rings, and detailed communication ensuring the designer understands your vision. However, for those wanting something no one else has, custom design delivers unmatched personalization.
 
-!["Colorful engagement rings featuring sapphire, emerald, and alternative gemstones as diamond alternatives for unique designs"](/images/uploads/RI5.webp "'Alternative Engagement Ring Gemstones - Sapphire Moissanite and Colored Stone Options'")
+![Colorful engagement rings featuring sapphire, emerald, and alternative gemstones as diamond alternatives for unique designs](/images/uploads/RI5.webp "Alternative Engagement Ring Gemstones - Sapphire Moissanite and Colored Stone Options")
 
 <a name="conclusion"></a>
 
