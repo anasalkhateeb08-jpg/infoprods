@@ -624,7 +624,7 @@ Battery life reaches **10-14 hours during mixed productivity use**—excellent f
 
 <a href="https://s.click.aliexpress.com/e/_c4agUAhL" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-ultrabook-laptop  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Slim ultrabook laptop showing premium portable design and lightweight construction"](/images/uploads/LA6.jfif "'Best Ultrabooks 2026 - Premium Portable Laptop Options'")
+![Slim ultrabook laptop showing premium portable design and lightweight construction](/images/uploads/LA6.jfif "Best Ultrabooks 2026 - Premium Portable Laptop Options")
 
 <a name="convertibles"></a>
 
@@ -719,7 +719,7 @@ Dell includes a 1-year warranty with optional extension to 2-3 years at reasonab
 
 **Best for:** Students needing convertible versatility on tight budgets, casual users wanting touch and pen input, budget-conscious buyers who prioritize versatility over premium materials, secondary or family laptops where cost matters.
 
-!["2-in-1 convertible laptop in tent mode showing touchscreen and versatile design"](/images/uploads/LA7.jfif "'Best 2-in-1 Convertible Laptops - Versatile Touchscreen Options'")
+![2-in-1 convertible laptop in tent mode showing touchscreen and versatile design](/images/uploads/LA7.jfif "Best 2-in-1 Convertible Laptops - Versatile Touchscreen Options")
 
 <a name="gaming-budget"></a>
 
@@ -812,7 +812,7 @@ The keyboard features 4-zone RGB lighting (customizable through Lenovo Vantage s
 
 <a href="https://s.click.aliexpress.com/e/_c4PvCbW1" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-gaming-laptop  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Affordable gaming laptop showing budget-friendly performance for casual gamers"](/images/uploads/LA8.avif "'Best Budget Gaming Laptops Under $1000 - Affordable Performance'")
+![Affordable gaming laptop showing budget-friendly performance for casual gamers](/images/uploads/LA8.avif "Best Budget Gaming Laptops Under $1000 - Affordable Performance")
 
 <a name="aliexpress"></a>
 
@@ -996,7 +996,7 @@ The metal chassis feels more premium than expected at this price. The keyboard i
 
 <a href="https://s.click.aliexpress.com/e/_c4FrxMwN" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-laptop-14-inch </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Affordable budget laptop options showing value computing for students and basic use"](/images/uploads/LA9.jfif "'Best Budget Laptops - Affordable Options from AliExpress'")
+![Affordable budget laptop options showing value computing for students and basic use](/images/uploads/LA9.jfif "Best Budget Laptops - Affordable Options from AliExpress")
 
 <a name="student"></a>
 
@@ -1091,7 +1091,7 @@ Apple's education pricing typically offers $100-200 discounts, and student deals
 
 <a href="https://s.click.aliexpress.com/e/_c4NmYzoz" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-student-laptop-cheap  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Student using laptop for education showing portable design ideal for coursework"](/images/uploads/LA10.jfif "'Best Student Laptops 2026 - Affordable Education Computing'")
+![Student using laptop for education showing portable design ideal for coursework](/images/uploads/LA10.jfif "Best Student Laptops 2026 - Affordable Education Computing")
 
 <a name="specifications"></a>
 
