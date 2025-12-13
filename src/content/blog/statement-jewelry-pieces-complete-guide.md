@@ -49,7 +49,7 @@ Whether you're a jewelry novice taking your first steps into bolder accessories,
 
 **Statement jewelry is personal expression made visible**. It's the exclamation point at the end of your style sentence, the signature flourish that makes your look uniquely yours. Let's discover how to make statement pieces work for you.
 
-!["Collection of statement jewelry featuring bold necklaces dramatic earrings and chunky accessories"](/images/uploads/mj1.jpg "'Bold Statement Jewelry - Essential Pieces for Transforming Your Style'")
+![Collection of statement jewelry featuring bold necklaces dramatic earrings and chunky accessories](/images/uploads/mj1.jpg "Bold Statement Jewelry - Essential Pieces for Transforming Your Style")
 
 <a name="necklaces"></a>
 
@@ -134,7 +134,7 @@ Statement necklaces are perhaps the most immediately impactful category of bold 
 
 <a href="https://s.click.aliexpress.com/e/_c4PnsrBX" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-statement-necklaces  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Bold statement necklaces including chunky chains collar necklaces and pendant pieces"](/images/uploads/mj2.webp "'Statement Necklaces - Chunky Chains and Bold Collar Designs'")
+![Bold statement necklaces including chunky chains collar necklaces and pendant pieces](/images/uploads/mj2.webp "Statement Necklaces - Chunky Chains and Bold Collar Designs")
 
 <a name="earrings"></a>
 
@@ -223,7 +223,7 @@ Statement earrings frame your face, draw attention to your features, and express
 
 <a href="https://s.click.aliexpress.com/e/_c3BYNblx" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-statement-earrings </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Oversized statement earrings featuring hoops chandelier designs and bold drop earrings"](/images/uploads/mj3.webp "'Bold Statement Earrings - Oversized Hoops and Dramatic Designs'")
+![Oversized statement earrings featuring hoops chandelier designs and bold drop earrings](/images/uploads/mj3.webp "Bold Statement Earrings - Oversized Hoops and Dramatic Designs")
 
 <a name="rings-bracelets"></a>
 
@@ -308,7 +308,7 @@ While necklaces and earrings occupy the most immediately visible body real estat
 
 <a href="https://s.click.aliexpress.com/e/_c3m3OW3j" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-statement-rings </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Statement rings cocktail rings stacked bands and chunky cuff bracelets"](/images/uploads/mj4.webp "'Statement Rings and Bracelets - Bold Hand and Wrist Accessories'")
+![Statement rings cocktail rings stacked bands and chunky cuff bracelets](/images/uploads/mj4.webp "Statement Rings and Bracelets - Bold Hand and Wrist Accessories")
 
 <a name="brooches"></a>
 
@@ -400,7 +400,7 @@ Jewelry layering—wearing multiple pieces in complementary combinations—creat
 
 <a href="https://s.click.aliexpress.com/e/_c30nVi2v" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-layered-jewelry </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Layered jewelry styling with multiple necklaces stacked rings and coordinated accessories"](/images/uploads/mj5.jpg "'Jewelry Layering Techniques - Creating Statement Looks with Multiple Pieces'")
+![Layered jewelry styling with multiple necklaces stacked rings and coordinated accessories](/images/uploads/mj5.jpg "Jewelry Layering Techniques - Creating Statement Looks with Multiple Pieces")
 
 <a name="choosing"></a>
 
