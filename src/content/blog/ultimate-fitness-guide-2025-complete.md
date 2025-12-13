@@ -32,7 +32,7 @@ The fitness journey isn't about perfection—it's about progression. It's not ab
 
 Your body is the only place you have to live for your entire life. Doesn't it deserve the investment of understanding how to maintain it, strengthen it, and optimize its performance? Let's begin the transformation.
 
-!["Person performing barbell squat exercise with proper form demonstrating fundamental strength training movement pattern for lower body development"](/images/uploads/FT1.jpg "'Strength Training Fundamentals - Proper Squat Form and Progressive Resistance Techniques'")
+![Person performing barbell squat exercise with proper form demonstrating fundamental strength training movement pattern for lower body development](/images/uploads/FT1.jpg "Strength Training Fundamentals - Proper Squat Form and Progressive Resistance Techniques")
 
 ## 1. Understanding Fitness Fundamentals: The Science Behind Physical Transformation
 
@@ -107,7 +107,7 @@ Recovery includes multiple components:
 
 <a href="https://s.click.aliexpress.com/e/_c3Ft7q85" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   wholesale-fitness-recovery-equipment </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Runner in athletic gear performing outdoor cardio training showing high-intensity interval training for cardiovascular fitness improvement"](/images/uploads/FT2.jpg "'Cardiovascular Training Methods - HIIT and Endurance Running for Heart Health and Fat Loss'")
+![Runner in athletic gear performing outdoor cardio training showing high-intensity interval training for cardiovascular fitness improvement](/images/uploads/FT2.jpg "Cardiovascular Training Methods - HIIT and Endurance Running for Heart Health and Fat Loss")
 
 ## 2. Strength Training Mastery: Building Muscle, Power, and Resilience
 
@@ -223,7 +223,7 @@ Perfect technique serves two critical purposes: maximizing training effectivenes
 
 **Listen to your body**: Distinguish between productive training discomfort (muscle burn, cardiovascular challenge, general fatigue) and warning sign pain (joint pain, sharp localized pain, pain that persists beyond training). Training through productive discomfort builds adaptation; training through warning pain creates injuries.
 
-!["Home gym setup with adjustable dumbbells, resistance bands, yoga mat, and fitness accessories for complete at-home workout programs"](/images/uploads/FT3.webp "'Essential Home Workout Equipment - Dumbbells, Bands, and Fitness Gear for Effective Training'")
+![Home gym setup with adjustable dumbbells, resistance bands, yoga mat, and fitness accessories for complete at-home workout programs](/images/uploads/FT3.webp "Essential Home Workout Equipment - Dumbbells, Bands, and Fitness Gear for Effective Training")
 
 ## 3. Cardiovascular Training Strategies: Building an Unstoppable Engine
 
@@ -291,7 +291,7 @@ Replace running shoes based on mileage rather than visible wear. The cushioning 
 
 <a href="https://s.click.aliexpress.com/e/_c4qX1Lqd" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>   wholesale-foam-roller-massage-tools </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Person performing yoga stretching exercises demonstrating flexibility and mobility training for injury prevention and movement quality"](/images/uploads/FT4.jpg "'Flexibility and Mobility Training - Yoga Stretches and Dynamic Warm-up for Injury Prevention'")
+![Person performing yoga stretching exercises demonstrating flexibility and mobility training for injury prevention and movement quality](/images/uploads/FT4.jpg "Flexibility and Mobility Training - Yoga Stretches and Dynamic Warm-up for Injury Prevention")
 
 ## 4. Flexibility and Mobility: The Foundation of Movement Quality
 
@@ -366,7 +366,7 @@ Perform static stretching after training when muscles are warm rather than befor
 
 Spend 5-10 minutes daily on mobility work targeting your specific restrictions. Consistency matters more than duration—brief daily practice produces better results than occasional lengthy sessions.
 
-!["Fitness Nutrition Guide - Meal Prep and Macronutrient Balance for Muscle Growth and Fat Loss"](/images/uploads/FT5.jpg "'Healthy meal prep containers with lean protein, complex carbohydrates, and vegetables showing balanced nutrition for fitness performance'")
+![Fitness Nutrition Guide - Meal Prep and Macronutrient Balance for Muscle Growth and Fat Loss](/images/uploads/FT5.jpg "Healthy meal prep containers with lean protein, complex carbohydrates, and vegetables showing balanced nutrition for fitness performance")
 
 ## 5. Nutrition for Performance: Fueling Your Fitness Journey
 
@@ -446,7 +446,7 @@ Most pre-workout supplements, BCAAs (if protein intake is adequate), testosteron
 
 <a href="https://s.click.aliexpress.com/e/_c3gZlKoz" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-protein-shaker-bottle </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Person using foam roller for muscle recovery and myofascial release demonstrating post-workout recovery techniques for optimal adaptation"](/images/uploads/FT6.jpg "'Fitness Recovery Methods - Foam Rolling, Sleep Optimization, and Active Recovery Techniques'")
+![Person using foam roller for muscle recovery and myofascial release demonstrating post-workout recovery techniques for optimal adaptation](/images/uploads/FT6.jpg "Fitness Recovery Methods - Foam Rolling, Sleep Optimization, and Active Recovery Techniques")
 
 ## 6. Recovery and Regeneration: Maximizing Training Adaptations
 
