@@ -85,13 +85,13 @@ Stainless steel has become the preferred material for chain necklaces in 2026, a
 
 Fashion experts recommend mixing 2-4 chain necklaces of varying lengths:
 
-## 1. Start with a 14-16 inch choker or short chain
+1. Start with a 14-16 inch choker or short chain
 
-## 2. Add an 18-20 inch mid-length chain
+2. Add an 18-20 inch mid-length chain
 
-## 3. Layer with a 22-24 inch longer chain
+3. Layer with a 22-24 inch longer chain
 
-## 4. Optionally add a 26-28 inch dramatic length piece
+4. Optionally add a 26-28 inch dramatic length piece
 
 Mix thick and thin chains, combine different link styles, and don't be afraid to blend gold and silver tones. The key is creating visual interest while maintaining balance.
 
