@@ -45,7 +45,7 @@ Your body is a high-performance machine. Like any sophisticated machine, it requ
 
 Let's build your nutritional foundation for peak athletic performance.
 
-!["Balanced macronutrients for athletes showing protein sources carbohydrates and healthy fats for peak performance"](/images/uploads/MA1.webp "'Athletic Macronutrients - Protein Carbohydrates and Fats for Sports Performance'")
+![Balanced macronutrients for athletes showing protein sources carbohydrates and healthy fats for peak performance](/images/uploads/MA1.webp "Athletic Macronutrients - Protein Carbohydrates and Fats for Sports Performance")
 
 <a name="macronutrients"></a>
 
@@ -208,7 +208,7 @@ Athletes should consume **20-35% of total calories from fat**, with emphasis on 
 
 <a href="https://s.click.aliexpress.com/e/_c4cC1o2N" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>  wholesale-protein-powder-athletes </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Athlete drinking water showing proper hydration strategies for sports performance and recovery"](/images/uploads/MA2.jpeg "'Hydration for Athletes - Water and Electrolyte Strategies for Peak Performance'")
+![Athlete drinking water showing proper hydration strategies for sports performance and recovery](/images/uploads/MA2.jpeg "Hydration for Athletes - Water and Electrolyte Strategies for Peak Performance")
 
 <a name="micronutrients"></a>
 
@@ -414,7 +414,7 @@ Athletes lose approximately 500-1,000 mg sodium per liter of sweat. During exerc
 
 <a href="https://s.click.aliexpress.com/e/_c3iHRKh3" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>wholesale-sports-water-bottles  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Pre-workout meal with carbohydrates and protein showing proper nutrition timing for athletes"](/images/uploads/MA3.jfif "'Pre-Workout Nutrition - Optimal Meal Timing and Food Choices for Athletic Performance'")
+![Pre-workout meal with carbohydrates and protein showing proper nutrition timing for athletes](/images/uploads/MA3.jfif "Pre-Workout Nutrition - Optimal Meal Timing and Food Choices for Athletic Performance")
 
 <a name="meal-timing"></a>
 
@@ -650,7 +650,7 @@ Beyond basic nutrition, several supplements demonstrate pre-workout performance 
 
 <a href="https://s.click.aliexpress.com/e/_c4tYqXSD" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-pre-workout-supplements  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Post-workout recovery meal with protein shake and healthy foods for muscle recovery and glycogen replenishment"](/images/uploads/MA4.jfif "'Post-Workout Recovery Nutrition - Protein and Carbs for Muscle Growth and Recovery'")
+![Post-workout recovery meal with protein shake and healthy foods for muscle recovery and glycogen replenishment](/images/uploads/MA4.jfif "Post-Workout Recovery Nutrition - Protein and Carbs for Muscle Growth and Recovery")
 
 <a name="post-workout"></a>
 
@@ -998,7 +998,7 @@ Critical for oxygen transport, but only supplement if deficient (confirmed by bl
 
 <a href="https://s.click.aliexpress.com/e/_c3ELBk4p" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-creatine-monohydrate  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Evidence-based sports supplements including protein powder creatine and vitamins for athlete performance"](/images/uploads/MA5.avif "'Sports Supplements That Work - Science-Backed Nutrition for Athletes'")
+![Evidence-based sports supplements including protein powder creatine and vitamins for athlete performance](/images/uploads/MA5.avif "Sports Supplements That Work - Science-Backed Nutrition for Athletes")
 
 <a name="mistakes"></a>
 
