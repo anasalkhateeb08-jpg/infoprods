@@ -39,7 +39,7 @@ Whether you're building a new home, planning major renovations, struggling with 
 
 Your windows are portals to the outside world. Modern technology ensures they're also barriers to energy waste, adaptable privacy controls, and active contributors to home comfort and efficiency. Let's explore how glass evolved from simple transparency to intelligent, high-performance building technology.
 
-!["Modern home with large energy-efficient smart glass windows showing advanced insulating window technology and natural lighting"](/images/uploads/gs1.jfif "'Smart and Insulating Glass for Homes - Complete Guide to Energy Efficient Window Technology'")
+![Modern home with large energy-efficient smart glass windows showing advanced insulating window technology and natural lighting](/images/uploads/gs1.jfif "Smart and Insulating Glass for Homes - Complete Guide to Energy Efficient Window Technology")
 
 <a name="insulating-glass"></a>
 
@@ -94,7 +94,7 @@ Glass performance is crucial, but frames represent 10-30% of window area and sig
 
 <a href="https://s.click.aliexpress.com/e/_c4aNUaDL" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-insulated-glass-windows </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Electrochromic smart glass window transitioning from clear to tinted state demonstrating dynamic solar control technology"](/images/uploads/gs2.jfif "'Smart Glass Technology - Electrochromic Windows with Dynamic Tinting and Light Control'")
+![Electrochromic smart glass window transitioning from clear to tinted state demonstrating dynamic solar control technology](/images/uploads/gs2.jfif "Smart Glass Technology - Electrochromic Windows with Dynamic Tinting and Light Control")
 
 <a name="smart-glass"></a>
 
@@ -206,7 +206,7 @@ Privacy glass suits specific applications where instant switchable privacy justi
 
 <a href="https://s.click.aliexpress.com/e/_c3vhV8RB" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-smart-glass-windows </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Modern living room with large energy-efficient windows showing natural light and thermal comfort from advanced glazing"](/images/uploads/gs3.jfif "'Energy Efficiency Benefits - How Smart and Insulating Glass Reduces Heating and Cooling Costs'")
+![Modern living room with large energy-efficient windows showing natural light and thermal comfort from advanced glazing](/images/uploads/gs3.jfif "Energy Efficiency Benefits - How Smart and Insulating Glass Reduces Heating and Cooling Costs")
 
 <a name="energy-efficiency"></a>
 
@@ -320,7 +320,7 @@ Many utilities, states, and federal programs offer financial incentives for ener
 
 These incentives can reduce net costs by 20-40%, significantly improving payback periods. A $7,500 window replacement project might net only $5,000 after incentives, improving payback from 15 years to 10 years—much more attractive investment.
 
-!["Close-up of low-emissivity coating on window glass reflecting infrared heat while transmitting visible light"](/images/uploads/gs4.jfif "'Low-E Glass Coatings - Advanced Window Technology for Maximum Energy Performance'")
+![Close-up of low-emissivity coating on window glass reflecting infrared heat while transmitting visible light](/images/uploads/gs4.jfif "Low-E Glass Coatings - Advanced Window Technology for Maximum Energy Performance")
 
 <a name="glass-coatings"></a>
 
@@ -481,7 +481,7 @@ Window installation appears straightforward but involves precision, specialized 
 
 For smaller projects (single window replacement, interior storm windows), DIY may be appropriate for experienced homeowners, but full-home window replacement projects benefit from professional expertise.
 
-!["Smart home control system managing electrochromic windows with automated tinting and energy optimization"](/images/uploads/gs5.webp "'Smart Home Integration - Connecting Smart Glass Windows to Home Automation Systems'")
+![Smart home control system managing electrochromic windows with automated tinting and energy optimization](/images/uploads/gs5.webp "Smart Home Integration - Connecting Smart Glass Windows to Home Automation Systems")
 
 <a name="smart-home-integration"></a>
 
