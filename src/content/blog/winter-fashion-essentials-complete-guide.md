@@ -40,7 +40,7 @@ Whether you're building a winter wardrobe from scratch, refining an existing col
 
 Let's build your essential winter wardrobe.
 
-!["Winter fashion essentials featuring stylish coats sweaters accessories and boots for cold weather style"](/images/uploads/wi1.png "'Winter Fashion Essentials - Complete Guide to Stylish Cold-Weather Dressing'")
+![Winter fashion essentials featuring stylish coats sweaters accessories and boots for cold weather style](/images/uploads/wi1.png "Winter Fashion Essentials - Complete Guide to Stylish Cold-Weather Dressing")
 
 <a name="coats"></a>
 
@@ -111,7 +111,7 @@ Your winter coat is the most visible and expensive piece of your cold-weather wa
 
 <a href="https://s.click.aliexpress.com/e/_c3UENvbJ" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-women-winter-coats  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Stylish winter coats and jackets showing essential outerwear for cold weather fashion"](/images/uploads/wi2.avif "'Winter Coats and Outerwear - Essential Cold Weather Fashion'")
+![Stylish winter coats and jackets showing essential outerwear for cold weather fashion](/images/uploads/wi2.avif "Winter Coats and Outerwear - Essential Cold Weather Fashion")
 
 <a name="layering"></a>
 
@@ -181,7 +181,7 @@ Layering is the foundation of winter dressing—it provides warmth, allows tempe
 
 <a href="https://s.click.aliexpress.com/e/_c3q2ML9x" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-winter-sweaters-women  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Cozy winter sweaters and knitwear showing layering essentials for cold weather style"](/images/uploads/wi3.jpg "'Winter Sweaters and Knitwear - Cozy Layering Fashion Essentials'")
+![Cozy winter sweaters and knitwear showing layering essentials for cold weather style](/images/uploads/wi3.jpg "Winter Sweaters and Knitwear - Cozy Layering Fashion Essentials")
 
 <a name="bottoms"></a>
 
@@ -313,7 +313,7 @@ Accessories are where winter fashion truly shines—these pieces provide warmth,
 
 <a href="https://s.click.aliexpress.com/e/_c4NDUPXf" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-winter-scarves-women  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Winter fashion accessories including scarves hats and gloves for stylish cold weather looks"](/images/uploads/wi4.jpg "'Winter Accessories - Scarves Hats and Gloves for Cold Weather Style'")
+![Winter fashion accessories including scarves hats and gloves for stylish cold weather looks](/images/uploads/wi4.jpg "Winter Accessories - Scarves Hats and Gloves for Cold Weather Style")
 
 <a name="footwear"></a>
 
@@ -386,7 +386,7 @@ Winter footwear must balance style with practical demands—traction for icy con
 
 <a href="https://s.click.aliexpress.com/e/_c3Hm9Vel" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-winter-boots-women  </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-!["Stylish winter boots and footwear showing essential cold weather shoe options"](/images/uploads/wi5.webp "'Winter Boots and Footwear - Essential Cold Weather Shoe Styles'")
+![Stylish winter boots and footwear showing essential cold weather shoe options](/images/uploads/wi5.webp "Winter Boots and Footwear - Essential Cold Weather Shoe Styles")
 
 <a name="fabrics"></a>
 
@@ -408,7 +408,7 @@ Understanding fabrics helps you choose pieces that perform well in winter condit
 
 ### Synthetic Materials: Functional Alternatives
 
-[**Polyester](https://en.wikipedia.org/wiki/Polyester):** Common in affordable winter clothing. Quality polyester can perform well—providing warmth, easy care, and durability. However, it doesn't breathe as well as natural fibers and can feel less luxurious.
+[\*\*Polyester](https://en.wikipedia.org/wiki/Polyester):\*\* Common in affordable winter clothing. Quality polyester can perform well—providing warmth, easy care, and durability. However, it doesn't breathe as well as natural fibers and can feel less luxurious.
 
 **Nylon:** Often used in puffer coats and waterproof shells. Durable, lightweight, and wind-resistant. Modern nylons have improved handfeel and drape compared to older versions.
 
