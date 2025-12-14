@@ -1,6 +1,6 @@
 ---
-title: '"Fashion Trends 2026: Top 10 Must-Know Styles & Shopping Guide - Complete Review & Budget Finds"'
-description: '"Discover the hottest fashion trends of 2026! From Neo-Y2K and Dopamine Dressing to Sustainable Luxury. Your ultimate shopping guide with AliExpress finds starting at $10."'
+title: 'Fashion Trends 2026: Top 10 Must-Know Styles & Shopping Guide - Complete Review & Budget Finds'
+description: Discover the hottest fashion trends of 2026! From Neo-Y2K and Dopamine Dressing to Sustainable Luxury. Your ultimate shopping guide with AliExpress finds starting at $10.
 author: InfoProds Team
 date: 2025-12-01T01:56:00
 image: /images/uploads/photo-1483985988355-763728e1935b.jfif
