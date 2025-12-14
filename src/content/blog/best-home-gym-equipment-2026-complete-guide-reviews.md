@@ -1,6 +1,6 @@
 ---
-title: '"Best Home Gym Equipment 2026: Complete Guide & Reviews for 4 Essential Pieces - Budget-Friendly from $25!"'
-description: '"Build your perfect home gym with these 4 essential pieces! Complete guide to dumbbells, resistance bands, AB wheel & massage gun from AliExpress. Start from $25!"'
+title: 'Best Home Gym Equipment 2026: Complete Guide & Reviews for 4 Essential Pieces - Budget-Friendly from $25!'
+description: Build your perfect home gym with these 4 essential pieces! Complete guide to dumbbells, resistance bands, AB wheel & massage gun from AliExpress. Start from $25!
 author: InfoProds Team
 date: 2025-11-30T22:08:00
 image: /images/uploads/qw1.webp
