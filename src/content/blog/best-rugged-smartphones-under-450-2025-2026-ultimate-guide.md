@@ -1,6 +1,6 @@
 ---
 title: 'Best Rugged Smartphones Under $450 in 2025-2026: Top 5 Phones with Massive Batteries'
-description: '"Discover the 5 best rugged smartphones under $450! Complete guide to durable phones with thermal imaging, massive batteries, projectors & flagship features from AliExpress."'
+description: Discover the 5 best rugged smartphones under $450! Complete guide to durable phones with thermal imaging, massive batteries, projectors & flagship features from AliExpress.
 author: InfoProds Team
 date: 2025-11-30T23:56:00
 image: /images/uploads/tank4smartphone.jpg
