@@ -586,7 +586,7 @@ This reveals realistic time investments for each appliance.
 
 - **Air Fryer:** 43 minutes total (3 preheat, 38 cook, 2 rest)
 - **Oven:** 75 minutes total (15 preheat, 55 cook, 5 rest)
-- **Microwave:** 8 minutes (6 cook, 2 rest) - _acceptable texture for quick meal_ **Winner: Microwave dramatically faster; Air Fryer saves 32 min vs oven for better[ skin](https://infoprods.com/blog/2025-11-30-complete-skincare-routine-for-beginners-2026-step-by-step-guide-to-glowing-skin-from-aliexpress-budget-friendly-from-8)
+- **Microwave:** 8 minutes (6 cook, 2 rest) - _acceptable texture for quick meal_ \*\*Winner: Microwave dramatically faster; Air Fryer saves 32 min vs oven for better[ skin](https://infoprods.com/blog/2025-11-30-complete-skincare-routine-for-beginners-2026-step-by-step-guide-to-glowing-skin-from-aliexpress-budget-friendly-from-8)
 
 **Roasted Brussels Sprouts (1 pound)**
 
