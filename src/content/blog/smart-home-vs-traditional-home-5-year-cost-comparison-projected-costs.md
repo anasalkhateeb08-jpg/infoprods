@@ -593,7 +593,7 @@ The starting point for smart home cost analysis examines initial capital investm
 - Rural areas: Limited local options, rely on [online ](https://infoprods.com/blog/how-to-spot-fake-jewelry-expert-tips-avoid-scams-online-shopping)ordering
 - Impact: $0-300 additional shipping/markup in rural areas
 
-[https://www.aliexpress.com/w/wholesale-smart-home-devices.html](https://www.aliexpress.com/w/wholesale-smart-home-devices.html)
+<a href="https://s.click.aliexpress.com/e/_c4bqVAzx" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-smart-home-devices </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 **Initial investment analysis reveals dramatic cost spread: Traditional homes require minimal investment ($434) beyond what's typically present, selective smart homes need moderate investment ($2,882) manageable for most homeowners, while comprehensive automation demands substantial capital ($37,090) comparable to major home renovations. The question becomes whether ongoing savings and benefits justify these upfront commitments, which subsequent sections analyze in detail.**
 
@@ -1665,7 +1665,7 @@ Already covered in utility section, but warrants emphasis:
 
 These hidden costs add 50-100% to headline investment numbers, dramatically affecting ROI calculations and often coming as unpleasant surprises to smart home buyers unprepared for ongoing financial commitments.
 
-[https://www.aliexpress.com/w/wholesale-smart-home-hub.html](https://www.aliexpress.com/w/wholesale-smart-home-hub.html)
+<a href="https://s.click.aliexpress.com/e/_c42hVxdB" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-smart-home-hub </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 <a name="savings"></a>
 
