@@ -66,7 +66,7 @@ Your journey to healthy weight gain begins with understanding that your natural 
 
 Let's begin by understanding exactly why you're naturally thin and what physiological factors must be overcome to achieve healthy weight gain, providing the foundation for all subsequent strategies and recommendations.
 
-[Image 1 - Insert here]
+![Metabolism and nutrition science showing why naturally thin people struggle gaining weight](/images/uploads/ov1.jpeg "Understanding Fast Metabolism and Natural Thinness")
 
 <a name="understanding"></a>
 
@@ -454,7 +454,7 @@ Several calculators simplify this process:
 
 Calculating your specific caloric needs transforms vague "eat more" advice into concrete actionable target. Your calculated intake—likely 2500-4000+ calories depending on size and activity level—provides roadmap for all subsequent meal planning and food selection. While numbers may seem daunting initially, breaking them into manageable meals and using strategies from coming sections makes hitting targets achievable consistently.
 
-[Image 2 - Insert here]
+![Calorie tracking and meal planning for healthy weight gain and muscle building](/images/uploads/ov2.webp "Calculating Caloric Needs for Weight Gain")
 
 <a name="macros"></a>
 
@@ -866,7 +866,7 @@ Building meals that hit calorie and macro targets requires knowing which specifi
 
 Building meals from these proven weight-gain foods provides the calorie density, nutritional quality, and macronutrient balance needed for healthy muscle building. The key lies in consistently incorporating multiple calorie-dense options throughout your day rather than trying to get all calories from just a few foods. Combining proteins with carbs and fats creates satisfying, substantial meals that move you toward calorie targets while supporting training and recovery.
 
-[Image 3 - Insert here]
+![Nutrient dense foods for weight gain showing proteins carbs and healthy fats](/images/uploads/ov3.jpg "Best Foods for Healthy Weight Gain")
 
 <a name="meal-plans"></a>
 
@@ -1305,7 +1305,7 @@ When unprepared or caught without planned snacks:
 
 High-calorie snacks and smoothies bridge the gap between main meals, providing hundreds of additional calories daily through portable, convenient options requiring minimal preparation. Liquid calories especially prove invaluable for those struggling to eat enough solid food, delivering substantial nutrition quickly without excessive fullness. Incorporating 2-3 strategic snacks daily alongside three main meals makes hitting aggressive calorie targets manageable rather than overwhelming.
 
-[Image 4 - Insert here]
+![High calorie protein smoothie for easy weight gain and muscle building](/images/uploads/ov4.webp "High-Calorie Smoothies and Shakes for Weight Gain")
 
 <a name="supplements"></a>
 
@@ -2073,7 +2073,7 @@ Avoiding these common mistakes requires:
 
 The difference between successful healthy weight gain and frustrating failed attempts often lies not in lack of effort but in making these avoidable mistakes. By recognizing pitfalls ahead of time, you can navigate around them, maintaining approaches that build muscle, improve health, and create lasting results rather than temporary weight gain followed by disappointment.
 
-[Image 5 - Insert here]
+![Strength training workout for building muscle and gaining healthy weight](/images/uploads/smiling-young-sportsman-holding-scales-apple-scaled.jpg "Building Muscle Through Resistance Training")
 
 <a name="conclusion"></a>
 
