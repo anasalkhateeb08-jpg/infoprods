@@ -64,7 +64,7 @@ Beyond determining which appliance "wins," this analysis reveals when to use eac
 
 Let's examine exactly how we tested these appliances and what methodology produced reliable data you can trust for making your own kitchen decisions.
 
-[Image 1 - Insert here]
+![Kitchen appliance testing setup with energy monitor measuring air fryer oven and microwave electricity consumption](/images/uploads/lk1.avif "Testing Methodology - Measuring Energy and Cooking Performance")
 
 <a name="methodology"></a>
 
@@ -776,7 +776,7 @@ Time savings translate to personal value beyond just convenience:
 
 Time analysis reveals air fryers save 40-50% total time versus ovens for typical small-medium portion cooking, primarily through eliminated preheating and faster cooking. Microwaves dominate reheating speed but sacrifice quality. Ovens retain advantages for large-batch cooking and baked goods. For rushed weeknight cooking—the most common household scenario—air fryers provide substantial time savings enabling fresh meals within tight schedules.
 
-[Image 2 - Insert here]
+![Electricity usage meter showing energy consumption comparison between cooking appliances](/images/uploads/lk2.webp "Energy Consumption Results - Air Fryer Saves 40-60% vs Oven")
 
 <a name="quality"></a>
 
@@ -1422,7 +1422,7 @@ Beyond general quality and efficiency, each appliance has specific strengths and
 
 Understanding each appliance's optimal domain prevents frustration from using wrong tool for task. Air fryers excel at daily small-portion cooking of proteins, vegetables, and frozen foods. Ovens remain essential for baking, large roasts, and batch cooking. Microwaves dominate reheating and specific quick-cooking applications. Strategic use of appropriate appliances maximizes results while minimizing time and cost.
 
-[Image 3 - Insert here]
+![Side by side food quality comparison showing french fries cooked in air fryer oven and microwave](/images/uploads/lk3.jpg "Food Quality Results - Blind Taste Test Comparison")
 
 <a name="cleanup"></a>
 
@@ -2745,7 +2745,7 @@ After six months, appliance selection became automatic based on food and situati
 
 Real-world usage revealed air fryers settle into 3-5 uses weekly after honeymoon phase, primarily for quick proteins, frozen foods, and reheating. Traditional ovens maintained 3-4 weekly uses for baking, large roasts, and batch cooking. Microwaves proved most-used appliance at 20-30 weekly interactions for reheating and quick tasks. No single appliance dominated—instead, strategic use of appropriate appliance for each food type optimized results. The key insight: appliances supplement rather than replace each other, with each excelling in specific domains making multi-appliance strategies most practical.
 
-[Image 4 - Insert here]
+![Air fryer cooking chicken showing modern kitchen appliance in use for healthy cooking](/images/uploads/lk4.jfif "Real-World Usage - Air Fryer Daily Cooking Performance")
 
 <a name="verdict"></a>
 
@@ -3065,6 +3065,8 @@ Regional and household factors significantly affect optimal decisions, with high
 Budget considerations affect purchase decisions, though the analysis reveals air fryers' $100-150 purchase prices prove manageable investments given 2-3 year payback periods through electricity savings alone for typical users, with substantial unmeasured time savings providing additional value justifying expense. The total cost of ownership over five years runs approximately $463 for air fryers including purchase, electricity, accessories, and maintenance versus $511 for oven-only cooking during the same period in electricity costs alone, net savings of $48 understating true value since time savings worth substantially more than direct cost savings for most households. Microwaves prove most economical at $237 total five-year ownership costs but limited applicability means they supplement rather than replace other appliances.
 
 Hidden costs affecting true economics include parchment liners and accessories adding $30-50 annually to air fryer operation, replacement baskets required after 3-5 years when non-stick coatings degrade adding $20-40 periodic expense, and potential behavioral changes where appliance convenience enables buying more frozen convenience foods increasing grocery spending $10-40 monthly partially offsetting savings. Counter to these costs, air fryers enabling quick home cooking may reduce expensive take-out spending by $50-100 monthly for households previously relying on restaurants due to perceived cooking difficulty or time constraints, creating net positive economic impact far exceeding direct electricity savings.
+
+![Modern kitchen with air fryer oven and microwave showing optimal appliance setup](/images/uploads/lk5.jpg "Optimal Kitchen Strategy - Using All Three Appliances")
 
 The practical usage observations proved most revealing, showing initial honeymoon phase enthusiasm for air fryers typically moderating after 2-3 months to sustainable 3-5 uses weekly rather than daily use, primarily for proteins, frozen foods, and reheating where air fryers genuinely excel rather than forcing them into applications where ovens prove superior. Traditional ovens maintained steady 3-4 weekly uses for baking, large roasts, and casseroles where capacity and specific cookware requirements favor traditional methods. Microwaves proved most frequently used appliances at 20-30 weekly interactions for reheating and quick tasks demonstrating their continued relevance despite being oldest technology. These patterns confirm each appliance finding natural niches based on inherent strengths rather than marketing-driven assumptions about universal superiority.
 
