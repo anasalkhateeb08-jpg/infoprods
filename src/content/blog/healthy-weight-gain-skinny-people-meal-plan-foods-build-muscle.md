@@ -2000,20 +2000,18 @@ Never weighing yourself, not monitoring intake, failing to track workouts, and m
 
 **Correct Approach:** Weigh yourself weekly under consistent conditions, track food intake at least periodically, log all workouts, take progress photos monthly, and use objective data to guide decisions.
 
-**Mistake #11: Drinking Too Much Alcohol**
+##### Mistake #11: Alcohol Consumption
 
-Regular alcohol consumption while attempting to gain muscle:
+- Hinders muscle protein synthesis
+- Negatively impacts sleep quality
+- Contains empty calories that can diminish the nutritional value of food
+- Raises cortisol levels and lowers testosterone levels
+- Causes dehydration and hinders recovery
+- May reduce athletic performance and motivation
 
-**Why It's Counterproductive:**
+##### The Correct Approach:
 
-- Impairs muscle protein synthesis
-- Disrupts sleep quality
-- Contains empty calories that may displace nutritious food
-- Increases cortisol and decreases testosterone
-- Dehydrates and impairs recovery
-- May reduce training performance and motivation
-
-**Correct Approach:** Minimize alcohol consumption during serious muscle-building phases, if drinking keep to moderate amounts (1-2 drinks) occasionally, never drink near training sessions, and prioritize recovery over social drinking.
+Understand that alcohol consumption does more harm than good; always avoid it.
 
 **Mistake #12: Ignoring Digestive Health**
 
