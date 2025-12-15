@@ -2,7 +2,7 @@
 title: 'Healthy Weight Gain for Skinny People: Complete Meal Plan & Foods That Build Muscle Without Harming Your Health'
 description: Discover the complete guide to healthy weight gain for naturally thin people. Learn science-backed meal plans, nutrient-dense foods, and muscle-building strategies that increase weight without junk food or health risks.
 author: InfoProds Team
-date: 2025-12-15T16:25:00
+date: 2025-12-15T16:31:00
 image: /images/uploads/smiling-young-sportsman-holding-scales-apple-scaled.jpg
 category: Fitness & Health
 tags:
