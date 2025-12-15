@@ -78,7 +78,7 @@ Skills represent physical abilities developed through practice—starting fires,
 
 Knowledge encompasses understanding—why things work, what options exist, how to adapt techniques to different situations, when to use specific approaches, what dangers to avoid. Knowledge informs skill development and equipment selection while providing flexibility responding to unexpected situations. Understanding fire science helps you start fires with various materials and methods rather than depending on a single technique. Knowing which plants are edible expands food options beyond what you carry. Comprehending weather patterns aids decision-making and planning.
 
-Equipment provides tools that amplify skills and knowledge—quality knives cut more effectively than improvised sharp stones, modern fire starters work in conditions where primitive methods fail, water filters purify more water faster than boiling, GPS devices navigate more precisely than map and compass. Equipment extends capabilities, provides backup when primary methods fail, and accomplishes tasks impossible or impractical with skills alone. But equipment requires maintenance, can break or be lost, and only benefits those who know how to use it properly.
+Equipment provides tools that amplify skills and knowledge—quality knives cut more effectively than improvised sharp stones, modern fire starters work in conditions where primitive methods fail, water filters purify more water faster than boiling, GPS [devices](https://infoprods.com/blog/best-power-banks-portable-charging-guide) navigate more precisely than map and compass. Equipment extends capabilities, provides backup when primary methods fail, and accomplishes tasks impossible or impractical with skills alone. But equipment requires maintenance, can break or be lost, and only benefits those who know how to use it properly.
 
 The ideal approach develops all three elements in concert. Learn skills first using basic equipment, understanding fundamental techniques before relying on advanced gear. Acquire knowledge through study, practice, and experience rather than just accumulating equipment. Choose equipment that matches your skill level and needs rather than simply buying the most expensive or tactical-looking gear. This balanced development creates genuine capability rather than false confidence from gear collections or untested theoretical knowledge.
 
@@ -304,7 +304,7 @@ Lakes and ponds present moderate contamination risks—worse than streams but of
 
 Rainwater collection provides relatively clean water, though it still requires purification due to bird droppings, airborne contaminants, and contaminated collection surfaces. Rainwater is excellent for washing when purification isn't possible, reserving purified water for drinking.
 
-Snow and ice must be melted before consumption—eating frozen water causes dangerous core temperature drops and actually dehydrates you as your body burns energy melting it internally. Melt snow near fires or using body heat in plastic bottles inside clothing. Prefer ice over snow when available—ice yields more water per volume and contains less air.
+Snow and ice must be melted before consumption—eating frozen water causes dangerous core temperature drops and actually dehydrates you as your body burns energy melting it internally. Melt snow near fires or using [body](https://infoprods.com/blog/ultimate-fitness-guide-2025-complete) heat in plastic bottles inside clothing. Prefer ice over snow when available—ice yields more water per volume and contains less air.
 
 **Water Purification Methods**
 
@@ -480,7 +480,7 @@ Whistles carry farther than voices while requiring less energy than shouting. Th
 
 Signal fires create smoke visible for miles. Green vegetation added to hot fires creates white smoke contrasting against forests. Burning pine boughs or adding oil to fires creates black smoke visible against snow or clouds. Three fires in triangle pattern signals distress. Prepare signal fires in advance so you can light them quickly when aircraft or searchers appear.
 
-Colored panels or tarps spread on ground create visual contrast visible from aircraft. International orange, bright yellow, or any vivid color works—the goal is contrast against natural backgrounds. Arrange panels in large X patterns or other geometric shapes obviously artificial. Stomp large patterns in snow or sand, creating shadows visible from altitude.
+Colored panels or tarps spread on ground create visual contrast visible from aircraft. International orange, bright yellow, or any vivid [color](https://infoprods.com/blog/fashion-psychology-secrets-colors-styles-make-people-trust-you-more) works—the goal is contrast against natural backgrounds. Arrange panels in large X patterns or other geometric shapes obviously artificial. Stomp large patterns in snow or sand, creating shadows visible from altitude.
 
 Flashlights or strobes signal at night. Three flashes repeated signals distress. Strobe lights visible for miles in darkness dramatically aid night searches. Headlamps provide hands-free signaling capability.
 
