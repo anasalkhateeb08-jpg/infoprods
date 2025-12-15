@@ -499,7 +499,7 @@ Beyond personal costs, energy consumption affects environmental footprint:
 
 For environmentally-conscious households, energy efficiency provides motivation beyond just cost savings.
 
-[https://www.aliexpress.com/w/wholesale-energy-monitor-meter.html](https://www.aliexpress.com/w/wholesale-energy-monitor-meter.html)
+<a href="https://s.click.aliexpress.com/e/_c3LzGwVF" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-energy-monitor-meter </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 Energy analysis reveals clear winner for typical small-portion cooking: air fryers reduce electricity consumption by 40-60% versus traditional ovens for foods they handle well, saving $40-70 annually for typical households. Microwaves dominate efficiency for reheating and specific applications, while ovens retain advantages for large-batch cooking and specific baking needs. Optimizing appliance selection based on specific cooking task maximizes both economy and performance.
 
@@ -2083,7 +2083,7 @@ Analyzing total cost of ownership requires examining purchase prices, operationa
 
 Investment analysis reveals air fryers pay for themselves within 2-3 years for typical households through electricity savings alone, with substantial time savings providing additional value. Total cost of ownership over 5 years runs $298 versus $511 for oven-only cooking, net savings of $213. For high-electricity regions or busy households valuing time, payback accelerates to 14-22 months. Three-appliance strategies optimize costs and versatility with total additional investment of $210 yielding ongoing savings and convenience.
 
-[https://www.aliexpress.com/w/wholesale-air-fryer.html](https://www.aliexpress.com/w/wholesale-air-fryer.html)
+<a href="https://s.click.aliexpress.com/e/_c3evGPmZ" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-air-fryer </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 <a name="hidden"></a>
 
