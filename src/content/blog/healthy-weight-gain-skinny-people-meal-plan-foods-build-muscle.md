@@ -182,7 +182,7 @@ Second, it clarifies what must change to gain weight. You cannot change your gen
 
 The encouraging reality is that thermodynamics still applies—consistently consuming more calories than you expend will produce weight gain regardless of how fast your metabolism or strong your satiety signals. The challenge lies in achieving that consistent surplus given your specific obstacles, but it's absolutely achievable through the strategies detailed in subsequent sections.
 
-[https://www.aliexpress.com/w/wholesale-meal-prep-containers.html](https://www.aliexpress.com/w/wholesale-meal-prep-containers.html)
+<a href="https://s.click.aliexpress.com/e/_c3mU4WmN" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-meal-prep-containers </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 Understanding your natural thinness as a biological reality rather than a personal failing provides the foundation for successful weight gain. You're not broken or defective—you simply have a metabolism and appetite profile at one end of the normal human spectrum. Successfully gaining healthy weight requires acknowledging these factors and implementing strategies specifically designed to overcome them rather than expecting generic advice to work for your unique physiology.
 
@@ -850,7 +850,7 @@ Building meals that hit calorie and macro targets requires knowing which specifi
 
 **Smoothies** Benefits: Pack multiple food groups into digestible liquid form, customize to preferences, drink calories easier than eating for many people Tip: Use whole milk, yogurt, or coconut milk as base rather than water for extra calories
 
-[https://www.aliexpress.com/w/wholesale-protein-shaker-bottle.html](https://www.aliexpress.com/w/wholesale-protein-shaker-bottle.html)
+<a href="https://s.click.aliexpress.com/e/_c3HUodDJ" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-protein-shaker-bottle </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 **Strategic Food Selection Principles**
 
@@ -1301,7 +1301,7 @@ When unprepared or caught without planned snacks:
 - Muffins or pastries (400-600 cal)
 - Protein boxes (300-400 cal)
 
-[https://www.aliexpress.com/w/wholesale-blender-bottle.html](https://www.aliexpress.com/w/wholesale-blender-bottle.html)
+<a href="https://s.click.aliexpress.com/e/_c3sVZTA1" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-blender-bottle </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 High-calorie snacks and smoothies bridge the gap between main meals, providing hundreds of additional calories daily through portable, convenient options requiring minimal preparation. Liquid calories especially prove invaluable for those struggling to eat enough solid food, delivering substantial nutrition quickly without excessive fullness. Incorporating 2-3 strategic snacks daily alongside three main meals makes hitting aggressive calorie targets manageable rather than overwhelming.
 
