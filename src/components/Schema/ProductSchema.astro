@@ -1,70 +1,88 @@
----
-interface Props {
-  name: string;
-  description: string;
-  image: string;
-  brand: string;
-  model?: string;
-  price?: number;
-  priceCurrency?: string;
-  availability?: string;
-  rating?: number;
-  reviewCount?: number;
-  url: string;
+﻿---
+interface ProductReview {
+  author: string;
+  datePublished: string;
+  reviewBody: string;
+  reviewRating: {
+    ratingValue: number;
+    bestRating?: number;
+  };
 }
 
-const { 
-  name, 
-  description, 
-  image, 
-  brand,
-  model,
-  price,
-  priceCurrency = "USD",
-  availability = "InStock",
-  rating,
-  reviewCount,
-  url
-} = Astro.props;
+interface Props {
+  name?: string;
+  description?: string;
+  image?: string;
+  brand?: string;
+  sku?: string;
+  aggregateRating?: {
+    ratingValue: number;
+    reviewCount: number;
+    bestRating?: number;
+  };
+  offers?: {
+    url: string;
+    priceCurrency: string;
+    price: string;
+    availability?: string;
+  };
+  review?: ProductReview;
+}
 
-const fullImageUrl = image.startsWith("http") ? image : "https://infoprods.com" + image;
+const { name, description, image, brand, sku, aggregateRating, offers, review } = Astro.props;
 
-const schema = {
+// إذا لم يكن هناك معلومات المنتج، لا تعرض شيء
+if (!name) {
+  return null;
+}
+
+const schemaData = {
   "@context": "https://schema.org",
   "@type": "Product",
   "name": name,
-  "description": description,
-  "image": fullImageUrl,
-  "brand": {
-    "@type": "Brand",
-    "name": brand
-  },
-  "url": url
+  ...(description && { "description": description }),
+  ...(image && { "image": image }),
+  ...(brand && { 
+    "brand": {
+      "@type": "Brand",
+      "name": brand
+    }
+  }),
+  ...(sku && { "sku": sku }),
+  ...(aggregateRating && {
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": aggregateRating.ratingValue,
+      "reviewCount": aggregateRating.reviewCount,
+      "bestRating": aggregateRating.bestRating || 5
+    }
+  }),
+  ...(offers && {
+    "offers": {
+      "@type": "Offer",
+      "url": offers.url,
+      "priceCurrency": offers.priceCurrency,
+      "price": offers.price,
+      "availability": offers.availability || "https://schema.org/InStock"
+    }
+  }),
+  ...(review && {
+    "review": {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": review.author
+      },
+      "datePublished": review.datePublished,
+      "reviewBody": review.reviewBody,
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": review.reviewRating.ratingValue,
+        "bestRating": review.reviewRating.bestRating || 5
+      }
+    }
+  })
 };
-
-if (model) {
-  schema["model"] = model;
-}
-
-if (price) {
-  schema["offers"] = {
-    "@type": "Offer",
-    "price": price.toString(),
-    "priceCurrency": priceCurrency,
-    "availability": "https://schema.org/" + availability,
-    "url": url
-  };
-}
-
-if (rating && reviewCount) {
-  schema["aggregateRating"] = {
-    "@type": "AggregateRating",
-    "ratingValue": rating.toString(),
-    "reviewCount": reviewCount.toString(),
-    "bestRating": "5",
-    "worstRating": "1"
-  };
-}
 ---
 
-<script type="application/ld+json" set:html={JSON.stringify(schema)} />
+<script type="application/ld+json" set:html={JSON.stringify(schemaData)} />

@@ -1,0 +1,37 @@
+﻿---
+interface HowToStep {
+  name: string;
+  text: string;
+  image?: string;
+}
+
+interface Props {
+  name?: string;
+  description?: string;
+  totalTime?: string;
+  steps?: HowToStep[];
+}
+
+const { name, description, totalTime, steps } = Astro.props;
+
+// إذا لم يكن هناك خطوات، لا تعرض شيء
+if (!steps || steps.length === 0) {
+  return null;
+}
+
+const schemaData = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": name || "",
+  "description": description || "",
+  ...(totalTime && { "totalTime": totalTime }),
+  "step": steps.map(step => ({
+    "@type": "HowToStep",
+    "name": step.name,
+    "text": step.text,
+    ...(step.image && { "image": step.image })
+  }))
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schemaData)} />

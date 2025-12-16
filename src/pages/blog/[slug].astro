@@ -3,6 +3,9 @@ import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 import ArticleSchema from '../../components/Schema/ArticleSchema.astro';
 import BreadcrumbSchema from '../../components/Schema/BreadcrumbSchema.astro';
+import FAQSchema from '../../../components/Schema/FAQSchema.astro';
+import HowToSchema from '../../../components/Schema/HowToSchema.astro';
+import ProductSchema from '../../../components/Schema/ProductSchema.astro';
 
 export async function getStaticPaths() {
   const blogPosts = await getCollection('blog');
@@ -37,7 +40,9 @@ const breadcrumbs = [
     tags={post.data.tags}
   />
   <BreadcrumbSchema items={breadcrumbs} />
-
+  <FAQSchema faqs={post.data.faqs} />
+  <HowToSchema name={post.data.howToName} description={post.data.howToDescription} totalTime={post.data.howToTime} steps={post.data.howToSteps} />
+    <ProductSchema name={post.data.productName} description={post.data.productDescription} image={post.data.productImage} brand={post.data.productBrand} aggregateRating={post.data.productRating} offers={post.data.productOffers} />
   <article class="max-w-4xl mx-auto px-4 py-16 bg-white min-h-screen">
     <header class="mb-8">
       <span class="text-sm text-purple-600 font-semibold uppercase tracking-wide">
