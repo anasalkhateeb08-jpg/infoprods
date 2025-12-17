@@ -3,9 +3,9 @@ import Layout from '../../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
 import ArticleSchema from '../../components/Schema/ArticleSchema.astro';
 import BreadcrumbSchema from '../../components/Schema/BreadcrumbSchema.astro';
-import FAQSchema from '../../../components/Schema/FAQSchema.astro';
-import HowToSchema from '../../../components/Schema/HowToSchema.astro';
-import ProductSchema from '../../../components/Schema/ProductSchema.astro';
+import FAQSchema from '../../components/Schema/FAQSchema.astro';
+import HowToSchema from '../../components/Schema/HowToSchema.astro';
+import ProductSchema from '../../components/Schema/ProductSchema.astro';
 
 export async function getStaticPaths() {
   const blogPosts = await getCollection('blog');
