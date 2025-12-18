@@ -90,6 +90,8 @@ From a practical standpoint, ginkgo is often taken in capsule or tablet form, th
 
 In summary, ginkgo biloba is a well-known herb with a long history of traditional use and a growing body of modern research exploring its potential cognitive benefits. Its antioxidant properties, potential influence on blood circulation, and long-standing reputation make it a popular choice for individuals seeking natural support for mental clarity and cognitive performance. While it is not a quick fix or a substitute for medical treatment, ginkgo may offer meaningful support when integrated into a balanced lifestyle that includes proper sleep,[ nutrition](https://infoprods.com/blog/nutrition-tips-athletes-complete-guide), hydration, and stress management.
 
+<a href="https://s.click.aliexpress.com/e/_c3rhbRw5" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> Ginkgo Biloba Extract Capsules Collection </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
+
 <a name="bacopa"></a>
 
 ## **2. Bacopa Monnieri: Memory and Learning Enhancement**
@@ -144,6 +146,8 @@ In summary, lion’s mane mushroom stands out as one of the most intriguing natu
 
 <a name="ashwagandha"></a>
 
+<a href="https://s.click.aliexpress.com/e/_c45d5VYZ" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> Lion’s Mane Mushroom Powder </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
+
 ## **4. Ashwagandha: Stress Reduction and Mental Clarity**
 
 Ashwagandha, scientifically known as _Withania somnifera_, is one of the most iconic herbs in Ayurvedic medicine and has been used for thousands of years to support vitality, resilience, and mental balance. Often referred to as an “adaptogen,” ashwagandha is widely recognized for its potential ability to help the body adapt to stress—both physical and mental. In recent years, it has gained global popularity as a natural option for individuals seeking improved mental clarity, reduced stress, and enhanced cognitive performance.
@@ -167,6 +171,8 @@ Quality is an important consideration when choosing ashwagandha supplements. Hig
 While ashwagandha is generally well‑tolerated, some individuals may experience mild digestive discomfort or drowsiness, especially when taking higher doses. Starting with a lower dose and gradually increasing it may help minimize these effects. Individuals with medical conditions or those taking medications should consult a healthcare professional before incorporating ashwagandha into their routine.
 
 In summary, ashwagandha is a [powerful](https://infoprods.com/blog/best-power-banks-portable-charging-guide) adaptogenic herb with a long history of traditional use and a growing body of modern interest. Its potential ability to support stress reduction, mental clarity, sleep quality, and overall cognitive resilience makes it a valuable tool for individuals seeking natural ways to enhance mental performance. While it does not provide immediate stimulation, its gradual and supportive effects align with the body’s natural rhythms, offering meaningful benefits when used consistently over time.
+
+<a href="https://s.click.aliexpress.com/e/_c4pFiL81" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> Ashwagandha Capsules </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 ## **5. Rhodiola Rosea: Mental Energy and Fatigue Reduction**
 
