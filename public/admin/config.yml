@@ -22,3 +22,10 @@ collections:
       - {label: "Category", name: "category", widget: "select", required: true, options: ["Beauty", "Fashion", "Fitness & Health", "Home", "Jewelry", "Kitchen", "Miscellaneous", "Technology & Devices"]}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: true}
+      - label: "FAQs"
+        name: "faqs"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Question", name: "question", widget: "string"}
+          - {label: "Answer", name: "answer", widget: "text"}
