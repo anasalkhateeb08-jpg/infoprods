@@ -18,7 +18,16 @@ export async function getStaticPaths() {
 const { category, posts } = Astro.props;
 const sortedPosts = posts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
+
+
 const categoryImages = {
+'Car Accessories & Care': [
+    'https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=800&q=80',
+    'https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80',
+    'https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?w=800&q=80',
+    'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800&q=80'
+  ],
+
   'Fitness & Health': [
     'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=800&q=80',
     'https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=800&q=80',
@@ -70,7 +79,12 @@ const categoryImages = {
 };
 
 const categoryStyles = {
-  'Fitness & Health': {
+  'Car Accessories & Care': {
+    gradient: 'from-gray-900 via-slate-800 to-gray-900',
+    glow1: 'rgba(100,116,139,0.3)',
+    glow2: 'rgba(71,85,105,0.2)'
+  },
+'Fitness & Health': {
     gradient: 'from-slate-900 via-emerald-900 to-teal-900',
     glow1: 'rgba(16,185,129,0.3)',
     glow2: 'rgba(20,184,166,0.2)'
