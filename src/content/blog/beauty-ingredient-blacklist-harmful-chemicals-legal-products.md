@@ -4,7 +4,7 @@ description: Discover the shocking truth about toxic ingredients hiding in your 
 author: InfoProds Team
 date: 2025-12-23T02:36:00
 image: /images/uploads/Beauty Ingredient Blacklist.webp
-category: Jewelry
+category: Beauty
 tags:
   - toxic beauty ingredients
   - harmful cosmetic chemicals
