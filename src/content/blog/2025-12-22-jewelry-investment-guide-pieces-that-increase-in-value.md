@@ -94,7 +94,7 @@ The investment approach detailed here assumes serious financial commitment with 
 
 Let's examine exactly which jewelry pieces actually appreciate creating genuine investment opportunity, where smart buyers acquire those pieces at prices enabling profits rather than guaranteeing losses, how to authenticate and certify holdings protecting against fraud and misrepresentation, and the portfolio strategies that balance risk and return while avoiding the catastrophic mistakes that destroy wealth faster than appreciation can rebuild it.
 
-**[Image 1 should be inserted here - after Introduction]**
+[![Investment grade luxury jewelry collection including signed Cartier pieces rare colored diamonds exceptional quality rubies and sapphires demonstrating wealth preservation and appreciation potential for high-net-worth investors - InfoProds 2026](/images/uploads/RR1.webp "Luxury Investment Grade Jewelry Collection Display")](investment-grade-jewelry-collection-luxury-wealth-2026.webp)
 
 <a name="brutal-truth"></a>
 
@@ -118,7 +118,7 @@ The jewelry performance statistics mask enormous variation between top-performin
 
 🛒 [https://www.aliexpress.com/w/wholesale-investment-grade-jewelry.html?aff_fcid=ae490677&SearchText=investment+grade+jewelry](https://www.aliexpress.com/w/wholesale-investment-grade-jewelry.html?aff_fcid=ae490677&SearchText=investment+grade+jewelry)
 
-**[Image 2 should be inserted here]**
+[![Professional gemologist examining investment quality diamonds with GIA certification documents showing color clarity and cut grading essential for authenticating valuable gemstone investments - InfoProds 2026](/images/uploads/RR2.jpg "Diamond Investment Quality Grading and Certification")](diamond-investment-quality-grading-certification-gia-2026.webp)
 
 <a name="retail-markup"></a>
 
@@ -190,7 +190,7 @@ The pink diamonds offer best long-term appreciation potential through permanent 
 
 🛒 [https://www.aliexpress.com/w/wholesale-colored-diamond-jewelry.html?aff_fcid=ae490677&SearchText=colored+diamond+jewelry](https://www.aliexpress.com/w/wholesale-colored-diamond-jewelry.html?aff_fcid=ae490677&SearchText=colored+diamond+jewelry)
 
-**[Image 3 should be inserted here]**
+[![Rare fancy vivid colored diamonds including pink blue and yellow stones showing investment grade gemstones with exceptional appreciation potential and scarcity value for wealthy collectors - InfoProds 2026](/images/uploads/RR3.webp "Rare Colored Diamond Investment Portfolio")](rare-colored-diamond-investment-portfolio-appreciation-2026.webp)
 
 <a name="gold-investment"></a>
 
@@ -260,7 +260,7 @@ The emerald fragility requires careful consideration of setting choices protecti
 
 🛒 [https://www.aliexpress.com/w/wholesale-natural-ruby-sapphire.html?aff_fcid=ae490677&SearchText=natural+ruby+sapphire](https://www.aliexpress.com/w/wholesale-natural-ruby-sapphire.html?aff_fcid=ae490677&SearchText=natural+ruby+sapphire)
 
-**[Image 4 should be inserted here]**
+[![Christie's Sotheby's auction house jewelry exhibition showing investment grade pieces available at wholesale-adjacent pricing avoiding retail markup trap destroying consumer jewelry investment returns - InfoProds 2026](/images/uploads/RR4.webp "Auction House Jewelry Sale Investment Opportunity")](auction-house-jewelry-sale-investment-opportunity-2026.webp)
 
 <a name="rare-gemstones"></a>
 
@@ -378,7 +378,7 @@ The storage strategy should match collection purpose with investment holdings in
 
 🛒 [https://www.aliexpress.com/w/wholesale-jewelry-safe-storage.html?aff_fcid=ae490677&SearchText=jewelry+safe+storage](https://www.aliexpress.com/w/wholesale-jewelry-safe-storage.html?aff_fcid=ae490677&SearchText=jewelry+safe+storage)
 
-**[Image 5 should be inserted here]**
+[![Professional jewelry vault storage and security system protecting high-value investment grade pieces with climate control insurance and access monitoring for wealth preservation - InfoProds 2026](/images/uploads/RR5.jpg "Jewelry Investment Storage and Security Vault")](jewelry-investment-storage-security-vault-protection-2026.webp)
 
 <a name="tax-implications"></a>
 
@@ -490,7 +490,7 @@ The successful jewelry investors share common characteristics including substant
 
 Your jewelry investment success ultimately depends on avoiding the retail trap that ensures loss, choosing genuinely investment-grade pieces rather than consumer jewelry lacking appreciation potential, acquiring at wholesale-adjacent prices through auctions and estates, maintaining proper documentation and authentication supporting resale value, managing carrying costs that drag on returns, and exercising patience allowing appreciation to compound over extended holding periods. The forty-seven thousand dollar lesson I learned the hard way can save readers from similar expensive education through understanding these principles before allocating capital to jewelry investments that either preserve and grow wealth or destroy it depending entirely on execution quality.
 
-**[Image 6 should be inserted here]**
+[![Diversified investment portfolio including fine jewelry tangible assets alongside stocks bonds and real estate demonstrating strategic wealth allocation and asset diversification for high-net-worth individuals - InfoProds 2026](/images/uploads/RR6.jfif "Wealth Portfolio Diversification Jewelry Assets")](wealth-portfolio-diversification-jewelry-assets-allocation-2026.webp)
 
 <a name="faq"></a>
 
