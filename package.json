@@ -10,12 +10,15 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
+    "@astrojs/tailwind": "^6.0.2",
     "@sveltia/cms": "^0.119.2",
     "@tailwindcss/vite": "^4.1.17",
     "astro": "^5.16.0",
     "astro-i18next": "^1.0.0-beta.21",
     "i18next": "^25.6.3",
-    "netlify-cms-app": "^2.15.72"
+    "netlify-cms-app": "^2.15.72",
+    "rehype-autolink-headings": "^7.1.0",
+    "rehype-slug": "^6.0.0"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.19",
