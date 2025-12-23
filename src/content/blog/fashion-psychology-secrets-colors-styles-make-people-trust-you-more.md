@@ -4,7 +4,7 @@ description: Discover the science behind fashion psychology and how colors and s
 author: InfoProds Team
 date: 2025-12-13T22:19:00
 image: /images/uploads/photo-1490481651871-ab68de25d43d.jfif
-category: Fashion
+category: Miscellaneous
 tags:
   - fashion psychology, color psychology, trust building outfits, professional dressing, first impressions, clothing psychology, credibility fashion, psychological impact of colors, dress for success, social perception, power dressing, confidence clothing, trustworthy appearance, style influence, persuasive fashion
 ---
