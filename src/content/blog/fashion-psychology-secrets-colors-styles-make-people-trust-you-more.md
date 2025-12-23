@@ -880,7 +880,7 @@ Understanding your specific audience and context enables calibrating how much ge
 
 Gender profoundly influences fashion psychology through different structural options, double binds around attractiveness and authority, gendered color associations, grooming expectations, sexuality navigation, body type interactions, accessory differences, and evolving but still potent traditional norms. Understanding gender-specific dynamics enables strategic trust-building acknowledging these realities while hopefully contributing to ongoing evolution toward more flexible and equitable fashion psychology across genders.
 
-![Gender profoundly influences fashion psychology](/images/uploads/gnn.jpg "ongoing evolution toward more flexible and equitable fashion")
+![Gender profoundly influences fashion psychology](/images/uploads/gnn.jpg "ongoing evolution toward more flexible and equitable fashion.")
 
 <a name="situations"></a>
 
