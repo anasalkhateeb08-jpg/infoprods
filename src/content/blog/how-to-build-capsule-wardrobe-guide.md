@@ -380,7 +380,7 @@ Don't rush to build your entire capsule wardrobe immediately. Gradual developmen
 
 This timeline assumes starting from scratch. If you already own useful pieces from your closet audit, your timeline compresses significantly—you might only need 5-10 new items to complete a functional capsule wardrobe.
 
-![Beautifully organized minimalist closet with curated capsule wardrobe pieces hanging neatly showing proper garment care and storage methods](/images/uploads/fas4.webp "Organized Capsule Wardrobe Closet - Minimalist Storage and Garment Care for Longevity")
+![Beautifully organized minimalist closet with curated capsule wardrobe pieces hanging neatly showing proper garment care and storage methods](/images/uploads/fas4.webp "Organized Capsule Wardrobe Closet - Minimalist Storage and Garment Care for Longevity.")
 
 ## 4. Styling Your Capsule Wardrobe: Maximum Outfits from Minimal Pieces
 
