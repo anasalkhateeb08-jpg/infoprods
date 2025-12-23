@@ -18,8 +18,8 @@ const {
   keywords = 'product reviews, shopping, technology, fashion, beauty, home decor'
 } = Astro.props;
 
-
 const siteURL = Astro.site || 'https://infoprods.com';
+const ogImage = new URL(image, siteURL);
 const canonicalURL = new URL(Astro.url.pathname, siteURL);
 ---
 
