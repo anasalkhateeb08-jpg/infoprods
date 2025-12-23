@@ -4,7 +4,7 @@ description: Discover the hottest fashion trends of 2026! From Neo-Y2K and Dopam
 author: InfoProds Team
 date: 2025-12-01T01:56:00
 image: /images/uploads/photo-1483985988355-763728e1935b.jfif
-category: Fashion
+category: Miscellaneous
 tags:
   - fashion trends 2026", "AliExpress fashion", "Y2K style", "dopamine dressing", "sustainable fashion", "street style", "oversized tailoring"
 ---
