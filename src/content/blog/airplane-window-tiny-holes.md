@@ -79,7 +79,7 @@ The methodology involved consulting aerospace engineers willing to explain techn
 
 Let's examine each of these fifteen engineering secrets in detail, exploring not just what they are but why they exist, how they work, and what they reveal about aviation's uncompromising commitment to safety through redundancy, testing, and continuous improvement that has made modern air travel statistically safer than driving to the airport despite common perceptions suggesting otherwise because dramatic but extraordinarily rare accidents receive disproportionate media attention while millions of completely safe flights occur daily without anyone noticing because routine success generates no headlines while rare failures dominate news cycles creating distorted risk perception that engineering reality contradicts through overwhelming statistical evidence.
 
-**[Image 1 should be inserted here - after Introduction]**
+[![Airplane window tiny breather hole one millimeter diameter in middle acrylic pane regulating cabin pressure preventing condensation showing sophisticated aviation engineering that passengers never notice - InfoProds 2026](/images/uploads/ii1.webp "Airplane Window Tiny Hole Close-Up Engineering Detail")](airplane-window-tiny-hole-engineering-secret-2026.webp)
 
 <a name="window-hole"></a>
 
@@ -103,7 +103,7 @@ The testing validation involved pressurizing windows repeatedly through hundreds
 
 🛒 [https://www.aliexpress.com/w/wholesale-aviation-engineering-model.html?aff_fcid=ae490677&SearchText=aviation+engineering+model](https://www.aliexpress.com/w/wholesale-aviation-engineering-model.html?aff_fcid=ae490677&SearchText=aviation+engineering+model)
 
-**[Image 2 should be inserted here]**
+[![Commercial airliner wing bending twelve feet upward during normal flight demonstrating engineered flexibility dissipating turbulence forces through elastic deformation that passengers misinterpret as alarming weakness - InfoProds 2026](/images/uploads/ii2.jpg "Boeing 787 Wing Flex During Flight")](airplane-wing-flex-engineering-design-normal-2026.webp)
 
 <a name="wing-flex"></a>
 
@@ -147,7 +147,7 @@ The post-strike inspections required after confirmed lightning hits involve deta
 
 🛒 [https://www.aliexpress.com/w/wholesale-airplane-model-collection.html?aff_fcid=ae490677&SearchText=airplane+model+collection](https://www.aliexpress.com/w/wholesale-airplane-model-collection.html?aff_fcid=ae490677&SearchText=airplane+model+collection)
 
-**[Image 3 should be inserted here]**
+[![Commercial aircraft lightning strike showing Faraday cage conducting electricity safely around fuselage protecting passengers from electrical discharge through bonded metallic structure and static discharge wicks - InfoProds 2026](/images/uploads/ii3.jfif "Aircraft Lightning Strike Protection Systems")](aircraft-lightning-strike-protection-engineering-2026.webp)
 
 <a name="turbulence-truth"></a>
 
@@ -191,7 +191,7 @@ The misconception that toilets dump waste overboard during flight stems from old
 
 🛒 [https://www.aliexpress.com/w/wholesale-aircraft-parts-model.html?aff_fcid=ae490677&SearchText=aircraft+parts+model](https://www.aliexpress.com/w/wholesale-aircraft-parts-model.html?aff_fcid=ae490677&SearchText=aircraft+parts+model)
 
-**[Image 4 should be inserted here]**
+[![Aircraft cockpit windshield with embedded electrical heating elements maintaining surface temperature preventing ice accumulation and bird strike damage through temperature control at cruise altitude - InfoProds 2026](/images/uploads/ii4.jpg "Airplane Cockpit Windshield Heating System")](airplane-windshield-heating-system-engineering-2026.webp)
 
 <a name="engine-redundancy"></a>
 
@@ -235,7 +235,7 @@ The bird strike resistance testing involves shooting four-pound chicken carcasse
 
 🛒 [https://www.aliexpress.com/w/wholesale-aviation-safety-equipment.html?aff_fcid=ae490677&SearchText=aviation+safety+equipment](https://www.aliexpress.com/w/wholesale-aviation-safety-equipment.html?aff_fcid=ae490677&SearchText=aviation+safety+equipment)
 
-**[Image 5 should be inserted here]**
+[![Commercial airliner landing gear titanium construction supporting seven hundred thousand pounds withstanding impact forces exceeding three times aircraft weight through hydraulic shock absorption systems - InfoProds 2026](/images/uploads/ii5.jpg "Commercial Aircraft Landing Gear Strength Engineering")](aircraft-landing-gear-strength-engineering-marvel-2026.webp)
 
 <a name="landing-gear"></a>
 
@@ -285,7 +285,7 @@ Your aviation knowledge now exceeds ninety-nine percent of passengers who remain
 
 Begin your next flight with new perspective noticing tiny window holes, feeling confident about wing flexibility, understanding turbulence reality, and appreciating invisible engineering protecting you through redundant systems and safety margins that make modern aviation statistically safer than driving to airport despite human instinct suggesting otherwise because dramatic rare failures receive attention while routine safe operations generating no headlines prove safety's reality through overwhelming statistical evidence.
 
-**[Image 6 should be inserted here]**
+[![Aviation safety engineering philosophy showing multiple redundant systems including dual hydraulics triple electrical generators ensuring single failure cannot cause catastrophic situation - InfoProds 2026](/images/uploads/ii6.jfif "Airplane Safety Engineering Redundant Systems Diagram")](aviation-safety-engineering-redundancy-systems-2026.webp)
 
 <a name="faq"></a>
 
