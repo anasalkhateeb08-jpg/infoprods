@@ -285,7 +285,7 @@ Your aviation knowledge now exceeds ninety-nine percent of passengers who remain
 
 Begin your next flight with new perspective noticing tiny window holes, feeling confident about wing flexibility, understanding turbulence reality, and appreciating invisible engineering protecting you through redundant systems and safety margins that make modern aviation statistically safer than driving to airport despite human instinct suggesting otherwise because dramatic rare failures receive attention while routine safe operations generating no headlines prove safety's reality through overwhelming statistical evidence.
 
-[![Aviation safety engineering philosophy showing multiple redundant systems including dual hydraulics triple electrical generators ensuring single failure cannot cause catastrophic situation - InfoProds 2026](/images/uploads/ii6.jfif "Airplane Safety Engineering Redundant Systems Diagram")](aviation-safety-engineering-redundancy-systems-2026.webp)
+[![Aviation safety engineering philosophy showing multiple redundant systems including dual hydraulics triple electrical generators ensuring single failure cannot cause catastrophic situation - InfoProds 2026](/images/uploads/F1.png "Airplane Safety Engineering Redundant Systems Diagram")](aviation-safety-engineering-redundancy-systems-2026.webp)
 
 <a name="faq"></a>
 
