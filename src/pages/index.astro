@@ -21,7 +21,7 @@ const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
 >
   <main>
     <!-- Hero Section - Smaller Height -->
-    <section class="relative h-[50vh] flex items-center justify-center overflow-hidden">
+    <section class="relative h-[40vh] flex items-center justify-center overflow-hidden">
       <!-- Background -->
       <div class="hero-background absolute inset-0"></div>
       
@@ -83,9 +83,9 @@ const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
         <h2 class="text-3xl md:text-4xl font-bold mb-4 text-white opacity-95">
           Your Knowledge Hub
         </h2>
-        <p class="text-xl md:text-2xl font-semibold text-gray-200 mb-6 max-w-4xl mx-auto">
-          In-depth articles, guides, and expert reviews<br>to help you make informed purchasing decisions
-        </p>   
+       <p class="text-xl md:text-xl font-semibold text-gray-200 mb-6 max-w-4xl mx-auto">
+  Educational articles, miscellaneous content,<br>Product review articles to help you make the best choice
+</p>
         <div class="flex flex-col md:flex-row gap-3 justify-center">
           <a href="/blog" class="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg font-bold text-base transition shadow-lg" data-i18n="home.exploreBlog">
             Explore Blog
@@ -111,16 +111,51 @@ const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
          <!-- Car Accessories & Care -->
-<a href="/categories/car-accessories-&-care" data-category="Car Accessories & Care" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+<a href="/categories/car-accessories-&-care" data-category="Car Accessories & Care" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
   <img src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&q=80" alt="Car Accessories & Care" class="w-full h-full object-cover">
   <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
     <h3 class="text-xl font-bold mb-1" data-i18n="categories.carAccessories">Car Accessories & Care</h3>
     <p class="text-sm text-gray-300" data-i18n="categories.carAccessoriesCount">2,000+ Products</p>
   </div>
 </a>
+           <!-- Technology & Devices -->
+          <a href="/categories/technology-&-devices" data-category="Technology & Devices" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+            <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80" alt="Technology & Devices" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
+              <h3 class="text-xl font-bold mb-1" data-i18n="categories.techDevices">Technology & Devices</h3>
+              <p class="text-sm text-gray-300" data-i18n="categories.techDevicesCount">1,500+ Products</p>
+            </div>
+          </a>
+
+             <!-- Sports -->
+          <a href="/categories/fitness-&-health" data-category="Fitness & Health" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+            <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&q=80" alt="Sports" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
+              <h3 class="text-xl font-bold mb-1" data-i18n="categories.fitness">Fitness & Health</h3>
+              <p class="text-sm text-gray-300" data-i18n="categories.fitnessCount">2,000+ Products</p>
+            </div>
+          </a>
+
+            <!-- Miscellaneous -->
+          <a href="/categories/miscellaneous" data-category="Miscellaneous" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+            <img src="https://images.unsplash.com/photo-1526738549149-8e07eca6c147?w=600&q=80" alt="Miscellaneous" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
+              <h3 class="text-xl font-bold mb-1" data-i18n="categories.miscellaneous">Miscellaneous</h3>
+              <p class="text-sm text-gray-300" data-i18n="categories.miscellaneousCount">Various Products</p>
+            </div>
+          </a>
+
+          <!-- Sports & Sport Info -->
+         <a href="/categories/sports-&-sport-info" data-category="Sports & Sport Info" class="group relative h-50 rounded-2xl max-w-[350px] overflow-hidden hover:scale-105 transition-transform duration-300">
+         <img src="/images/uploads/sportsinfo.webp" alt="Sports" class="w-full h-full object-cover">
+         <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
+           <h3 class="text-xl font-bold mb-1">Sports & Sport Info</h3>
+           <p class="text-sm text-gray-300" data-i18n="categories.sportsCount">2,000+ Products</p>
+           </div>
+          </a>
 
           <!-- Jewelry -->
-          <a href="/categories/jewelry" data-category="Jewelry" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/jewelry" data-category="Jewelry" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80" alt="Jewelry" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.jewelry">Jewelry & Accessories</h3>
@@ -129,7 +164,7 @@ const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
           </a>
 
           <!-- Home -->
-          <a href="/categories/home" data-category="Home" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/home" data-category="Home" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&q=80" alt="Home" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.home">Home & Decor</h3>
@@ -138,7 +173,7 @@ const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
           </a>
 
           <!-- Beauty -->
-          <a href="/categories/beauty" data-category="Beauty" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/beauty" data-category="Beauty" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&q=80" alt="Beauty" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.beauty">Beauty & Skincare</h3>
@@ -147,47 +182,11 @@ const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
           </a>
 
           <!-- Kitchen -->
-          <a href="/categories/kitchen" data-category="Kitchen" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/kitchen" data-category="Kitchen" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1556911220-bff31c812dba?w=600&q=80" alt="Kitchen" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
               <h3 class="text-xl font-bold mb-1" data-i18n="categories.kitchen">Kitchen & Cookware</h3>
               <p class="text-sm text-gray-300" data-i18n="categories.kitchenCount">2,500+ Products</p>
-            </div>
-          </a>
-
-          <!-- Miscellaneous -->
-          <a href="/categories/miscellaneous" data-category="Miscellaneous" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1526738549149-8e07eca6c147?w=600&q=80" alt="Miscellaneous" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.miscellaneous">Miscellaneous</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.miscellaneousCount">Various Products</p>
-            </div>
-          </a>
-
-          <!-- Sports -->
-          <a href="/categories/fitness-&-health" data-category="Fitness & Health" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&q=80" alt="Sports" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.fitness">Fitness & Health</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.fitnessCount">2,000+ Products</p>
-            </div>
-          </a>
-
-<!-- Technology & Devices -->
-          <a href="/categories/technology-&-devices" data-category="Technology & Devices" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80" alt="Technology & Devices" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.techDevices">Technology & Devices</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.techDevicesCount">1,500+ Products</p>
-            </div>
-          </a>
-
-          <!-- Fashion -->
-          <a href="/categories/fashion" data-category="Fashion" class="group relative h-64 rounded-2xl max-w-[350px] overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600&q=80" alt="Fashion" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.fashion">Fashion & Clothing</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.fashionCount">5,000+ Products</p>
             </div>
           </a>
         </div>
@@ -209,51 +208,51 @@ const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
  
       {
         "@type": "ListItem",
-        "position": 2,
+        "position": 6,
         "name": "Jewelry & Accessories",
         "url": "https://infoprods.com/categories/jewelry"
       },
       {
         "@type": "ListItem",
-        "position": 3,
+        "position": 7,
         "name": "Home & Decor",
         "url": "https://infoprods.com/categories/home"
       },
       {
         "@type": "ListItem",
-        "position": 4,
+        "position": 8,
         "name": "Beauty & Skincare",
         "url": "https://infoprods.com/categories/beauty"
       },
       {
         "@type": "ListItem",
-        "position": 5,
+        "position": 9,
         "name": "Kitchen & Cookware",
         "url": "https://infoprods.com/categories/kitchen"
       },
       {
         "@type": "ListItem",
-        "position": 6,
+        "position": 4,
         "name": "Miscellaneous",
         "url": "https://infoprods.com/categories/miscellaneous"
       },
       {
         "@type": "ListItem",
-        "position": 7,
+        "position": 3,
         "name": "Fitness & Health",
         "url": "https://infoprods.com/categories/fitness-&-health"
       },
       {
         "@type": "ListItem",
-        "position": 8,
+        "position": 2,
         "name": "Technology & Devices",
         "url": "https://infoprods.com/categories/technology-&-devices"
       },
 {
         "@type": "ListItem",
-        "position": 9,
-        "name": "Fashion & Clothing",
-        "url": "https://infoprods.com/categories/fashion"
+         "position": 5,
+         "name": "Sports & Sport Info",
+         "url": "https://infoprods.com/categories/sports-&-sport-info"
       }
     ]
   })} />

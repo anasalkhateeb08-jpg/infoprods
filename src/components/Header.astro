@@ -4,24 +4,90 @@
       <img src="/ip-logo.png" alt="InfoProds Logo" class="w-10 h-10 brightness-0 invert">
       <span class="text-2xl font-black text-white">InfoProds</span>
     </a>
+    
     <div class="hidden md:flex items-center gap-6">
+      <!-- Categories Dropdown -->
+      <div class="relative group">
+        <button class="hover:text-cyan-400 transition font-semibold flex items-center gap-1">
+          Categories
+          <svg class="w-4 h-4 transition-transform group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+          </svg>
+        </button>
+        <div class="absolute top-full left-0 mt-2 w-64 bg-gradient-to-b from-purple-900 to-blue-900 rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+          <a href="/categories/car-accessories-&-care" class="block px-4 py-2 hover:bg-white/10 transition rounded-t-lg">Car Accessories & Care</a>
+          <a href="/categories/technology-&-devices" class="block px-4 py-2 hover:bg-white/10 transition">Technology & Devices</a>
+          <a href="/categories/fitness-&-health" class="block px-4 py-2 hover:bg-white/10 transition">Fitness & Health</a>
+          <a href="/categories/miscellaneous" class="block px-4 py-2 hover:bg-white/10 transition">Miscellaneous</a>
+          <a href="/categories/kitchen" class="block px-4 py-2 hover:bg-white/10 transition">Kitchen & Cookware</a>
+          <a href="/categories/jewelry" class="block px-4 py-2 hover:bg-white/10 transition">Jewelry & Accessories</a>
+          <a href="/categories/home" class="block px-4 py-2 hover:bg-white/10 transition">Home & Decor</a>
+          <a href="/categories/beauty" class="block px-4 py-2 hover:bg-white/10 transition">Beauty & Skincare</a>
+          <a href="/categories/sports-&-sport-info" class="block px-4 py-2 hover:bg-white/10 transition rounded-b-lg">Sports & Sport Info</a>
+        </div>
+      </div>
+      
       <a href="/" class="hover:text-cyan-400 transition font-semibold">Home</a>
       <a href="/blog" class="hover:text-cyan-400 transition font-semibold">Blog</a>
-      
       <a href="/about" class="hover:text-cyan-400 transition font-semibold">About</a>
       <a href="/contact" class="hover:text-cyan-400 transition font-semibold">Contact</a>
+      
+      <!-- Search Button -->
+      <button id="searchBtn" class="text-2xl hover:scale-110 transition" aria-label="Search">🔍</button>
+      
       <button id="langBtn" class="text-2xl hover:scale-110 transition" aria-label="Change Language">🌐</button>
     </div>
+    
     <button id="mobileMenuBtn" class="md:hidden text-2xl" aria-label="Toggle Menu">☰</button>
   </nav>
+  
+  <!-- Mobile Menu -->
   <div id="mobileMenu" class="hidden md:hidden bg-gradient-to-b from-purple-900 to-blue-900 px-4 py-4">
+    <!-- Mobile Categories -->
+    <button id="mobileCategoriesBtn" class="w-full text-left py-2 hover:text-cyan-400 transition flex justify-between items-center">
+      Categories
+      <svg id="mobileCategoriesIcon" class="w-4 h-4 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+      </svg>
+    </button>
+    <div id="mobileCategoriesMenu" class="hidden pl-4">
+      <a href="/categories/car-accessories-&-care" class="block py-2 text-sm hover:text-cyan-400 transition">Car Accessories & Care</a>
+      <a href="/categories/technology-&-devices" class="block py-2 text-sm hover:text-cyan-400 transition">Technology & Devices</a>
+      <a href="/categories/fitness-&-health" class="block py-2 text-sm hover:text-cyan-400 transition">Fitness & Health</a>
+      <a href="/categories/miscellaneous" class="block py-2 text-sm hover:text-cyan-400 transition">Miscellaneous</a>
+      <a href="/categories/kitchen" class="block py-2 text-sm hover:text-cyan-400 transition">Kitchen & Cookware</a>
+      <a href="/categories/jewelry" class="block py-2 text-sm hover:text-cyan-400 transition">Jewelry & Accessories</a>
+      <a href="/categories/home" class="block py-2 text-sm hover:text-cyan-400 transition">Home & Decor</a>
+      <a href="/categories/beauty" class="block py-2 text-sm hover:text-cyan-400 transition">Beauty & Skincare</a>
+      <a href="/categories/sports-&-sport-info" class="block py-2 text-sm hover:text-cyan-400 transition">Sports & Sport Info</a>
+    </div>
+    
     <a href="/" class="block py-2 hover:text-cyan-400 transition">Home</a>
     <a href="/blog" class="block py-2 hover:text-cyan-400 transition">Blog</a>
-    
     <a href="/about" class="block py-2 hover:text-cyan-400 transition">About</a>
     <a href="/contact" class="block py-2 hover:text-cyan-400 transition">Contact</a>
+    <button id="searchBtnMobile" class="block py-2 text-left">🔍 Search</button>
     <button id="langBtnMobile" class="block py-2 text-left text-2xl">🌐 Change Language</button>
   </div>
+  
+  <!-- Search Modal -->
+  <div id="searchModal" class="hidden fixed inset-0 bg-black bg-opacity-75 z-[9999]">
+    <div class="flex items-center justify-center min-h-screen p-4">
+      <div class="bg-gradient-to-br from-purple-900 to-blue-900 rounded-2xl p-8 max-w-2xl w-full shadow-2xl">
+        <h3 class="text-2xl font-bold mb-6 text-center">Search InfoProds</h3>
+        <input 
+          type="text" 
+          id="searchInput" 
+          placeholder="Search articles, products, categories..." 
+          class="w-full px-4 py-3 rounded-lg bg-white/10 border border-white/20 focus:border-cyan-400 focus:outline-none text-white placeholder-gray-400"
+        />
+        <div id="searchResults" class="mt-4 max-h-96 overflow-y-auto"></div>
+        <button id="closeSearchModal" class="mt-6 w-full px-4 py-3 bg-red-600 hover:bg-red-700 rounded-lg transition font-bold">Close</button>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Language Modal -->
   <div id="langModal" class="hidden fixed inset-0 bg-black bg-opacity-75 z-[9999]">
     <div class="flex items-center justify-center min-h-screen p-4">
       <div class="bg-gradient-to-br from-purple-900 to-blue-900 rounded-2xl p-8 max-w-md w-full shadow-2xl">
@@ -45,10 +111,87 @@
     </div>
   </div>
 </header>
+
 <script>
+  // Mobile Menu
   const mobileMenuBtn = document.getElementById('mobileMenuBtn');
   const mobileMenu = document.getElementById('mobileMenu');
   mobileMenuBtn?.addEventListener('click', () => { mobileMenu?.classList.toggle('hidden'); });
+  
+  // Mobile Categories Dropdown
+  const mobileCategoriesBtn = document.getElementById('mobileCategoriesBtn');
+  const mobileCategoriesMenu = document.getElementById('mobileCategoriesMenu');
+  const mobileCategoriesIcon = document.getElementById('mobileCategoriesIcon');
+  mobileCategoriesBtn?.addEventListener('click', () => {
+    mobileCategoriesMenu?.classList.toggle('hidden');
+    mobileCategoriesIcon?.classList.toggle('rotate-180');
+  });
+  
+  // Search Modal
+  const searchBtn = document.getElementById('searchBtn');
+  const searchBtnMobile = document.getElementById('searchBtnMobile');
+  const searchModal = document.getElementById('searchModal');
+  const closeSearchModal = document.getElementById('closeSearchModal');
+  const searchInput = document.getElementById('searchInput');
+  
+  // Search Functionality - Real Search
+  let searchData = [];
+  
+  // Load search data when modal opens
+  searchBtn?.addEventListener('click', async () => { 
+    searchModal?.classList.remove('hidden'); 
+    setTimeout(() => searchInput?.focus(), 100);
+    if (searchData.length === 0) {
+      const response = await fetch('/api/search.json');
+      searchData = await response.json();
+    }
+  });
+  searchBtnMobile?.addEventListener('click', async () => { 
+    searchModal?.classList.remove('hidden'); 
+    mobileMenu?.classList.add('hidden');
+    setTimeout(() => searchInput?.focus(), 100);
+    if (searchData.length === 0) {
+      const response = await fetch('/api/search.json');
+      searchData = await response.json();
+    }
+  });
+  
+  closeSearchModal?.addEventListener('click', () => { searchModal?.classList.add('hidden'); });
+  searchModal?.addEventListener('click', (e) => { if (e.target === searchModal) { searchModal.classList.add('hidden'); } });
+  
+  searchInput?.addEventListener('input', (e) => {
+    const query = e.target.value.toLowerCase();
+    const resultsDiv = document.getElementById('searchResults');
+    
+    if (query.length > 2) {
+      const results = searchData.filter(post => 
+        post.title.toLowerCase().includes(query) || 
+        post.description.toLowerCase().includes(query) ||
+        post.category.toLowerCase().includes(query)
+      );
+      
+      if (results.length > 0) {
+        resultsDiv.innerHTML = results.slice(0, 5).map(post => `
+          <a href="/blog/${post.slug}" class="block p-4 bg-white/10 hover:bg-white/20 rounded-lg mb-2 transition">
+            <div class="flex gap-3">
+              ${post.image ? `<img src="${post.image}" alt="${post.title}" class="w-16 h-16 object-cover rounded">` : ''}
+              <div class="flex-1">
+                <h4 class="font-bold text-white mb-1">${post.title}</h4>
+                <p class="text-sm text-gray-300 line-clamp-2">${post.description}</p>
+                <span class="text-xs text-cyan-400 mt-1 inline-block">${post.category}</span>
+              </div>
+            </div>
+          </a>
+        `).join('');
+      } else {
+        resultsDiv.innerHTML = '<p class="text-gray-300 p-4">No results found</p>';
+      }
+    } else {
+      resultsDiv.innerHTML = '';
+    }
+  });
+  
+  // Language Modal
   const langBtn = document.getElementById('langBtn');
   const langBtnMobile = document.getElementById('langBtnMobile');
   const langModal = document.getElementById('langModal');
@@ -57,6 +200,22 @@
   langBtnMobile?.addEventListener('click', () => { langModal?.classList.remove('hidden'); mobileMenu?.classList.add('hidden'); });
   closeLangModal?.addEventListener('click', () => { langModal?.classList.add('hidden'); });
   langModal?.addEventListener('click', (e) => { if (e.target === langModal) { langModal.classList.add('hidden'); } });
+  
   const langOptions = document.querySelectorAll('.lang-option');
-  langOptions.forEach(option => { option.addEventListener('click', () => { const lang = option.getAttribute('data-lang'); if (lang) { localStorage.setItem('selectedLang', lang); document.documentElement.lang = lang; if (lang === 'ar') { document.documentElement.dir = 'rtl'; } else { document.documentElement.dir = 'ltr'; } window.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang } })); langModal?.classList.add('hidden'); } }); });
+  langOptions.forEach(option => { 
+    option.addEventListener('click', () => { 
+      const lang = option.getAttribute('data-lang'); 
+      if (lang) { 
+        localStorage.setItem('selectedLang', lang); 
+        document.documentElement.lang = lang; 
+        if (lang === 'ar') { 
+          document.documentElement.dir = 'rtl'; 
+        } else { 
+          document.documentElement.dir = 'ltr'; 
+        } 
+        window.dispatchEvent(new CustomEvent('languageChanged', { detail: { lang } })); 
+        langModal?.classList.add('hidden'); 
+      } 
+    }); 
+  });
 </script>
