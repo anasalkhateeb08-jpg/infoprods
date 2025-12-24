@@ -216,7 +216,7 @@ The influential player targeting through early conversations with team captains 
 
 <a href="https://s.click.aliexpress.com/e/_c32q3CoN" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>wholesale-referee-communication-system </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[![Soccer referee managing match temperature through selective foul calling and yellow card timing controlling escalation using psychological advantage that fans never see explicitly - InfoProds 2026](/images/uploads/pp5.jpg "Referee Psychological Advantage Temperature Management")](referee-psychological-advantage-temperature-control-2026.webp)
+[![Soccer referee managing match temperature through selective foul calling and yellow card timing controlling escalation using psychological advantage that fans never see explicitly - InfoProds 2026](/images/uploads/pp5.jpg "Referee Psychological Advantage Temperature Management.")](referee-psychological-advantage-temperature-control-2026.webp)
 
 <a name="temperature-reading"></a>
 
