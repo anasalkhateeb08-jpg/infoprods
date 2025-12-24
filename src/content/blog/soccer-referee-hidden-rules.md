@@ -80,7 +80,7 @@ The referee perspective that emerged from research showed officials feeling trap
 
 Let's examine each of the twelve hidden rules that explain why referees ignore obvious fouls, exploring not just what these rules are but why they exist, how officials apply them during matches, what consequences result from their use, and most importantly how understanding these unwritten guidelines transforms fan perception from viewing referees as incompetent or biased to recognizing sophisticated professional judgment that modern soccer officiating represents at its highest level even when controversial decisions create viral moments that social media outrage machines exploit for engagement regardless of technical accuracy.
 
-**[Image 1 should be inserted here - after Introduction]**
+[![Soccer referee signaling advantage law allowing play continuing after foul showing three-second evaluation window and hidden FIFA rules that fans never understand about officiating decisions - InfoProds 2026](/images/uploads/pp1.avif "Soccer Referee Advantage Law Decision Making Process")](soccer-referee-hidden-rules-fifa-secrets-2026.webp)
 
 <a name="advantage-law"></a>
 
@@ -102,7 +102,7 @@ The delayed whistle technique that referees use for potential advantage situatio
 
 🛒 [https://www.aliexpress.com/w/wholesale-referee-equipment-soccer.html?aff_fcid=ae490677&SearchText=referee+equipment+soccer](https://www.aliexpress.com/w/wholesale-referee-equipment-soccer.html?aff_fcid=ae490677&SearchText=referee+equipment+soccer)
 
-**[Image 2 should be inserted here]**
+[![Soccer referee judging material impact threshold for fouls showing jersey pulling and physical contact that gets ignored based on competitive effect rather than technical violation occurrence - InfoProds 2026](/images/uploads/pp2.avif "Soccer Material Impact Threshold Foul Judgment")](referee-material-impact-threshold-judgment-criteria-2026.webp)
 
 <a name="material-impact"></a>
 
@@ -138,7 +138,7 @@ The evolution toward harsher punishment of tactical fouls that prevent promising
 
 🛒 [https://www.aliexpress.com/w/wholesale-soccer-coaching-equipment.html?aff_fcid=ae490677&SearchText=soccer+coaching+equipment](https://www.aliexpress.com/w/wholesale-soccer-coaching-equipment.html?aff_fcid=ae490677&SearchText=soccer+coaching+equipment)
 
-**[Image 3 should be inserted here]**
+[![Soccer tactical fouling professional foul showing defender deliberately stopping counterattack accepting yellow card punishment as legal strategic decision in modern football - InfoProds 2026](/images/uploads/pp3.jpg "Tactical Fouling Professional Foul Yellow Card")](tactical-fouling-professional-foul-strategy-accepted-2026.webp)
 
 <a name="jersey-pulling"></a>
 
@@ -176,7 +176,7 @@ The subsequent 2021 rule modifications attempting to restore some judgment flexi
 
 🛒 [https://www.aliexpress.com/w/wholesale-soccer-training-aids.html?aff_fcid=ae490677&SearchText=soccer+training+aids](https://www.aliexpress.com/w/wholesale-soccer-training-aids.html?aff_fcid=ae490677&SearchText=soccer+training+aids)
 
-**[Image 4 should be inserted here]**
+[![Soccer corner kick set piece showing higher foul threshold tolerance where referees ignore mutual physical contact and jersey pulling that open play would punish as fouls - InfoProds 2026](/images/uploads/pp4.webp "Corner Kick Set Piece Physical Contact Tolerance")](corner-kick-set-piece-foul-threshold-tolerance-2026.webp)
 
 <a name="last-man-rule"></a>
 
@@ -216,7 +216,7 @@ The influential player targeting through early conversations with team captains 
 
 🛒 [https://www.aliexpress.com/w/wholesale-referee-communication-system.html?aff_fcid=ae490677&SearchText=referee+communication+system](https://www.aliexpress.com/w/wholesale-referee-communication-system.html?aff_fcid=ae490677&SearchText=referee+communication+system)
 
-**[Image 5 should be inserted here]**
+[![Soccer referee managing match temperature through selective foul calling and yellow card timing controlling escalation using psychological advantage that fans never see explicitly - InfoProds 2026](/images/uploads/pp5.jpg "Referee Psychological Advantage Temperature Management")](referee-psychological-advantage-temperature-control-2026.webp)
 
 <a name="temperature-reading"></a>
 
@@ -274,7 +274,7 @@ The stadium attendance depending on fan satisfaction that entertaining matches d
 
 🛒 [https://www.aliexpress.com/w/wholesale-soccer-fan-merchandise.html?aff_fcid=ae490677&SearchText=soccer+fan+merchandise](https://www.aliexpress.com/w/wholesale-soccer-fan-merchandise.html?aff_fcid=ae490677&SearchText=soccer+fan+merchandise)
 
-**[Image 6 should be inserted here]**
+[![VAR video assistant referee system showing clear and obvious error intervention threshold that fans misunderstand about when technology can override on-field referee decisions - InfoProds 2026](/images/uploads/pp6.jpg "VAR Video Assistant Referee Intervention Threshold")](var-intervention-threshold-clear-obvious-error-2026.webp)
 
 <a name="cultural-differences"></a>
 
