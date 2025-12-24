@@ -106,7 +106,7 @@ The introduction of gold medals as first-place awards occurred at 1904 St. Louis
 
 <a href="https://s.click.aliexpress.com/e/_c38ZX81n " style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-olympic-memorabilia-collectibles </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[![Gold Medals](/images/uploads/aa2.webp "Gold Medals")](gold-medals-history-2026.webp)
+[![Gold Medals](/images/uploads/aa2.webp "Gold Medals.")](gold-medals-history-2026.webp)
 
 <a name="stockholm-1912"></a>
 
