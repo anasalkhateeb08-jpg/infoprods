@@ -80,7 +80,7 @@ The referee perspective that emerged from research showed officials feeling trap
 
 Let's examine each of the twelve hidden rules that explain why referees ignore obvious fouls, exploring not just what these rules are but why they exist, how officials apply them during matches, what consequences result from their use, and most importantly how understanding these unwritten guidelines transforms fan perception from viewing referees as incompetent or biased to recognizing sophisticated professional judgment that modern soccer officiating represents at its highest level even when controversial decisions create viral moments that social media outrage machines exploit for engagement regardless of technical accuracy.
 
-[![Soccer referee signaling advantage law allowing play continuing after foul showing three-second evaluation window and hidden FIFA rules that fans never understand about officiating decisions - InfoProds 2026](/images/uploads/pp1.avif "Soccer Referee Advantage Law Decision Making Process")](soccer-referee-hidden-rules-fifa-secrets-2026.webp)
+[![Soccer referee signaling advantage law allowing play continuing after foul showing three-second evaluation window and hidden FIFA rules that fans never understand about officiating decisions - InfoProds 2026](/images/uploads/pp1.avif "Soccer Referee Advantage Law Decision Making Process.")](soccer-referee-hidden-rules-fifa-secrets-2026.webp)
 
 <a name="advantage-law"></a>
 
