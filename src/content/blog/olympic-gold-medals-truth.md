@@ -222,7 +222,7 @@ The final finishing including polishing, protective coating application, ribbon 
 
 <a href="https://s.click.aliexpress.com/e/_c4FB4RCv" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>wholesale-medal-display-case </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[![Paralympic medal unique accessibility features including internal rattling balls and Braille inscriptions allowing visually impaired athletes identifying medal color through sound - InfoProds 2026](/images/uploads/aa5.webp "Paralympic Medal Accessibility Features Rattling Balls")](paralympic-medal-accessibility-features-innovation-2026.webp)
+[![Paralympic medal unique accessibility features including internal rattling balls and Braille inscriptions allowing visually impaired athletes identifying medal color through sound - InfoProds 2026](/images/uploads/aa5.webp "Paralympic Medal Accessibility Features Rattling Balls.")](paralympic-medal-accessibility-features-innovation-2026.webp)
 
 <a name="paralympic-medals"></a>
 
