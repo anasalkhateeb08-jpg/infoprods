@@ -1,41 +1,41 @@
-﻿---
+---
 title: 'FIFA World Cup Draw: Complete Guide to Historic Tournament Expansion and Debut Teams'
 description: Comprehensive guide to the historic FIFA World Cup 2026 draw results, featuring 48 teams for the first time. Discover debut nations Jordan, Uzbekistan, Cape Verde, and Curaçao, plus new tournament format, 16 stadiums, and complete group breakdowns in this unprecedented tri-nation championship.
 author: InfoProds Team
 date: 2025-12-07T16:41:00
 image: /images/uploads/fifa_world_cup_trophy.png
-category: Miscellaneous
+category: Sports & Sport Info
 tags:
   - FIFA World Cup 2026, World Cup draw, 48 team tournament, debut nations, Jordan World Cup, Uzbekistan World Cup, Cape Verde football, Curaçao World Cup, World Cup stadiums, tournament expansion, USA Mexico Canada, World Cup format, international football, FIFA tournament
 faqs:
-  - question: "How many teams are competing in the 2026 World Cup?"
-    answer: "48 teams—an expansion from the previous 32-team format. This is the first time the World Cup will feature 48 nations, creating 12 groups of 4 teams each."
-  - question: "Which nations are making their World Cup debut in 2026?"
-    answer: "Four nations confirmed: Jordan (Asia), Uzbekistan (Asia), Cape Verde (Africa), and Curaçao (Caribbean/CONCACAF). Curaçao becomes the smallest nation by population (156,000-185,000) ever to qualify. Potentially, New Caledonia, Suriname, Kosovo, or Albania could add to this list if they win March 2026 playoffs."
-  - question: "Where is the 2026 World Cup being played?"
-    answer: "Across three countries: United States (11 stadiums), Mexico (3 stadiums), and Canada (2 stadiums)—16 total venues spanning from Vancouver to Miami, covering four time zones."
-  - question: "What is the new tournament format?"
-    answer: "12 groups of 4 teams each in group stage. Top 2 from each group plus 8 best third-place teams (32 total) advance to knockout rounds. This creates a new \"Round of 32\" before the traditional Round of 16, quarterfinals, semifinals, and final."
-  - question: "When does the 2026 World Cup start and finish?"
-    answer: "Opening match: June 11, 2026 (Mexico vs. South Africa at Estadio Azteca, Mexico City). Final: July 19, 2026 (MetLife Stadium, New Jersey). The tournament runs 39 days total."
-  - question: "Where will the World Cup Final be played?"
-    answer: "MetLife Stadium in East Rutherford, New Jersey (serving New York/New Jersey region) on July 19, 2026, at 3:00 PM ET. The stadium will hold approximately 82,500-87,000 fans for the final."
-  - question: "How many matches will be played total?"
-    answer: "104 matches—up from 64 in previous 32-team formats. This includes 72 group-stage matches and 32 knockout-stage matches."
-  - question: "Which six spots are still unfilled?"
-    answer: "Four spots will be determined by UEFA playoffs in March 2026 (16 European teams competing in 4 paths). Two spots will come from intercontinental playoffs in Mexico in March 2026 (6 teams from various confederations competing)."
-  - question: "Could Italy miss a third consecutive World Cup?"
-    answer: "Yes. Despite being ranked No. 1 globally, Italy failed to automatically qualify and must win UEFA playoff matches in March 2026. They face Northern Ireland in a playoff semifinal—if they win, they face either Wales or Bosnia and Herzegovina in the final for a World Cup spot."
-  - question: "What is the \"Group of Death\"?"
-    answer: "While subjective, Group C (Brazil, Morocco, Haiti, Scotland) and Group I (France, Senegal, Norway with Erling Haaland, playoff winner) are considered most competitive. Group E (Belgium, Japan, Senegal, Panama) is also very balanced."
-  - question: "Will Lionel Messi and Cristiano Ronaldo play in 2026?"
-    answer: "Almost certainly yes, as their final World Cup appearances. Messi will be 39 (turning 39 on June 24, during the tournament), and Ronaldo will be 41. Both have indicated 2026 will be their World Cup farewell."
-  - question: "How were groups determined?"
-    answer: "48 teams divided into 4 pots of 12 based on FIFA World Rankings (November 2025). Pot 1 included three hosts (automatic) plus 9 highest-ranked teams. Teams were drawn from each pot into 12 groups, with rules preventing more than 2 teams from same confederation per group (except UEFA with 16 teams)."
-  - question: "What happens if teams tie in group standings?"
-    answer: "Tiebreakers in order: (1) Points, (2) Goal difference, (3) Goals scored, (4) Head-to-head record, (5) Fair play score, (6) FIFA ranking. For third-place teams across groups: (1) Points, (2) Goal difference, (3) Goals scored, (4) Fair play, (5) FIFA ranking."
-  - question: "Can teams from the same group meet again in knockout rounds?"
-    answer: "Not immediately. The bracket structure prevents group opponents from meeting until the final (if at all). Specific bracket placement depends on group finishes and third-place team distributions. <a href=\"الرابط\" style=\" color: #C4476A; font-weight: bold; font-size: 18px; animation: pulse 2s infinite; text-decoration: none; display: inline-block; \"> Various articles: </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.05); } } </style> - [\"Best Car Accessories for Comfort and Safety 2026 Complete Collection\"](https://infoprods.com/blog/best-car-accessories-comfort-safety-2026) - [Rapid Construction Technologies: Complete Guide to Modern Fast Building Methods](https://infoprods.com/blog/rapid-construction-technologies-guide) - [Best Power Banks and Portable Charging Solutions: Never Run Out of Battery Again](https://infoprods.com/blog/best-power-banks-portable-charging-guide) - [Secret farming: How city dwellers are trying to raise certain animals without anyone knowing](https://infoprods.com/blog/stealth-farming-raise-livestock-urban-areas-without-neighbors-knowing) - [The Ultimate Survival Tools Guide: Essential Gear for Adventurers and Preppers](https://infoprods.com/blog/ultimate-survival-tools-guide-adventurers-preppers-edc-gear) - [The Complete Guide to Weird and Innovative Cleaning Gadgets That Make Life Easier](https://infoprods.com/blog/complete-guide-weird-innovative-cleaning-gadgets-make-life-easier)"
+  - question: How many teams are competing in the 2026 World Cup?
+    answer: 48 teams—an expansion from the previous 32-team format. This is the first time the World Cup will feature 48 nations, creating 12 groups of 4 teams each.
+  - question: Which nations are making their World Cup debut in 2026?
+    answer: 'Four nations confirmed: Jordan (Asia), Uzbekistan (Asia), Cape Verde (Africa), and Curaçao (Caribbean/CONCACAF). Curaçao becomes the smallest nation by population (156,000-185,000) ever to qualify. Potentially, New Caledonia, Suriname, Kosovo, or Albania could add to this list if they win March 2026 playoffs.'
+  - question: Where is the 2026 World Cup being played?
+    answer: 'Across three countries: United States (11 stadiums), Mexico (3 stadiums), and Canada (2 stadiums)—16 total venues spanning from Vancouver to Miami, covering four time zones.'
+  - question: What is the new tournament format?
+    answer: 12 groups of 4 teams each in group stage. Top 2 from each group plus 8 best third-place teams (32 total) advance to knockout rounds. This creates a new "Round of 32" before the traditional Round of 16, quarterfinals, semifinals, and final.
+  - question: When does the 2026 World Cup start and finish?
+    answer: 'Opening match: June 11, 2026 (Mexico vs. South Africa at Estadio Azteca, Mexico City). Final: July 19, 2026 (MetLife Stadium, New Jersey). The tournament runs 39 days total.'
+  - question: Where will the World Cup Final be played?
+    answer: MetLife Stadium in East Rutherford, New Jersey (serving New York/New Jersey region) on July 19, 2026, at 3:00 PM ET. The stadium will hold approximately 82,500-87,000 fans for the final.
+  - question: How many matches will be played total?
+    answer: 104 matches—up from 64 in previous 32-team formats. This includes 72 group-stage matches and 32 knockout-stage matches.
+  - question: Which six spots are still unfilled?
+    answer: Four spots will be determined by UEFA playoffs in March 2026 (16 European teams competing in 4 paths). Two spots will come from intercontinental playoffs in Mexico in March 2026 (6 teams from various confederations competing).
+  - question: Could Italy miss a third consecutive World Cup?
+    answer: Yes. Despite being ranked No. 1 globally, Italy failed to automatically qualify and must win UEFA playoff matches in March 2026. They face Northern Ireland in a playoff semifinal—if they win, they face either Wales or Bosnia and Herzegovina in the final for a World Cup spot.
+  - question: What is the "Group of Death"?
+    answer: While subjective, Group C (Brazil, Morocco, Haiti, Scotland) and Group I (France, Senegal, Norway with Erling Haaland, playoff winner) are considered most competitive. Group E (Belgium, Japan, Senegal, Panama) is also very balanced.
+  - question: Will Lionel Messi and Cristiano Ronaldo play in 2026?
+    answer: Almost certainly yes, as their final World Cup appearances. Messi will be 39 (turning 39 on June 24, during the tournament), and Ronaldo will be 41. Both have indicated 2026 will be their World Cup farewell.
+  - question: How were groups determined?
+    answer: 48 teams divided into 4 pots of 12 based on FIFA World Rankings (November 2025). Pot 1 included three hosts (automatic) plus 9 highest-ranked teams. Teams were drawn from each pot into 12 groups, with rules preventing more than 2 teams from same confederation per group (except UEFA with 16 teams).
+  - question: What happens if teams tie in group standings?
+    answer: 'Tiebreakers in order: (1) Points, (2) Goal difference, (3) Goals scored, (4) Head-to-head record, (5) Fair play score, (6) FIFA ranking. For third-place teams across groups: (1) Points, (2) Goal difference, (3) Goals scored, (4) Fair play, (5) FIFA ranking.'
+  - question: Can teams from the same group meet again in knockout rounds?
+    answer: 'Not immediately. The bracket structure prevents group opponents from meeting until the final (if at all). Specific bracket placement depends on group finishes and third-place team distributions. <a href="الرابط" style=" color: #C4476A; font-weight: bold; font-size: 18px; animation: pulse 2s infinite; text-decoration: none; display: inline-block; "> Various articles: </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.05); } } </style> - ["Best Car Accessories for Comfort and Safety 2026 Complete Collection"](https://infoprods.com/blog/best-car-accessories-comfort-safety-2026) - [Rapid Construction Technologies: Complete Guide to Modern Fast Building Methods](https://infoprods.com/blog/rapid-construction-technologies-guide) - [Best Power Banks and Portable Charging Solutions: Never Run Out of Battery Again](https://infoprods.com/blog/best-power-banks-portable-charging-guide) - [Secret farming: How city dwellers are trying to raise certain animals without anyone knowing](https://infoprods.com/blog/stealth-farming-raise-livestock-urban-areas-without-neighbors-knowing) - [The Ultimate Survival Tools Guide: Essential Gear for Adventurers and Preppers](https://infoprods.com/blog/ultimate-survival-tools-guide-adventurers-preppers-edc-gear) - [The Complete Guide to Weird and Innovative Cleaning Gadgets That Make Life Easier](https://infoprods.com/blog/complete-guide-weird-innovative-cleaning-gadgets-make-life-easier)'
 ---
 ## Table of Contents
 
