@@ -122,6 +122,35 @@ const breadcrumbs = [
         href="/blog"
         class="inline-flex items-center text-purple-600 hover:text-purple-700 transition-colors font-medium"
       >
+      {post.data.relatedArticles && post.data.relatedArticles.length > 0 && (
+  <div style="margin: 3rem 0; padding-top: 2rem; border-top: 2px solid #e5e7eb;">
+    <h3 style="margin-bottom: 2rem; text-align: center; color: #C4476A; font-weight: bold; font-size: 18px;">
+      📚 Articles related:
+    </h3>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+      {await Promise.all(post.data.relatedArticles.map(async (slug) => {
+        const relatedPosts = await getCollection('blog');
+        const relatedPost = relatedPosts.find(p => p.slug === slug);
+        
+        if (!relatedPost) return null;
+        
+        return (
+          <a href={`/blog/${relatedPost.slug}`} style="background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.1); border: 1px solid #f3f4f6; text-decoration: none; color: inherit; display: block; transition: all 0.3s;">
+            {relatedPost.data.image && (
+              <img src={relatedPost.data.image} alt={relatedPost.data.title} style="width: 100%; height: 192px; object-fit: cover;" />
+            )}
+            <div style="padding: 1.25rem;">
+              <div style="color: #9333ea; font-size: 0.75rem; font-weight: 600; text-transform: uppercase;">{relatedPost.data.category}</div>
+              <h4 style="color: #111827; font-size: 1.125rem; font-weight: 700; margin-top: 0.5rem; line-height: 1.4;">{relatedPost.data.title}</h4>
+              <p style="color: #6b7280; font-size: 0.875rem; margin-top: 0.5rem; line-height: 1.6;">{relatedPost.data.description}</p>
+            </div>
+          </a>
+        );
+      }))}
+    </div>
+  </div>
+)}
         ← Back to Blog
       </a>
     </div>
