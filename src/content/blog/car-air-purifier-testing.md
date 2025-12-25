@@ -541,7 +541,7 @@ The practical recommendation involves operating purifiers freely during driving 
 
 <div class="related-articles-section">
   <h3 class="related-title">
-    <span style="color: #C4476A; font-weight: bold; font-size: 18px; animation: pulse 2s infinite; display: inline-block;">
+    <span style="color: #C4476A; font-weight: bold; font-size: 18px; display: inline-block;">
       📚 Articles related:
     </span>
   </h3>
@@ -550,11 +550,6 @@ The practical recommendation involves operating purifiers freely during driving 
 </div>
 
 <style>
-@keyframes pulse {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.7; transform: scale(1.05); }
-}
-
 .related-articles-section {
   margin: 3rem 0;
   padding-top: 2rem;
@@ -647,12 +642,10 @@ The practical recommendation involves operating purifiers freely during driving 
 </style>
 
 <script>
-// فقط الصق روابط المقالات هنا (من المتصفح مباشرة!)
 const articleLinks = [
   https://infoprods.com/blog/dash-cam-insurance-secrets
 ];
 
-// استخراج slug من الرابط
 function getSlugFromUrl(url) {
   const match = url.match(/\/blog\/([^\/\?#]+)/);
   return match ? match[1] : url;
@@ -691,7 +684,7 @@ async function loadArticles() {
 loadArticles();
 </script>
 
-=================================
+=============
 
 <span style="
   color: #C4476A;
