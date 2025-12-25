@@ -475,14 +475,13 @@ The acceptance that some subjectivity will always remain in artistic gymnastics 
 }
 </style>
 
-```plain
 <div class="related-articles-section">
   <h3 class="related-title">
     <span style="color: #C4476A; font-weight: bold; font-size: 18px; animation: pulse 2s infinite; display: inline-block;">
       📚 Articles related:
     </span>
   </h3>
-  
+
   <div class="related-grid" id="relatedArticles"></div>
 </div>
 
@@ -597,27 +596,27 @@ function getSlugFromUrl(url) {
 
 async function loadArticles() {
   const container = document.getElementById('relatedArticles');
-  
+
   for (const link of articleLinks) {
     const slug = getSlugFromUrl(link);
-    
+
     try {
-      const response = await fetch(`/api/article.json?slug=${slug}`);
+      const response = await fetch(\`/api/article.json?slug=${slug}\`);
       const article = await response.json();
-      
+
       if (article.error) continue;
-      
-      const card = `
+
+      const card = \`
         <a href="/blog/${article.slug}" class="article-card">
-          ${article.image ? `<img src="${article.image}" alt="${article.title}">` : ''}
+          ${article.image ? \`<img src="${article.image}" alt="${article.title}">\` : ''}
           <div class="article-card-content">
             <div class="article-category">${article.category}</div>
             <h4 class="article-title">${article.title}</h4>
             <p class="article-description">${article.description}</p>
           </div>
         </a>
-      `;
-      
+      \`;
+
       container.innerHTML += card;
     } catch (e) {
       console.error('Error loading article:', link);
@@ -627,7 +626,6 @@ async function loadArticles() {
 
 loadArticles();
 </script>
-```
 
 - [Why Basketball Players Miss Free Throws: 15-Foot Psychology Secret](https://infoprods.com/blog/free-throw-psychology-secret)
 - [Olympic Gold Medals Aren't Pure Gold: Material Worth $750](https://infoprods.com/blog/olympic-gold-medals-truth)
