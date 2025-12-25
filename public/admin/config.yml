@@ -23,10 +23,16 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: true}
       - label: "Related Articles"
+      - label: "Related Articles"
         name: "relatedArticles"
-        widget: "list"
+        widget: "relation"
+        collection: "blog"
+        search_fields: ["title", "slug"]
+        value_field: "slug"
+        display_fields: ["title"]
+        multiple: true
         required: false
-        hint: "Add article slugs (e.g., dash-cam-insurance-secrets)"
+        hint: "Select related articles"
       - label: "FAQs"
         name: "faqs"
         widget: "list"
