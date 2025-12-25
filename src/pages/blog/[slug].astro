@@ -76,7 +76,11 @@ const breadcrumbs = [
         class="w-full h-96 object-cover rounded-lg mb-8 shadow-sm"
       />
     )}
-{relatedPosts.length > 0 && (
+
+    <div class="prose prose-lg max-w-none mx-auto px-6">
+      <Content />
+    </div>
+    {relatedPosts.length > 0 && (
       <div style="margin: 3rem 0; padding-top: 2rem; border-top: 2px solid #e5e7eb;">
         <h3 style="margin-bottom: 2rem; text-align: center; color: #C4476A; font-weight: bold; font-size: 18px;">
            Articles related:
@@ -98,9 +102,6 @@ const breadcrumbs = [
         </div>
       </div>
     )}
-    <div class="prose prose-lg max-w-none mx-auto px-6">
-      <Content />
-    </div>
 
     {post.data.tags && post.data.tags.length > 0 && (
       <div class="mt-12 pt-8 border-t border-gray-200">
