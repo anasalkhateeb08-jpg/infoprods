@@ -23,7 +23,6 @@ collections:
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: true}
       - label: "Related Articles"
-      - label: "Related Articles"
         name: "relatedArticles"
         widget: "relation"
         collection: "blog"
