@@ -361,8 +361,6 @@ The ventilation interaction proves critical because purifiers work synergistical
 
 The surface contamination that purifiers cannot address requires complementary disinfection through regular cleaning of frequently-touched surfaces including door handles, window controls, and seatbelts using appropriate disinfectants, with combined air and surface interventions providing comprehensive protection that air purification alone cannot deliver despite marketing suggesting purifiers eliminate all disease transmission risk.
 
-[![Scientific test results data charts comparing multiple car air purifier models performance for PM2.5 removal allergen filtration odor elimination and clean air delivery rate effectiveness - InfoProds 2026](/images/uploads/ee6.webp "Car Air Purifier Performance Comparison Test Results")](car-air-purifier-performance-comparison-test-results-2026.webp)
-
 <a name="noise-comfort"></a>
 
 <h2 style="color: #7D366A;">Noise Levels and User Comfort Analysis</h2>
@@ -539,114 +537,65 @@ The power consumption varies with fan speed and auxiliary features including ion
 
 The practical recommendation involves operating purifiers freely during driving when alternator provides charging preventing any battery concern, while exercising caution with continuous operation during extended parking exceeding twelve to twenty-four hours where battery depletion risk exists particularly in older batteries or extreme temperatures. The installation of battery voltage monitors providing automatic shutoff when voltage drops below safe starting thresholds prevents complete depletion requiring jump-starts while enabling extended purifier operation during parking when desired.
 
-<div class="related-articles-section">
-  <h3 class="related-title">
-    <span style="color: #C4476A; font-weight: bold; font-size: 18px; display: inline-block;">
-      📚 Articles related:
-    </span>
+<div style="margin: 3rem 0; padding-top: 2rem; border-top: 2px solid #e5e7eb;">
+  <h3 style="margin-bottom: 2rem; text-align: center; color: #C4476A; font-weight: bold; font-size: 18px;">
+    📚 Articles related:
   </h3>
   
-  <div class="related-grid" id="relatedArticles"></div>
+  <div id="relatedArticles" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;"></div>
 </div>
 
 <style>
-.related-articles-section {
-  margin: 3rem 0;
-  padding-top: 2rem;
-  border-top: 2px solid #e5e7eb;
-}
-
-.related-title {
-  margin-bottom: 2rem;
-  text-align: center;
-}
-
-.related-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.5rem;
-}
-
-@media (min-width: 768px) {
-  .related-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
 .article-card {
   background: white;
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
-  transition: all 0.3s;
   border: 1px solid #f3f4f6;
   text-decoration: none;
   color: inherit;
   display: block;
+  transition: all 0.3s;
 }
-
 .article-card:hover {
   box-shadow: 0 4px 6px rgba(0,0,0,0.15);
   transform: translateY(-2px);
 }
-
 .article-card img {
   width: 100%;
   height: 192px;
   object-fit: cover;
-  transition: transform 0.3s;
 }
-
-.article-card:hover img {
-  transform: scale(1.05);
-}
-
 .article-card-content {
   padding: 1.25rem;
 }
-
 .article-category {
   color: #9333ea;
   font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
 }
-
 .article-title {
   color: #111827;
   font-size: 1.125rem;
   font-weight: 700;
   margin-top: 0.5rem;
   line-height: 1.4;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
 }
-
-.article-card:hover .article-title {
-  color: #9333ea;
-}
-
 .article-description {
   color: #6b7280;
   font-size: 0.875rem;
   margin-top: 0.5rem;
   line-height: 1.6;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
 }
 </style>
 
 <script>
 const articleLinks = [
-  https://infoprods.com/blog/dash-cam-insurance-secrets
-];
+  '/blog/dash-cam-insurance-secrets',
+  
 
-function getSlugFromUrl(url) {
+function getSlug(url) {
   const match = url.match(/\/blog\/([^\/\?#]+)/);
   return match ? match[1] : url;
 }
@@ -655,28 +604,26 @@ async function loadArticles() {
   const container = document.getElementById('relatedArticles');
   
   for (const link of articleLinks) {
-    const slug = getSlugFromUrl(link);
+    const slug = getSlug(link);
     
     try {
-      const response = await fetch(\`/api/article.json?slug=${slug}\`);
-      const article = await response.json();
+      const res = await fetch(\`/api/article/${slug}.json\`);
+      const art = await res.json();
       
-      if (article.error) continue;
+      if (art.error) continue;
       
-      const card = \`
-        <a href="/blog/${article.slug}" class="article-card">
-          ${article.image ? \`<img src="${article.image}" alt="${article.title}">\` : ''}
+      container.innerHTML += \`
+        <a href="/blog/${art.slug}" class="article-card">
+          ${art.image ? \`<img src="${art.image}" alt="${art.title}">\` : ''}
           <div class="article-card-content">
-            <div class="article-category">${article.category}</div>
-            <h4 class="article-title">${article.title}</h4>
-            <p class="article-description">${article.description}</p>
+            <div class="article-category">${art.category}</div>
+            <h4 class="article-title">${art.title}</h4>
+            <p class="article-description">${art.description}</p>
           </div>
         </a>
       \`;
-      
-      container.innerHTML += card;
     } catch (e) {
-      console.error('Error loading article:', link);
+      console.error('Error:', slug);
     }
   }
 }
@@ -684,7 +631,7 @@ async function loadArticles() {
 loadArticles();
 </script>
 
-=============
+=========
 
 <span style="
   color: #C4476A;
