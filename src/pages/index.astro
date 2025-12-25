@@ -1,5 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
 import { getCollection } from 'astro:content';
 
 const allPosts = await getCollection('blog');
@@ -592,5 +593,5 @@ const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
       
       setInterval(rotateBackground, 600000);
     });
-  </script>
-</Layout>
+    </script>
+    </Layout>

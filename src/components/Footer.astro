@@ -3,6 +3,36 @@
 
 <footer class="bg-black/40 border-t border-white/10 py-12">
   <div class="container mx-auto px-4">
+    
+    <!-- Newsletter Section -->
+    <div class="mb-12 bg-gradient-to-r from-purple-900/30 to-blue-900/30 rounded-2xl p-8 border border-white/10">
+      <div class="max-w-2xl mx-auto text-center">
+        <h3 class="text-2xl font-bold mb-2">📧 Stay Updated</h3>
+        <p class="text-gray-300 mb-6">Get the latest product reviews and recommendations delivered to your inbox!</p>
+        
+        <!-- Mailchimp Form -->
+        <form action="https://infoprods.us14.list-manage.com/subscribe/post?u=31271582e5a8682479ad0e485&id=d43c2cdea4&f_id=009814e0f0" method="post" target="_blank" class="flex flex-col md:flex-row gap-3 justify-center items-center">
+          <input 
+            type="email" 
+            name="EMAIL" 
+            placeholder="Enter your email" 
+            required
+            class="px-4 py-3 rounded-lg bg-white/10 border border-white/20 focus:border-cyan-400 focus:outline-none text-white placeholder-gray-400 w-full md:w-96"
+          >
+          <!-- Anti-bot field -->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_31271582e5a8682479ad0e485_d43c2cdea4" tabindex="-1" value="">
+          </div>
+          <button 
+            type="submit" 
+            class="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg font-bold transition cursor-pointer w-full md:w-auto"
+          >
+            Subscribe
+          </button>
+        </form>
+      </div>
+    </div>
+
     <div class="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
       <!-- About -->
       <div>
@@ -18,7 +48,6 @@
         <ul class="space-y-2">
           <li><a href="/" class="text-gray-400 hover:text-white transition text-sm">Home</a></li>
           <li><a href="/blog" class="text-gray-400 hover:text-white transition text-sm">Blog</a></li>
-          <li><a href="/devices" class="text-gray-400 hover:text-white transition text-sm">Devices</a></li>
           <li><a href="/about" class="text-gray-400 hover:text-white transition text-sm">About</a></li>
           <li><a href="/contact" class="text-gray-400 hover:text-white transition text-sm">Contact</a></li>
         </ul>
@@ -28,8 +57,8 @@
       <div>
         <h4 class="font-semibold mb-4">Categories</h4>
         <ul class="space-y-2">
-          <li><a href="/categories/fashion" class="text-gray-400 hover:text-white transition text-sm">Fashion</a></li>
-          <li><a href="/categories/tech-gadgets" class="text-gray-400 hover:text-white transition text-sm">Tech Gadgets</a></li>
+          <li><a href="/categories/car-accessories-&-care" class="text-gray-400 hover:text-white transition text-sm">Car Accessories</a></li>
+          <li><a href="/categories/technology-&-devices" class="text-gray-400 hover:text-white transition text-sm">Technology</a></li>
           <li><a href="/categories/home" class="text-gray-400 hover:text-white transition text-sm">Home & Decor</a></li>
           <li><a href="/categories/beauty" class="text-gray-400 hover:text-white transition text-sm">Beauty</a></li>
         </ul>
@@ -63,9 +92,6 @@
         </a>
         <a href="https://banggood.com" target="_blank" rel="nofollow" class="text-gray-400 hover:text-white transition text-sm">
           Banggood
-        </a>
-        <a href="https://temu.com" target="_blank" rel="nofollow" class="text-gray-400 hover:text-white transition text-sm">
-          Temu
         </a>
         <a href="https://shein.com" target="_blank" rel="nofollow" class="text-gray-400 hover:text-white transition text-sm">
           Shein

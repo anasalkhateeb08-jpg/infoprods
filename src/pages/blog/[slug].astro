@@ -17,7 +17,7 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await post.render();
-
+// Get related articles
 const breadcrumbs = [
   { name: "Home", url: "https://infoprods.com" },
   { name: "Blog", url: "https://infoprods.com/blog" },
@@ -88,7 +88,35 @@ const breadcrumbs = [
         </div>
       </div>
     )}
+     <!-- Newsletter Inline Form -->
+    <div class="mt-16 mb-12 bg-gradient-to-r from-purple-50 to-blue-50 rounded-2xl p-8 border-2 border-purple-200">
+      <div class="max-w-2xl mx-auto text-center">
+        <h3 class="text-2xl font-bold text-gray-900 mb-2">📧 Get More Articles Like This</h3>
+        <p class="text-gray-600 mb-6">Subscribe to receive product reviews and buying guides in your inbox!</p>
+        
+        <form action="https://infoprods.us14.list-manage.com/subscribe/post?u=31271582e5a8682479ad0e485&id=d43c2cdea4&f_id=009814e0f0" method="post" target="_blank" class="flex flex-col sm:flex-row gap-3 justify-center items-center">
+          <input 
+            type="email" 
+            name="EMAIL" 
+            placeholder="Enter your email" 
+            required
+            class="px-4 py-3 rounded-lg border-2 border-purple-300 focus:border-purple-500 focus:outline-none w-full sm:w-80 text-gray-900"
+          >
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input type="text" name="b_31271582e5a8682479ad0e485_d43c2cdea4" tabindex="-1" value="">
+          </div>
+          <button 
+            type="submit" 
+            class="px-8 py-3 bg-purple-600 hover:bg-purple-700 text-white rounded-lg font-bold transition cursor-pointer w-full sm:w-auto"
+          >
+            Subscribe
+          </button>
+        </form>
+        <p class="text-xs text-gray-500 mt-3">We respect your privacy. Unsubscribe at any time.</p>
+      </div>
+    </div>
 
+   
     <div class="mt-12">
       <a
         href="/blog"
