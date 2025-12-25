@@ -39,6 +39,12 @@ faqs:
     answer: Both systems support identical music apps including Spotify, Apple Music, YouTube Music, Amazon Music, Pandora, and others with virtually indistinguishable performance and features. CarPlay provides slightly smoother Apple Music integration with better Siri voice control for library navigation, while Android Auto offers marginally superior Google Play Music and YouTube Music experiences. Third-party apps like Spotify work equally well on both platforms.
   - question: Can I mirror my entire phone screen with CarPlay or Android Auto?
     answer: No, neither system allows full phone screen mirroring for safety reasons—they display only approved automotive-optimized apps meeting strict interface guidelines preventing driver distraction. This limitation frustrates users wanting unrestricted phone access but significantly improves safety by eliminating complex interactions requiring visual attention. Some aftermarket systems offer screen mirroring but violate safety principles both platforms enforce and may be illegal in certain jurisdictions.
+howToName: ''
+howToDescription: ''
+howToTime: ''
+productName: ''
+productDescription: ''
+productBrand: ''
 ---
 #
 
