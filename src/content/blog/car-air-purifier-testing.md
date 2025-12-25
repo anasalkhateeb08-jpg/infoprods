@@ -225,7 +225,7 @@ The eye and skin exposure risks from UV-C radiation require complete shielding e
 
 The practical recommendation suggests that UV-C purification provides minimal additional benefit beyond HEPA filtration that already removes ninety-nine point nine seven percent of virus particles and bacteria mechanically without concerns about radiation exposure or ozone generation, making UV-C supplementation of questionable value for most users despite impressive-sounding claims about hospital-grade pathogen elimination.
 
-[![Activated carbon filter material demonstrating microscopic porous structure providing massive surface area for volatile organic compound adsorption and cigarette smoke odor elimination - InfoProds 2026](/images/uploads/ee4.webp "Activated Carbon Filter Odor Adsorption Capability")](activated-carbon-filter-odor-adsorption-structure-2026.webp)
+[![Activated carbon filter material demonstrating microscopic porous structure providing massive surface area for volatile organic compound adsorption and cigarette smoke odor elimination - InfoProds 2026](/images/uploads/ee4.webp "Activated Carbon Filter Odor Adsorption Capability.")](activated-carbon-filter-odor-adsorption-structure-2026.webp)
 
 <a href="https://s.click.aliexpress.com/e/_c3EgiEpP" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span>wholesale-uvc-car-purifier</a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
