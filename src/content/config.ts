@@ -1,15 +1,16 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection, reference, z } from 'astro:content';
 
 const blog = defineCollection({
-  type: 'content',
-  schema: z.object({
-    title: z.string(),
-    description: z.string(),
-    author: z.string().default('InfoProds Team'),
-    date: z.date(),
-    image: z.string().optional(),
-    category: z.string(),
-    tags: z.array(z.string()).optional(),
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    author: z.string().default('InfoProds Team'),
+    date: z.date(),
+    image: z.string().optional(),
+    category: z.string(),
+    tags: z.array(z.string()).optional(),
+    relatedArticles: z.array(reference('blog')).optional(),
 
     // --- Schema Fields (FAQ, HowTo, Product) ---
     faqs: z.array(z.object({
@@ -43,7 +44,7 @@ const blog = defineCollection({
     }).optional(),
     // ---------------------------------------------
 
-  }),
+  }),
 });
 
 export const collections = { blog };
