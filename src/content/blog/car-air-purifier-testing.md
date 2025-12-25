@@ -20,7 +20,6 @@ tags:
   - car cabin air quality
 relatedArticles:
   - carplay-android-auto-2026
-  - A recent comprehensive comparison between wireless CarPlay and Android Auto
   - 'Dash Cam Secrets: What Insurance Companies Hide From You'
 faqs:
   - question: Do car air purifiers actually work or are they just placebo devices?
