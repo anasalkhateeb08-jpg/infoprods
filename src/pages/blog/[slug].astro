@@ -1,6 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
-import { getCollection, getEntry, getEntries } from 'astro:content';
+import { getCollection } from 'astro:content';
 import ArticleSchema from '../../components/Schema/ArticleSchema.astro';
 import BreadcrumbSchema from '../../components/Schema/BreadcrumbSchema.astro';
 import FAQSchema from '../../components/Schema/FAQSchema.astro';
@@ -19,8 +19,13 @@ const { post } = Astro.props;
 const { Content } = await post.render();
 
 // Get related articles using getEntries
-const relatedPosts = post.data.relatedArticles 
-  ? await getEntries(post.data.relatedArticles)
+const relatedPosts = post.data.relatedArticles && post.data.relatedArticles.length > 0
+  ? (await Promise.all(
+      post.data.relatedArticles.map(async (slug) => {
+        const allPosts = await getCollection('blog');
+        return allPosts.find(p => p.slug === slug);
+      })
+    )).filter(Boolean)
   : [];
 
 const breadcrumbs = [
