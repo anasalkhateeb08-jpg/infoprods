@@ -39,8 +39,6 @@ faqs:
     answer: Protest culture in gymnastics remains minimal because inquiry systems typically fail overturning scores except for technical errors like miscalculated difficulty, fear of judge retaliation in future competitions discourages complaints, and federations often pressure athletes accepting scores to maintain relationships with judging community, creating environment where obvious unfairness goes unchallenged because challenging authority proves futile and potentially harmful to career advancement that good relationships with judges influences.
   - question: Will gymnastics judging ever become truly objective?
     answer: Complete objectivity in artistic gymnastics judging remains impossible because artistry and execution quality inherently require subjective evaluation that no technological solution can fully quantify, though AI-assisted judging for technical elements could reduce human bias in difficulty and error detection while artistic components necessarily maintain subjective assessment, with future likely combining objective technical scoring through computer vision with subjective artistic evaluation creating hybrid system that bias reduces without eliminating entirely.
-relatedArticles:
-  - beauty-ingredient-blacklist-harmful-chemicals-legal-products
 howToName: ''
 howToDescription: ''
 howToTime: ''
@@ -48,6 +46,8 @@ howToSteps: []
 productName: ''
 productDescription: ''
 productBrand: ''
+relatedArticles:
+  - beauty-ingredient-blacklist-harmful-chemicals-legal-products
 ---
 ## **Table of Contents**
 
@@ -474,6 +474,160 @@ The acceptance that some subjectivity will always remain in artistic gymnastics 
   50% { opacity: 0.7; transform: scale(1.05); }
 }
 </style>
+
+```plain
+<div class="related-articles-section">
+  <h3 class="related-title">
+    <span style="color: #C4476A; font-weight: bold; font-size: 18px; animation: pulse 2s infinite; display: inline-block;">
+      📚 Articles related:
+    </span>
+  </h3>
+  
+  <div class="related-grid" id="relatedArticles"></div>
+</div>
+
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+
+.related-articles-section {
+  margin: 3rem 0;
+  padding-top: 2rem;
+  border-top: 2px solid #e5e7eb;
+}
+
+.related-title {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.related-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .related-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.article-card {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  transition: all 0.3s;
+  border: 1px solid #f3f4f6;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.article-card:hover {
+  box-shadow: 0 4px 6px rgba(0,0,0,0.15);
+  transform: translateY(-2px);
+}
+
+.article-card img {
+  width: 100%;
+  height: 192px;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+
+.article-card:hover img {
+  transform: scale(1.05);
+}
+
+.article-card-content {
+  padding: 1.25rem;
+}
+
+.article-category {
+  color: #9333ea;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.article-title {
+  color: #111827;
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin-top: 0.5rem;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.article-card:hover .article-title {
+  color: #9333ea;
+}
+
+.article-description {
+  color: #6b7280;
+  font-size: 0.875rem;
+  margin-top: 0.5rem;
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+</style>
+
+<script>
+// فقط الصق روابط المقالات هنا (من المتصفح مباشرة!)
+const articleLinks = [
+https://infoprods.com/blog/free-throw-psychology-secret
+];
+
+// استخراج slug من الرابط
+function getSlugFromUrl(url) {
+  const match = url.match(/\/blog\/([^\/\?#]+)/);
+  return match ? match[1] : url;
+}
+
+async function loadArticles() {
+  const container = document.getElementById('relatedArticles');
+  
+  for (const link of articleLinks) {
+    const slug = getSlugFromUrl(link);
+    
+    try {
+      const response = await fetch(`/api/article.json?slug=${slug}`);
+      const article = await response.json();
+      
+      if (article.error) continue;
+      
+      const card = `
+        <a href="/blog/${article.slug}" class="article-card">
+          ${article.image ? `<img src="${article.image}" alt="${article.title}">` : ''}
+          <div class="article-card-content">
+            <div class="article-category">${article.category}</div>
+            <h4 class="article-title">${article.title}</h4>
+            <p class="article-description">${article.description}</p>
+          </div>
+        </a>
+      `;
+      
+      container.innerHTML += card;
+    } catch (e) {
+      console.error('Error loading article:', link);
+    }
+  }
+}
+
+loadArticles();
+</script>
+```
 
 - [Why Basketball Players Miss Free Throws: 15-Foot Psychology Secret](https://infoprods.com/blog/free-throw-psychology-secret)
 - [Olympic Gold Medals Aren't Pure Gold: Material Worth $750](https://infoprods.com/blog/olympic-gold-medals-truth)
