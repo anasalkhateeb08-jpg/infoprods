@@ -1062,14 +1062,14 @@ on investment than computer improvements. Evaluate whether your computer limits 
 
 **Q: Is it worth investing in expensive ergonomic equipment like Herman Miller chairs or standing desks?** Premium ergonomic equipment delivers genuine benefits—superior comfort, better adjustability, proven designs, and decades-long durability—but whether these benefits justify costs depends on individual situations. People spending 40+ hours weekly in chairs over many years potentially justify $1,000+ seating investments through injury prevention and comfort, particularly if experiencing back problems. Similarly, people certain they'll use standing features extensively might justify premium standing desks. However, many excellent mid-range alternatives at $300-600 provide most ergonomic benefits at much lower costs, making them better values for most users. Consider used premium furniture offering high-quality equipment at 40-60% discounts. Ultimately, evaluate based on your budget, usage intensity, and whether you're experiencing specific ergonomic problems that premium equipment would solve. Don't feel obligated to buy most expensive options—value exists across price ranges.
 
-<a href="الرابط" style="
+<span style="
   color: #C4476A;
   font-weight: bold;
   font-size: 18px;
   animation: pulse 2s infinite;
-  text-decoration: none;
   display: inline-block;
-"> Articles related:  </a>
+">Articles related:</span>
+
 <style>
 @keyframes pulse {
   0%, 100% { opacity: 1; transform: scale(1); }
