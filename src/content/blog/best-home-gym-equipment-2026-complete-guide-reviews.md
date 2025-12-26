@@ -377,10 +377,21 @@ Your health forms the foundation of everything else—career success, relationsh
 Stop waiting for perfect conditions. Start with what you can afford, learn proper technique, progressively challenge yourself, and trust the process. Results come from dedication over time, not perfect circumstances.
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 2rem 0;">
-  <img src="/images/uploads/FT.jpg" alt="Fitness 1" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/uploads/FT1.jpg" alt="Fitness 2" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/uploads/FT2.jpg" alt="Fitness 3" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/uploads/FT3.webp" alt="Fitness 4" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+  <a href="https://infoprods.com/blog/nutrition-tips-athletes-complete-guide" style="text-decoration: none; display: block;">
+    <img src="/images/uploads/FT.jpg" alt="Nutrition Tips for Athletes" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  
+  <a href="https://infoprods.com/blog/ultimate-guide-best-fitness-trackers-health-monitoring-wearables" style="text-decoration: none; display: block;">
+    <img src="/images/uploads/FT1.jpg" alt="Best Fitness Trackers" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  
+  <a href="https://infoprods.com/blog/healthy-weight-gain-skinny-people-meal-plan-foods-build-muscle" style="text-decoration: none; display: block;">
+    <img src="/images/uploads/FT2.jpg" alt="Healthy Weight Gain" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  
+  <a href="https://infoprods.com/blog/best-herbs-for-mental-clarity-focus-cognitive-support" style="text-decoration: none; display: block;">
+    <img src="/images/uploads/FT3.webp" alt="Best Herbs for Mental Clarity" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
 </div>
 
 #### Article related:
