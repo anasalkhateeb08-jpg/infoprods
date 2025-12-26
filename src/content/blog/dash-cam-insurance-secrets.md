@@ -496,3 +496,35 @@ The practical reality for honest drivers operating vehicles lawfully is that das
   50% { opacity: 0.7; transform: scale(1.05); }
 }
 </style>
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 2rem 0;">
+  
+  <a href="https://infoprods.com/blog/car-air-purifier-testing" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/car air 2026.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Car Air Purifiers That Work: Science-Backed Testing 2026
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/car-organization-revolution-20-accessories-keep-car-clean-2026-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/car_accessories.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Car Organization Revolution: 20 Accessories That Actually Keep Your Car Clean
+    </div>
+  </a>
+  
+  <a href="https://infoprods.com/blog/carplay-android-auto-2026" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/wirless & android.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     A recent comprehensive comparison between wireless CarPlay and Android Auto
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/mart-car-gadgets-2026-ai-powered-accessories-predict-your-needs" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/analyticsinsight_2025-11-11_nacsxgzo_Top-AI-Powered-Features-Coming-to-Your-Car-in-2026.avif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Modern smart car devices: AI-powered accessories that anticipate your needs
+    </div>
+  </a>
+  
+</div>
