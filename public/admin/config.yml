@@ -22,11 +22,6 @@ collections:
       - {label: "Category", name: "category", widget: "select", required: true, options: ["Beauty","Car Accessories & Care", "Sports & Sport Info", "Fitness & Health", "Home", "Jewelry", "Kitchen", "Miscellaneous", "Technology & Devices"]}
       - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: true}
-      - label: "Related Articles"
-        name: "relatedArticles"
-        widget: "list"
-        required: false
-        hint: "Enter article slugs (e.g., dash-cam-insurance-secrets)"
       - label: "FAQs"
         name: "faqs"
         widget: "list"

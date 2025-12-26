@@ -10,7 +10,6 @@ const blog = defineCollection({
     image: z.string().optional(),
     category: z.string(),
     tags: z.array(z.string()).optional(),
-    relatedArticles: z.array(z.string()).optional(),
 
     // --- Schema Fields (FAQ, HowTo, Product) ---
     faqs: z.array(z.object({
