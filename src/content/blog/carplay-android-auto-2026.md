@@ -514,3 +514,35 @@ The deliberate limitation to approved automotive apps represents one of the most
   50% { opacity: 0.7; transform: scale(1.05); }
 }
 </style>
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 2rem 0;">
+  
+  <a href="https://infoprods.com/blog/best-car-accessories-comfort-safety-2026" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/photo-1449965408869-eaa3f722e40d.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Best Car Accessories for Comfort and Safety 2026 Complete Collection
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/car-air-purifier-testing" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/car air 2026.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Car Air Purifiers That Work: Science-Backed Testing 2026
+    </div>
+  </a>
+  
+  <a href="https://infoprods.com/blog/dash-cam-insurance-secrets" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/car camera.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+    Dash Cam Secrets: What Insurance Companies Hide From You
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/mart-car-gadgets-2026-ai-powered-accessories-predict-your-needs" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/analyticsinsight_2025-11-11_nacsxgzo_Top-AI-Powered-Features-Coming-to-Your-Car-in-2026.avif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+   Modern smart car devices: AI-powered accessories that anticipate your needs
+    </div>
+  </a>
+  
+</div>
