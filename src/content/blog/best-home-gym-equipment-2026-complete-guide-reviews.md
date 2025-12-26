@@ -377,21 +377,35 @@ Your health forms the foundation of everything else—career success, relationsh
 Stop waiting for perfect conditions. Start with what you can afford, learn proper technique, progressively challenge yourself, and trust the process. Results come from dedication over time, not perfect circumstances.
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 2rem 0;">
-  <a href="https://infoprods.com/blog/nutrition-tips-athletes-complete-guide" style="text-decoration: none; display: block;">
-    <img src="/images/uploads/FT.jpg" alt="Nutrition Tips for Athletes" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  
+  <a href="https://infoprods.com/blog/nutrition-tips-athletes-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/FT.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+      Nutrition Tips for Athletes: The Complete Guide to Peak Performance Through Food
+    </div>
   </a>
   
-  <a href="https://infoprods.com/blog/ultimate-guide-best-fitness-trackers-health-monitoring-wearables" style="text-decoration: none; display: block;">
-    <img src="/images/uploads/FT1.jpg" alt="Best Fitness Trackers" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://infoprods.com/blog/ultimate-guide-best-fitness-trackers-health-monitoring-wearables" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/FT1.jpg" alt="Fitness Trackers" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+      Ultimate Guide: Best Fitness Trackers & Health Monitoring Wearables
+    </div>
   </a>
   
-  <a href="https://infoprods.com/blog/healthy-weight-gain-skinny-people-meal-plan-foods-build-muscle" style="text-decoration: none; display: block;">
-    <img src="/images/uploads/FT2.jpg" alt="Healthy Weight Gain" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://infoprods.com/blog/healthy-weight-gain-skinny-people-meal-plan-foods-build-muscle" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/FT2.jpg" alt="Weight Gain" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+      Healthy Weight Gain for Skinny People: Meal Plan & Foods to Build Muscle
+    </div>
   </a>
   
-  <a href="https://infoprods.com/blog/best-herbs-for-mental-clarity-focus-cognitive-support" style="text-decoration: none; display: block;">
-    <img src="/images/uploads/FT3.webp" alt="Best Herbs for Mental Clarity" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; transition: transform 0.3s; cursor: pointer;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://infoprods.com/blog/best-herbs-for-mental-clarity-focus-cognitive-support" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/FT3.webp" alt="Mental Clarity" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+      Best Herbs for Mental Clarity: Focus & Cognitive Support
+    </div>
   </a>
+  
 </div>
 
 #### Article related:
