@@ -864,6 +864,8 @@ Regular but minimal-effort maintenance prevents small disorder from accumulating
 
 Visual systems where proper organization versus disorder proves immediately obvious help maintain order by making deviations visible rather than allowing gradual deterioration to occur unnoticed through habituation. Clear compartments in organizers and designated spaces for specific items and empty spots that draw attention when items are missing all create visual feedback that prompts corrective action before problems compound. Reference photos documenting proper organization provide comparison points for periodic assessment allowing you to compare current state to reference photos to identify what's wrong and how to restore order without requiring complete mental reconstruction of ideal organization.
 
+==================
+
 <span style="
   color: #C4476A;
   font-weight: bold;
@@ -879,7 +881,21 @@ Visual systems where proper organization versus disorder proves immediately obvi
 }
 </style>
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 2rem 0;">
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
+
+<div class="related-articles-grid">
   
   <a href="https://infoprods.com/blog/carplay-android-auto-2026" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/wirless & android.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
