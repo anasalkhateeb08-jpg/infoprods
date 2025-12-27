@@ -424,7 +424,7 @@ Athletes lose approximately 500-1,000 mg sodium per liter of sweat. During exerc
 
 ### Practical Hydration Tips
 
-**Develop a [hydration](https://en.wikipedia.org/wiki/Moisturizer) routine:** Don't rely on thirst—establish scheduled fluid intake before, during, and after training.
+**Develop a [hydration](https://www.healthline.com/nutrition/electrolytes-drinks) routine:** Don't rely on thirst—establish scheduled fluid intake before, during, and after training.
 
 **Monitor body weight:** Weigh yourself before and after training sessions. Significant weight loss indicates dehydration requiring adjustment to fluid intake strategies.
 
@@ -1074,7 +1074,7 @@ Even dedicated athletes often sabotage their progress through nutritional errors
 
 **Consequences:** Wasted money, potential health risks from excessive/unproven supplements, and missing the superior nutrition from whole foods.
 
-**The solution:** Build nutrition foundation from whole foods. Use supplements strategically and evidence-based (creatine, protein powder for convenience, [caffeine](https://en.wikipedia.org/wiki/Caffeine)). Don't replace meals with supplements.
+**The solution:** Build nutrition foundation from whole foods. Use supplements strategically and evidence-based (creatine, protein powder for convenience, [caffeine](https://www.mayoclinic.org/ar/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20045678)). Don't replace meals with supplements.
 
 ### Mistake #7: Restricting Fats Too Severely
 
@@ -1230,28 +1230,28 @@ A: Double-day training requires careful nutrition planning. After the first sess
 </style>
 
 <div class="related-articles-grid">
-  
+
   <a href="https://infoprods.com/blog/best-herbs-for-mental-clarity-focus-cognitive-support" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/2151244773.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Best Herbs for Mental Clarity, Focus, and Cognitive Support
     </div>
   </a>
-  
+
    <a href="https://infoprods.com/blog/healthy-weight-gain-skinny-people-meal-plan-foods-build-muscle" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/smiling-young-sportsman-holding-scales-apple-scaled.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Healthy Weight Gain for Skinny People: Complete Meal Plan & Foods That Build Muscle Without Harming Your Health
     </div>
   </a>
-  
+
   <a href="https://infoprods.com/blog/ultimate-guide-best-fitness-trackers-health-monitoring-wearables" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/photo-1575311373937-040b8e1fd5b6.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      The Ultimate Guide to the Best Fitness Trackers: Transform Your Health Journey with Smart Wearable Technology
     </div>
   </a>
-  
+
    <a href="https://infoprods.com/blog/ultimate-fitness-guide-2025-complete" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/FT.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -1265,5 +1265,5 @@ A: Double-day training requires careful nutrition planning. After the first sess
      Best Home Gym Equipment 2026: Complete Guide & Reviews for 4 Essential Pieces - Budget-Friendly from $25!
     </div>
   </a>
-  
+
 </div>
