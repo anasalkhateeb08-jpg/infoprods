@@ -337,8 +337,6 @@ The Armor 27T Pro suits professionals needing thermal imaging or excellent value
 
 Your perfect rugged smartphone under $450 exists in this lineup. Choose based on your needs, order with confidence, and experience the freedom of a phone that survives your lifestyle while delivering premium features.
 
-================================
-
 <span style="
   color: #C4476A;
   font-weight: bold;
