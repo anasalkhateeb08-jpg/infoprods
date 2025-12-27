@@ -1446,9 +1446,21 @@ The skincare products featured in this guide provide excellent starting points, 
 
 Your skin is with you for life—treating it well is one of the best investments you can make in yourself. Begin today, stay consistent, and watch your skin transform over the coming months.
 
-=========================
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px; margin: 2rem 0;">
+<div class="related-articles-grid">
   
   <a href="https://infoprods.com/blog/nutrition-tips-athletes-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/FT.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
