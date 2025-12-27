@@ -170,30 +170,30 @@ const style = categoryStyles[category] || categoryStyles['Fitness & Health'];
         <p class="text-xl text-gray-400">No articles yet in this category. Check back soon!</p>
       </div>
     ) : (
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div class="grid grid-cols-3 md:grid-cols-2 lg:grid-cols-3 gap-2 md:gap-8">
         {sortedPosts.map((post) => (
           <article class="bg-gray-800 rounded-lg overflow-hidden hover:transform hover:scale-105 transition-all duration-300 shadow-lg">
             {post.data.image && (
               <img
                 src={post.data.image}
                 alt={post.data.title}
-                class="w-full h-48 object-cover"
+                class="w-full h-24 md:h-48 object-cover"
               />
             )}
-            <div class="p-6">
-              <span class="text-xs text-purple-400 font-semibold uppercase tracking-wide">
+            <div class="p-2 md:p-6">
+              <span class="text-[8px] md:text-xs text-purple-400 font-semibold uppercase tracking-wide">
                 {post.data.category}
               </span>
-              <h2 class="text-xl font-bold mt-2 mb-3 text-white hover:text-purple-400 transition-colors">
+              <h2 class="text-xs md:text-xl font-bold mt-1 md:mt-2 mb-1 md:mb-3 text-white hover:text-purple-400 transition-colors leading-tight">
                 <a href={`/blog/${post.slug}`}>
                   {post.data.title}
                 </a>
               </h2>
-              <p class="text-gray-300 text-sm mb-4 line-clamp-3">
+              <p class="text-gray-300 text-[9px] md:text-sm mb-2 md:mb-4 line-clamp-2 md:line-clamp-3 hidden md:block">
                 {post.data.description}
               </p>
-              <div class="flex items-center justify-between text-sm text-gray-400">
-                <span>{post.data.author}</span>
+              <div class="flex items-center justify-between text-[8px] md:text-sm text-gray-400">
+                <span class="hidden md:inline">{post.data.author}</span>
                 <time datetime={post.data.date.toISOString()}>
                   {post.data.date.toLocaleDateString('en-US', {
                     year: 'numeric',
