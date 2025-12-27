@@ -550,7 +550,7 @@ The practical implication is using calorie data for relative trends rather than 
 
 **Sleep Tracking Accuracy**
 
-Consumer sleep trackers estimate sleep stages using movement patterns, heart rate variability, and sometimes additional sensors, comparing these signals to typical patterns observed in sleep laboratory studies. This indirect approach provides useful information but doesn't match clinical sleep study (polysomnography) accuracy measuring brain waves directly.
+Consumer sleep trackers estimate sleep stages using movement patterns, heart rate variability, and sometimes additional sensors, comparing these signals to typical patterns observed in sleep laboratory studies. This indirect approach provides useful information but doesn't match clinical sleep study ([polysomnography](https://en.wikipedia.org/wiki/Polysomnography)) accuracy measuring brain waves directly.
 
 Sleep stage classification accuracy (identifying light, deep, and REM sleep) typically ranges 60-80% compared to laboratory sleep studies. Trackers generally identify sleep versus wake states reasonably well but sometimes confuse different sleep stages with each other—mistaking light sleep for deep sleep or REM for wake periods.
 
