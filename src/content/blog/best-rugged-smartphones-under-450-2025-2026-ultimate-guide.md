@@ -8,6 +8,10 @@ category: Technology & Devices
 tags:
   - rugged smartphones, budget phones, outdoor phones, 5G phones, waterproof phones, rugged phones 2025, 2026 phones under $450
 howToName: ''
+howToDescription: ''
+howToTime: ''
+productName: ''
+productDescription: ''
 slug: best-rugged-smartphones-under-450-2025
 ---
 #
@@ -347,6 +351,8 @@ Your perfect rugged smartphone under $450 exists in this lineup. Choose based on
   50% { opacity: 0.7; transform: scale(1.05); }
 }
 </style>
+
+<style> .related-articles-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 2rem 0; } @media (max-width: 768px) { .related-articles-grid { grid-template-columns: repeat(2, 1fr) !important; } } </style>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 2rem 0;">
 
