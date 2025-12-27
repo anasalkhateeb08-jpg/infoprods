@@ -337,6 +337,8 @@ The Armor 27T Pro suits professionals needing thermal imaging or excellent value
 
 Your perfect rugged smartphone under $450 exists in this lineup. Choose based on your needs, order with confidence, and experience the freedom of a phone that survives your lifestyle while delivering premium features.
 
+=============
+
 <span style="
   color: #C4476A;
   font-weight: bold;
@@ -352,50 +354,62 @@ Your perfect rugged smartphone under $450 exists in this lineup. Choose based on
 }
 </style>
 
-<style> .related-articles-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 2rem 0; } @media (max-width: 768px) { .related-articles-grid { grid-template-columns: repeat(2, 1fr) !important; } } </style>
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 2rem 0;">
-
+<div class="related-articles-grid">
+  
   <a href="https://infoprods.com/blog/complete-guide-essential-work-from-home-tech-productivity-gadgets" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/homeoffice-fullres-0028.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/homeoffice-fullres-0028.jpg" alt="Work From Home Tech" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      The Complete Guide to Essential Work From Home Tech and Productivity Gadgets
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/ultimate-guide-best-ai-apps-tools-everyday-use-artificial-intelligence" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/photo-1677442136019-21780ecad995.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/photo-1677442136019-21780ecad995.jfif" alt="Best AI Apps" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      The Ultimate Guide to Best AI Apps and Tools for Everyday Use: Transform Your Daily Life with Artificial Intelligence
     </div>
   </a>
-
+  
   <a href="https://infoprods.com/blog/top-laptop-recommendations-2026-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/sCTUm3TGXAahNHu7wghtpP.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/sCTUm3TGXAahNHu7wghtpP.jpg" alt="Best Laptops 2026" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Top Laptop Recommendations for 2026: Complete Guide to Best Laptops for Every Budget and Need
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/best-power-banks-portable-charging-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/EmJMhZz22EbZGvSUCd4ZbW.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/EmJMhZz22EbZGvSUCd4ZbW.jpg" alt="Best Power Banks" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Best Power Banks and Portable Charging Solutions: Never Run Out of Battery Again
     </div>
   </a>
 
    <a href="https://infoprods.com/blog/2025-12-04-best-wireless-earbuds-and-headphones-the-complete-guide-to-finding-your-perfect-audio-companion" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/photo-1590658268037-6bf12165a8df.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/photo-1590658268037-6bf12165a8df.jfif" alt="Wireless Earbuds" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Best Wireless Earbuds and Headphones: The Complete Guide to Finding Your Perfect Audio Companion
     </div>
   </a>
 
   <a href="https://infoprods.com/blog/complete-guide-spy-gadgets-personal-security-privacy-protection" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/sp.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/sp.jfif" alt="Spy Gadgets" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
     The Complete Guide to Spy Gadgets and Personal Security: Hidden Cameras, GPS Trackers, and Privacy Protection
     </div>
   </a>
-
+  
 </div>
