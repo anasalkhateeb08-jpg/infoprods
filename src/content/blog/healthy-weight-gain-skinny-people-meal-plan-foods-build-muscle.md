@@ -1311,7 +1311,7 @@ When unprepared or caught without planned snacks:
 
 High-calorie snacks and smoothies bridge the gap between main meals, providing hundreds of additional calories daily through portable, convenient options requiring minimal preparation. Liquid calories especially prove invaluable for those struggling to eat enough solid food, delivering substantial nutrition quickly without excessive fullness. Incorporating 2-3 strategic snacks daily alongside three main meals makes hitting aggressive calorie targets manageable rather than overwhelming.
 
-![High calorie protein smoothie for easy weight gain and muscle building](/images/uploads/ov4.webp "High-Calorie Smoothies and Shakes for Weight Gain")
+![High calorie protein smoothie for easy weight gain and muscle building](/images/uploads/ov4.webp "High-Calorie Smoothies and Shakes for Weight Gain.")
 
 <a name="supplements"></a>
 
