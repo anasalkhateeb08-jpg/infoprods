@@ -110,88 +110,78 @@ const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
           Discover products across multiple categories
         </p>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div class="grid grid-cols-3 md:grid-cols-2 lg:grid-cols-4 gap-2">
          <!-- Car Accessories & Care -->
-<a href="/categories/car-accessories-&-care" data-category="Car Accessories & Care" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+<a href="/categories/car-accessories-&-care" data-category="Car Accessories & Care" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
   <img src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?w=600&q=80" alt="Car Accessories & Care" class="w-full h-full object-cover">
-  <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-    <h3 class="text-xl font-bold mb-1" data-i18n="categories.carAccessories">Car Accessories & Care</h3>
-    <p class="text-sm text-gray-300" data-i18n="categories.carAccessoriesCount">2,000+ Products</p>
+  <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+    <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.carAccessories">Car Accessories & Care</h3>
+    <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.carAccessoriesCount">2,000+ Products</p>
   </div>
 </a>
            <!-- Technology & Devices -->
-          <a href="/categories/technology-&-devices" data-category="Technology & Devices" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/technology-&-devices" data-category="Technology & Devices" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80" alt="Technology & Devices" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.techDevices">Technology & Devices</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.techDevicesCount">1,500+ Products</p>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.techDevices">Technology & Devices</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.techDevicesCount">1,500+ Products</p>
             </div>
           </a>
 
              <!-- Sports -->
-          <a href="/categories/fitness-&-health" data-category="Fitness & Health" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/fitness-&-health" data-category="Fitness & Health" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&q=80" alt="Sports" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.fitness">Fitness & Health</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.fitnessCount">2,000+ Products</p>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.fitness">Fitness & Health</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.fitnessCount">2,000+ Products</p>
             </div>
           </a>
 
             <!-- Miscellaneous -->
-          <a href="/categories/miscellaneous" data-category="Miscellaneous" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/miscellaneous" data-category="Miscellaneous" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1526738549149-8e07eca6c147?w=600&q=80" alt="Miscellaneous" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.miscellaneous">Miscellaneous</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.miscellaneousCount">Various Products</p>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.miscellaneous">Miscellaneous</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.miscellaneousCount">Various Products</p>
             </div>
           </a>
 
           <!-- Sports & Sport Info -->
-         <a href="/categories/sports-&-sport-info" data-category="Sports & Sport Info" class="group relative h-50 rounded-2xl max-w-[350px] overflow-hidden hover:scale-105 transition-transform duration-300">
+         <a href="/categories/sports-&-sport-info" data-category="Sports & Sport Info" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
          <img src="/images/uploads/sportsinfo.webp" alt="Sports" class="w-full h-full object-cover">
-         <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-           <h3 class="text-xl font-bold mb-1">Sports & Sport Info</h3>
-           <p class="text-sm text-gray-300" data-i18n="categories.sportsCount">2,000+ Products</p>
+         <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+           <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight">Sports & Sport Info</h3>
+           <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.sportsCount">2,000+ Products</p>
            </div>
           </a>
 
           <!-- Jewelry -->
-          <a href="/categories/jewelry" data-category="Jewelry" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/jewelry" data-category="Jewelry" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80" alt="Jewelry" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.jewelry">Jewelry & Accessories</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.jewelryCount">3,000+ Products</p>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.jewelry">Jewelry & Accessories</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.jewelryCount">3,000+ Products</p>
             </div>
           </a>
 
           <!-- Home -->
-          <a href="/categories/home" data-category="Home" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/home" data-category="Home" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&q=80" alt="Home" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.home">Home & Decor</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.homeCount">4,000+ Products</p>
-            </div>
-          </a>
-
-          <!-- Beauty -->
-          <a href="/categories/beauty" data-category="Beauty" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&q=80" alt="Beauty" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.beauty">Beauty & Skincare</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.beautyCount">3,500+ Products</p>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.home">Home & Decor</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.homeCount">4,000+ Products</p>
             </div>
           </a>
 
           <!-- Kitchen -->
-          <a href="/categories/kitchen" data-category="Kitchen" class="group relative h-50 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/kitchen" data-category="Kitchen" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1556911220-bff31c812dba?w=600&q=80" alt="Kitchen" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.kitchen">Kitchen & Cookware</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.kitchenCount">2,500+ Products</p>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.kitchen">Kitchen & Gadgets</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.kitchenCount">2,500+ Products</p>
             </div>
           </a>
         </div>
-      </div>
     </section>
   </main>
 
