@@ -408,7 +408,7 @@ For creative professionals using Final Cut Pro, Logic Pro, Motion, or other Appl
 - **RAM:** 32GB DDR5-5200
 - **Storage:** 1TB PCIe Gen 4 NVMe SSD (self-encrypting drive)
 - **Weight:** 2.97 lbs (1.35 kg)
-- [**Battery](https://infoprods.com/blog/best-power-banks-portable-charging-guide):** 51Wh
+- [\*\*Battery](https://infoprods.com/blog/best-power-banks-portable-charging-guide):\*\* 51Wh
 - **Price:** \~$1,799
 
 **Why it's exceptional:**
@@ -1404,40 +1404,54 @@ A: There's always something newer coming—waiting perpetually means never buyin
 }
 </style>
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 2rem 0;">
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
+
+<div class="related-articles-grid">
   
   <a href="https://infoprods.com/blog/complete-guide-essential-work-from-home-tech-productivity-gadgets" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/homeoffice-fullres-0028.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/homeoffice-fullres-0028.jpg" alt="Work From Home Tech" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
-     The Complete Guide to Essential Work From Home Tech and Productivity Gadgets: Transform Your Home Office into a Professional Workspace
+     The Complete Guide to Essential Work From Home Tech and Productivity Gadgets
     </div>
   </a>
   
    <a href="https://infoprods.com/blog/ultimate-guide-best-ai-apps-tools-everyday-use-artificial-intelligence" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/photo-1677442136019-21780ecad995.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/photo-1677442136019-21780ecad995.jfif" alt="Best AI Apps" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      The Ultimate Guide to Best AI Apps and Tools for Everyday Use: Transform Your Daily Life with Artificial Intelligence
     </div>
   </a>
   
    <a href="https://infoprods.com/blog/best-power-banks-portable-charging-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/EmJMhZz22EbZGvSUCd4ZbW.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/EmJMhZz22EbZGvSUCd4ZbW.jpg" alt="Best Power Banks" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Best Power Banks and Portable Charging Solutions: Never Run Out of Battery Again
     </div>
   </a>
 
    <a href="https://infoprods.com/blog/2025-12-04-best-wireless-earbuds-and-headphones-the-complete-guide-to-finding-your-perfect-audio-companion" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/photo-1590658268037-6bf12165a8df.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/photo-1590658268037-6bf12165a8df.jfif" alt="Wireless Earbuds" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Best Wireless Earbuds and Headphones: The Complete Guide to Finding Your Perfect Audio Companion
     </div>
   </a>
 
-   <a href="https://infoprods.com/blog/best-rugged-smartphones-under-450-2025" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/tank4smartphone.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://infoprods.com/blog/complete-guide-spy-gadgets-personal-security-privacy-protection" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/sp.jfif" alt="Spy Gadgets" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
-     Best Rugged Smartphones Under $450 in 2025-2026: Top 5 Phones with Massive Batteries
+    The Complete Guide to Spy Gadgets and Personal Security: Hidden Cameras, GPS Trackers, and Privacy Protection
     </div>
   </a>
   
