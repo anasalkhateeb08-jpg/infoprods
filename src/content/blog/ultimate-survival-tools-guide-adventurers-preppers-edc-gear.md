@@ -10,6 +10,9 @@ tags:
 howToName: ''
 howToDescription: ''
 howToTime: ''
+productName: ''
+productDescription: ''
+productBrand: ''
 ---
 ## Table of Contents
 
