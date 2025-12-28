@@ -475,31 +475,49 @@ The acceptance that some subjectivity will always remain in artistic gymnastics 
 }
 </style>
 
-- [Why Basketball Players Miss Free Throws: 15-Foot Psychology Secret](https://infoprods.com/blog/free-throw-psychology-secret)
-- [Olympic Gold Medals Aren't Pure Gold: Material Worth $750](https://infoprods.com/blog/olympic-gold-medals-truth)
-- [Why Soccer Referees Ignore Obvious Fouls: 12 Hidden Rules](https://infoprods.com/blog/soccer-referee-hidden-rules)
-- [FIFA World Cup Draw: Complete Guide to Historic Tournament Expansion and Debut Teams](https://infoprods.com/blog/fifa-world-cup-2026-draw-complete-guide)
-
-<span style="
-  color: #C4476A;
-  font-weight: bold;
-  font-size: 18px;
-  animation: pulse 2s infinite;
-  display: inline-block;
-">Other articles on our website:</span>
-
 <style>
-@keyframes pulse {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.7; transform: scale(1.05); }
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
 }
 </style>
 
-- [Dash Cam Secrets: What Insurance Companies Hide From You](https://infoprods.com/blog/dash-cam-insurance-secrets)
-- [The Complete Guide to Essential Work From Home Tech and Productivity Gadgets: Transform Your Home Office into a Professional Workspace](https://infoprods.com/blog/complete-guide-essential-work-from-home-tech-productivity-gadgets)
-- [Best Herbs for Mental Clarity, Focus, and Cognitive Support](https://infoprods.com/blog/best-herbs-for-mental-clarity-focus-cognitive-support)
-- [Secret farming: How city dwellers are trying to raise certain animals without anyone knowing](https://infoprods.com/blog/stealth-farming-raise-livestock-urban-areas-without-neighbors-knowing)
-- [Top Jewelry Trends 2026: 6 Must-Have Pieces from AliExpress - Complete Guide with Reviews! Budget-friendly from $3](https://infoprods.com/blog/top-jewelry-trends-2026-aliexpress-guide-reviews)
-- [Winter vs Summer Home Setup: Save 40% on Energy Bills](https://infoprods.com/blog/winter-summer-home-setup)
-- [Complete Skincare Routine for Beginners 2026: Step-by-Step Guide to Glowing Skin from AliExpress - Budget-Friendly from $8!](https://infoprods.com/blog/2025-11-30-complete-skincare-routine-for-beginners-2026-step-by-step-guide-to-glowing-skin-from-aliexpress-budget-friendly-from-8)
-- [Best Kitchen Appliances: The Complete Guide to Equipping Your Dream Kitchen](https://infoprods.com/blog/best-kitchen-appliances-guide)
+<div class="related-articles-grid">
+  
+  
+   <a href="https://infoprods.com/blog/free-throw-psychology-secret" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/throw-psychology-mental-game.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     ر
+    </div>
+  </a>
+  
+  <a href="https://infoprods.com/blog/olympic-gold-medals-truth" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/gold.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     https://infoprods.com/blog/free-throw-psychology-secret
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/fifa-world-cup-2026-draw-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/fifa_world_cup_trophy.png" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     FIFA World Cup Draw: Complete Guide to Historic Tournament Expansion and Debut Teams
+    </div>
+  </a>
+
+   <a href="https://infoprods.com/blog/soccer-referee-hidden-rules" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/soccer-rules.png" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Why Soccer Referees Ignore Obvious Fouls: 12 Hidden Rules
+    </div>
+  </a>
+  
+</div>
