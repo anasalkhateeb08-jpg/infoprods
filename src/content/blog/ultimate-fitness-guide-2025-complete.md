@@ -296,7 +296,7 @@ The optimal cardiovascular training approach depends on your goals, current fitn
 
 This program provides approximately 195 minutes of cardiovascular training with a mix of intensities creating comprehensive adaptations.
 
-=================
+=========
 
 ### Cardiovascular Training Equipment and Gear Essentials
 
