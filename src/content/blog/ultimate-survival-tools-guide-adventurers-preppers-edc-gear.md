@@ -4,7 +4,7 @@ description: Discover the complete survival tools guide for outdoor adventures a
 author: InfoProds Team
 date: 2025-12-10T17:03:00
 image: /images/uploads/adfgaga.jpg
-category: Miscellaneous
+category: Outdoor & Survival
 tags:
   - survival tools, EDC gear, survival kit, emergency preparedness, outdoor survival, camping gear, wilderness survival, tactical gear, survival equipment, emergency tools, bushcraft tools, prepper gear, adventure equipment, survival knife, multi-tool
 howToName: ''
