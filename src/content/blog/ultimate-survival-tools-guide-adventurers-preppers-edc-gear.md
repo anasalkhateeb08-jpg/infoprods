@@ -63,7 +63,7 @@ The ultimate goal isn't just surviving hypothetical disasters but thriving in da
 
 Let's begin exploring the essential tools and knowledge that form the foundation of survival preparedness, starting with understanding the philosophy behind effective gear selection and moving through each major category of survival equipment. Your journey toward genuine preparedness and capability starts now.
 
-![Everyday carry EDC gear and survival tools laid out showing knife flashlight multi-tool and emergency equipment](/images/uploads/sr1.jfif "Understanding EDC Philosophy and Survival Tool Selection for Preparedness")
+![Everyday carry EDC gear and survival tools laid out showing knife flashlight multi-tool and emergency equipment](/images/uploads/sr1.jfif "Understanding EDC Philosophy and Survival Tool Selection for Preparedness.")
 
 <a name="philosophy"></a>
 
