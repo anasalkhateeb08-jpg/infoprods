@@ -7,7 +7,7 @@ export async function getStaticPaths() {
   const categories = [...new Set(blogPosts.map(post => post.data.category))];
   
   return categories.map(category => ({
-    params: { category: category.toLowerCase().replace(/\s+&\s+/g, '-and-').replace(/\s+/g, '-') },
+    params: { category: category.toLowerCase().replace(/\s*&\s*/g, '-and-').replace(/\s+/g, '-') },
 
     props: {
       category,
