@@ -296,6 +296,8 @@ The optimal cardiovascular training approach depends on your goals, current fitn
 
 This program provides approximately 195 minutes of cardiovascular training with a mix of intensities creating comprehensive adaptations.
 
+=================
+
 ### Cardiovascular Training Equipment and Gear Essentials
 
 **Quality Running Shoes**: If running is your primary cardiovascular activity, proper footwear is crucial for injury prevention and comfort. Visit a running specialty store for gait analysis and proper fitting. Quality running shoes cost $100-150 but typically last 300-500 miles—a worthwhile investment considering they protect your knees, ankles, and feet from the repetitive impact of thousands of foot strikes.
