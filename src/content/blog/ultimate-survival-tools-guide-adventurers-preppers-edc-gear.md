@@ -312,7 +312,7 @@ Snow and ice must be melted before consumption—eating frozen water causes dang
 
 Multiple purification methods exist, each with advantages, limitations, and appropriate applications.
 
-Boiling kills all biological contaminants through sustained heat, making it the most reliable purification method for biological threats. Bring water to rolling boil for 1 minute at sea level (3 minutes above 6,500 feet) to kill bacteria, viruses, protozoans, and parasites. Boiling requires fire or stove, fuel, time, and container—making it impractical for immediate needs or when traveling. Boiled water tastes flat due to oxygen loss; aerating by pouring between containers improves taste.
+[Boiling kills all biological contaminants through sustained heat, making it the most reliable purification method for biological threats. Bring water to rolling boil for 1 minute at sea level (3 minutes above 6,500 feet) to kill bacteria, viruses, protozoans, and parasites](https://www.cdc.gov/drinking-water/prevention/water-treatment-hiking-camping-traveling.html). Boiling requires fire or stove, fuel, time, and container—making it impractical for immediate needs or when traveling. Boiled water tastes flat due to oxygen loss; aerating by pouring between containers improves taste.
 
 Chemical purification using iodine or chlorine tablets kills most organisms through chemical reactions. These tablets are lightweight, inexpensive, require no energy, and work relatively quickly (30 minutes to 4 hours depending on temperature and organism). However, they don't remove sediment or chemical contaminants, taste unpleasant, and iodine shouldn't be used long-term (more than a few weeks) or by pregnant women. Popular options include Potable Aqua, Aquatabs, and chlorine dioxide tablets.
 
@@ -360,7 +360,7 @@ Shelter protects against environmental threats—exposure to extreme temperature
 
 **The Shelter Priority**
 
-The Rule of Threes states you can survive three hours without shelter in harsh conditions—hypothermia from cold exposure or hyperthermia from heat can kill quickly. Even in moderate conditions, shelter dramatically improves comfort, morale, and sleep quality, all crucial for maintaining physical and mental performance during survival situations or extended outdoor trips.
+[The rule of three states that the probability of surviving for three hours without shelter in harsh conditions - hypothermia caused by exposure to cold or hyperthermia caused by heat can kill quickly](https://www.ready.gov/kit). Even in moderate conditions, shelter dramatically improves comfort, morale, and sleep quality, all crucial for maintaining physical and mental performance during survival situations or extended outdoor trips.
 
 Clothing represents your first layer of shelter, providing immediate temperature regulation. The layering system includes base layers wicking moisture away from skin, insulation layers trapping warm air, and outer shell layers blocking wind and precipitation. Understanding proper clothing selection and layering prevents many exposure problems before they develop, reducing reliance on emergency shelters.
 
@@ -436,7 +436,7 @@ Getting lost represents one of the most common outdoor emergencies, often escala
 
 Despite GPS technology dominance, traditional navigation tools remain essential for serious outdoor activities and survival preparedness.
 
-Topographic maps show terrain features through contour lines, enabling route planning, position determination, and terrain interpretation. Quality topographic maps for your areas provide critical information that digital devices can't match when batteries die or electronics fail. USGS 1:24,000 scale maps (7.5 minute quadrangles) offer excellent detail for hiking and land navigation in the United States. Learn to read contour lines understanding elevation changes, identify terrain features, and correlate map features with actual landscape.
+Topographic maps show terrain features through contour lines, enabling route planning, position determination, and terrain interpretation. [Quality topographic maps for your areas provide critical information that digital devices can't match when batteries die or electronics fail. USGS 1:24,000 scale maps (7.5 minute quadrangles) offer excellent detail for hiking and land navigation in the United States](https://www.usgs.gov/programs/national-geospatial-program/topographic-maps). Learn to read contour lines understanding elevation changes, identify terrain features, and correlate map features with actual landscape.
 
 Compasses determine direction through magnetic needles aligning with Earth's magnetic field. Quality baseplate compasses (like Silva or Suunto) combine compass with rulers, scales, and rotating bezels enabling precise navigation. Learn fundamental compass skills—taking bearings, following bearings, triangulation for position determination, declination adjustment for magnetic variation. Practice these skills regularly; they're perishable abilities requiring maintenance.
 
@@ -542,7 +542,7 @@ Equipment without knowledge provides limited benefit—proper training dramatica
 
 Basic first aid courses teach fundamental injury and illness treatment—CPR, choking response, bleeding control, fracture stabilization, basic wound care. These courses typically take 4-8 hours, with certification valid for two years. Organizations like American Red Cross and American Heart Association offer standardized training accessible nationwide.
 
-Wilderness first aid addresses specific challenges of remote environments where evacuation takes hours or days rather than minutes. Extended patient care, improvisation with limited supplies, environmental injury treatment (hypothermia, altitude sickness, etc.), and evacuation decision-making receive emphasis. Wilderness First Aid (WFA) courses take 16-20 hours over 2-3 days.
+Wilderness first aid addresses specific challenges of remote environments where evacuation takes hours or days rather than minutes. Extended patient care, improvisation with limited supplies, environmental injury treatment (hypothermia, altitude sickness, etc.), and evacuation decision-making receive emphasis. [Wilderness First Aid (WFA) courses take 16-20 hours over 2-3 days.](https://www.redcross.org/take-a-class/cpr/wilderness-sports)
 
 Wilderness First Responder (WFR) provides advanced wilderness medical training over 70-80 hours (8-10 days). This comprehensive training covers extended patient assessment and care, dealing with serious injuries and illnesses in remote settings, making difficult decisions about treatment and evacuation, and managing group dynamics during emergencies. WFR certification is often required or strongly recommended for outdoor professionals—guides, instructors, expedition leaders.
 
