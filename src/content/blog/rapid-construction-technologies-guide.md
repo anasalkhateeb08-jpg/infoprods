@@ -478,14 +478,14 @@ A: Availability varies by location and specific technology. Major metropolitan a
 
 A: Yes, though with limitations. Modular additions can expand existing buildings—manufacturing new modules and connecting them to existing structures. This approach works well for vertical expansions (adding floors to existing buildings) or horizontal additions where access permits module delivery and placement. 3D printing suits certain renovation applications—printing new walls, additions, or architectural features. However, constrained urban sites with difficult access may limit module delivery. Each renovation project requires case-by-case assessment of rapid construction method viability.
 
-<a href="الرابط" style="
-  color: #C4476A;
+<span style="
+  color: #C19700 ;
   font-weight: bold;
   font-size: 18px;
   animation: pulse 2s infinite;
-  text-decoration: none;
   display: inline-block;
-"> Articles related:  </a>
+">Articles related:</span>
+
 <style>
 @keyframes pulse {
   0%, 100% { opacity: 1; transform: scale(1); }
@@ -493,7 +493,68 @@ A: Yes, though with limitations. Modular additions can expand existing buildings
 }
 </style>
 
-- ["Best Car Accessories for Comfort and Safety 2026 Complete Collection"](https://infoprods.com/blog/best-car-accessories-comfort-safety-2026)
-- ["Home Decor Ideas for Small Spaces 2026: 4 Smart Solutions from AliExpress - Complete Transformation Guide!"](https://infoprods.com/blog/home-decor-ideas-small-spaces-2026-aliexpress-guide)
-- [Smart Home Devices Worth Buying in 2026: The Complete Guide to Building Your Intelligent Home](https://infoprods.com/blog/smart-home-devices-worth-buying-2026)
-- [Minimalist Living Room Ideas: The Complete Guide to Serene, Clutter-Free Spaces](https://infoprods.com/blog/minimalist-living-room-ideas-complete-guide)
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
+
+<div class="related-articles-grid">
+  
+  <a href="https://infoprods.com/blog/winter-summer-home-setup" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Winter vs Summer Home Setup.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Winter vs Summer Home Setup: Save 40% on Energy Bills
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/smart-home-vs-traditional-home-5-year-cost-comparison-projected-costs" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/u6u6u56.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Smart home vs traditional home: A comprehensive guide to projected 5-year cost analysis (2026)
+    </div>
+  </a>
+  
+  <a href="https://infoprods.com/blog/complete-guide-weird-innovative-cleaning-gadgets-make-life-easier" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/photo-1585421514284-efb74c2b69ba.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     The Complete Guide to Weird and Innovative Cleaning Gadgets That Make Life Easier
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/minimalist-living-room-ideas-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/minimalist-living-room-19-1024x681.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Minimalist Living Room Ideas: The Complete Guide to Serene, Clutter-Free Spaces
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/smart-insulating-glass-homes-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/61e4a524a949f49a92489372_glass-wall-53.jpeg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Smart and Insulating Glass for Homes: The Complete Guide to Modern Window Technology
+    </div>
+  </a>
+  
+  <a href="https://infoprods.com/blog/home-decor-ideas-small-spaces-2026-aliexpress-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/dd1.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Home Decor Ideas for Small Spaces 2026: 4 Smart Solutions from AliExpress - Complete Transformation Guide!
+    </div>
+  </a>
+
+  <a href="https://infoprods.com/blog/smart-home-devices-worth-buying-2026" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/home.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Smart Home Devices Worth Buying in 2026: The Complete Guide to Building Your Intelligent Home
+    </div>
+  </a>
+</div>
