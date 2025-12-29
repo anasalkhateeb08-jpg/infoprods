@@ -80,7 +80,7 @@ The future of construction isn't coming—it's here, being built right now at un
 
 ### Understanding Prefabrication and Modular Construction
 
-[Prefabrication and modular construction](https://www.mdpi.com/2673-8392/2/1/6?utm_source=copilot.com) represent the most mature and widely adopted rapid construction technologies, fundamentally changing where and how buildings are constructed. Instead of building everything on-site exposed to weather, coordination challenges, and variable quality control, major building components or even entire building modules are manufactured in controlled factory environments, then transported to sites for rapid assembly.
+Prefabrication and modular construction represent the most mature and widely adopted rapid construction technologies, fundamentally changing where and how buildings are constructed. Instead of building everything on-site exposed to weather, coordination challenges, and variable quality control, major building components or even entire building modules are manufactured in controlled factory environments, then transported to sites for rapid assembly.
 
 **Prefabricated construction** manufactures building components (wall panels, floor systems, roof trusses, bathroom pods, MEP systems) in factories, delivering them to construction sites where workers assemble components into complete buildings. Prefabrication ranges from simple pre-cut framing lumber to sophisticated panelized systems with finishes, insulation, windows, and wiring already installed.
 
