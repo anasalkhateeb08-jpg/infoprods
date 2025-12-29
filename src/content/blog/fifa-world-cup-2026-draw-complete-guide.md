@@ -1,5 +1,5 @@
 ---
-title: 'FIFA World Cup Draw: Complete Guide to Historic Tournament Expansion and Debut Teams'
+title: 'FIFA World Cup Draw 2026: Complete Guide to Historic Tournament Expansion and Debut Teams'
 description: Comprehensive guide to the historic FIFA World Cup 2026 draw results, featuring 48 teams for the first time. Discover debut nations Jordan, Uzbekistan, Cape Verde, and Curaçao, plus new tournament format, 16 stadiums, and complete group breakdowns in this unprecedented tri-nation championship.
 author: InfoProds Team
 date: 2025-12-07T16:41:00
