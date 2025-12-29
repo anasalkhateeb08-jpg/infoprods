@@ -54,7 +54,7 @@ productBrand: ''
 
 ## Introduction: Nutrition as Your Performance Foundation
 
-You train hard. You push your body to its limits. You invest hours in the [gym](https://infoprods.com/blog/best-home-gym-equipment-2026-complete-guide-reviews), on the track, in the pool, or on the field. But here's the truth that separates good athletes from great ones: **training is only half the equation**. The other half—often the more important half—is what you put into your body.
+You train hard. You push your body to its limits. You invest hours in the gym, on the track, in the pool, or on the field. But here's the truth that separates good athletes from great ones: **training is only half the equation**. The other half—often the more important half—is what you put into your body.
 
 Elite athletes understand something fundamental that recreational fitness enthusiasts often overlook: **you cannot out-train a bad diet**. No matter how intense your workouts, how perfect your form, or how dedicated your training schedule, poor nutrition will sabotage your progress, limit your potential, and leave you perpetually falling short of your goals.
 
@@ -66,7 +66,7 @@ The consequences are predictable and frustrating: **plateaued progress** despite
 
 This comprehensive guide cuts through the confusion, contradictions, and pseudoscience that plague athletic nutrition. We'll explore the fundamental macronutrients that fuel performance and build muscle, understand micronutrients' critical roles in energy production and recovery, master hydration strategies that prevent performance-killing dehydration, learn precise meal timing protocols maximizing training adaptations, discover what to eat before workouts for optimal energy and endurance, understand post-workout nutrition accelerating recovery and muscle growth, explore sport-specific nutritional approaches for different athletic demands, evaluate supplements separating evidence-based options from marketing hype, and identify common nutritional mistakes sabotaging progress.
 
-Whether you're a competitive athlete seeking every possible advantage, a serious recreational athlete wanting to maximize your limited training time, a [fitness](https://infoprods.com/blog/ultimate-guide-best-fitness-trackers-health-monitoring-wearables) enthusiast struggling to see results from your efforts, or someone transitioning from casual exercise to more structured athletic pursuits—this guide provides the evidence-based nutritional knowledge you need to transform your performance.
+Whether you're a competitive athlete seeking every possible advantage, a serious recreational athlete wanting to maximize your limited training time, a fitness enthusiast struggling to see results from your efforts, or someone transitioning from casual exercise to more structured athletic pursuits—this guide provides the evidence-based nutritional knowledge you need to transform your performance.
 
 Your body is a high-performance machine. Like any sophisticated machine, it requires the right fuel, delivered at the right time, in the right amounts. Feed it properly, and you'll unlock capabilities you didn't know you possessed. Neglect nutrition, and you'll never reach your true potential regardless of how hard you train.
 
@@ -78,7 +78,7 @@ Let's build your nutritional foundation for peak athletic performance.
 
 ## 1. The Three Pillars: Macronutrients for Athletes
 
-Macronutrients—proteins, carbohydrates, and fats—provide the energy and building blocks [your body ](https://infoprods.com/blog/ultimate-fitness-guide-2025-complete)needs for athletic performance. Understanding each macronutrient's role and optimizing your intake creates the foundation for all athletic nutrition.
+Macronutrients—proteins, carbohydrates, and fats—provide the energy and building blocks your body needs for athletic performance. Understanding each macronutrient's role and optimizing your intake creates the foundation for all athletic nutrition.
 
 ### Protein: Building and Repairing Your Body
 
@@ -425,11 +425,11 @@ Athletes lose approximately 500-1,000 mg sodium per liter of sweat. During exerc
 - Headache
 - Confusion
 - Swollen hands/feet
-- Rapid [weight gain](https://infoprods.com/blog/healthy-weight-gain-skinny-people-meal-plan-foods-build-muscle) during exercise
+- Rapid weight gain during exercise
 
 ### Practical Hydration Tips
 
-**Develop a [hydration](https://www.healthline.com/nutrition/electrolytes-drinks) routine:** Don't rely on thirst—establish scheduled fluid intake before, during, and after training.
+**Develop a hydration routine:** Don't rely on thirst—establish scheduled fluid intake before, during, and after training.
 
 **Monitor body weight:** Weigh yourself before and after training sessions. Significant weight loss indicates dehydration requiring adjustment to fluid intake strategies.
 
@@ -1121,7 +1121,7 @@ Athletic nutrition isn't about perfection—it's about consistency, strategic ap
 
 **Your nutritional foundation:**
 
-**1. Meet total daily caloric needs** [supporting training](https://infoprods.com/blog/best-herbs-for-mental-clarity-focus-cognitive-support), recovery, and physiological functions. Most athletes need 2,500-4,000+ calories daily.
+**1. Meet total daily caloric needs** supporting training, recovery, and physiological functions. Most athletes need 2,500-4,000+ calories daily.
 
 **2. Prioritize protein intake** (1.6-2.2 g/kg daily) distributed across 4-6 meals, emphasizing high-quality sources from both animal and plant origins.
 
