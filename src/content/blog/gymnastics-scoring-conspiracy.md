@@ -491,6 +491,8 @@ The acceptance that some subjectivity will always remain in artistic gymnastics 
 
 <div class="related-articles-grid">
   
+
+  
    <a href="https://infoprods.com/blog/free-throw-psychology-secret" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/throw-psychology-mental-game.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -501,7 +503,7 @@ The acceptance that some subjectivity will always remain in artistic gymnastics 
   <a href="https://infoprods.com/blog/olympic-gold-medals-truth" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/gold.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
-     https://infoprods.com/blog/free-throw-psychology-secret
+     Olympic Gold Medals Aren't Pure Gold: Material Worth $750
     </div>
   </a>
   
