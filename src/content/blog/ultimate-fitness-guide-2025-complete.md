@@ -212,7 +212,7 @@ This program covers all fundamental patterns multiple times weekly with appropri
 
 ### Essential Strength Training Equipment for Home Workouts
 
-You don't need an expensive [gym](https://infoprods.com/blog/best-home-gym-equipment-2026-complete-guide-reviews) membership or massive home gym to build impressive strength. Strategic equipment purchases create a highly effective training environment at home, saving time and money while providing training flexibility.
+You don't need an expensive gym membership or massive home gym to build impressive strength. Strategic equipment purchases create a highly effective training environment at home, saving time and money while providing training flexibility.
 
 **Adjustable Dumbbells**: The single most versatile strength training tool. Quality adjustable dumbbells ranging from 5-50+ pounds per hand enable hundreds of exercises covering all movement patterns. Look for sets with secure locking mechanisms and comfortable grip handles. Many people build complete physiques using only adjustable dumbbells.
 
@@ -258,7 +258,7 @@ Cardiovascular training isn't just "cardio"—multiple distinct training methods
 
 LISS often gets dismissed in favor of more intense training, but it provides unique benefits: extremely high calorie burn (due to long duration), improved mitochondrial density, enhanced fat metabolism, minimal muscle loss or interference with strength training, sustainable adherence, and powerful stress-reduction effects. For many people, LISS should comprise 60-80% of total cardiovascular training volume.
 
-**Moderate-Intensity Continuous Training (MICT)**: Training at approximately 70-85% of maximum heart rate for moderate durations (20-60 minutes). This represents the "traditional cardio" most people think of—steady-state [running](https://www.who.int/publications/i/item/9789240015128?utm_source=copilot.com), cycling, or rowing at a challenging but sustainable pace. MICT improves cardiovascular fitness, burns significant calories, and builds mental toughness while being more time-efficient than LISS.
+**Moderate-Intensity Continuous Training (MICT)**: Training at approximately 70-85% of maximum heart rate for moderate durations (20-60 minutes). This represents the "traditional cardio" most people think of—steady-state running, cycling, or rowing at a challenging but sustainable pace. MICT improves cardiovascular fitness, burns significant calories, and builds mental toughness while being more time-efficient than LISS.
 
 MICT occupies a middle ground that's neither the most effective for maximum cardiovascular adaptation (that's high-intensity training) nor optimal for recovery and fat oxidation (that's LISS). However, it's practical, time-efficient, and psychologically satisfying for many people who enjoy pushing themselves to moderate discomfort levels.
 
@@ -326,7 +326,7 @@ The compounding benefits of consistent mobility training include: reduced injury
 
 ### Dynamic Warm-Up: Preparing Your Body for Training
 
-Every training session should begin with a dynamic warm-up that gradually increases heart rate, raises tissue temperature, lubricates joints, activates neuromuscular patterns, and [mentally ](https://infoprods.com/blog/best-herbs-for-mental-clarity-focus-cognitive-support)prepares you for training. Dynamic warm-ups use controlled movement through progressively increasing ranges rather than static stretching (holding stretches), which research shows can temporarily reduce power output and doesn't effectively prepare you for training.
+Every training session should begin with a dynamic warm-up that gradually increases heart rate, raises tissue temperature, lubricates joints, activates neuromuscular patterns, and mentally prepares you for training. Dynamic warm-ups use controlled movement through progressively increasing ranges rather than static stretching (holding stretches), which research shows can temporarily reduce power output and doesn't effectively prepare you for training.
 
 **Sample Dynamic Warm-Up (10 minutes)**:
 
@@ -395,7 +395,7 @@ Spend 5-10 minutes daily on mobility work targeting your specific restrictions. 
 
 ### Macronutrient Fundamentals: Protein, Carbohydrates, and Fats
 
-[Understanding macronutrients](https://en.wikipedia.org/wiki/List_of_macronutrients)—protein, carbohydrates, and fats—is essential for optimizing body composition, performance, and recovery. Each macronutrient serves specific functions and should be consumed in appropriate amounts based on your goals and training demands.
+Understanding macronutrients—protein, carbohydrates, and fats—is essential for optimizing body composition, performance, and recovery. Each macronutrient serves specific functions and should be consumed in appropriate amounts based on your goals and training demands.
 
 **Protein: The Building Block of Adaptation**
 
@@ -403,7 +403,7 @@ Protein provides amino acids necessary for muscle protein synthesis—the proces
 
 Research consistently shows that active individuals training for muscle growth or strength need approximately 0.7-1.0 grams of protein per pound of body weight daily (1.6-2.2 g/kg). For a 150-pound person, that's 105-150 grams of protein daily. Endurance athletes have slightly lower requirements (0.5-0.7 g/lb) but still need substantially more than sedentary individuals.
 
-Protein timing matters less than total daily intake. The "anabolic window" where protein must be consumed immediately post-workout is largely myth—total daily protein intake drives muscle protein synthesis more than specific timing. That said, distributing protein relatively evenly across 3-5 [meals](https://infoprods.com/blog/healthy-weight-gain-skinny-people-meal-plan-foods-build-muscle) throughout the day slightly optimizes muscle protein synthesis compared to consuming most protein in one large [meal](https://infoprods.com/blog/meal-prep-tools-tips-complete-guide).
+Protein timing matters less than total daily intake. The "anabolic window" where protein must be consumed immediately post-workout is largely myth—total daily protein intake drives muscle protein synthesis more than specific timing. That said, distributing protein relatively evenly across 3-5 meals throughout the day slightly optimizes muscle protein synthesis compared to consuming most protein in one large meal.
 
 High-quality protein sources include lean meats (chicken, turkey, lean beef), fish, eggs, Greek yogurt, cottage cheese, protein powder, and legumes. Different sources have varying amino acid profiles and digestion rates, but any combination of high-quality sources meeting total daily requirements works well.
 
@@ -423,11 +423,11 @@ Dietary fats support hormone production (including testosterone and estrogen), p
 
 Active individuals should consume approximately 0.3-0.5 grams of fat per pound of body weight daily, or roughly 20-35% of total calories from fat. Going below this range can negatively impact hormone production and overall health. Very high fat intake (50%+ of calories) is unnecessary for most people and reduces carbohydrate availability for training performance.
 
-Emphasize unsaturated fats from sources like olive oil, avocados, nuts, seeds, and fatty fish. These provide anti-inflammatory omega-3 fatty acids and other beneficial compounds. Minimize trans fats from processed foods and don't fear saturated fats from whole foods like eggs, dairy, and meat—these aren't [the health](https://infoprods.com/blog/ultimate-guide-best-fitness-trackers-health-monitoring-wearables) demons they were once portrayed as, though they shouldn't dominate fat intake.
+Emphasize unsaturated fats from sources like olive oil, avocados, nuts, seeds, and fatty fish. These provide anti-inflammatory omega-3 fatty acids and other beneficial compounds. Minimize trans fats from processed foods and don't fear saturated fats from whole foods like eggs, dairy, and meat—these aren't the health demons they were once portrayed as, though they shouldn't dominate fat intake.
 
 ### Calorie Balance: The Foundation of Body Composition
 
-Body weight and body composition are primarily determined by calorie balance—the relationship between calories consumed and calories expended. This isn't the only factor (hormones, sleep, stress,[ food](https://infoprods.com/blog/nutrition-tips-athletes-complete-guide) quality all matter), but it's the dominant factor that determines whether you gain, lose, or maintain weight.
+Body weight and body composition are primarily determined by calorie balance—the relationship between calories consumed and calories expended. This isn't the only factor (hormones, sleep, stress, food quality all matter), but it's the dominant factor that determines whether you gain, lose, or maintain weight.
 
 **To lose fat**: Create a modest calorie deficit of 300-500 calories daily through some combination of eating less and moving more. Larger deficits create faster initial weight loss but are difficult to sustain, often lead to muscle loss along with fat loss, create greater metabolic adaptation, and typically result in weight regain when the diet ends. Slow, steady fat loss of 0.5-1% of body weight weekly is optimal for preserving muscle and maintaining metabolic rate.
 
@@ -475,7 +475,7 @@ Most pre-workout supplements, BCAAs (if protein intake is adequate), testosteron
 
 ### Sleep: The Ultimate Performance Enhancer
 
-[Sleep is when your body actually adapts to training stimulus](https://www.technologynetworks.com/proteomics/news/sleep-powers-muscle-bone-and-brain-404513?utm_source=copilot.com). During deep sleep, growth hormone release peaks, muscle protein synthesis accelerates, metabolic waste is cleared from the brain, motor learning is consolidated, and immune function strengthens. Inadequate sleep doesn't just make you tired—it directly impairs training adaptation, performance, body composition, and injury prevention.
+Sleep is when your body actually adapts to training stimulus. During deep sleep, growth hormone release peaks, muscle protein synthesis accelerates, metabolic waste is cleared from the brain, motor learning is consolidated, and immune function strengthens. Inadequate sleep doesn't just make you tired—it directly impairs training adaptation, performance, body composition, and injury prevention.
 
 Research on athletes shows that sleep deprivation (<7 hours nightly) increases injury risk by nearly 2x, impairs reaction time and decision-making equivalently to alcohol intoxication, reduces time to exhaustion during endurance exercise by 10-30%, and decreases muscle protein synthesis despite adequate protein intake.
 
