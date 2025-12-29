@@ -514,7 +514,7 @@ Carbohydrate benefits for muscle building:
 - **Insulin response:** Carbs trigger insulin release, which has anabolic effects promoting nutrient uptake into muscle cells
 - **Training performance:** Carbs enable the high-intensity training necessary for stimulating muscle growth
 - **Recovery:** Post-workout carbs replenish glycogen stores supporting faster recovery
-- **Calorie density:** [Carbs ](https://medlineplus.gov/carbohydrates.html#:~:text=Carbohydrates%2C%20or%20carbs%2C%20are%20sugar,cells%2C%20tissues%2C%20and%20organs.)make hitting high calorie targets easier than trying to eat excessive protein or fat
+- **Calorie density:** Carbs make hitting high calorie targets easier than trying to eat excessive protein or fat
 
 **Carbohydrate Timing:**
 
@@ -559,7 +559,7 @@ Excessively high fat (>35% calories) limits carbohydrate intake potentially impa
 - Nuts and nut butters (190-200 calories, 16-18g fat per 2 tablespoons peanut/almond butter—extremely calorie-dense)
 - Avocados (240 calories, 22g fat per avocado—nutrient-dense, healthy fats)
 - Olive oil (120 calories, 14g fat per tablespoon—cooking or dressing)
-- [Fatty fish ](https://chhs.source.colostate.edu/wild-caught-vs-farm-raised-seafood/)(salmon, mackerel—protein plus healthy fats)
+- Fatty fish (salmon, mackerel—protein plus healthy fats)
 - Whole eggs (70 calories, 5g fat per egg—yolk contains most nutrients)
 - Cheese (110 calories, 9g fat per ounce—calorie-dense, versatile)
 - Coconut oil (120 calories, 14g fat per tablespoon—MCTs, useful for cooking)
@@ -644,7 +644,7 @@ Monitor how your body responds and adjust accordingly:
 - Use liquid calories (shakes, milk) reducing solid food volume
 - Choose low-fiber carb sources (white rice, pasta) over high-fiber options
 
-Mastering macronutrient balance transforms random eating into strategic nutrition supporting your muscle-building goals. The high-carb, moderate-protein, moderate-fat approach enables hitting necessary calorie surpluses while fueling intense [training ](https://infoprods.com/blog/ultimate-fitness-guide-2025-complete)and supporting recovery—the combination required for healthy weight gain. While exact ratios matter less than total calories and adequate protein, optimizing macros fine-tunes your results maximizing muscle gain relative to fat gain.
+Mastering macronutrient balance transforms random eating into strategic nutrition supporting your muscle-building goals. The high-carb, moderate-protein, moderate-fat approach enables hitting necessary calorie surpluses while fueling intense training and supporting recovery—the combination required for healthy weight gain. While exact ratios matter less than total calories and adequate protein, optimizing macros fine-tunes your results maximizing muscle gain relative to fat gain.
 
 <a name="foods"></a>
 
@@ -838,7 +838,7 @@ Building meals that hit calorie and macro targets requires knowing which specifi
 
 **Bagels**
 
-- [Nutrition](https://infoprods.com/blog/nutrition-tips-athletes-complete-guide): 65g carbs, 10g protein, 280 calories per large bagel
+- Nutrition: 65g carbs, 10g protein, 280 calories per large bagel
 - Benefits: Dense, substantial, base for calorie-dense toppings
 - Usage: With cream cheese and/or nut butter, breakfast sandwiches
 - Tip: Top with cream cheese (100 cal/oz) and nut butter (200 cal/2 tbsp) for 580+ calorie breakfast
@@ -1221,7 +1221,7 @@ Fruit/flavor (50-200 cal):
 - Dates (very calorie-dense)
 - Raisins
 - Dried mango or pineapple
-- Mixed with almonds or cashews Benefits: Natural sugars plus[ healthy ](https://infoprods.com/blog/ultimate-guide-best-fitness-trackers-health-monitoring-wearables)fats, extremely portable Tip: Portion control easy—small handful provides substantial calories
+- Mixed with almonds or cashews Benefits: Natural sugars plus healthy fats, extremely portable Tip: Portion control easy—small handful provides substantial calories
 
 **Cheese and Crackers** (400 calories)
 
@@ -1333,7 +1333,7 @@ Protein powder represents the most common and useful supplement for weight gain:
 
 **Types of Protein Powder:**
 
-- **Whey protein concentrate:** Most affordable, 70-80% [protein](https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/are-you-getting-too-much-protein), small amounts of lactose and fat
+- **Whey protein concentrate:** Most affordable, 70-80% protein, small amounts of lactose and fat
 - **Whey protein isolate:** More expensive, 90%+ protein, minimal lactose (better for lactose-sensitive individuals)
 - **Casein protein:** Slow-digesting, ideal before bed for sustained amino acid release
 - **Plant-based proteins:** Pea, rice, hemp, or blends for vegetarians/vegans or dairy-sensitive individuals
@@ -1944,7 +1944,7 @@ Attempting to gain weight through diet alone without resistance training, or tra
 
 **Why It Fails:**
 
-- Surplus becomes primarily fat without [muscle-building stimulus](https://en.wikipedia.org/wiki/Muscle_hypertrophy)
+- Surplus becomes primarily fat without muscle-building stimulus
 - No hormonal signals directing nutrients to muscle
 - Poor body composition despite weight gain
 - Wasted opportunity to build functional strength
@@ -2095,7 +2095,7 @@ Your individual journey will involve customization based on your specific metabo
 
 The timeline for meaningful transformation spans months to years depending on starting point and goals. Gaining 20-30 pounds of muscle—enough to transform appearance from thin to athletic—requires 12-24+ months of consistent effort given realistic muscle-building rates of 1-2 pounds monthly initially, slowing as you progress. This extended timeline demands patience and perspective, viewing each month's small gains as steps toward cumulative transformation rather than expecting dramatic weekly changes. The compound interest of consistent effort over years produces remarkable results impossible through short-term intensity followed by abandonment.
 
-The psychological aspects of weight gain deserve recognition alongside physical strategies. Being naturally thin often comes with identity and self-image components—you've perhaps always been "the skinny one," with that label becoming part of how you see yourself and how others perceive you. Gaining weight challenges this identity, potentially creating internal resistance or social awkwardness as you transform. Some friends or family may make comments about your changing body, workouts, or eating habits—sometimes supportive but occasionally undermining through jokes or skepticism. Building [mental ](https://infoprods.com/blog/best-herbs-for-mental-clarity-focus-cognitive-support)resilience alongside physical strength helps you persist despite these social dynamics.
+The psychological aspects of weight gain deserve recognition alongside physical strategies. Being naturally thin often comes with identity and self-image components—you've perhaps always been "the skinny one," with that label becoming part of how you see yourself and how others perceive you. Gaining weight challenges this identity, potentially creating internal resistance or social awkwardness as you transform. Some friends or family may make comments about your changing body, workouts, or eating habits—sometimes supportive but occasionally undermining through jokes or skepticism. Building mental resilience alongside physical strength helps you persist despite these social dynamics.
 
 The health improvements accompanying proper weight gain extend beyond aesthetics to functional and medical benefits including increased strength for daily activities and recreation, improved bone density reducing osteoporosis risk, enhanced immune function reducing illness frequency, better temperature regulation and cold tolerance, normalized hormone levels including testosterone in men, reduced injury risk from improved muscle protection, enhanced athletic performance across most domains, and improved metabolic health including insulin sensitivity and cardiovascular markers. These health benefits make weight gain efforts worthwhile even beyond appearance changes.
 
