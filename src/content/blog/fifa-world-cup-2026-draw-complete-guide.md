@@ -65,7 +65,7 @@ History was made on December 5, 2025, when FIFA conducted the most anticipated d
 
 The magnitude of this moment cannot be overstated. Since the World Cup expanded to 32 teams in 1998—a format that became the standard for nearly three decades—football fans worldwide grew accustomed to a specific tournament structure: eight groups of four teams, 64 total matches, and a straightforward progression to knockout rounds. That familiar framework has now been completely reimagined for an unprecedented era of expanded global competition.
 
-[The 2026 FIFA World Cup represents football's most ambitious undertaking: 48 nations competing across three countries (United States, Mexico, and Canada), 16 world-class stadiums spanning four time zones, 104 total matches over 39 days](https://en.wikipedia.org/wiki/2026_FIFA_World_Cup), and a revolutionary tournament format featuring 12 groups and a new Round of 32. This expansion isn't merely numerical—it's philosophical, reflecting FIFA's commitment to bringing football's greatest stage to more nations, more fans, and more corners of the globe than ever before.
+The 2026 FIFA World Cup represents football's most ambitious undertaking: 48 nations competing across three countries (United States, Mexico, and Canada), 16 world-class stadiums spanning four time zones, 104 total matches over 39 days, and a revolutionary tournament format featuring 12 groups and a new Round of 32. This expansion isn't merely numerical—it's philosophical, reflecting FIFA's commitment to bringing football's greatest stage to more nations, more fans, and more corners of the globe than ever before.
 
 The significance extends far beyond logistics and infrastructure. Four nations—Jordan, Uzbekistan, Cape Verde, and Curaçao—will experience their first-ever World Cup appearances, representing continents and communities that have dreamed of this moment for generations. Curaçao, with a population of just 156,000, becomes the smallest nation by population to ever qualify, demonstrating that football excellence isn't determined by geography or resources alone. These debut nations embody the expansion's core promise: providing pathways to glory for footballing nations previously locked out of the sport's ultimate stage.
 
@@ -416,7 +416,7 @@ Curaçao's qualification resonates beyond football. For small island nations and
 
 ## 4. Revolutionary 48-Team Format Explained
 
-[The expansion from 32 to 48 teams represents FIFA's most significant structural change since the tournament adopted 32 teams in 1998](https://www.espn.com/soccer/story/_/id/47108758/2026-fifa-world-cup-format-tiebreakers-fixtures-schedule). This isn't merely numerical expansion—it's a fundamental reimagining of World Cup structure, qualification pathways, and competitive dynamics.
+The expansion from 32 to 48 teams represents FIFA's most significant structural change since the tournament adopted 32 teams in 1998. This isn't merely numerical expansion—it's a fundamental reimagining of World Cup structure, qualification pathways, and competitive dynamics.
 
 ### Why Expand? FIFA's Rationale
 
@@ -566,7 +566,7 @@ The 2026 tournament will test whether expansion enhances or diminishes World Cup
 
 ## 5. The 16 Stadiums Hosting Football History
 
-[The 2026 World Cup will unfold across 16 stadiums in three nations—the most venues since the 2002 tournament in Japan and South Korea (which used 20 stadiums)](https://www.nbcsports.com/soccer/news/2026-world-cup-schedule-confirmed-dates-times-stadiums-full-details). This geographic spread creates logistical complexity but allows more fans to experience matches without traveling across continents.
+The 2026 World Cup will unfold across 16 stadiums in three nations—the most venues since the 2002 tournament in Japan and South Korea (which used 20 stadiums). This geographic spread creates logistical complexity but allows more fans to experience matches without traveling across continents.
 
 Due to FIFA's strict rules against commercial stadium naming, venues will use alternative names during the tournament (shown in parentheses where applicable). Here's the complete stadium guide:
 
@@ -1227,3 +1227,62 @@ A: Tiebreakers in order: (1) Points, (2) Goal difference, (3) Goals scored, (4) 
 **Q: Can teams from the same group meet again in knockout rounds?**
 
 A: Not immediately. The bracket structure prevents group opponents from meeting until the final (if at all). Specific bracket placement depends on group finishes and third-place team distributions.
+
+<span style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 18px;
+  animation: pulse 2s infinite;
+  display: inline-block;
+">Articles related:</span>
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.7; transform: scale(1.05); }
+}
+</style>
+
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
+
+<div class="related-articles-grid">
+  
+  <a href="https://infoprods.com/blog/gymnastics-scoring-conspiracy" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/gymnastics-scoring.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Gymnastics Scoring Conspiracy: How Judges Actually Decide Winners
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/free-throw-psychology-secret" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/throw-psychology-mental-game.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Why Basketball Players Miss Free Throws: 15-Foot Psychology Secret
+    </div>
+  </a>
+  
+  <a href="https://infoprods.com/blog/olympic-gold-medals-truth" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/gold.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Olympic Gold Medals Aren't Pure Gold: Material Worth $750
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/fifa-world-cup-2026-draw-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/fifa_world_cup_trophy.png" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     FIFA World Cup Draw: Complete Guide to Historic Tournament Expansion and Debut Teams
+    </div>
+  </a>
+</div>
