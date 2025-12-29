@@ -26,7 +26,7 @@ The way we think about small spaces has fundamentally shifted. What was once see
 
 **Economic Accessibility:** Smaller spaces are more affordable, allowing people to live in desirable locations without breaking the bank. Smart design maximizes the value of every square foot.
 
-**Environmental Sustainability:** [Smaller homes require less energy to heat and cool, use fewer materials, and encourage mindful consumption](https://www.energy.gov/energysaver/efficient-home-design). In 2026, this aligns perfectly with growing environmental consciousness.
+**Environmental Sustainability:** Smaller homes require less energy to heat and cool, use fewer materials, and encourage mindful consumption. In 2026, this aligns perfectly with growing environmental consciousness.
 
 **Lifestyle Flexibility:** Compact living supports mobile, flexible lifestyles. Whether you're a young professional, a digital nomad, or someone downsizing, small spaces adapt to changing life circumstances.
 
@@ -615,7 +615,7 @@ Small spaces still need personality, warmth, and individual character. The chall
 
 ### Why Plants Are Perfect for Small Spaces
 
-**Biophilic Benefits:** [Humans have an innate connection to nature. Bringing plants indoors reduces stress, improves mood, and creates psychological comfort](https://www.health.harvard.edu/mind-and-mood/sour-mood-getting-you-down-get-back-to-nature)—especially valuable in compact living.
+**Biophilic Benefits:** Humans have an innate connection to nature. Bringing plants indoors reduces stress, improves mood, and creates psychological comfort—especially valuable in compact living.
 
 **Air Quality Improvement:** Many common houseplants naturally filter air pollutants and produce oxygen, creating healthier indoor environments. NASA studies confirm plants remove toxins like formaldehyde and benzene.
 
@@ -1214,14 +1214,14 @@ Remember that creating your ideal small space is a journey, not a destination. S
 
 The items featured in this guide provide starting points, not prescriptions. Your taste, needs, and budget will guide your specific choices. Use these categories as frameworks, then make selections that resonate with your personal style and practical requirements.
 
-<a href="الرابط" style="
-  color: #C4476A;
+<span style="
+  color: #C19700 ;
   font-weight: bold;
   font-size: 18px;
   animation: pulse 2s infinite;
-  text-decoration: none;
   display: inline-block;
-"> Articles related:  </a>
+">Articles related:</span>
+
 <style>
 @keyframes pulse {
   0%, 100% { opacity: 1; transform: scale(1); }
@@ -1229,6 +1229,68 @@ The items featured in this guide provide starting points, not prescriptions. You
 }
 </style>
 
-- [Smart Home Devices Worth Buying in 2025: The Complete Guide to Building Your Intelligent Home](https://infoprods.com/blog/smart-home-devices-worth-buying-2025)
-- [Smart and Insulating Glass for Homes: The Complete Guide to Modern Window Technology](https://infoprods.com/blog/smart-insulating-glass-homes-guide)
-- [Minimalist Living Room Ideas: The Complete Guide to Serene, Clutter-Free Spaces](https://infoprods.com/blog/minimalist-living-room-ideas-complete-guide)
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
+
+<div class="related-articles-grid">
+  
+  <a href="https://infoprods.com/blog/winter-summer-home-setup" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Winter vs Summer Home Setup.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Winter vs Summer Home Setup: Save 40% on Energy Bills
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/smart-home-vs-traditional-home-5-year-cost-comparison-projected-costs" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/u6u6u56.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Smart home vs traditional home: A comprehensive guide to projected 5-year cost analysis (2026)
+    </div>
+  </a>
+  
+  <a href="https://infoprods.com/blog/complete-guide-weird-innovative-cleaning-gadgets-make-life-easier" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/photo-1585421514284-efb74c2b69ba.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     The Complete Guide to Weird and Innovative Cleaning Gadgets That Make Life Easier
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/minimalist-living-room-ideas-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/minimalist-living-room-19-1024x681.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Minimalist Living Room Ideas: The Complete Guide to Serene, Clutter-Free Spaces
+    </div>
+  </a>
+
+  <a href="https://infoprods.com/blog/rapid-construction-technologies-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/photo-1503387762-592deb58ef4e.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Rapid Construction Technologies: Complete Guide to Modern Fast Building Methods
+    </div>
+  </a>
+  
+   <a href="https://infoprods.com/blog/smart-insulating-glass-homes-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/61e4a524a949f49a92489372_glass-wall-53.jpeg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Smart and Insulating Glass for Homes: The Complete Guide to Modern Window Technology
+    </div>
+  </a>
+
+  <a href="https://infoprods.com/blog/smart-home-devices-worth-buying-2026" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/home.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Smart Home Devices Worth Buying in 2026: The Complete Guide to Building Your Intelligent Home
+    </div>
+  </a>
+</div>
