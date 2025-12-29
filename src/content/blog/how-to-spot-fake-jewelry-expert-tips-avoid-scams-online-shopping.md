@@ -9,6 +9,10 @@ tags:
   - fake jewelry detection, jewelry authentication, online jewelry scams, how to spot fake gold, fake diamond test, counterfeit jewelry, jewelry buying guide, online shopping safety, gemstone authentication, gold testing methods, silver verification, jewelry fraud prevention, authentic jewelry tips, fake jewelry signs
 howToName: ''
 howToDescription: ''
+howToTime: ''
+productName: ''
+productDescription: ''
+productBrand: ''
 ---
 ## Table of Contents
 
