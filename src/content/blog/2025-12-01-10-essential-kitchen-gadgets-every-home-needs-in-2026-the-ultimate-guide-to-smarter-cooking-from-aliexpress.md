@@ -189,7 +189,7 @@ In an era of rising food costs, throwing away food is throwing away money. A vac
 
 ## 4. Baking & Finishing Touches
 
-![Baking tray with silicone mat, garlic press, and fresh ingredients on kitchen counter.](/images/uploads/mt4.jfif "Baking Essentials - Silicone Mats and Garlic Press")
+![Baking tray with silicone mat, garlic press, and fresh ingredients on kitchen counter.](/images/uploads/mt4.jfif "Baking Essentials - Silicone Mats and Garlic Press.")
 
 The final category covers those "small but mighty" tools that make specific tasks infinitely easier.
 
