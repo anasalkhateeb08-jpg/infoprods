@@ -39,9 +39,7 @@ faqs:
     answer: The most dangerous mistakes lost individuals make according to search and rescue debriefing data include continued movement while panicked leading average 8 additional miles from last known position making search efforts exponentially harder, discarding clothing or gear while hot from exertion that later becomes critical when temperature drops and hypothermia threatens, ignoring shelter construction until too dark or too cold when fatigue and dropping temperatures make effective building nearly impossible, drinking untreated water from contaminated sources causing debilitating diarrhea and dehydration that compounds crisis, and failing to signal consistently when rescue teams nearby because of embarrassment or assumption that help won't come resulting in missed rescue opportunities that might not repeat.
   - question: How long can you realistically survive when lost in wilderness?
     answer: Wilderness survival duration when lost depends on environmental conditions, physical health, and psychological resilience with statistical analysis showing that healthy adults survive average 7-10 days in temperate conditions with water access but no food, 2-3 days in desert environments due to dehydration and heat stress, 24-48 hours in mountain winter conditions without proper shelter due to hypothermia risk, and potentially weeks in favorable conditions with water, shelter, and basic survival knowledge, while psychological factors prove equally critical with panic, depression, and giving up causing deaths even when physical survival remained possible making mental resilience often determining factor between those who survive until rescue versus those who succumb despite adequate resources.
-howToName: ''
-howToDescription: ''
-howToTime: ''
+'
 ---
 ## Table of Contents
 
