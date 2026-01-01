@@ -124,7 +124,7 @@ Quick Charge and Power Delivery input (where supported) dramatically reduce rech
 
 ### USB Standards and Port Types
 
-**USB-A (rectangular port):** Traditional USB port supporting standard charging and various fast charging protocols (Quick Charge, proprietary systems). Most power banks include 1-3 USB-A output ports. Ubiquitous compatibility but increasingly superseded by USB-C.
+**USB-A (rectangular port):** Traditional USB port supporting standard charging and various fast charging protocols ([Quick Charge, proprietary systems](https://www.pcmag.com/explainers/what-is-fast-charging)). Most power banks include 1-3 USB-A output ports. Ubiquitous compatibility but increasingly superseded by USB-C.
 
 **USB-C (oval reversible port):** Modern standard supporting higher power delivery (up to 100W+), bidirectional charging (same port for input and output), faster data transfer, and universal adoption across new devices. Premium power banks prioritize USB-C ports for maximum compatibility and capability.
 
@@ -325,7 +325,7 @@ The compact size makes this power bank practical for daily pocket carrying—mor
 
 **Best for:** Ultra-portability priority, pocket carrying, emergency backup, minimalist users, supplemental power alongside larger units.
 
-**Xiaomi Mi Power Bank 3 10,000mAh** ($18-25): Budget option offering surprising quality with 10,000mAh capacity, dual USB-A ports, USB-C input/output (18W), aluminum body, and Xiaomi's surprisingly good build quality at aggressive pricing. Performance and reliability exceed expectations for the price point.
+[**Xiaomi Mi Power Bank 3 10,000mAh**](https://www.lenovo.com/us/en/glossary/qi/?orgRef=https%253A%252F%252Fwww.google.com%252F) ($18-25): Budget option offering surprising quality with 10,000mAh capacity, dual USB-A ports, USB-C input/output (18W), aluminum body, and Xiaomi's surprisingly good build quality at aggressive pricing. Performance and reliability exceed expectations for the price point.
 
 While lacking brand recognition of Anker, Xiaomi produces quality electronics, and this power bank proves it. For budget-conscious buyers wanting 10,000mAh capacity with fast charging, this provides outstanding value.
 
@@ -443,7 +443,7 @@ Wireless charging capability adds convenience—place phone on power bank surfac
 
 The 10W wireless charging is reasonably fast (for wireless) though still slower than 18W wired. The ability to charge wirelessly overnight or at desks while keeping faster wired charging for urgent needs provides genuine versatility.
 
-**Best for:** Qi wireless device owners, overnight charging, desk use, those valuing convenience over maximum speed.
+**Best for:** [Qi wireless device ](https://www.lenovo.com/us/en/glossary/qi/?orgRef=https%253A%252F%252Fwww.google.com%252F)owners, overnight charging, desk use, those valuing convenience over maximum speed.
 
 **Mophie Powerstation Wireless XL 10,000mAh** ($60-70): Premium wireless power bank with 10,000mAh, 10W wireless charging, USB-C and USB-A wired ports, and Mophie's quality construction. Priority+ charging intelligently directs power to devices based on charging method and device needs.
 
