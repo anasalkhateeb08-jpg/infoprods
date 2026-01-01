@@ -800,7 +800,7 @@ Build quality is plastic but solid enough for the price—don't expect premium a
 
 **Why it's exceptional:**
 
-The Victus 15 offers **more restrained gaming aesthetics** than most budget gaming laptops—no aggressive angles, minimal RGB (just keyboard backlighting), and a professional-looking design that wouldn't look out of place in a classroom or library. For students or professionals who game but don't want to advertise it, the Victus's understated design is appealing.
+The Victus 15 offers **more restrained gaming aesthetics** than most [budget gaming laptops](https://www.pcmag.com/picks/the-best-cheap-gaming-laptops)—no aggressive angles, minimal RGB (just keyboard backlighting), and a professional-looking design that wouldn't look out of place in a classroom or library. For students or professionals who game but don't want to advertise it, the Victus's understated design is appealing.
 
 Gaming performance is similar to the Nitro 5: **the RTX 4050 handles 1080p gaming at medium-high settings**, achieving 60+ FPS in most modern titles and significantly higher frame rates in competitive esports games. The 144Hz display ensures smooth gameplay when frame rates exceed 60 FPS.
 
