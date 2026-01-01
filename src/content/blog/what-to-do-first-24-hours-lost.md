@@ -2,7 +2,7 @@
 title: 'What to Do in the First 24 Hours After Getting Lost: Real Survival Protocol'
 description: What to do when lost in wilderness? Follow this hour-by-hour survival protocol tested across real emergencies showing practical steps that prevent panic and save lives during critical first 24 hours.
 author: InfoProds Team
-date: 2026-01-01T18:30:00
+date: 2026-01-01T18:51:00
 image: /images/uploads/survival-Priorities.jpg
 category: Outdoor & Survival
 tags:
