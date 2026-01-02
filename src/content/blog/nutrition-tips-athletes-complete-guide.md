@@ -31,9 +31,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## Table of Contents
 
@@ -88,7 +88,7 @@ Protein provides amino acids—the building blocks for muscle tissue, enzymes, h
 
 **How Much Protein Do Athletes Need?**
 
-The International Society of Sports Nutrition recommends **1.4-2.0 grams of protein per kilogram of body weight daily** for athletes. This translates to:
+[The International Society of Sports Nutrition recommends **1.4-2.0 grams of protein per kilogram of body weight daily** for athletes](https://pubmed.ncbi.nlm.nih.gov/28642676/). This translates to:
 
 - **Endurance athletes:** 1.2-1.4 g/kg (lower end of spectrum)
 - **Strength/power athletes:** 1.6-2.0 g/kg (higher end)
@@ -335,7 +335,7 @@ Intense exercise generates reactive oxygen species (ROS)—free radicals that ca
 - **Iron:** If blood tests show deficiency (don't supplement without testing)
 - **Multivitamin:** Insurance policy for athletes with restricted diets or increased needs
 
-**Avoid mega-dosing:** More isn't always better. Excessive micronutrient intake can be harmful and interfere with absorption of other nutrients.
+**Avoid mega-dosing:** More isn't always better. [Excessive micronutrient intake can be harmful and interfere with absorption of other nutrients.](xcessive micronutrient intake can be harmful and interfere with absorption of other nutrients.)
 
 <a name="hydration"></a>
 
@@ -698,7 +698,7 @@ Post-training nutrition determines recovery speed, muscle growth, glycogen reple
 
 **Why post-workout protein matters:**
 
-Training creates micro-tears in muscle tissue and elevates muscle protein breakdown. Consuming protein post-workout **shifts balance from breakdown to synthesis**, provides amino acids for muscle repair, and maximizes training adaptations (muscle growth, strength gains).
+Training creates [micro-tears in muscle tissue](https://betterme.world/articles/micro-tears-in-muscles-after-workout/) and elevates muscle protein breakdown. Consuming protein post-workout **shifts balance from breakdown to synthesis**, provides amino acids for muscle repair, and maximizes training adaptations (muscle growth, strength gains).
 
 **Optimal post-workout protein: 20-40 grams of high-quality protein**
 
@@ -1183,7 +1183,7 @@ A: No. Supplements are supplemental—they enhance an already-solid nutritional 
 
 **Q: How much water should I drink during training?**
 
-A: Aim for 400-800 mL (14-28 oz) per hour during exercise, adjusted based on individual sweat rate, intensity, and environmental conditions. Calculate personal sweat rate by weighing before and after training—weight loss indicates fluid losses requiring replacement. For exercise exceeding 60 minutes, include electrolytes (sports drinks or electrolyte tablets).
+A: [Aim for 400-800 mL (14-28 oz) per hour during exercise, adjusted based on individual sweat rate](https://www.massgeneralbrigham.org/en/about/newsroom/articles/tips-for-staying-hydrated), intensity, and environmental conditions. Calculate personal sweat rate by weighing before and after training—weight loss indicates fluid losses requiring replacement. For exercise exceeding 60 minutes, include electrolytes (sports drinks or electrolyte tablets).
 
 **Q: Are carbohydrates bad for fat loss?**
 
