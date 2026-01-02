@@ -29,6 +29,8 @@ faqs:
   - question: Do herbs help with age-related cognitive decline
     answer: Some herbs like ginkgo and bacopa have been studied for age-related cognitive support, though results vary.
 howToName: ''
+howToDescription: ''
+howToTime: ''
 ---
 - [Introduction: Why Brain-Boosting Herbs Matter](#introduction)
 - [1. Ginkgo Biloba: Circulation and Cognitive Support](#ginkgo)
