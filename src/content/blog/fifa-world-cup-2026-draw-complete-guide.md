@@ -39,9 +39,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## Table of Contents
 
@@ -775,7 +775,7 @@ The 16 venues span approximately 5,000 miles (8,000 km) from Vancouver to Miami,
 
 The venue diversity showcases North American football's geographic spread while creating logistical challenges unprecedented in World Cup history. Success requires coordination across three nations, 16 cities, and millions of fans.
 
-![FIFA World Cup 2026 stadiums across USA Mexico Canada showing 16 venues hosting tournament matches](/images/uploads/FI5.jfif "World Cup 2026 Stadiums -Complete Guide to 16 Venues Across Three Nations")
+![FIFA World Cup 2026 stadiums across USA Mexico Canada showing 16 venues hosting tournament matches.](/images/uploads/FI5.jfif "World Cup 2026 Stadiums -Complete Guide to 16 Venues Across Three Nations")
 
 <a name="schedule"></a>
 
