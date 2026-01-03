@@ -31,9 +31,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## Table of Contents
 
@@ -715,7 +715,7 @@ Minimalist decor follows the "less is more" principle—every decorative element
 
 <a href="https://s.click.aliexpress.com/e/_c3z6QQwh" style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-minimalist-deco </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-![Scandinavian minimalist living room with light wood cozy textiles and hygge aesthetic](/images/uploads/mi5.jpg "Scandinavian Minimalist Living Room - Warm Cozy Simple Design")
+![Scandinavian minimalist living room with light wood cozy textiles and hygge aesthetic](/images/uploads/mi5.jpg "Scandinavian Minimalist Living Room - Warm Cozy Simplذe Design.")
 
 <a name="plants"></a>
 
