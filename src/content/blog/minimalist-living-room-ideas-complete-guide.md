@@ -735,7 +735,7 @@ Plants introduce organic life, color, texture, and air-purifying benefits to min
 
 **Bird of Paradise (Strelitzia):** Tall, paddle-shaped leaves create tropical drama. Requires bright light and regular watering. Grows 5-6 feet indoors.
 
-[**Rubber Plant (Ficus elastica)](https://en.wikipedia.org/wiki/Ficus_elastica):** Broad, glossy leaves on sturdy stems—easier than fiddle leaf figs while maintaining sculptural presence. Tolerates medium light and moderate watering.
+[\*\*Rubber Plant (Ficus elastica)](https://en.wikipedia.org/wiki/Ficus_elastica):\*\* Broad, glossy leaves on sturdy stems—easier than fiddle leaf figs while maintaining sculptural presence. Tolerates medium light and moderate watering.
 
 **Medium accent plants:**
 
