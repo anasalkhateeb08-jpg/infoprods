@@ -10,9 +10,9 @@ tags:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## Table of Contents
 
@@ -59,7 +59,7 @@ Whether you own a single precious engagement ring or an extensive jewelry collec
 
 **Rose gold** (pink gold) is gold alloyed with copper creating warm pink tones. The copper can oxidize slightly over time, potentially darkening the color subtly. Rose gold is slightly harder than yellow gold due to copper content, making it reasonably durable for daily wear.
 
-**Platinum** is extremely durable, dense, and naturally white. It doesn't require plating like white gold and won't fade or change color. Platinum develops a patina (subtle matte finish) over time from microscopic scratches—some people love this lived-in look while others prefer polished shine (restored through professional buffing). Platinum is heavier and more expensive than gold but extremely long-lasting, making it ideal for engagement rings and frequently-worn pieces.
+[**Platinum** is extremely durable](https://platinumjewelry.com/platinum-pulse/5-platinum-myths-debunked/), dense, and naturally white. It doesn't require plating like white gold and won't fade or change color. Platinum develops a patina (subtle matte finish) over time from microscopic scratches—some people love this lived-in look while others prefer polished shine (restored through professional buffing). Platinum is heavier and more expensive than gold but extremely long-lasting, making it ideal for engagement rings and frequently-worn pieces.
 
 **Sterling silver** (92.5% silver, 7.5% other metals, typically copper) is beautiful but tarnishes when exposed to air, moisture, and sulfur compounds. Tarnish is the black or brown discoloration forming on silver surfaces—not damage but oxidation that's easily removed. Silver is softer than gold, scratching more easily and requiring gentle handling.
 
@@ -295,7 +295,7 @@ Most white gold jewelry needs re-plating every 1-3 years. The process takes 1-2 
 
 1. Jeweler removes stones (if necessary for safety)
 2. Jewelry is cleaned thoroughly
-3. Rhodium is electroplated onto the surface
+3. [Rhodium is electroplated onto the surface](https://www.jewelersmutual.com/resources/individuals/silver/what-is-rhodium-plating)
 4. Stones are reset (if removed)
 5. Final polishing and inspection
 
@@ -538,7 +538,7 @@ Store photos digitally in cloud storage and physically in safety deposit box or 
 
 ## Conclusion: Jewelry as Heirlooms
 
-Fine jewelry represents investment—financial investment in precious materials, emotional investment in memories and relationships, and investment in beauty that transcends trends and time. With proper care, jewelry lasts not just lifetimes but generations, becoming treasured heirlooms carrying family history and stories.
+Fine jewelry represents investment—financial investment in precious materials, emotional investment in memories and relationships, and investment in beauty that transcends trends and time. With proper care, jewelry lasts not just lifetimes but generations, [becoming treasured heirlooms](https://familytreemagazine.com/preservation/heirlooms/family-archivist-grandmas-jewelry/) carrying family history and stories.
 
 The vintage engagement ring your grandmother wore survives to grace your hand because someone cared for it properly. The antique brooch passed through generations remains beautiful because owners understood preservation. Your jewelry deserves the same care, ensuring it remains gorgeous for your children, grandchildren, and great-grandchildren to treasure.
 
