@@ -77,7 +77,7 @@ These misconceptions reveal fundamental misunderstandings of minimalist principl
 
 The benefits of minimalist living room design extend far beyond aesthetics:
 
-**Psychological benefits:** Reduced visual clutter decreases mental stress and anxiety. Clean, organized spaces promote focus and creativity. Simplified environments facilitate genuine relaxation rather than subconscious to-do lists about organizing or cleaning.
+**Psychological benefits:** Reduced visual clutter [decreases mental stress and anxiety](sciencedirect.com/science/article/pii/S0272494425001550). Clean, organized spaces promote focus and creativity. Simplified environments facilitate genuine relaxation rather than subconscious to-do lists about organizing or cleaning.
 
 **Practical advantages:** Less furniture means easier cleaning and maintenance. Fewer items reduce the burden of ownership—less to organize, repair, or replace. Open spaces feel larger, making even modest living rooms feel spacious and airy.
 
@@ -325,7 +325,7 @@ Minimalist furniture selection requires strategic thinking—every piece must ea
 
 **Functional height:** Table surfaces should sit slightly below or even with sofa arms for comfortable reach from seated positions.
 
-**Built-in options:** Consider wall-mounted floating shelves as side table alternatives—they provide surface space while keeping floors clear.
+**Built-in options:** Consider [wall-mounted floating shelves](hgtv.com/decorating/design-ideas/floating-shelves-done-right-pictures) as side table alternatives—they provide surface space while keeping floors clear.
 
 **Ideal quantities:** Minimalism doesn't require matching side tables flanking every sofa. One well-placed side table often suffices. Consider whether you genuinely need surface space on both sofa ends or if one serves actual function while the other merely maintains symmetry.
 
@@ -735,7 +735,7 @@ Plants introduce organic life, color, texture, and air-purifying benefits to min
 
 **Bird of Paradise (Strelitzia):** Tall, paddle-shaped leaves create tropical drama. Requires bright light and regular watering. Grows 5-6 feet indoors.
 
-**Rubber Plant (Ficus elastica):** Broad, glossy leaves on sturdy stems—easier than fiddle leaf figs while maintaining sculptural presence. Tolerates medium light and moderate watering.
+[**Rubber Plant (Ficus elastica)](https://en.wikipedia.org/wiki/Ficus_elastica):** Broad, glossy leaves on sturdy stems—easier than fiddle leaf figs while maintaining sculptural presence. Tolerates medium light and moderate watering.
 
 **Medium accent plants:**
 
