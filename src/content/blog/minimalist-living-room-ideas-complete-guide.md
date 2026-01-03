@@ -510,7 +510,7 @@ Lighting fundamentally shapes how minimalist living rooms feel—good lighting m
 
 **Insufficient lighting quantity:** Minimalist aesthetics don't mean minimal lighting—adequate illumination is crucial for functionality and comfort. A living room typically needs 10-20 watts per square foot (LED equivalent) depending on ceiling height and natural light.
 
-**Neglecting corners:** Dark corners make spaces feel smaller and less inviting—place floor lamps, uplights, or table lamps in corners to prevent dead zones and create balanced illumination throughout the space.
+**Neglecting corners:** [Dark corners make spaces feel smaller and less](https://www.thespruce.com/lighting-your-home-8706085) inviting—place floor lamps, uplights, or table lamps in corners to prevent dead zones and create balanced illumination throughout the space.
 
 **Visible bulbs in inappropriate fixtures:** Unless using attractive Edison-style LED bulbs as deliberate design elements, visible bulbs look unfinished—choose fixtures with appropriate shades or diffusers concealing bulbs.
 
