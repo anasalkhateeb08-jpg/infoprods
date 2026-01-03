@@ -40,6 +40,8 @@ faqs:
   - question: Should jewelry be part of a diversified investment portfolio?
     answer: Jewelry can provide portfolio diversification through low correlation with stocks and bonds, tangible asset characteristics offering inflation protection, and wealth preservation during currency devaluation, but should comprise only five to fifteen percent of total investment assets due to high transaction costs, storage requirements, insurance expenses, and liquidity limitations compared to financial securities. The allocation makes most sense for high-net-worth individuals with portfolios exceeding two million dollars where small percentage allocations provide meaningful diversification without creating liquidity problems or excessive concentration in hard-to-sell assets requiring specialized knowledge for profitable management.
 howToName: ''
+howToDescription: ''
+howToTime: ''
 ---
 ## **Table of Contents**
 
