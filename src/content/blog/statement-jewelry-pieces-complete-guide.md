@@ -31,9 +31,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## Table of Contents
 
@@ -106,7 +106,7 @@ Statement necklaces are perhaps the most immediately impactful category of bold 
 **Style characteristics:**
 
 - **Construction:** Rigid collars maintain specific shapes; flexible collars drape and conform to neck curves; hinged collars open for easy wearing
-- **Designs:** Bib collars feature layered, cascading elements; tribal-inspired collars incorporate ethnic motifs and materials; modern geometric collars emphasize clean lines and negative space; ornate vintage-style collars feature intricate metalwork
+- **Designs:** Bib collars feature layered, cascading elements; tribal-inspired collars incorporate ethnic motifs and materials; modern geometric collars emphasize clean lines and negative space; [ornate vintage-style collars feature intricate metalwork](https://www.vam.ac.uk/collections/jewellery)
 - **Width:** Narrow collars (1-2 inches) provide subtle drama; medium collars (2-3 inches) create bold statements; wide collars (3+ inches) demand complete outfit focus
 - **Embellishments:** Crystal-encrusted collars deliver glamorous sparkle; enamel collars add vibrant color; hammered metal collars offer organic texture; smooth polished collars emphasize form
 
@@ -533,7 +533,7 @@ Protecting your statement jewelry investment requires proper care and storage—
 
 **Protect from scratches:** Keep pieces separated—metal scratches metal; store delicate pieces in soft pouches; use jewelry boxes with individual sections.
 
-**Control environment:** Store in cool, dry places away from direct sunlight; prevent exposure to perfumes, hairsprays, or cosmetics; consider anti-tarnish strips for silver pieces.
+**Control environment:** Store in cool, dry places away from direct sunlight; prevent exposure to perfumes, hairsprays, or cosmetics; consider [anti-tarnish strips for silver pieces](https://www.gia.edu/gia-news-research-tips-caring-jewelry).
 
 <a name="collection"></a>
 
