@@ -42,9 +42,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## **Table of Contents**
 
@@ -92,7 +92,7 @@ Let's examine each of the twelve hidden rules that explain why referees ignore o
 
 <h2 style="color: #7D366A;">Hidden Rule #1: The Advantage Law's Secret Three-Second Window</h2>
 
-The advantage law that Law 5 of soccer rules grants referees discretion to allow play continuing after fouls when stopping would disadvantage the fouled team contains hidden three-to-five-second evaluation window that fans don't realize exists, with officials using brief period after foul occurs to analyze whether attacking opportunity developing from continued possession delivers greater benefit than stopping play for free kick that would reset attacking position potentially in worse location than current momentum provides. The official FIFA guidance tells referees that advantage signals commit them to allowing play to continue for only three seconds before they can reassess and potentially whistle for original foul if anticipated advantage fails to materialize, though most fans incorrectly believe that once referee signals advantage the decision becomes irreversible creating confusion when delayed whistles occur that actually represent proper law application.
+[The advantage law that Law 5 of soccer rules](https://coachingamericansoccer.com/soccer-rules/the-advantage-rule/) grants referees discretion to allow play continuing after fouls when stopping would disadvantage the fouled team contains hidden three-to-five-second evaluation window that fans don't realize exists, with officials using brief period after foul occurs to analyze whether attacking opportunity developing from continued possession delivers greater benefit than stopping play for free kick that would reset attacking position potentially in worse location than current momentum provides. The official FIFA guidance tells referees that advantage signals commit them to allowing play to continue for only three seconds before they can reassess and potentially whistle for original foul if anticipated advantage fails to materialize, though most fans incorrectly believe that once referee signals advantage the decision becomes irreversible creating confusion when delayed whistles occur that actually represent proper law application.
 
 <h3 style="color: #7D366A;">The Calculation Process Referees Make</h3>
 
