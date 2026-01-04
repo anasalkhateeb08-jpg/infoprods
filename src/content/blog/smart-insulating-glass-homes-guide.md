@@ -29,9 +29,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## Table of Contents
 
@@ -72,7 +72,7 @@ Your windows are portals to the outside world. Modern technology ensures they're
 
 ### How Insulating Glass Units Work
 
-Insulating Glass Units (IGUs), commonly called double-pane or triple-pane windows, use multiple glass layers separated by spacers and sealed around the edges, creating enclosed spaces between panes. These spaces are filled with air or inert gases (argon, krypton) that insulate far better than single glass panes.
+[Insulating Glass Units (IGUs)](https://en.wikipedia.org/wiki/Insulated_glazing), commonly called double-pane or triple-pane windows, use multiple glass layers separated by spacers and sealed around the edges, creating enclosed spaces between panes. These spaces are filled with air or inert gases (argon, krypton) that insulate far better than single glass panes.
 
 The fundamental principle: **still air is an excellent insulator**. Moving air transfers heat through convection; still air trapped between glass panes prevents this convection, dramatically reducing heat transfer. However, regular air contains moisture that can condense between panes, so modern IGUs use dried air or inert gases and hermetically sealed edges preventing moisture intrusion.
 
@@ -127,7 +127,7 @@ Glass performance is crucial, but frames represent 10-30% of window area and sig
 
 ### Electrochromic Glass: Electric Control of Tint
 
-Electrochromic glass changes tint level in response to electrical voltage, transitioning from clear to dark blue/gray tint on demand. This technology, sometimes called "smart tint" or "switchable glass," allows precise control of visible light transmission and solar heat gain without mechanical blinds or shades.
+Electrochromic glass changes tint level in response to electrical voltage, transitioning from clear to dark blue/gray tint on demand. This technology, sometimes called "smart tint" or "switchable glass," allows precise control of [visible light transmission and solar heat](sciencedirect.com/science/article/pii/S2214157X25012523) gain without mechanical blinds or shades.
 
 **How it works:** Electrochromic glass contains thin layers of materials that change optical properties when voltage is applied. The glass remains transparent while electrically neutral; applying voltage causes ions to move within layers, darkening the glass. Reversing voltage returns glass to clear state. The transition takes 5-15 minutes depending on glass size and technology—gradual rather than instant, but sufficiently fast for practical use.
 
