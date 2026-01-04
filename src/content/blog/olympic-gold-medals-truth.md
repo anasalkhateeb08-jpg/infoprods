@@ -42,9 +42,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productBrand: ''
-productDescription: ''
 productName: ''
+productDescription: ''
+productBrand: ''
 ---
 ## **Table of Contents**
 
@@ -296,7 +296,7 @@ The various Olympic medals through history featuring unique elements including 1
 
 <a href="https://s.click.aliexpress.com/e/_c4E0FNEl " style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-collectible-coins-medals</a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[![Tokyo 2020 Olympics medals made from recycled electronics waste showing environmental sustainability urban mining precious metals from donated devices - InfoProds 2026](/images/uploads/aa6.jpg "Tokyo 2020 Olympics Recycled Electronics Waste Medals")](tokyo-2020-recycled-medals-environmental-sustainability-2026.webp)
+[![Tokyo 2020 Olympics medals made from recycled electronics waste showing environmental sustainability urban mining precious metals from donated devices - InfoProds 2026.](/images/uploads/aa6.jpg "Tokyo 2020 Olympics Recycled Electronics Waste Medals")](tokyo-2020-recycled-medals-environmental-sustainability-2026.webp)
 
 <a name="environmental"></a>
 
