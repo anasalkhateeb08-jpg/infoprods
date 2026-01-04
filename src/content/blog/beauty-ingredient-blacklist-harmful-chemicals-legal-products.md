@@ -39,6 +39,9 @@ faqs:
     answer: Cosmetic regulations vary dramatically with the European Union banning over 1,600 ingredients versus only 11 banned by the FDA in the United States, Canada prohibiting roughly 600 substances, and many Asian countries implementing increasingly strict safety requirements. Products legal in America often cannot be sold in Europe due to toxic ingredients, revealing how inadequate US regulations are compared to international standards.
   - question: What ingredients should I absolutely avoid in beauty products?
     answer: Immediately avoid parabens in all forms, phthalates particularly DBP and DEP, formaldehyde and formaldehyde-releasing preservatives, PFAS forever chemicals, coal tar dyes, hydroquinone, triclosan, toluene, synthetic fragrances without disclosure, oxybenzone and octinoxate chemical sunscreens, heavy metals including lead and arsenic, and polyethylene glycols PEGs. These represent the highest-risk chemicals with strongest evidence of serious health harm.
+howToName: ''
+howToDescription: ''
+howToTime: ''
 ---
 ## **Table of Contents**
 
