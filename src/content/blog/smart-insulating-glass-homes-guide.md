@@ -29,9 +29,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productBrand: ''
-productDescription: ''
 productName: ''
+productDescription: ''
+productBrand: ''
 ---
 ## Table of Contents
 
@@ -127,7 +127,7 @@ Glass performance is crucial, but frames represent 10-30% of window area and sig
 
 ### Electrochromic Glass: Electric Control of Tint
 
-Electrochromic glass changes tint level in response to electrical voltage, transitioning from clear to dark blue/gray tint on demand. This technology, sometimes called "smart tint" or "switchable glass," allows precise control of [visible light transmission and solar heat](sciencedirect.com/science/article/pii/S2214157X25012523) gain without mechanical blinds or shades.
+Electrochromic glass changes tint level in response to electrical voltage, transitioning from clear to dark blue/gray tint on demand. This technology, sometimes called "smart tint" or "switchable glass," allows precise control of visible [light transmission and solar heat](https://www.sciencedirect.com/science/article/pii/S2214157X25012523) gain without mechanical blinds or shades.
 
 **How it works:** Electrochromic glass contains thin layers of materials that change optical properties when voltage is applied. The glass remains transparent while electrically neutral; applying voltage causes ions to move within layers, darkening the glass. Reversing voltage returns glass to clear state. The transition takes 5-15 minutes depending on glass size and technology—gradual rather than instant, but sufficiently fast for practical use.
 
