@@ -66,6 +66,13 @@ productBrand: ''
 14. [Conclusion: Making Your Decision](#conclusion)
 15. [Frequently Asked Questions](#faq)
 
+<span style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 16px;
+  display: inline-block;
+">   his video to see how to bypass factory restrictions and unlock the potential of Apple CarPlay and Android Auto in your car :</span>
+
 <div class="video-wrapper"> <iframe width="560" height="315" src="https://www.youtube.com/embed/0wnMmakg_7c" title="CarPlay & Android Auto Just Got Better | AI Box Review" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe> </div>
 
 <a name="introduction"></a>
