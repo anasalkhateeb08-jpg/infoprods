@@ -72,27 +72,25 @@ saa
   display: inline-block;
 ">   Check out this visual guide to see some of these must-have accessories in action and learn the best strategies for keeping your vehicle organized and clean: :</span>
 
-```html
 <div style="position: relative; display: inline-block; width: 560px; max-width: 100%;">
-  
-  <a href="https://www.youtube.com/watch?v=7afmCJNTvHk" 
-     target="_blank" 
-     rel="noopener noreferrer" 
+
+  <a href="https://www.youtube.com/watch?v=7afmCJNTvHk"
+     target="_blank"
+     rel="noopener noreferrer"
      style="position: absolute; top: 0; left: 0; width: 100%; height: 50px; z-index: 999; cursor: pointer; background: rgba(0,0,0,0);">
   </a>
 
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/7afmCJNTvHk" 
-    title="Car Organization Guide" 
-    frameborder="0" 
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/7afmCJNTvHk"
+    title="Car Organization Guide"
+    frameborder="0"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
-```
 
 <a name="introduction"></a>
 
