@@ -42,9 +42,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## **Table of Contents**
 
@@ -64,16 +64,11 @@ productBrand: ''
 14. Frequently Asked Questions
 
 <span style="
-  color: #C4476A ;
+  color: #C4476A;
   font-weight: bold;
   font-size: 16px;
- display: inline-block;
-">**The following video demonstrates the critical technical standards required for dash cam recordings to be recognized as definitive proof by insurance adjusters**:</span>
-<style>
-@keyframes pulse {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  }
-</style>
+  display: inline-block;
+">The following video demonstrates the critical technical standards required for dash cam recordings to be recognized as definitive proof by insurance adjusters:</span>
 
 <div class="video-wrapper">
   <iframe
