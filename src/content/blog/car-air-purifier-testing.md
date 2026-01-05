@@ -42,9 +42,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productBrand: ''
-productDescription: ''
 productName: ''
+productDescription: ''
+productBrand: ''
 relatedArticlesHTML: '<div style="margin: 3rem 0; padding-top: 2rem; border-top: 2px solid #e5e7eb;"><h3 style="margin-bottom: 2rem; text-align: center; color: #C4476A; font-weight: bold; font-size: 24px;">📚 Related Articles</h3><div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;"><a href="/blog/carplay-android-auto-2026" style="background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #f3f4f6; text-decoration: none; color: inherit; display: block; padding: 1.25rem;"><div style="color: #9333ea; font-size: 0.75rem; font-weight: 600;">Car Accessories</div><h4 style="color: #111827; font-size: 1.125rem; font-weight: 700; margin-top: 0.5rem;">CarPlay vs Android Auto 2026</h4></a></div></div>'
 relatedArticles: ''
 ---
@@ -446,19 +446,19 @@ The evidence-based approach demands prioritizing true HEPA filtration verified t
 
 Your vehicle cabin deserves genuine air quality improvement rather than expensive placebos exploiting marketing sophistication and consumer inability to measure effectiveness. You deserve protection from traffic pollution that scientific testing proves causes cardiovascular disease, respiratory problems, and premature mortality rather than devices promising impressive-sounding purification through mechanisms that testing reveals accomplish minimal practical benefit. The investment of hundred to two hundred dollars in proven HEPA purification delivers measurable air quality improvement and genuine health protection, while similar or greater amounts spent on ionizers and inadequate filtration represents wasted money buying devices that accomplish little despite their bold marketing claims.
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "VideoObject",
-  "name": "Best Car Air Purifiers 2025 | Philips vs Honeywell vs Reffair vs Nebelr vs Cuckoo",
-  "description": "A comprehensive comparison of the best car air purifiers for 2025, covering filter-based and ionic systems from top brands like Philips, Honeywell, and more.",
-  "thumbnailUrl": "https://i.ytimg.com/vi/obykxf3lM2I/maxresdefault.jpg",
-  "uploadDate": "2025-02-02T10:00:00Z",
-  "duration": "PT6M29S",
-  "contentUrl": "https://www.youtube.com/watch?v=obykxf3lM2I",
-  "embedUrl": "https://www.youtube.com/embed/obykxf3lM2I"
-}
-</script>
+`<script type="application/ld+json">`
+`{`
+`  "@context": "https://schema.org",`
+`  "@type": "VideoObject",`
+`  "name": "Best Car Air Purifiers 2025 | Philips vs Honeywell vs Reffair vs Nebelr vs Cuckoo",`
+`  "description": "A comprehensive comparison of the best car air purifiers for 2025, covering filter-based and ionic systems from top brands like Philips, Honeywell, and more.",`
+`  "thumbnailUrl": "https://i.ytimg.com/vi/obykxf3lM2I/maxresdefault.jpg",`
+`  "uploadDate": "2025-02-02T10:00:00Z",`
+`  "duration": "PT6M29S",`
+`  "contentUrl": "https://www.youtube.com/watch?v=obykxf3lM2I",`
+`  "embedUrl": "https://www.youtube.com/embed/obykxf3lM2I"`
+`}`
+`</script>`
 
 <a name="faq"></a>
 
