@@ -42,9 +42,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productBrand: ''
-productDescription: ''
 productName: ''
+productDescription: ''
+productBrand: ''
 ---
 ## **Table of Contents**
 
@@ -75,16 +75,15 @@ productName: ''
   }
 </style>
 
-
 <div class="video-wrapper">
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/Z5oLBxhRjy0" 
-    title="Is Your Dashcam Lying to You? | Dash Cam & Insurance Guide" 
-    frameborder="0" 
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/Z5oLBxhRjy0"
+    title="Is Your Dashcam Lying to You? | Dash Cam & Insurance Guide"
+    frameborder="0"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
