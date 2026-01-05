@@ -377,7 +377,7 @@ Your protection against insurance company tactics requires combining dash cam in
 
 The future of dash cams and insurance will continue evolving as technology improves, regulatory frameworks mature, and the balance between privacy rights and fraud prevention shifts based on societal priorities and political developments. Staying informed about these changes rather than treating camera installation as one-time decision enables adapting strategies as the landscape evolves and new risks or opportunities emerge from technological and legal developments.
 
-{ "@context": "https://schema.org", "@type": "VideoObject", "name": "Is Your Dashcam Lying to You? | Dash Cam & Insurance Guide", "description": "A deep dive into how dash cam footage affects insurance claims and why video clarity is crucial for proving fault in accidents.", "thumbnailUrl": "https://i.ytimg.com/vi/Z5oLBxhRjy0/maxresdefault.jpg", "uploadDate": "2025-12-30T10:00:00Z", "duration": "PT8M45S", "contentUrl": "https://www.youtube.com/watch?v=Z5oLBxhRjy0", "embedUrl": "https://www.youtube.com/embed/Z5oLBxhRjy0" } </script>
+<script type="application/ld+json"> { "@context": "https://schema.org", "@type": "VideoObject", "name": "Is Your Dashcam Lying to You? | Dash Cam & Insurance Guide", "description": "A deep dive into how dash cam footage affects insurance claims and why video clarity is crucial for proving fault in accidents.", "thumbnailUrl": "https://i.ytimg.com/vi/Z5oLBxhRjy0/maxresdefault.jpg", "uploadDate": "2025-12-30T10:00:00Z", "duration": "PT8M45S", "contentUrl": "https://www.youtube.com/watch?v=Z5oLBxhRjy0", "embedUrl": "https://www.youtube.com/embed/Z5oLBxhRjy0" } </script>
 
 <a name="faq"></a>
 
