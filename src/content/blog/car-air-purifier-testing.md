@@ -71,7 +71,6 @@ relatedArticles: ''
 
 **Here is a video that explains some things related to the topic of the article.**
 
-```plain
 <div class="video-wrapper">
   <iframe
     width="560"
@@ -84,7 +83,6 @@ relatedArticles: ''
     allowfullscreen>
   </iframe>
 </div>
-```
 
 <a name="introduction"></a>
 
