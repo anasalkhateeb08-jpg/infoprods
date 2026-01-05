@@ -63,15 +63,29 @@ productName: ''
 - [Conclusion: Your Clean Car Journey Starts Now](#conclusion)
 - [Frequently Asked Questions](#faq)
 
-<p style="color: #C4476A; font-weight: bold; font-size: 18px;">
-  Check out this 
-  <a href="https://www.youtube.com/watch?v=7afmCJNTvHk" target="_blank" rel="noopener noreferrer" style="color: #C4476A; text-decoration: underline;">
-    visual guide to see some of these must-have accessories in action
-  </a> 
-  and learn the best strategies for keeping your vehicle organized and clean:
-</p>
+<span style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 16px;
+  display: inline-block;
+">   Check out this visual guide to see some of these must-have accessories in action and learn the best strategies for keeping your vehicle organized and clean: :</span>
 
-<div class="video-wrapper"> <iframe width="560" height="315" src="https://www.youtube.com/embed/7afmCJNTvHk" title="Do THIS To Keep Your Car Clean | Car Organization Guide" frameborder="0" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe> </div>
+<div class="video-container" style="position: relative; width: 560px; max-width: 100%;">
+  <a href="https://www.youtube.com/watch?v=7afmCJNTvHk" target="_blank" rel="noopener noreferrer" 
+     style="position: absolute; top: 0; left: 0; width: 100%; height: 60px; z-index: 10; cursor: pointer;"></a>
+  
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/7afmCJNTvHk" 
+    title="Car Organization Guide" 
+    frameborder="0" 
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    style="position: relative; z-index: 1;">
+  </iframe>
+</div>
 
 <a name="introduction"></a>
 
