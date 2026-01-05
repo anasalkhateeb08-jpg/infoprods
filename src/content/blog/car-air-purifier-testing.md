@@ -70,16 +70,11 @@ relatedArticles: ''
 18. [Frequently Asked Questions](#faq)
 
 <span style="
-  color: #C4476A ;
+  color: #C4476A;
   font-weight: bold;
   font-size: 16px;
- display: inline-block;
-">  Here is a video that explains some things related to the topic of the article:</span>
-<style>
-@keyframes pulse {
-  0%, 100% { opacity: 1; transform: scale(1); }
-  }
-</style>
+  display: inline-block;
+"> Here is a video that explains some things related to the topic of the article :</span>
 
 <div class="video-wrapper">
   <iframe
