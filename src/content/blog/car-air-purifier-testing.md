@@ -69,7 +69,7 @@ relatedArticles: ''
 17. [Conclusion: Making Evidence-Based Purchasing Decisions](#conclusion)
 18. [Frequently Asked Questions](#faq)
 
-**Here is a video that explains some things related to the topic of the article..**
+**Here is a video that explains some things related to the topic of the article.**
 
 <div class="video-wrapper">
   <iframe
