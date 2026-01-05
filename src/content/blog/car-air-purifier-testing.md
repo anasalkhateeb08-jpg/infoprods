@@ -69,20 +69,20 @@ relatedArticles: ''
 17. [Conclusion: Making Evidence-Based Purchasing Decisions](#conclusion)
 18. [Frequently Asked Questions](#faq)
 
-**Here is a video that explains some things related to the topic of the article.**
+**Here is a video that explains some things related to the topic of the article..**
 
-<div class="video-wrapper">
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/obykxf3lM2I"
-    title="Best Car Air Purifiers 2025 | Philips vs Honeywell vs Reffair vs Nebelr vs Cuckoo"
-    frameborder="0"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+`<div class="video-wrapper">`
+`  <iframe`
+`    width="560"`
+`    height="315"`
+`    src="https://www.youtube.com/embed/obykxf3lM2I"`
+`    title="Best Car Air Purifiers 2025 | Philips vs Honeywell vs Reffair vs Nebelr vs Cuckoo"`
+`    frameborder="0"`
+`    loading="lazy"`
+`    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"`
+`    allowfullscreen>`
+`  </iframe>`
+`</div>`
 
 <a name="introduction"></a>
 
