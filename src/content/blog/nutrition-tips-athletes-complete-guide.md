@@ -72,15 +72,15 @@ The consequences are predictable and frustrating: **plateaued progress** despite
 ">   While the following demonstration highlights how to nourish your body like professional athletes do, there is also nutritional information for athletes that you may not be aware of, which will be revealed in exclusive details later in this article :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/wd6dkj6p3lM" 
-    title="Intermittent Fasting for Healthy Weight Gain & Muscle Building" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/wd6dkj6p3lM"
+    title="Intermittent Fasting for Healthy Weight Gain & Muscle Building"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
