@@ -90,15 +90,15 @@ But here's where the story gets interesting and the reason this comparison guide
 ">   his video to see how to bypass factory restrictions and unlock the potential of Apple CarPlay and Android Auto in your car :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/0wnMmakg_7c" 
-    title="CarPlay & Android Auto Just Got Better | AI Box Review" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/0wnMmakg_7c"
+    title="CarPlay & Android Auto Just Got Better | AI Box Review"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
