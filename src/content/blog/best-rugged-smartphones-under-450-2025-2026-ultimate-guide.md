@@ -29,15 +29,15 @@ Whether you work in demanding outdoor environments, pursue adventure sports, ope
 ">   While the following demo showcases some powerful devices in action, the real performance secrets and battery life strategies lie in the exclusive details at the bottom of this article – information you may not have discovered yet: :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/FFIWiDTLbUU" 
-    title="5 Best Rugged Phones in 2026 - Massive Battery Guide" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/FFIWiDTLbUU"
+    title="5 Best Rugged Phones in 2026 - Massive Battery Guide"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
