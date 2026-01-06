@@ -40,7 +40,6 @@ The global personal security market has exploded in recent years, now exceeding 
 
 But this accessibility creates complex questions and responsibilities. When does legitimate security cross into invasive surveillance? How do you protect yourself from unwanted monitoring? What legal boundaries govern these technologies? How do you choose reliable devices from countless options flooding the marketplace? These questions don't have simple answers, but understanding the landscape empowers you to make informed decisions balancing security needs with ethical considerations and legal requirements.
 
-
 <span style="
   color: #C4476A;
   font-weight: bold;
@@ -49,15 +48,15 @@ But this accessibility creates complex questions and responsibilities. When does
 ">   While the following demonstration showcases  some of the most advanced spy gadgets in action, the real security strategies and privacy protection secrets lie in the exclusive details found further down in this article—insights you likely haven't discovered yet :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/vmhMZRtgdXE" 
-    title="30 Best Hidden Spy Cameras and Security Gadgets 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/vmhMZRtgdXE"
+    title="30 Best Hidden Spy Cameras and Security Gadgets 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
