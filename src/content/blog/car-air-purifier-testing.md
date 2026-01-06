@@ -69,13 +69,6 @@ relatedArticles: ''
 17. [Conclusion: Making Evidence-Based Purchasing Decisions](#conclusion)
 18. [Frequently Asked Questions](#faq)
 
-<span style="
-  color: #C4476A;
-  font-weight: bold;
-  font-size: 16px;
-  display: inline-block;
-"> Here is a video that explains some things related to the topic of the article :</span>
-
 <a name="introduction"></a>
 
 <h2 style="color: #7D366A;">Introduction: The Day Lab Results Proved My $200 Purifier Was Worthless</h2>
@@ -100,18 +93,12 @@ The following comprehensive analysis presents actual scientific testing results 
 
 Different drivers face different air quality challenges requiring different purification approaches—urban commuters battling traffic pollution need maximum PM2.5 reduction, allergy sufferers prioritize pollen and allergen removal, smokers or passengers of smokers require activated carbon for odor elimination, and parents with young children want comprehensive protection against both particles and biological contaminants. Understanding which purification technologies actually address which challenges enables matching devices to your specific needs rather than buying expensive all-in-one units promising everything but delivering minimal improvement across all categories.
 
-<div class="video-wrapper">
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/obykxf3lM2I"
-    title="Best Car Air Purifiers 2025 | Philips vs Honeywell vs Reffair vs Nebelr vs Cuckoo"
-    frameborder="0"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+<span style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 16px;
+  display: inline-block;
+"> Here is a video that explains some things related to the topic of the article :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
   <iframe 
