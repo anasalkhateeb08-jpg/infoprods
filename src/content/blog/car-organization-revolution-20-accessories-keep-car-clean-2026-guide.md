@@ -87,14 +87,14 @@ document.addEventListener("DOMContentLoaded", function() {
 ">   Check out this visual guide to see some of these must-have accessories in action and learn the best strategies for keeping your vehicle organized and clean: :</span>
 
 <div class="video-wrapper">
-  <iframe 
-    width="560" 
-    height="315" 
-    src="https://www.youtube.com/embed/7afmCJNTvHk" 
-    title="Car Organization & Cleaning Guide" 
-    frameborder="0" 
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/7afmCJNTvHk"
+    title="Car Organization & Cleaning Guide"
+    frameborder="0"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
