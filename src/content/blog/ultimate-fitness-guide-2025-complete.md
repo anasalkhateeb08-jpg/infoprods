@@ -51,15 +51,15 @@ The human body is an extraordinary adaptation machine. Give it the right stimulu
 ">   While the following presentation highlights 12 key, science-based tips for 2026, there are facts and strategiesin the exclusive details at the bottom of this article – insights you may not have discovered yet: :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/8n8Q_35LnUQ" 
-    title="12 Science-Based Tips to Achieve ANY Fitness Goal in 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/8n8Q_35LnUQ"
+    title="12 Science-Based Tips to Achieve ANY Fitness Goal in 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
@@ -558,15 +558,15 @@ Your future self—stronger, healthier, more capable—is waiting for you to dec
 The ultimate fitness guide is now in your hands. The ultimate results are in your actions.
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/8n8Q_35LnUQ" 
-    title="12 Science-Based Tips to Achieve ANY Fitness Goal in 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/8n8Q_35LnUQ"
+    title="12 Science-Based Tips to Achieve ANY Fitness Goal in 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
