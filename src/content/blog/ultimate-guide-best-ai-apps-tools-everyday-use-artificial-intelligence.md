@@ -48,15 +48,15 @@ What makes this AI revolution particularly remarkable is its democratization. Yo
 ">   While the following demonstration showcases  some of these AI tools in action, the real transformation secrets lie in the exclusive details found further down in this article—insights you likely haven't discovered yet: :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/zkXonmqIBFg" 
-    title="101 Ways To Use AI In Your Daily Life" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/zkXonmqIBFg"
+    title="101 Ways To Use AI In Your Daily Life"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
