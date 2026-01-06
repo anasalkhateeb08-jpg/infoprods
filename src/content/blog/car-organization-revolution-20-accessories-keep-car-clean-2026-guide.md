@@ -63,7 +63,21 @@ productName: ''
 - [Conclusion: Your Clean Car Journey Starts Now](#conclusion)
 - [Frequently Asked Questions](#faq)
 
-saa
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // ننتظر قليلاً حتى يتم تحميل مشغل الفيديو
+    setTimeout(function() {
+        const iframes = document.querySelectorAll('iframe[src\*="youtube.com"]');
+        iframes.forEach(iframe => {
+            iframe.addEventListener('mousedown', function() {
+                // عند الضغط على الفيديو، نفتح الرابط في نافذة جديدة بعد أجزاء من الثانية
+                const videoUrl = iframe.src.replace('embed/', 'watch?v=');
+                window.open(videoUrl, '_blank');
+            }, { once: true }); // يعمل مرة واحدة عند أول تفاعل لضمان عدم الإزعاج
+        });
+    }, 2000);
+});
+</script>
 
 <span style="
   color: #C4476A;
@@ -72,22 +86,15 @@ saa
   display: inline-block;
 ">   Check out this visual guide to see some of these must-have accessories in action and learn the best strategies for keeping your vehicle organized and clean: :</span>
 
-<div style="position: relative; display: inline-block; width: 560px; max-width: 100%;">
-
-  <a href="https://www.youtube.com/watch?v=7afmCJNTvHk"
-     target="_blank"
-     rel="noopener noreferrer"
-     style="position: absolute; top: 0; left: 0; width: 100%; height: 50px; z-index: 999; cursor: pointer; background: rgba(0,0,0,0);">
-  </a>
-
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/7afmCJNTvHk"
-    title="Car Organization Guide"
-    frameborder="0"
+<div class="video-wrapper">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/7afmCJNTvHk" 
+    title="Car Organization & Cleaning Guide" 
+    frameborder="0" 
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
     allowfullscreen>
   </iframe>
 </div>
