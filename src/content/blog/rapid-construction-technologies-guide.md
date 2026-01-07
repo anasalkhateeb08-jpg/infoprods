@@ -62,15 +62,15 @@ The global modular construction market alone exceeded $95 billion recently and c
 ">  While the following demonstration highlights methods for building houses quickly and very effectively, there is still much more information on this topic that you may not have discovered yet, which can be found below this article:</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/mTZM9A-UAmY" 
-    title="Modern Construction Methods: Extremely Fast House Building in Europe" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/mTZM9A-UAmY"
+    title="Modern Construction Methods: Extremely Fast House Building in Europe"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
