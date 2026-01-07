@@ -42,9 +42,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productBrand: ''
-productDescription: ''
 productName: ''
+productDescription: ''
+productBrand: ''
 ---
 ## **Table of Contents**
 
@@ -80,6 +80,26 @@ The NBA Finals Game 7 with three seconds remaining and his team trailing by one 
 The post-game interview where this devastated player admitted that standing at the free throw line felt completely different from thousands of practice free throws because suddenly fifteen thousand screaming fans, millions of television viewers, championship stakes, and career legacy all compressed into those two 15-foot shots that should have been simple proved impossible because his mind wouldn't allow his body to execute the automatic motion that empty gymnasium practice had made second nature through countless successful repetitions. The sports psychologist later explained that performance anxiety triggered physiological stress responses including elevated heart rate to 180 beats per minute versus practice norm of 70-80, increased cortisol flooding his bloodstream with stress hormones that muscle coordination disrupts, excessive adrenaline causing hand tremors that fine motor control requires steady hands to avoid, and conscious overthinking of mechanics that automatic shooting cannot tolerate because bringing awareness to unconscious patterns destroys the fluidity that muscle memory depends on maintaining through repetitive practice that embeds movements below conscious thought where performance pressure cannot directly access or interfere.
 
 The financial implications of this miss totaling approximately 1.5 million dollars in lost championship bonus and potential endorsement revenue created unprecedented economic consequence for single athletic failure in controlled uncontested situation that supposedly represented easiest scoring opportunity basketball allows through stationary position, no defensive pressure, unlimited time, and standardized distance that practice replication should make perfectly predictable rather than mentally challenging task that game-time pressure transformed simple shots into career-defining catastrophe. The broader question about why professional basketball players who perform extraordinary athletic feats including contested dunks over defenders, impossible passes through traffic, and acrobatic layups while airborne somehow struggle with stationary 15-foot uncontested shots that high school players routinely make reveals psychological dimensions of athletic performance that physical training alone cannot address because mental game determines success or failure in pressure situations where conscious thought interferes with automatic processes that subconscious execution requires maintaining.
+
+<span style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 14px;
+  display: inline-block;
+">   In this explanatory video, one of the NBA's best free-throw shooters reveals why players struggle with free throws. Some real psychological factors and personal focus strategies still lie in the exclusive details at the bottom of this article - insights you may not have discovered yet: :</span>
+
+<div class="video-container" style="text-align: center; margin: 25px 0;">
+  <iframe 
+    width="100%" 
+    height="315" 
+    src="https://www.youtube.com/embed/OEhS_qO83vE" 
+    title="Mental Toughness and Training Secrets for Peak Performance" 
+    frameborder="0" 
+    style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe></div>
 
 The free throw shooting as perfect laboratory for examining performance psychology because it eliminates physical variables that other basketball skills involve through removing defensive pressure, athletic requirements, and timing challenges that field goal shooting includes leaving only psychological factors to explain variation between practice performance and game-time execution that pressure creates through mental interference. The coaches' reluctance to acknowledge psychological components preferring to blame mechanical flaws or insufficient practice reflects institutional discomfort with admitting that mental factors beyond their control determine outcomes in situations where physical preparation should suffice, with this denial preventing implementation of sports psychology interventions that research proves effective for addressing performance anxiety though traditional coaching culture resists incorporating because acknowledging mental game importance implies that physical training alone proves inadequate for optimal performance that competitive athletics demands.
 
@@ -310,6 +330,19 @@ The comprehensive examination of free throw shooting psychology reveals that men
 Your understanding of free throw shooting should transform from viewing it as purely mechanical skill requiring only technique refinement and practice repetition toward recognizing that mental game determines success or failure in pressure situations where psychological factors either facilitate or interfere with automatic execution that muscle memory develops through training but psychological states enable or prevent expressing during actual competition when stakes activate stress responses that coordination and consistency both suffer from without mental skills that resilience requires building through deliberate psychological preparation.
 
 Begin appreciating that athletic performance involves complex interaction between physical ability and psychological state with neither proving sufficient without the other for optimal execution, recognizing that mental skills training deserves equivalent emphasis to physical training because psychological factors determine whether physical capabilities successfully express during competitive situations where pressure creates conditions that pure physical preparation cannot overcome without complementary mental preparation that modern comprehensive training programs increasingly incorporate through understanding that mind and body function interdependently for performance optimization that ignoring either component compromises.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Mental Secrets for Peak Performance: NBA Expert Guide",
+  "description": "Learn from NBA professional JJ Redick about the mental game behind peak performance, focusing on routine, focus, and overcoming psychological barriers in training.",
+  "thumbnailUrl": "https://i.ytimg.com/vi/OEhS_qO83vE/maxresdefault.jpg",
+  "uploadDate": "2017-08-20T14:00:00Z",
+  "duration": "PT1M48S",
+  "contentUrl": "https://www.youtube.com/watch?v=OEhS_qO83vE",
+  "embedUrl": "https://www.youtube.com/embed/OEhS_qO83vE"
+}</script>
 
 <a name="faq"></a>
 
