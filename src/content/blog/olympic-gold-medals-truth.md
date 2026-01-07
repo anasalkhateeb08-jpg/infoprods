@@ -86,15 +86,15 @@ The revelation that this seven-figure medal contained less than one thousand dol
 ">   The following explanatory video reveals the truth about Olympic medals; however, there is still information hidden within the exclusive details at the bottom of this article – insights you may not have discovered yet :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/LSlNOdABSes" 
-    title="Are Olympic Medals Real Gold? The Surprising Truth" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/LSlNOdABSes"
+    title="Are Olympic Medals Real Gold? The Surprising Truth"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
