@@ -31,9 +31,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productBrand: ''
-productDescription: ''
 productName: ''
+productDescription: ''
+productBrand: ''
 ---
 ## Table of Contents
 
@@ -371,7 +371,6 @@ Brooches have experienced remarkable renaissance in recent years—what was once
 
 **Style characteristics:**
 
-- **Themes:** Pop culture references; witty phrases or wordplay; nature and animals; food and drinks; social causes and activism; artistic designs and abstract forms
 - **Materials:** Hard enamel provides smooth, durable finish; soft enamel offers dimensional texture; screen-printed pins allow complex graphics; laser-cut acrylic creates lightweight modern options
 - **Styling:** Single statement pins create focused impact; curated collections of multiple pins create personalized narratives
 
