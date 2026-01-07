@@ -42,9 +42,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productBrand: ''
-productDescription: ''
 productName: ''
+productDescription: ''
+productBrand: ''
 ---
 ## **Table of Contents**
 
@@ -76,15 +76,15 @@ That realization sparked a year-long journey into the world of car organization 
 <p style="color: #C4476A; font-weight: bold; font-size: 15px; line-height: 1.5;"> While the following demonstration showcases these gadgets in action, the real organization secrets lie in the exclusive details found further down in this article—insights you likely haven't discovered yet: </p>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/7afmCJNTvHk" 
-    title="Car Organization & Cleaning Guide" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/7afmCJNTvHk"
+    title="Car Organization & Cleaning Guide"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
