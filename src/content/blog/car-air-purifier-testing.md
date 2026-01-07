@@ -42,9 +42,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productBrand: ''
-productDescription: ''
 productName: ''
+productDescription: ''
+productBrand: ''
 relatedArticlesHTML: '<div style="margin: 3rem 0; padding-top: 2rem; border-top: 2px solid #e5e7eb;"><h3 style="margin-bottom: 2rem; text-align: center; color: #C4476A; font-weight: bold; font-size: 24px;">📚 Related Articles</h3><div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;"><a href="/blog/carplay-android-auto-2026" style="background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); border: 1px solid #f3f4f6; text-decoration: none; color: inherit; display: block; padding: 1.25rem;"><div style="color: #9333ea; font-size: 0.75rem; font-weight: 600;">Car Accessories</div><h4 style="color: #111827; font-size: 1.125rem; font-weight: 700; margin-top: 0.5rem;">CarPlay vs Android Auto 2026</h4></a></div></div>'
 relatedArticles: ''
 ---
@@ -101,15 +101,15 @@ Different drivers face different air quality challenges requiring different puri
 "> Here is a video that explains some things related to the topic of the article :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/obykxf3lM2I" 
-    title="Best Car Air Purifiers 2025 | Philips vs Honeywell vs Reffair vs Nebelr vs Cuckoo" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/obykxf3lM2I"
+    title="Best Car Air Purifiers 2025 | Philips vs Honeywell vs Reffair vs Nebelr vs Cuckoo"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
