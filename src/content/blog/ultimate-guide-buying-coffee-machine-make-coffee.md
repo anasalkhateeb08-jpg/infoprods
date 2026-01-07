@@ -54,15 +54,15 @@ This guide demystifies home coffee brewing by providing clear, actionable inform
 ">While the following video highlights some coffee machines to choose from, there is still plenty more information about coffee machines and their preparation at the bottom of this article - information you may not have discovered yet :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/YDYFLRDViL4" 
-    title="How to Choose the Best Coffee Machine in 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/YDYFLRDViL4"
+    title="How to Choose the Best Coffee Machine in 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
