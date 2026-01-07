@@ -10,9 +10,9 @@ tags:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## Table of Contents
 
@@ -45,15 +45,15 @@ The harsh reality: most jewelry damage is entirely preventable. With proper care
 ">   While the following demonstration highlights basic jewelry care procedures, much more maintenance information lies in the exclusive details at the bottom of this article – information you may not have discovered yet: :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/NuyIh37xQLQ" 
-    title="How to Care for Your Fine Jewellery: Cartier, Van Cleef & Arpels Guide" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/NuyIh37xQLQ"
+    title="How to Care for Your Fine Jewellery: Cartier, Van Cleef & Arpels Guide"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
