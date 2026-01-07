@@ -75,15 +75,15 @@ The 2026 FIFA World Cup represents football's most ambitious undertaking: 48 nat
 ">   This video reveals the full schedule of matches for the 2026 World Cup, and there is still much more information hidden in the exclusive details at the bottom of this article - information you may not have discovered yet: :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/ZVN9LVqAyyo" 
-    title="FIFA World Cup 2026 Match Schedule Reveal" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/ZVN9LVqAyyo"
+    title="FIFA World Cup 2026 Match Schedule Reveal"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
