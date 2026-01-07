@@ -3,7 +3,7 @@ title: The Deadliest Camping Mistakes People Make (And How to Avoid Them)
 description: Discover the most dangerous camping mistakes that cost lives every year with real case studies, expert analysis, and proven prevention strategies to keep you safe in wilderness.
 author: InfoProds Team
 date: 2026-01-05T16:29:00
-image: /images/uploads/camping.jpg
+image: /images/uploads/Outdoor camping.avif
 category: Outdoor & Survival
 tags:
   - camping safety mistakes
