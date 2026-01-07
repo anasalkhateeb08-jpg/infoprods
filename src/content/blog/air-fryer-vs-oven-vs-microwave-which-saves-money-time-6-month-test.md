@@ -2,7 +2,7 @@
 title: 'Air Fryer vs Traditional Oven vs Microwave: Which Actually Saves Money and Time? (6-Month Test)'
 description: Real 6-month test comparing air fryer, traditional oven, and microwave for cost, cooking time, food quality, and energy consumption. Data-driven results reveal which appliance actually saves money and delivers best results for different foods.
 author: InfoProds Team
-date: 2025-12-15T18:52:00
+date: 2026-01-08T02:27:00
 image: /images/uploads/airfryers-2048px-04986-3x2-1.webp
 category: Kitchen
 tags:
