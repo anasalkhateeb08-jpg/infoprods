@@ -438,13 +438,13 @@ The mistake learning from near-misses or minor cuts proving valuable educational
 </style>
 
 <div class="related-articles-grid">
-
+  
   <a href="https://infoprods.com/blog/ultimate-survival-tools-guide-adventurers-preppers-edc-gear" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/adfgaga.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      The Ultimate Survival Tools Guide: Essential Gear for Adventurers and Preppers
     </div>
-  </a>
+  </a>  
 
   <a href="https://infoprods.com/blog/what-to-do-first-24-hours-lost" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/survival-Priorities.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
@@ -454,7 +454,7 @@ The mistake learning from near-misses or minor cuts proving valuable educational
   </a>
 
 <a href="https://infoprods.com/blog/deadliest-camping-mistakes-prevention" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/camping (1).jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="/images/uploads/Outdoor camping.avif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      The Deadliest Camping Mistakes People Make And How to Avoid Them
     </div>
