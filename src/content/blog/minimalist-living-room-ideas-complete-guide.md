@@ -72,15 +72,15 @@ This philosophy gained mainstream momentum through various cultural movements—
 ">   While the following demonstration highlights the basic elements of minimalist living room design, there is still information and strategies that lie in the details later in this article - information you may not have known before. :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/Q2s8ehrHBeE" 
-    title="Minimalist Living Room Design: Create a Stylish & Clutter-Free Space" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/Q2s8ehrHBeE"
+    title="Minimalist Living Room Design: Create a Stylish & Clutter-Free Space"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
