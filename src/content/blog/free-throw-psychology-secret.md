@@ -89,15 +89,15 @@ The financial implications of this miss totaling approximately 1.5 million dolla
 ">   In this explanatory video, one of the NBA's best free-throw shooters reveals why players struggle with free throws. Some real psychological factors and personal focus strategies still lie in the exclusive details at the bottom of this article - insights you may not have discovered yet: :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/OEhS_qO83vE" 
-    title="Mental Toughness and Training Secrets for Peak Performance" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/OEhS_qO83vE"
+    title="Mental Toughness and Training Secrets for Peak Performance"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
