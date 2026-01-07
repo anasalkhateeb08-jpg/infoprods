@@ -42,9 +42,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## **Table of Contents**
 
@@ -77,6 +77,26 @@ productBrand: ''
 The hammer fell at SCP Auctions in December 2013 when an anonymous bidder paid one million four hundred sixty-six thousand five hundred seventy-four dollars for a single Olympic gold medal, shattering previous auction records and sending shockwaves through the sports memorabilia world that had never witnessed such astronomical pricing for what technically contained just twenty-five dollars worth of gold plating over seven hundred dollars of sterling silver creating material value under eight hundred dollars that paled against the final sale price representing nearly two thousand times the intrinsic metal worth. The medal belonged to Jesse Owens from the 1936 Berlin Olympics where the African American track and field legend won four gold medals in front of Adolf Hitler while dismantling Nazi theories of Aryan supremacy through athletic performances that transcended sport becoming powerful political and social statements that history remembers as among the most significant Olympic moments ever witnessed, with this particular medal's extraordinary auction price reflecting not the precious metals it contained but rather the historical weight, cultural significance, and symbolic power that Olympic gold represents when combined with legendary athletic achievement and pivotal historical context.
 
 The revelation that this seven-figure medal contained less than one thousand dollars of actual gold and silver shocked casual observers who assumed Olympic gold medals consisted of solid gold worth tens of thousands of dollars in raw materials alone, creating widespread public awakening to the reality that Olympic organizing committees have used gold-plated silver medals since 1912 rather than solid gold construction that economic practicality abandoned over century ago when expanding Games participation from several hundred athletes to thousands made pure gold medals financially unsustainable for host cities already spending billions on venues, infrastructure, and operational costs. The International Olympic Committee regulations establishing minimum precious metal standards that gold medals must contain at least six grams of gold plating over sterling silver base weighing minimum 550 grams creates official specifications that balance tradition, prestige, and economic reality through maintaining gold appearance and sufficient precious metal content to justify "gold medal" designation while avoiding prohibitive costs that solid gold would require.
+
+<span style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 14px;
+  display: inline-block;
+">   The following explanatory video reveals the truth about Olympic medals; however, there is still information hidden within the exclusive details at the bottom of this article – insights you may not have discovered yet :</span>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Are Olympic Medals Real Gold? The Answer May Surprise You!",
+  "description": "An investigation into the actual composition of Olympic gold, silver, and bronze medals. Learn about the history and facts behind the highest awards in sports performance.",
+  "thumbnailUrl": "https://i.ytimg.com/vi/LSlNOdABSes/maxresdefault.jpg",
+  "uploadDate": "2024-08-05T12:00:00Z",
+  "duration": "PT8M27S",
+  "contentUrl": "https://www.youtube.com/watch?v=LSlNOdABSes",
+  "embedUrl": "https://www.youtube.com/embed/LSlNOdABSes"
+}</script>
 
 The cognitive dissonance between Olympic gold medals' perceived value as ultimate sporting achievement symbol and actual material composition worth fraction of what most people imagine reflects broader disconnect between symbolic worth and intrinsic value that characterizes many culturally significant objects where meaning, history, and emotional resonance create valuations completely detached from physical material costs. The Olympic movement's decision maintaining gold-plated medals rather than cheaper alternatives like bronze with gold finish or purely symbolic awards without precious metals demonstrates understanding that tradition and prestige require genuine gold and silver content even when economic efficiency might suggest otherwise, with minimum standards ensuring medals contain real value beyond purely symbolic tokens while pragmatic plating rather than solid gold allows Games sustainability that pure precious metal construction would threaten through escalating costs that smaller or developing nations hosting Olympics could not reasonably bear.
 
@@ -335,6 +355,19 @@ The comprehensive examination of Olympic gold medals' composition, history, valu
 Your understanding of Olympic medals should transform from viewing them as primarily valuable for gold content toward recognizing that meaning rather than material determines worth, with this principle extending far beyond Olympics into art, history, religion, and culture where symbolic significance creates valuations that material composition cannot explain but psychological attachment, emotional resonance, and cultural meaning fully justify through connecting tangible objects to intangible values that human societies treasure above mere physical resources.
 
 Begin appreciating Olympic medals not for precious metal content but for representing peak human achievement through years of dedication, sacrifice, and relentless pursuit of excellence that most people admire but few actually accomplish, with each medal telling unique story of athlete's journey through adversity, triumph, disappointment, and ultimately success that gold, silver, and bronze symbolize through universal recognition transcending language, nationality, and culture.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Are Olympic Medals Real Gold? The Answer May Surprise You!",
+  "description": "An investigation into the actual composition of Olympic gold, silver, and bronze medals. Learn about the history and facts behind the highest awards in sports performance.",
+  "thumbnailUrl": "https://i.ytimg.com/vi/LSlNOdABSes/maxresdefault.jpg",
+  "uploadDate": "2024-08-05T12:00:00Z",
+  "duration": "PT8M27S",
+  "contentUrl": "https://www.youtube.com/watch?v=LSlNOdABSes",
+  "embedUrl": "https://www.youtube.com/embed/LSlNOdABSes"
+}</script>
 
 <a name="faq"></a>
 
