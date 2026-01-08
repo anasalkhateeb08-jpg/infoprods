@@ -52,15 +52,15 @@ Understanding this balance helps you avoid common pitfalls that trap many newcom
 "> While the following demonstration highlights 15 essential survival items and tools, there's still much more information you may not have discovered yet, which you'll find in the exclusive details below this article. :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/zSPwltLb0Ws" 
-    title="15 Survival Gear & Gadgets Every Man Should Have" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/zSPwltLb0Ws"
+    title="15 Survival Gear & Gadgets Every Man Should Have"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
