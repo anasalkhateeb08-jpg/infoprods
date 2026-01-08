@@ -80,15 +80,15 @@ The psychological burden that analysis paralysis creates proves substantial enou
 "> While this video highlights a survival knife guide and how to use it, there's still a lot of information you may not have discovered yet about choosing a knife, which you'll find in the exclusive details below this article :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/PNN3buf3BKw" 
-    title="Survival Knife 101: What to Look for in a Reliable Blade" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/PNN3buf3BKw"
+    title="Survival Knife 101: What to Look for in a Reliable Blade"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
