@@ -85,15 +85,15 @@ Three years later, our marriage ended in divorce requiring asset division includ
 ">   While the following demonstration highlights whether jewelry is a worthwhile investment for 2026, there is still information and strategies hidden within the exclusive details later in this article—information you may not have discovered yet :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/caes4vj1ynE" 
-    title="Is Jewelry a Good Investment? Expert Tips for 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/caes4vj1ynE"
+    title="Is Jewelry a Good Investment? Expert Tips for 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
