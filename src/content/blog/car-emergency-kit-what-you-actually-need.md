@@ -77,15 +77,15 @@ The specific failure modes that generic emergency kits exhibit during real use i
 "> While this video highlights 10 essential elements for car emergencies, there's still much more information you may not have discovered yet, which you'll find in the exclusive details below this article. :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/5cPbVjwj9Do" 
-    title="10 Car Emergency Items You Should NEVER Be Without!" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/5cPbVjwj9Do"
+    title="10 Car Emergency Items You Should NEVER Be Without!"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
