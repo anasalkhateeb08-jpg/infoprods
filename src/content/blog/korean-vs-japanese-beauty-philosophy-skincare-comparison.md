@@ -297,7 +297,7 @@ Product longevity calculations reveal surprising Japanese value propositions. A 
 
 The [consumer product safety standards](https://www.cpsc.gov/Regulations-Laws--Standards) applicable to cosmetics affect pricing through compliance costs and quality assurance requirements. Japanese products meeting stringent domestic regulations often command premium pricing reflecting comprehensive testing and quality control. Korean products balancing innovation with competitive pricing sometimes make different quality versus cost trade-offs affecting long-term value.
 
-Sales and promotions dramatically affect actual costs paid by savvy shoppers. The [FDA small businesses cosmetics guidelines](https://www.fda.gov/cosmetics/resources-industry-cosmetics/small-businesses-homemade-cosmetics-fact-sheet) provide essential compliance information for independent brands, though requirements remain less stringent than Korean or Japanese market entry standards. 
+Sales and promotions dramatically affect actual costs paid by savvy shoppers. The [FDA small businesses cosmetics guidelines](https://www.fda.gov/cosmetics/resources-industry-cosmetics/small-businesses-homemade-cosmetics-fact-sheet) provide essential compliance information for independent brands, though requirements remain less stringent than Korean or Japanese market entry standards.
 
 Korean retailers like Olive Young, Stylevana, and YesStyle run frequent sales offering 20-50% discounts on already affordable products. Black Friday, brand anniversary sales, and seasonal promotions allow stockpiling favorite Korean products at steep discounts. Japanese products see fewer dramatic discounts, though duty-free shopping in Japan or authorized retailers occasionally offer 15-25% savings.
 
