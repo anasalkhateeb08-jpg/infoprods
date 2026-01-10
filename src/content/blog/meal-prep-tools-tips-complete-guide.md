@@ -27,9 +27,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 ## Table of Contents
 
@@ -62,15 +62,15 @@ Meal prep has exploded from niche bodybuilder practice to mainstream lifestyle s
 ">While the following video highlights the topic of how to become an expert in meal preparation, there is still information lying in the exclusive details at the bottom of this article - information you may not have discovered yet. :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/NO-EbXMB4gc" 
-    title="How to Become a Meal Prep Pro: The Beginner's Guide 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/NO-EbXMB4gc"
+    title="How to Become a Meal Prep Pro: The Beginner's Guide 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
