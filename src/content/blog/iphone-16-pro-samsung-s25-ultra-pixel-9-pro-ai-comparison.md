@@ -68,15 +68,15 @@ This comparison examines these three AI-powered smartphones through extensive re
 ">While the following demo highlights the ultimate AI phone showdown between the Galaxy S25 Ultra, iPhone 16 Pro, and Pixel 9 Pro, there is still AI information and strategies lying in the exclusive details at the bottom of this article – information you may not have discovered yet: :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/pAZ6uL2Dlo4" 
-    title="Galaxy S25 Ultra vs iPhone 16 Pro vs Pixel 9 Pro: Best AI Phones 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/pAZ6uL2Dlo4"
+    title="Galaxy S25 Ultra vs iPhone 16 Pro vs Pixel 9 Pro: Best AI Phones 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
