@@ -72,15 +72,15 @@ The vintage jewelry market has exploded in recent years, with the global antique
 ">While this video highlights a real-life search for precious silver jewelry and rubies in flea markets, there is still information hidden away in the exclusive details below this article - information you may not have discovered yet: :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/ylyAU2ps71E" 
-    title="Vintage Jewelry Treasure Hunt: How to Find Valuable Pieces" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/ylyAU2ps71E"
+    title="Vintage Jewelry Treasure Hunt: How to Find Valuable Pieces"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
