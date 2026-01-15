@@ -70,15 +70,15 @@ Volleyball is often described as a game of momentum, but it is equally a game of
 "> While we provide you with a video explaining the basic rules of volleyball for those who wish to learn its rules, there is still a lot of information about the topic of the article that you may not have discovered yet: :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/hLZ44KBWEbo" 
-    title="Volleyball Rules for Beginners: Easy Explanation 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/hLZ44KBWEbo"
+    title="Volleyball Rules for Beginners: Easy Explanation 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
@@ -199,7 +199,7 @@ If you want to avoid being the reason your team loses a championship-winning poi
 
 **Question 3:** Why do players switch positions immediately after the serve?
 
-**Answer 3: **The "switch" is a strategic maneuver designed to move players into their specialized roles where they are most effective. In modern volleyball, players are highly specialized: Middle Blockers are best at the center of the net, Outside Hitters are usually best on the left, and Setters or Opposites are often best on the right. However, the rotation rules force players to move through all six positions on the court. To bypass this, teams wait until the server contacts the ball and then immediately sprint (switch) to their preferred tactical spots. For example, if a Middle Blocker is forced to start in Position 4 (Left Front) due to the rotation, they will sprint to Position 3 (Middle Front) the moment the serve begins. This allows the team to have their best blockers in the middle and their best hitters on the wings for every single play. If they were to move before the contact, they would be called for a positional fault. This chaotic shuffle is perfectly legal as long as the initial "snapshot" at the moment of the serve shows every player in their correct rotational zone.
+\*\*Answer 3: \*\*The "switch" is a strategic maneuver designed to move players into their specialized roles where they are most effective. In modern volleyball, players are highly specialized: Middle Blockers are best at the center of the net, Outside Hitters are usually best on the left, and Setters or Opposites are often best on the right. However, the rotation rules force players to move through all six positions on the court. To bypass this, teams wait until the server contacts the ball and then immediately sprint (switch) to their preferred tactical spots. For example, if a Middle Blocker is forced to start in Position 4 (Left Front) due to the rotation, they will sprint to Position 3 (Middle Front) the moment the serve begins. This allows the team to have their best blockers in the middle and their best hitters on the wings for every single play. If they were to move before the contact, they would be called for a positional fault. This chaotic shuffle is perfectly legal as long as the initial "snapshot" at the moment of the serve shows every player in their correct rotational zone.
 
 **Question 4:** Can the Libero serve in professional volleyball rotations?
 
@@ -207,7 +207,7 @@ If you want to avoid being the reason your team loses a championship-winning poi
 
 **Question 5:** What are the six standard positions on the volleyball court?
 
-**Answer 5: **The volleyball court is divided into six numerical zones that dictate both the serving order and the defensive/offensive layout. These zones are: Position 1 (Back Right, the serving position), Position 2 (Front Right), Position 3 (Front Center), Position 4 (Front Left), Position 5 (Back Left), and Position 6 (Back Center). The paradox that confuses many beginners is that while the team rotates "clockwise" (moving from 2 to 1), the positions themselves are numbered "counter-clockwise" around the court. When a coach submits a lineup, they list players in the order they will serve: Player 1, Player 2, Player 3, and so on. In the first rotation of the game, Player 1 starts in Position 1, Player 2 starts in Position 6, Player 3 starts in Position 5, and so forth. This "reverse" numbering between the zones and the serving order is the primary reason why teams accidentally overlap. Understanding that Position 1 is always the server’s home and that the rotation flows toward that spot is the first step in mastering court awareness.
+\*\*Answer 5: \*\*The volleyball court is divided into six numerical zones that dictate both the serving order and the defensive/offensive layout. These zones are: Position 1 (Back Right, the serving position), Position 2 (Front Right), Position 3 (Front Center), Position 4 (Front Left), Position 5 (Back Left), and Position 6 (Back Center). The paradox that confuses many beginners is that while the team rotates "clockwise" (moving from 2 to 1), the positions themselves are numbered "counter-clockwise" around the court. When a coach submits a lineup, they list players in the order they will serve: Player 1, Player 2, Player 3, and so on. In the first rotation of the game, Player 1 starts in Position 1, Player 2 starts in Position 6, Player 3 starts in Position 5, and so forth. This "reverse" numbering between the zones and the serving order is the primary reason why teams accidentally overlap. Understanding that Position 1 is always the server’s home and that the rotation flows toward that spot is the first step in mastering court awareness.
 
 **Question 6:** How can a coach fix a rotation error during a match?
 
