@@ -70,15 +70,15 @@ The disconnect between professional practice and consumer trends becomes apparen
 "> While the following demonstration highlights a practical comparison between manual and electric kitchen tools, there is still information about true cooking efficiency that lies in the details of the article and which you may not have discovered yet:</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/1_loeNRO7Jc" 
-    title="Electric & Manual Kitchen Tools Comparison 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/1_loeNRO7Jc"
+    title="Electric & Manual Kitchen Tools Comparison 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
