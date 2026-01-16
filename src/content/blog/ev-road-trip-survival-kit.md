@@ -73,15 +73,15 @@ The infrastructure supporting electric vehicles has transformed dramatically ove
 "> While this video provides a guide to taking a road trip in an electric car, there is still exclusive information at the bottom of this article, information you may not have discovered yet:</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/a6au83JdKYI" 
-    title="EV Road Trip Survival Guide: The Ultimate 2026 Walkthrough" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/a6au83JdKYI"
+    title="EV Road Trip Survival Guide: The Ultimate 2026 Walkthrough"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
