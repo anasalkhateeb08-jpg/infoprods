@@ -67,15 +67,15 @@ Research published by [NIH cosmetic contamination research ](https://pubmed.ncbi
 "> While this video sheds light on how to determine the expiration date of cosmetics, there are still details and information on this topic in this article - information you may not have discovered yet:</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/UknShTkr-iA" 
-    title="Do Cosmetics Expire & How To Tell When They've Gone Bad! 2026 Guide" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/UknShTkr-iA"
+    title="Do Cosmetics Expire & How To Tell When They've Gone Bad! 2026 Guide"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
