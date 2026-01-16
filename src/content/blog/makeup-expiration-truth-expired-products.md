@@ -219,7 +219,7 @@ Consider financial realities when purging expired products, particularly high-en
 
 Establish a replacement schedule for categories requiring frequent turnover. Mascara replacement every three months should become automatic, marked on calendars or set as phone reminders to ensure timely disposal regardless of product appearance. Foundation and concealer replacement twice yearly prevents gradual contamination accumulation while these workhouse products rarely last longer than six months with daily use anyway. Annual reviews of powder products, lipsticks, and other longer-lasting items identify products approaching two-year marks requiring disposal even if they appear perfectly fine. This proactive replacement approach costs more initially than waiting until products fail, but it prevents contamination-related health problems and ensures consistent makeup performance.
 
-[![Multiple expired cosmetic products including mascara foundation lipstick being thrown away in trash, makeup audit decluttering process, beauty product safety disposal - InfoProds 2026](/images/uploads/j6j.webp "Collection of expired makeup products being discarded")](expired-makeup-products-discarded-audit-2026.webp)
+[![Multiple expired cosmetic products including mascara foundation lipstick being thrown away in trash, makeup audit decluttering process, beauty product safety disposal - InfoProds 2026](/images/uploads/j6j.webp "Collection of expired makeup products being discarded.")](expired-makeup-products-discarded-audit-2026.webp)
 
 ## Conclusion
 
