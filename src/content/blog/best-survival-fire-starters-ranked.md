@@ -73,15 +73,15 @@ The lighter, which had performed flawlessly during dozens of casual camping trip
 "> While the following video highlights testing fire-starting tools in rainy conditions, there is still more information about fire-starting in the exclusive details below - information you may not have discovered yet:</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/2vcuujKh8wQ" 
-    title="Testing Survival Fire Starters in Rain and Cold: 2026 Lab Results" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/2vcuujKh8wQ"
+    title="Testing Survival Fire Starters in Rain and Cold: 2026 Lab Results"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
