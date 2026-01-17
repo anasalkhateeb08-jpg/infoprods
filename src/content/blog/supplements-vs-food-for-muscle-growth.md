@@ -72,15 +72,15 @@ This scenario repeats across millions of gym enthusiasts worldwide who fall vict
 ">While this video highlights the fundamental differences between cheap and expensive nutritional supplements, there is still information about the topic of the article that lies in the details, information that you may not have discovered yet: :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/FxVEc6o-t8k" 
-    title="Expensive vs Cheap Supplements: Are They Worth It? 2026 Guide" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/FxVEc6o-t8k"
+    title="Expensive vs Cheap Supplements: Are They Worth It? 2026 Guide"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
