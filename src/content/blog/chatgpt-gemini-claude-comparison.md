@@ -312,7 +312,7 @@ Practical recommendations for different user categories based on testing results
 
 The testing journey Marcus undertook revealed that real-world AI performance involves far more nuance than benchmark scores or marketing claims suggest. Understanding how these tools actually perform across diverse realistic tasks enables informed decision-making rather than relying on brand recognition or impressive but narrow demonstration videos. While all three platforms deliver remarkable capabilities that seemed impossible just years ago, their distinctive strengths and weaknesses create opportunities for users to optimize their AI toolkit for maximum productivity and value. The AI revolution has reached a point where choosing the "best" AI matters less than understanding which AI excels at what, allowing users to leverage each platform's unique advantages for their specific needs.
 
-[![AI assistant comparison final results with scoring categories showing strengths of ChatGPT, Google Gemini, and Claude for different task types - InfoProds 2026](/images/uploads/mw6.png "Final AI assistant comparison verdict showing winner podium and scoring results.")](ai-assistant-comparison-final-verdict-winner-results-2026.webp)
+[![AI assistant comparison final results with scoring categories showing strengths of ChatGPT, Google Gemini, and Claude for different task types - InfoProds 2026](/images/uploads/mw6.png "Final AI assistant comparison verdict showing winner podium and scoring results")](ai-assistant-comparison-final-verdict-winner-results-2026.webp)
 
 <script type="application/ld+json">
 {
