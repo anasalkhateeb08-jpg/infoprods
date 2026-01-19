@@ -1,0 +1,15 @@
+# Old category pages to new
+/categories/electronics /categories/technology-and-devices 301
+/categories/sports /categories/sports-and-sport-info 301
+/categories/jewelry /categories/jewelry 301
+/categories/gifts /blog 301
+/categories/home /categories/home 301
+/categories/beauty /categories/beauty 301
+/categories/kitchen /categories/kitchen 301
+/categories/tech-gadgets /categories/technology-and-devices 301
+/categories/fashion /blog 301
+/categories/fitness-&-health /categories/fitness-and-health 301
+
+# Old device structure
+/devices/* /blog/:splat 301
+/device-reviews/* /blog/:splat 301
