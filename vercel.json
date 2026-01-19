@@ -1,5 +1,6 @@
 {
   "redirects": [
+    { "source": "/sitemap.xml", "destination": "/sitemap-index.xml", "permanent": true },
     { "source": "/categories/electronics", "destination": "/categories/technology-and-devices", "permanent": true },
     { "source": "/categories/sports", "destination": "/categories/sports-and-sport-info", "permanent": true },
     { "source": "/categories/tech-gadgets", "destination": "/categories/technology-and-devices", "permanent": true },
