@@ -70,15 +70,15 @@ Marcus Chen sat in his home office on a Tuesday morning in January 2026, facing 
 "> While the following demo provides a comprehensive comparison between ChatGPT, Gemini, and Claude across 11 key categories, there is still AI information and strategies lurking in the exclusive details at the bottom of this article – insights you may not have discovered yet:</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/TgjQNNdqFSo" 
-    title="ChatGPT vs Gemini vs Claude: The Ultimate 2026 AI Showdown" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/TgjQNNdqFSo"
+    title="ChatGPT vs Gemini vs Claude: The Ultimate 2026 AI Showdown"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
