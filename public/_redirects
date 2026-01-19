@@ -1,15 +1,41 @@
-# Old category pages to new
+
+# Category redirects
 /categories/electronics /categories/technology-and-devices 301
 /categories/sports /categories/sports-and-sport-info 301
-/categories/jewelry /categories/jewelry 301
-/categories/gifts /blog 301
-/categories/home /categories/home 301
-/categories/beauty /categories/beauty 301
-/categories/kitchen /categories/kitchen 301
 /categories/tech-gadgets /categories/technology-and-devices 301
 /categories/fashion /blog 301
+/categories/gifts /blog 301
 /categories/fitness-&-health /categories/fitness-and-health 301
+/categories/jewelry.html /categories/jewelry 301
+/categories/home.html /categories/home 301
+/categories/beauty.html /categories/beauty 301
+/categories/kitchen.html /categories/kitchen 301
+/categories/tech-gadgets.html /categories/technology-and-devices 301
+/categories/fashion.html /blog 301
 
-# Old device structure
-/devices/* /blog/:splat 301
+# Device pages
+/devices.html /categories/technology-and-devices 301
+/devices/* /categories/technology-and-devices 301
+/devices/laptops.html /blog/top-laptop-recommendations-2026-complete-guide 301
+/devices/smartphones.html /blog/best-rugged-smartphones-under-450-2025-2026-ultimate-guide 301
+/devices/tablets /blog/best-student-device-comparison 301
+/devices/smartwatches.html /blog/ultimate-guide-best-fitness-trackers-health-monitoring-wearables 301
+/devices/cameras.html /blog/complete-guide-spy-gadgets-personal-security-privacy-protection 301
 /device-reviews/* /blog/:splat 301
+
+# Broken articles
+/blog/best-laptops-2024.html /blog/top-laptop-recommendations-2026-complete-guide 301
+/blog/smart-home-devices-worth-buying-2025 /blog/smart-home-devices-worth-buying-2026 301
+/blog/ultimate-fitness-guide-home-gym-equipment-2026 /blog/best-home-gym-equipment-2026-complete-guide-reviews 301
+/blog/best-budget-smartwatches /blog/ultimate-guide-best-fitness-trackers-health-monitoring-wearables 301
+/blog/top-jewelry-trends-2026-aliexpress-guide-reviews /categories/jewelry 301
+/blog/sample-article.html /blog 301
+/blog/wholesale-professional-accessories /blog 301
+/blog.html /blog 301
+/about.html /about 301
+/privacy /about 301
+
+# Specific broken URLs
+/blog/2025-11-28-best-home-gym-equipment-2026-complete-guide-reviews-for-4-essential-pieces-1 /blog/best-home-gym-equipment-2026-complete-guide-reviews 301
+/blog/2025-12-03-how-to-choose-the-perfect-engagement-ring-a-complete-guide-to-finding-the-one /categories/jewelry 301
+/blog/complete-guide-spy-gadgets-personal-security-privacy-protection/wholesale-camera-detector /blog/complete-guide-spy-gadgets-personal-security-privacy-protection 301
