@@ -89,7 +89,7 @@ The solution does not require expensive wilderness courses in exotic locations, 
 
 The weekend approach to survival skills development recognizes that most people cannot dedicate months to wilderness immersion but can commit two days to focused practice that builds competence in core techniques. Research from the [CDC emergency preparedness programs ](https://www.cdc.gov/emergency/index.html)demonstrates that hands-on practice of emergency skills produces significantly better retention and performance than passive learning through videos or reading alone. The physical act of starting fires, building shelters, purifying water, and practicing first aid creates neural pathways and muscle memory that persist for months or years, unlike intellectual knowledge that fades within weeks without application. A single weekend of intensive backyard practice can establish skill foundations that last a lifetime with periodic refresher sessions to maintain proficiency.
 
-**[Image 1 - Insert here]**
+[![Person practicing essential fire-starting survival skills using ferro rod and natural tinder in backyard training environment demonstrating practical weekend learning - InfoProds 2026](/images/uploads/mr1.webp "Person practicing fire-starting with ferro rod in backyard survival training")](backyard-fire-starting-ferro-rod-survival-training-2026.webp)
 
 <a name="why-backyard"></a>
 
@@ -129,7 +129,7 @@ Friction fire represents the ultimate survival fire skill, requiring no modern m
 
 The technique of bow drill operation requires full-body coordination, endurance, and proper pressure to generate sufficient friction heat for ignition. Position fireboard on stable ground with carved notch allowing char dust to accumulate. Place drill tip in fireboard depression with bow cordage wrapped once around drill. Kneel with one foot stabilizing fireboard, apply downward pressure through socket piece held in non-dominant hand atop drill, and drive bow with dominant hand in smooth, rapid strokes using full bow length. Maintain steady downward pressure while maximizing bow stroke speed, creating increasing quantities of dark char dust in the notch. Continue drilling as smoke intensifies, building a pile of hot char until glowing ember forms. Transfer ember to prepared tinder bundle, gently blow to ignite tinder, and build into sustainable fire. Expect dozens of failed attempts before successful ember formation, accepting frustration as normal part of mastering this challenging skill.
 
-**[Image 2 - Insert here]**
+[![Emergency shelter built from tarp and natural materials during backyard survival skills weekend training showing practical construction techniques and weatherproofing methods - InfoProds 2026](/images/uploads/mr2.webp "Emergency shelter construction using tarp and natural materials in backyard")](emergency-shelter-construction-tarp-backyard-training-2026.webp)
 
 <a name="shelter-building"></a>
 
@@ -167,7 +167,7 @@ Filter-based purification systems using hollow fiber membranes, ceramic elements
 
 The improvised purification methods using natural materials or makeshift tools deserve practice attention despite limitations compared to modern equipment. Sand and charcoal filters constructed from layers of gravel, sand, and crushed charcoal inside containers with small drainage holes provide basic sediment removal and taste improvement but cannot guarantee biological safety without additional boiling. Solar disinfection (SODIS) using clear plastic bottles exposed to direct sunlight for minimum six hours kills bacteria and viruses through combined ultraviolet radiation and heat, providing zero-cost purification for emergency situations. Transpiration bags tied around living vegetation collect pure water evaporated by plants, producing small quantities of drinkable water without any treatment necessary. Each improvised method offers backup capability when primary equipment fails or becomes unavailable, justifying practice attention despite imperfect effectiveness.
 
-**[Image 3 - Insert here]**
+[![Water purification demonstration showing multiple methods including boiling filtration and chemical treatment for safe drinking water in survival situations backyard practice - InfoProds 2026](/images/uploads/mr3.jpg "Water purification methods demonstration showing boiling and filtration techniques")](water-purification-methods-boiling-filtration-survival-2026.webp)
 
 <a name="first-aid"></a>
 
@@ -205,7 +205,7 @@ The night navigation and poor visibility techniques become essential when darkne
 
 The backup navigation methods using natural indicators provide rough directional guidance when maps and compass become unavailable. The sun rises generally east and sets generally west with seasonal variations, allowing rough east-west orientation throughout day. Shadow stick method using vertical stick shows sun movement from east to west, with shadow tip marking positions at fifteen-minute intervals revealing east-west line. Star navigation using North Star (Polaris) in northern hemisphere provides accurate north direction visible on clear nights. Watch method using analog watch with hour hand pointed toward sun creates rough north-south line bisecting angle between hour hand and twelve o'clock. Understanding [what to do first 24 hours lost ](https://infoprods.com/blog/what-to-do-first-24-hours-lost)focuses mental energy on immediate survival priorities rather than panic reactions that worsen situations through aimless wandering and energy depletion.
 
-**[Image 4 - Insert here]**
+[![Navigation training with topographic map and compass showing bearings route planning and terrain association skills essential for wilderness survival and emergency situations - InfoProds 2026](/images/uploads/mr4.png "Navigation practice using topographic map and compass in outdoor setting")](navigation-topographic-map-compass-survival-training-2026.webp)
 
 <a name="weekend-plan"></a>
 
@@ -241,7 +241,7 @@ The progression from basic backyard practice toward wilderness application follo
 
 The invitation stands open regardless of current experience level, physical condition, or outdoor background. You need not possess exceptional talent, extensive wilderness experience, or remarkable physical capabilities to develop competent survival skills. The techniques remain accessible to anyone willing to invest focused practice time learning procedures through repetition. Children as young as eight successfully master fire-making, shelter-building, and navigation skills through age-appropriate instruction and supervision. Elderly practitioners maintain proficiency through regular refresher sessions compensating for physical limitations through superior technique and knowledge. Urban dwellers with limited outdoor exposure often progress faster than experienced campers who must unlearn ineffective habits preventing skill development. The only requirement involves commitment to practice rather than passive consumption of content, accepting frustration as normal part of learning rather than evidence of inadequacy.
 
-**[Image 5 - Insert here]**
+[![First aid training scenario showing systematic injury assessment treatment and patient care techniques practiced in backyard for wilderness emergency preparedness skills - InfoProds 2026](/images/uploads/mr5.jpg "First aid practice scenario with mock patient treatment and assessment")](first-aid-practice-patient-assessment-survival-training-2026.webp)
 
 The weekend starts now, not someday when conditions become perfect or motivation mysteriously appears. Saturday morning will arrive whether you spend it developing survival competence or scrolling through social media envying others' outdoor adventures. The choice between theoretical knowledge and practical capability remains yours, but that choice determines whether you become the person requiring rescue or the person capable of self-rescue and assisting others. Your backyard contains everything needed to begin transformation this weekend—natural materials for fire and shelter, space for practice and experimentation, safety net preventing catastrophic learning mistakes, and opportunity for repetition building genuine mastery. The skills you develop during focused weekend practice could save your life, your companions' lives, or strangers requiring assistance during emergencies when professional help remains hours away. That possibility justifies the minimal investment of two days spent transforming knowledge into capability through hands-on practice that no amount of reading, watching, or discussing can replace.
 
@@ -258,7 +258,7 @@ The weekend starts now, not someday when conditions become perfect or motivation
   "embedUrl": "https://www.youtube.com/embed/KVkqfLuVLkM"
 }</script>
 
-**[Image 6 - Insert here]**
+[![Complete backyard survival camp setup featuring fire pit emergency shelter organized gear and training area demonstrating comprehensive weekend survival skills practice - InfoProds 2026](/images/uploads/mr6.jpg "Complete backyard survival camp showing fire shelter and organized gear layout")](complete-backyard-survival-camp-weekend-training-2026.webp)
 
 <a name="faq"></a>
 
