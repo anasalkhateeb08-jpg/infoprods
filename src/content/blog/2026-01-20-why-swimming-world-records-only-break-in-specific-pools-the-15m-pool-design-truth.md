@@ -48,15 +48,15 @@ Michael Phelps touched the wall at the Beijing National Aquatics Center on Augus
 "> While the video raises the question of whether world swimming records are always broken at the World Championships, there is still exclusive information on the main article topic that you may not know yet :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/_xKPj7UIqQI" 
-    title="Do Swimming World Records Always Get Broken? 2026 Sports Analysis" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/_xKPj7UIqQI"
+    title="Do Swimming World Records Always Get Broken? 2026 Sports Analysis"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
@@ -312,28 +312,28 @@ The debate over fast pools ultimately reflects broader tensions within internati
 </style>
 
 <div class="related-articles-grid">
-  
+
   <a href="https://infoprods.com/blog/gymnastics-scoring-conspiracy" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/gymnastics-scoring.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Gymnastics Scoring Conspiracy: How Judges Actually Decide Winners
     </div>
   </a>
-  
+
    <a href="https://infoprods.com/blog/free-throw-psychology-secret" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/throw-psychology-mental-game.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Why Basketball Players Miss Free Throws: 15-Foot Psychology Secret
     </div>
   </a>
-  
+
   <a href="https://infoprods.com/blog/olympic-gold-medals-truth" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/gold.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Olympic Gold Medals Aren't Pure Gold: Material Worth $750
     </div>
   </a>
-  
+
    <a href="https://infoprods.com/blog/fifa-world-cup-2026-draw-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/fifa_world_cup_trophy.png" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -375,5 +375,5 @@ The debate over fast pools ultimately reflects broader tensions within internati
      Boxing Weight Classes Secret: How Fighters Gain 20+ Pounds Overnight (Legal Loophole Exposed)
     </div>
   </a>
-  
+
 </div>
