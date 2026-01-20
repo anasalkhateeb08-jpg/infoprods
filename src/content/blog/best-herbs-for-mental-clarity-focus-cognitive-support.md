@@ -32,6 +32,7 @@ howToName: ''
 howToDescription: ''
 howToTime: ''
 ---
+
 - [Introduction: Why Brain-Boosting Herbs Matter](#introduction)
 - [1. Ginkgo Biloba: Circulation and Cognitive Support](#ginkgo)
 - [2. Bacopa Monnieri: Memory and Learning Enhancement](#bacopa)
@@ -149,7 +150,7 @@ Lion’s mane mushroom, scientifically known as _Hericium erinaceus_, has become
 
 What makes lion’s mane particularly fascinating is its potential connection to **nerve growth factor (NGF)**, a protein essential for the growth, maintenance, and survival of neurons. NGF plays a critical role in neuroplasticity—the brain’s ability to form new connections, adapt to new information, and recover from stress or injury. Early research suggests that lion’s mane contains compounds [called **hericenones** and **erinacines**, which may stimulate NGF production](https://www.tandfonline.com/doi/full/10.1080/21501201003735556#d1e350). While research is still developing, this potential mechanism has positioned lion’s mane as one of the most promising natural options for long‑term brain support.
 
-Lion’s mane is often associated with improvements in **mental clarity**, **focus**, and **memory**, but unlike stimulants or fast‑acting nootropics, its effects tend to be subtle and cumulative. Many individuals describe the experience as a “clean clarity” or “mental brightness” that develops gradually with consistent use. This aligns with the mushroom’s potential influence on neuronal health rather than neurotransmitter stimulation.
+Lion’s mane is often associated with improvements in **mental clarity**,** focus**, and **memory**, but unlike stimulants or fast‑acting nootropics, its effects tend to be subtle and cumulative. Many individuals describe the experience as a “clean clarity” or “mental brightness” that develops gradually with consistent use. This aligns with the mushroom’s potential influence on neuronal health rather than neurotransmitter stimulation.
 
 One of the most compelling aspects of lion’s mane is its potential role in supporting **cognitive resilience**, especially during periods of mental fatigue or stress. Modern lifestyles often expose individuals to chronic stress, poor sleep, and digital overload—all of which can impair cognitive performance. By supporting nerve health and reducing oxidative stress, lion’s mane may help maintain cognitive function even under demanding conditions.
 
