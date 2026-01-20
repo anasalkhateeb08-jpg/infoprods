@@ -68,16 +68,20 @@ The debate between sleep and exercise for fat loss has dominated fitness circles
   font-weight: bold;
   font-size: 14px;
   display: inline-block;
-"> Quick overview: This quick video analysis highlights the role of exercise and sleep in weight loss, and there is still exclusive information in the article on this topic :</span>
+"> This video explains how the timing of eating and its relationship to sleep change the body's fat-burning chemistry :</span>
 
-<div class="instagram-container" style="display: flex; justify-content: center; margin: 25px 0;">
-  <blockquote class="instagram-media"
-    data-instgrm-permalink="https://www.instagram.com/reels/DNsYSOBxHi4/"
-    data-instgrm-version="14"
-    style="background:#FFF; border:0; border-radius:12px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-  </blockquote>
-  <script async src="//www.instagram.com/embed.js"></script>
-</div>
+<div class="video-container" style="text-align: center; margin: 25px 0;">
+  <iframe 
+    width="100%" 
+    height="315" 
+    src="https://www.youtube.com/embed/D61jJJPIQeo" 
+    title="Sleep vs Exercise: The Science of Fat Loss 2026" 
+    frameborder="0" 
+    style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe></div>
 
 Recent groundbreaking research conducted throughout 2024 and early 2025 has finally provided the answer that frustrated dieters and fitness enthusiasts have been desperately seeking, and the results shocked even veteran researchers who have spent decades studying metabolism and weight loss. A comprehensive meta-analysis [published in JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2828487) examined one hundred sixteen randomized clinical trials involving nearly seven thousand adults, revealing dose-response relationships between aerobic exercise and fat loss that challenged long-held assumptions about optimal training volumes. Simultaneously, researchers at the University of Chicago, Harvard Medical School, and Johns Hopkins University published complementary studies demonstrating how sleep restriction fundamentally alters the composition of weight loss, causing the body to preferentially burn muscle tissue while stubbornly clinging to fat stores, even when total weight decreases on the scale. These studies did not simply confirm what we already knew about sleep and exercise; they revealed mechanisms and thresholds that completely reframe how we should approach fat loss, metabolism optimization, and sustainable body composition changes.
 
@@ -249,14 +253,14 @@ Marcus Thompson, the exhausted exerciser we met in the introduction, eventually 
 {
   "@context": "https://schema.org",
   "@type": "VideoObject",
-  "name": "Trending Insights 2026 - Instagram Reel",
-  "description": "A trending Instagram Reel showcasing quick tips and visual insights for 2026. Perfect for mobile-first audiences seeking fast information.",
-  "thumbnailUrl": "https://www.instagram.com/reels/DNsYSOBxHi4/thumb.jpg",
-  "uploadDate": "2026-01-20T17:25:00Z",
-  "contentUrl": "https://www.instagram.com/reels/DNsYSOBxHi4/",
-  "embedUrl": "https://www.instagram.com/reels/DNsYSOBxHi4/embed"
-}
-</script>
+  "name": "Effects of Fasting & Sleep on Fat Loss (2026 Scientific Review)",
+  "description": "Dr. Andrew Huberman explains how intermittent fasting and sleep timing impact fat loss, muscle maintenance, and overall health in 2026. Discover why when you eat is as important as what you eat.",
+  "thumbnailUrl": "https://i.ytimg.com/vi/D61jJJPIQeo/maxresdefault.jpg",
+  "uploadDate": "2025-08-28T10:00:00Z",
+  "duration": "PT38M23S",
+  "contentUrl": "https://www.youtube.com/watch?v=D61jJJPIQeo",
+  "embedUrl": "https://www.youtube.com/embed/D61jJJPIQeo"
+}</script>
 
 <a name="faq"></a>
 
