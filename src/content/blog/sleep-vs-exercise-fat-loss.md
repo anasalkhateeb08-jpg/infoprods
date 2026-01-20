@@ -71,9 +71,9 @@ The debate between sleep and exercise for fat loss has dominated fitness circles
 "> Quick overview: This quick video analysis highlights the role of exercise and sleep in weight loss, and there is still exclusive information in the article on this topic :</span>
 
 <div class="instagram-container" style="display: flex; justify-content: center; margin: 25px 0;">
-  <blockquote class="instagram-media" 
-    data-instgrm-permalink="https://www.instagram.com/reels/DNsYSOBxHi4/" 
-    data-instgrm-version="14" 
+  <blockquote class="instagram-media"
+    data-instgrm-permalink="https://www.instagram.com/reels/DNsYSOBxHi4/"
+    data-instgrm-version="14"
     style="background:#FFF; border:0; border-radius:12px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
   </blockquote>
   <script async src="//www.instagram.com/embed.js"></script>
