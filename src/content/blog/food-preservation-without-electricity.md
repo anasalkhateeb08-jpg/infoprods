@@ -74,15 +74,15 @@ That moment changed everything for me. I realized that somewhere between the inv
 ">  This video showcases traditional and effective methods for preserving food without electricity, and there's still more information on food preservation in the exclusive details below—insights you probably haven't discovered yet:</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/vzSwyw642m0" 
-    title="No Power, No Problem! Food Preservation Without Electricity 2026 Guide" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/vzSwyw642m0"
+    title="No Power, No Problem! Food Preservation Without Electricity 2026 Guide"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
@@ -219,6 +219,8 @@ Cheese preservation in oil protects already-aged cheeses from further moisture l
 Herb preservation in oil creates concentrated flavor pastes useful in countless applications. Fresh herbs are chopped finely or pureed with oil to create a thick paste, then packed into small jars and topped with a protective layer of oil. Basil pesto represents the most famous example, combining fresh basil with oil, garlic, nuts, and cheese into a preserve that maintains bright green color and fresh flavor for months. Simpler versions use single herbs pureed with oil, creating versatile flavoring bases that add instant depth to soups, sauces, and marinades.
 
 Safety considerations for oil preservation focus primarily on moisture content and proper submersion. Any water content in preserved foods creates risk of botulism, particularly in low-acid foods like garlic or vegetables. For this reason, all vegetables must be thoroughly dried before oil preservation, and many recipes include acidic ingredients like lemon juice or vinegar to further ensure safety. Commercially, oil-preserved foods often require acidification or refrigeration, but traditional home preservation methods that ensure complete dryness and proper technique remain safe when executed carefully. Foods in oil should always be stored with the lid tightly sealed and the contents checked periodically to ensure oil coverage remains complete.
+
+<a href="https://s.click.aliexpress.com/e/_c3t7Zrrh " style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-food-storage-jars </a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
 <a name="vinegar-preservation"></a>
 
