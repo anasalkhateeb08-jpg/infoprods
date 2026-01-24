@@ -42,9 +42,9 @@ faqs:
 howToName: ''
 howToDescription: ''
 howToTime: ''
-productName: ''
-productDescription: ''
 productBrand: ''
+productDescription: ''
+productName: ''
 ---
 
 ## **Table of Contents**
