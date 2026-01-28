@@ -259,7 +259,7 @@ The weekend starts now, not someday when conditions become perfect or motivation
   "embedUrl": "https://www.youtube.com/embed/KVkqfLuVLkM"
 }</script>
 
-[![Complete backyard survival camp setup featuring fire pit emergency shelter organized gear and training area demonstrating comprehensive weekend survival skills practice - InfoProds 2026](/images/uploads/mr6.jpg "Complete backyard survival camp showing fire shelter and organized gear layout")](complete-backyard-survival-camp-weekend-training-2026.webp)
+[![Complete backyard survival camp setup featuring fire pit emergency shelter organized gear and training area demonstrating comprehensive weekend survival skills practice - InfoProds 2026](/images/uploads/mr6.jpg "Complete backyard survival camp showing fire shelter and organized gear layout.")](complete-backyard-survival-camp-weekend-training-2026.webp)
 
 <a name="faq"></a>
 
