@@ -72,15 +72,15 @@ That conversation sparked Michael's journey into the world of professional-grade
 "> Before going into the details of the article, watch this video on how to achieve professional results in polishing your car on a limited budget.:</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/adrcSPxWTZM" 
-    title="Professional Car Detailing on a Budget: $50 Challenge 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/adrcSPxWTZM"
+    title="Professional Car Detailing on a Budget: $50 Challenge 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
@@ -97,7 +97,7 @@ The journey from swirl-marked paint to mirror-finish perfection begins with unde
 
 Michael's transformation from frustrated car owner to accomplished home detailer mirrors the journey thousands take annually when they discover that professional results truly are achievable at home. His neighbor's advice proved accurate: the swirl marks could be corrected, the dull finish could be restored, the interior stains could be removed, and protection could be applied that would last far longer than any quick detail spray. The total cost remained a fraction of a single professional detailing session, and the satisfaction of personally transforming his vehicle exceeded any service he could purchase. More importantly, he gained skills and knowledge that would serve him for decades, protecting every vehicle he would own through proper care and maintenance rather than expensive professional intervention.
 
-**[Image 1 - Insert here]**
+[![Professional car detailing equipment including dual-action polisher, foam pads, microfiber towels, wash buckets with grit guards, foam cannon, and various detailing chemicals organized on workbench, demonstrating accessible tools for achieving showroom-quality results at home without professional shop investment - InfoProds 2026](/images/uploads/msm1.avif "Professional Car Detailing Equipment and Supplies Arranged for Home Use")](professional-car-detailing-equipment-home-use-2026.webp)
 
 <a name="paint-system"></a>
 
@@ -117,7 +117,7 @@ Modern paint systems also incorporate special effect finishes that require speci
 
 The clear coat thickness on your specific vehicle determines how much correction remains possible throughout its lifetime. Luxury vehicles often receive thicker clear coat applications providing greater correction latitude, while economy cars may have thinner coats limiting aggressive paint correction. Paint meters measuring clear coat thickness in micrometers allow precise determination of remaining correction potential, though these tools cost hundreds of dollars and remain unnecessary for most home detailers practicing conservative correction techniques. General guidelines suggest that factory clear coat applications range from 40 to 100 micrometers, with each proper paint correction session removing 1 to 3 micrometers. Simple mathematics indicates that even thin clear coats can withstand multiple proper corrections over a vehicle's lifetime when approached conservatively and systematically.
 
-**[Image 2 - Insert here]**
+[![Detailed macro photography showing multiple automotive paint layers including primer, color coat, and protective clear coat on vehicle panel, illustrating paint system composition and clear coat thickness that enables professional paint correction and swirl mark removal through proper detailing techniques - InfoProds 2026](/images/uploads/msm2.png "Close-Up View of Automotive Paint Layers and Clear Coat Structure")](automotive-paint-layers-clear-coat-structure-2026.webp)
 
 <a name="tools-products"></a>
 
@@ -137,7 +137,7 @@ Protection products span the widest price and performance range of any detailing
 
 Interior detailing tools focus on accessing tight spaces and applying appropriate pressure to different surface materials. Vacuum attachments with soft bristles prevent scratching when cleaning vents and crevices, while crevice tools reach between seats and into door pockets. Brushes in various stiffness levels allow appropriate agitation for different surfaces—soft brushes for leather and vinyl, medium brushes for plastic trim, stiffer brushes for floor mats and carpeting. Microfiber towels deserve quality investment for interior work because cheap towels leave lint and scratch delicate surfaces. Premium microfiber costs three to five dollars per towel and lasts hundreds of uses with proper laundering. Steam cleaners provide chemical-free cleaning power for interior surfaces at one hundred to two hundred dollars, though they remain optional rather than essential for achieving professional interior results.
 
-**[Image 3 - Insert here]**
+[![Proper two-bucket car washing setup featuring separate wash and rinse buckets with grit guards at bottom, premium microfiber wash mitt, pH-neutral car wash soap, and foam cannon attachment preventing swirl marks during vehicle cleaning through systematic dirt management and paint-safe technique - InfoProds 2026](/images/uploads/msm3.webp "Two-Bucket Car Washing Method with Grit Guards and Wash Mitt")](two-bucket-car-washing-method-grit-guards-2026.webp)
 
 Cleaning chemicals for interior work require surface-specific formulations preventing damage while delivering effective cleaning. All-purpose cleaners at proper dilution ratios work safely on most hard interior surfaces including plastics, vinyl, and coated fabrics. Leather requires dedicated pH-balanced cleaners preventing drying and cracking that harsh chemicals cause. Glass cleaners must be ammonia-free for use on tinted windows and near plastic components. Carpet and upholstery cleaners should lift stains without leaving sticky residues that attract future dirt. The Environmental Protection Agency provides guidance on selecting automotive cleaning products with appropriate volatile organic compound levels and proper ventilation requirements during interior detailing work. Fabric protectants applied after cleaning create stain-resistant barriers extending time between deep cleaning sessions, though proper initial cleaning remains far more important than protective coatings for long-term interior appearance.
 
@@ -159,7 +159,7 @@ Drying technique matters as much as washing technique for swirl-free results. Ne
 
 Alternative drying methods prevent swirl marks even more effectively than premium microfiber towels when properly executed. Forced air drying using leaf blowers or dedicated car dryers literally blows water off surfaces without any physical contact whatsoever. Metro car dryers designed specifically for automotive use provide filtered, heated air that speeds evaporation while preventing the dust contamination that ordinary leaf blowers might introduce. Handheld electric blowers work well for small areas like mirrors, grilles, and emblems where towels cannot easily reach. The slight additional time investment pays dividends in absolutely swirl-free drying, particularly valuable after you have invested hours in paint correction creating a perfect finish. According to guidance from the Federal Trade Commission on proper vehicle maintenance, regular washing and appropriate drying techniques extend paint life and help maintain vehicle value.
 
-**[Image 4 - Insert here]**
+[![Professional paint correction demonstration showing dual-action polisher with foam cutting pad applying compound to black vehicle panel, removing swirl marks and light scratches through controlled clear coat leveling technique achievable by home detailers following proper safety protocols - InfoProds 2026](/images/uploads/msm4.webp "Paint Correction Process Using Dual-Action Polisher on Vehicle Panel")](paint-correction-dual-action-polisher-technique-2026.webp)
 
 <a name="paint-correction"></a>
 
@@ -217,7 +217,7 @@ Dashboard and center console cleaning removes dust, fingerprints, and grime from
 
 Door jambs and cargo areas often receive inadequate attention during routine interior cleaning despite visible dirt accumulation and high exposure to environmental contamination. Door jambs show road grime, mud, and salt residue requiring the same two-bucket washing technique used on exterior panels. Clean door seals carefully avoiding excessive pulling or bending that can damage rubber or create leaks. Cargo areas in SUVs and hatchbacks benefit from complete item removal followed by thorough vacuuming and wet cleaning similar to passenger compartment. Protect clean cargo areas with fitted cargo liners preventing direct contact between transported items and carpet surfaces.
 
-**[Image 5 - Insert here]**
+[![Thoroughly detailed vehicle interior showing pristine leather seats, cleaned dashboard, conditioned vinyl trim, spotless carpets, and streak-free glass after comprehensive interior detailing process using surface-appropriate cleaners, proper techniques, and systematic approach to achieving showroom condition cabin - InfoProds](/images/uploads/msm5.webp "Complete Interior Detailing Process and Clean Vehicle Cabin")](complete-interior-detailing-clean-vehicle-cabin-2026.webp)
 
 <a name="maintenance-schedule"></a>
 
@@ -257,7 +257,7 @@ Attempting paint correction without proper surface preparation wastes time and r
 
 Insufficient curing time for ceramic coatings before water exposure causes coating failure and wasted product investment. Consumer-grade ceramic coatings typically require 24-48 hours to cure fully before tolerating water contact, though exact timing varies by product chemistry and ambient conditions. Impatient detailers who wash their vehicles same-day after coating application, or get caught in unexpected rain, often find that coating never achieved intended durability because water exposure interrupted curing process. Reading and following product-specific curing requirements, checking weather forecasts before application, and using garage or covered parking during curing period prevents this expensive and frustrating mistake.
 
-**[Image 6 - Insert here]**
+[![Ceramic coating application process demonstrating proper technique with applicator pad applying silicon dioxide coating to perfectly prepared vehicle paint, creating semi-permanent hydrophobic protection layer delivering superior scratch resistance, UV protection, and gloss enhancement lasting multiple years - InfoProds 2026](/images/uploads/msm6.jpg "Ceramic Coating Application on Vehicle Paint Surface")](ceramic-coating-application-vehicle-paint-2026.webp)
 
 <script type="application/ld+json">
 {
