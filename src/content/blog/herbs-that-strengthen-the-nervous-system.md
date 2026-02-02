@@ -4,7 +4,7 @@ description: Discover powerful herbs that strengthen your nervous system natural
 author: InfoProds Team
 date: 2026-02-02T19:01:00
 image: /images/uploads/Herbs that strengthen the nervous system.jpg
-category: Jewelry
+category: Fitness & Health
 tags:
   - nervous system herbs
   - adaptogenic herbs
