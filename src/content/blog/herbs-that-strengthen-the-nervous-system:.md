@@ -198,7 +198,7 @@ Lavender extends beyond aromatherapy applications to offer genuine nervous syste
 
 The effective use of nervine herbs requires matching specific botanicals to individual presentations rather than assuming all nervines work identically. Some people respond excellently to valerian while others find it ineffective or even paradoxically stimulating. Personal experimentation under appropriate guidance helps identify which nervines provide optimal benefits. Starting with lower doses and gradually increasing allows assessment of individual sensitivity while minimizing risks of excessive sedation. Timing matters significantly, with some nervines working best taken thirty to sixty minutes before desired effects while others require several days of consistent use before benefits appear.
 
-[![Soothing cup of herbal tea surrounded by fresh chamomile lavender and lemon balm flowers providing natural anxiety relief and nervous system calming through traditional nervine herbs - peaceful self-care ritual for stress management - InfoProds 2026 natural wellness guide](/images/uploads/mfm4.png "Calming Herbal Tea Blend - Nervine Herbs for Anxiety Relief")](calming-nervine-herbal-tea-anxiety-relief-natural-2026.webp)
+[![Soothing cup of herbal tea surrounded by fresh chamomile lavender and lemon balm flowers providing natural anxiety relief and nervous system calming through traditional nervine herbs - peaceful self-care ritual for stress management - InfoProds 2026 natural wellness guide](/images/uploads/mfm4.png "Calming Herbal Tea Blend - Nervine Herbs for Anxiety Relief.")](calming-nervine-herbal-tea-anxiety-relief-natural-2026.webp)
 
 <a name="neuroprotective-herbs"></a>
 
