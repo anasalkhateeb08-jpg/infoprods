@@ -146,7 +146,7 @@ The bioavailability question remains central to understanding how herbs influenc
 
 Dosage and duration of use significantly impact herbal effectiveness for nervous system support. Unlike pharmaceutical drugs designed for immediate effects, many nervine and adaptogenic herbs require consistent use over weeks or months to produce optimal benefits. This delayed onset reflects their mechanism of gradually restoring balance rather than forcing immediate changes. Acute-acting nervines like valerian or passionflower provide relatively rapid effects within an hour or two, while adaptogens like ashwagandha typically require six to twelve weeks of daily use before full benefits manifest. Understanding these timelines helps set appropriate expectations and maintain consistency.
 
-[![ Modern scientific research laboratory analyzing medicinal herbs for nervous system support showing convergence of traditional herbal wisdom and contemporary neuroscience validation - phytochemical analysis equipment and plant extracts - InfoProds 2026 evidence-based herbal medicine guide](/images/uploads/mfm3.jpg "Herbal Medicine Research Laboratory - Scientific Validation of Traditional Knowledge")](herbal-medicine-research-laboratory-scientific-validation-2026.webp)
+[![Modern scientific research laboratory analyzing medicinal herbs for nervous system support showing convergence of traditional herbal wisdom and contemporary neuroscience validation - phytochemical analysis equipment and plant extracts - InfoProds 2026 evidence-based herbal medicine guide](/images/uploads/mfm3.jpg "Herbal Medicine Research Laboratory - Scientific Validation of Traditional Knowledge")](herbal-medicine-research-laboratory-scientific-validation-2026.webp)
 
 <a name="adaptogenic-herbs"></a>
 
