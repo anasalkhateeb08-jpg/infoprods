@@ -244,7 +244,7 @@ Regulatory frameworks will need substantial evolution to address emerging BCI ca
 
 <a href=" https://s.click.aliexpress.com/e/_c4q4JQxh " style="text-decoration: none; font-size: 18px;"> <span style=" color: #FF2014; font-weight: bold; display: inline-block; animation: pulse 1.7s infinite; "> Shop on AliExpress via link:  </span> wholesale-eeg-headset</a> <style> @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.7; transform: scale(1.02); } } </style>
 
-[![Advanced neurotechnology research laboratory showcasing cutting-edge equipment for developing next-generation brain-computer interface systems and neural engineering innovations - InfoProds 2026](/images/uploads/mcm6.png "Future Neurotechnology Development Laboratory")](future-neurotechnology-development-laboratory-2026.webp)
+[![Advanced neurotechnology research laboratory showcasing cutting-edge equipment for developing next-generation brain-computer interface systems and neural engineering innovations - InfoProds 2026](/images/uploads/mcm6.png "Future Neurotechnology Development Laboratory.")](future-neurotechnology-development-laboratory-2026.webp)
 
 <a name="conclusion"></a>
 
