@@ -61,6 +61,27 @@ Standing at the Olympic archery range in Paris during the 2024 Games, I watched 
 
 This jarring contrast raises a question that haunts every archery enthusiast who discovers the sport's history: why do modern Olympic bows cost exponentially more than medieval longbows when they're objectively weaker? The answer reveals everything wrong with how we measure technological progress. We assume newer means better, stronger, more capable. But archery's evolution tells a different story—one where the goal itself transformed so completely that comparing medieval and modern bows becomes like comparing a Formula One race car to a medieval warhorse. They share a purpose only in the most abstract sense.
 
+<span style="
+  color: #C4476A;
+  font-weight: bold;
+  font-size: 14px;
+  display: inline-block;
+">  Before delving into the details of the article, watch this video which presents a sports report on the exorbitant cost of archery equipment at the Olympics:</span>
+
+<div class="video-container" style="text-align: center; margin: 25px 0;">
+  <iframe 
+    width="100%" 
+    height="315" 
+    src="https://www.youtube.com/embed/Gu5-FTci80g" 
+    title="The Cost of an Olympic Archer - Equipment Breakdown" 
+    frameborder="0" 
+    style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
+</div>
+
 The medieval English longbow represents one of humanity's most devastating handheld weapons. Recovered specimens from the Mary Rose, King Henry VIII's flagship that sank in 1545, provided archaeologists with perfectly preserved examples of these instruments of war. When researchers at Southampton University created precise replicas and tested them, the results shocked modern archers. These bows required draw forces between 100 and 185 pounds, with most averaging around 150 pounds. To put this in perspective, drawing a 150-pound bow demands more force than most people can bench press. The arrows weighed up to four ounces—three times heavier than Olympic arrows—and struck targets with kinetic energy comparable to some modern firearms.
 
 Contemporary Olympic recurve bows, by stark contrast, operate at draw weights between 35 and 50 pounds depending on the archer's gender and physical build. The International Archery Federation regulations don't mandate maximum draw weight, but competitive reality does. Higher draw weights increase muscle fatigue, reduce stability, and compromise the micro-level control necessary for consistent accuracy at 70 meters. Korean Olympic archers, who dominate the sport with almost mechanical consistency, typically use draw weights at the lower end of the spectrum. Their scores regularly exceed those of physically stronger archers using heavier equipment. This counterintuitive reality illustrates the fundamental difference between warfare archery and competitive archery.
@@ -343,7 +364,19 @@ Modern archery exists free from military constraints, allowing optimization pure
 
 The strongest bow isn't the best bow. The best bow matches its context—battlefield, competition range, or hunting ground. Understanding this context-dependence reveals more about archery's rich history than any superficial equipment comparison. We honor both medieval longbowmen's dedicated development of extraordinary skill and modern archers' mastery of precision techniques enabled by engineered equipment. Different challenges, different solutions, different excellence.
 
-═══════════════════════════════════════════════════════ **PART 4: DETAILED FAQ** ═══════════════════════════════════════════════════════
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "The Cost of an Olympic Archer Equipment",
+  "description": "An educational breakdown of the costs of modern target recurve archery equipment used in the Olympics, covering risers, limbs, sights, stabilizers, and arrows.",
+  "thumbnailUrl": "https://i.ytimg.com/vi/Gu5-FTci80g/maxresdefault.jpg",
+  "uploadDate": "2024-07-24T10:00:00Z",
+  "duration": "PT6M46S",
+  "contentUrl": "https://www.youtube.com/watch?v=Gu5-FTci80g",
+  "embedUrl": "https://www.youtube.com/embed/Gu5-FTci80g"
+}
+</script>
 
 <a name="faq"></a>
 
