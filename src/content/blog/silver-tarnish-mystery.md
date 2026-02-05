@@ -73,15 +73,15 @@ This transformation haunts everyone who owns silver jewelry, silverware, or deco
 "> Before delving into the details of the article, watch this video which presents a scientific report on the chemical reactions that turn the shine of silver into a dull black layer :</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/zyorzs0N5r8" 
-    title="What Causes Silver to Tarnish? - Science & History" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/zyorzs0N5r8"
+    title="What Causes Silver to Tarnish? - Science & History"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
 </div>
@@ -232,7 +232,7 @@ The twenty-first century brought computational chemistry and nanotechnology into
 
 Nanotechnology applications to silver conservation represent cutting-edge research with profound implications. Scientists at the University of Maryland and the Walters Art Museum are developing atomic layer deposition techniques to apply protective coatings just nanometers thick to silver artifacts. These ultra-thin coatings provide protection while remaining essentially invisible and preservible key aesthetic qualities. Most importantly, they can be designed for complete reversibility, allowing future conservators to remove the coating and apply more advanced treatments as technology progresses. This reversibility addresses a fundamental principle of modern conservation ethics: interventions should be reversible because future generations will develop better methods we cannot yet imagine.
 
-[![Successfully cleaned and restored silver jewelry pieces showing brilliant mirror-like reflective surface after proper tarnish removal treatment, demonstrating recovery of original luster through careful application of appropriate cleaning methods that preserve metal integrity - silver restoration InfoProds 2026](/images/uploads/nq6.webp "Restored Silver Jewelry Displaying Mirror Finish After Treatment")](restored-silver-jewelry-mirror-finish-after-tarnish-removal-cleaning-2026.webp)
+[![Successfully cleaned and restored silver jewelry pieces showing brilliant mirror-like reflective surface after proper tarnish removal treatment, demonstrating recovery of original luster through careful application of appropriate cleaning methods that preserve metal integrity - silver restoration InfoProds 2026](/images/uploads/nq6.webp "Restored Silver Jewelry Displaying Mirror Finish After Treatment.")](restored-silver-jewelry-mirror-finish-after-tarnish-removal-cleaning-2026.webp)
 
 <a name="conclusion"></a>
 
