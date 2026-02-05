@@ -418,28 +418,28 @@ The strongest bow isn't the best bow. The best bow matches its context—battlef
 </style>
 
 <div class="related-articles-grid">
-  
+
   <a href="https://infoprods.com/blog/gymnastics-scoring-conspiracy" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/gymnastics-scoring.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Gymnastics Scoring Conspiracy: How Judges Actually Decide Winners
     </div>
   </a>
-  
+
    <a href="https://infoprods.com/blog/free-throw-psychology-secret" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/throw-psychology-mental-game.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Why Basketball Players Miss Free Throws: 15-Foot Psychology Secret
     </div>
   </a>
-  
+
   <a href="https://infoprods.com/blog/olympic-gold-medals-truth" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/gold.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Olympic Gold Medals Aren't Pure Gold: Material Worth $750
     </div>
   </a>
-  
+
    <a href="https://infoprods.com/blog/fifa-world-cup-2026-draw-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/fifa_world_cup_trophy.png" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -481,7 +481,7 @@ The strongest bow isn't the best bow. The best bow matches its context—battlef
      Boxing Weight Classes Secret: How Fighters Gain 20+ Pounds Overnight (Legal Loophole Exposed)
     </div>
   </a>
-  
+
 <a href="https://infoprods.com/blog/why-swimming-records-break-specific-pools" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/Olympic swimming pools.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
