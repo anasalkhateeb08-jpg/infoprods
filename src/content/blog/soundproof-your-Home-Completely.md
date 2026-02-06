@@ -328,7 +328,7 @@ The urban future will likely grow noisier rather than quieter, with increasing d
 
 ## Frequently Asked Questions
 
-**Question 1:** What is military-grade soundproofing and how does it differ from standard methods?
+**Question 1:** What is military-grade soundproofing and how does it differ from standard methods ?
 
 **Answer 1:** Military-grade soundproofing encompasses advanced acoustic isolation technologies originally developed for defense installations, classified research facilities, and sensitive government operations where sound transmission represents genuine security threat rather than mere inconvenience. These methods achieve Sound Transmission Class ratings of 60-80, compared to civilian construction standards of 30-40, representing the difference between complete sound elimination and basic noise reduction. The fundamental distinction lies in approach philosophy: military specifications demand near-absolute sound isolation regardless of cost or complexity, while standard soundproofing merely seeks reducing noise to tolerable levels. Military techniques employ room-within-room construction with complete structural decoupling, multiple barrier layers separated by carefully calculated air gaps, specialized mass-loaded materials providing maximum sound blocking with minimum thickness, resonance dampening preventing vibration amplification, and systematic elimination of every potential sound transmission pathway. These same principles adapt remarkably well to apartment applications, though full military-grade implementation proves impractical for most residential situations due to cost and space constraints.
 
