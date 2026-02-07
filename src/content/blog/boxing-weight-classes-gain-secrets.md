@@ -322,6 +322,20 @@ As the boxing world moves forward, the hope remains that increasing awareness of
 }
 </style>
 
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
+
 <div class="related-articles-grid">
   
   <a href="https://infoprods.com/blog/gymnastics-scoring-conspiracy" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
@@ -366,7 +380,7 @@ As the boxing world moves forward, the hope remains that increasing awareness of
     </div>
   </a>
 
-<a href="https://infoprods.com/blog/2026-01-12-the-real-reason-marathon-runners-hit-the-wall-at-mile-20-scientific-truth-vs-medical-myths" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+<a href="https://infoprods.com/blog/marathon-wall-mile-20-truth" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/marathon wall mile 20 truth.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      The Real Reason Marathon Runners Hit "The Wall" at Mile 20: Scientific Truth vs Medical Myths
@@ -393,4 +407,33 @@ As the boxing world moves forward, the hope remains that increasing awareness of
      Cricket's 42 Laws vs Baseball's Unwritten Rules: Which Sport Is Actually More Complicated?
     </div>
   </a>
+
+<a href="https://infoprods.com/blog/nfl-concussion-data-long-term-brain-damage" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/American Football Concussion Reality.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     American Football Concussion Reality: What NFL Hides About 10-Year Brain Damage Data
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/why-figure-skaters-never-get-dizzy" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/the Inner Ear Secret Olympic Training Revealsl.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Why Figure Skaters Never Get Dizzy: The Inner Ear Secret Olympic Training Reveals
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/table-tennis-rubber-technology" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Table Tennis Rubber Technology.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Table Tennis Rubber Technology: How $200 Paddles Beat $20 Ones (Tested 1000 Serves)
+    </div>
+  </a>
+
+  <a href="https://infoprods.com/blog/archery-olympic-bows" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Bow.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Archery Equipment Evolution: Why Olympic Bows Cost $3000 But Medieval Longbows Were Stronger
+    </div>
+  </a>
+  
 </div>
