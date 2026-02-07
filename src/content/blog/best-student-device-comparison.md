@@ -470,29 +470,43 @@ As you stand at that electronics store display or browse product pages online wi
 }
 </style>
 
-<div class="related-articles-grid">
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
 
+<div class="related-articles-grid">
+  
   <a href="https://infoprods.com/blog/complete-guide-essential-work-from-home-tech-productivity-gadgets" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/homeoffice-fullres-0028.jpg" alt="Work From Home Tech" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      The Complete Guide to Essential Work From Home Tech and Productivity Gadgets
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/ultimate-guide-best-ai-apps-tools-everyday-use-artificial-intelligence" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/photo-1677442136019-21780ecad995.jfif" alt="Best AI Apps" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      The Ultimate Guide to Best AI Apps and Tools for Everyday Use: Transform Your Daily Life with Artificial Intelligence
     </div>
   </a>
-
+  
   <a href="https://infoprods.com/blog/top-laptop-recommendations-2026-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/sCTUm3TGXAahNHu7wghtpP.jpg" alt="Best Laptops 2026" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Top Laptop Recommendations for 2026: Complete Guide to Best Laptops for Every Budget and Need
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/best-power-banks-portable-charging-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/EmJMhZz22EbZGvSUCd4ZbW.jpg" alt="Best Power Banks" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -514,13 +528,13 @@ As you stand at that electronics store display or browse product pages online wi
     </div>
   </a>
 
-<a href="https://infoprods.com/blog/2026-01-10-iphone-16-pro-vs-samsung-galaxy-s25-ultra-vs-google-pixel-9-pro-which-ai-smartphone-actually-delivers-in-real-life#which-phone-should-you-actually-buy" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+<a href="https://infoprods.com/blog/iphone-16-pro-samsung-s25-ultra-pixel-9-pro-ai-comparison" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/image78.jpeg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      iPhone 16 Pro vs Samsung Galaxy S25 Ultra vs Google Pixel 9 Pro: Which AI Smartphone Actually Delivers in Real Life?
     </div>
   </a>
-
+  
 <a href="https://infoprods.com/blog/2026-01-14-smartphone-vs-dedicated-camera-in-2026-professional-photographer-s-brutal-honest-test" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/Smartphone vs Dedicated Camera1.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -546,6 +560,34 @@ As you stand at that electronics store display or browse product pages online wi
     <img src="/images/uploads/tank4smartphone.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Best Rugged Smartphones Under $450 in 2025-2026: Top 5 Phones with Massive Batteries
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/foldable-vs-rollable-phone-screen-technology" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/rollable devices Rollable vs Foldable Phones.png" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Foldable vs Foldable Phones: Which Future Screen Technology Wins
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/ai-smart-glasses" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Ai smart-glasses.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Meta Ray-Ban vs Xreal One vs Alibaba Quark: AI Smart Glasses Battle for Your Face
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/creaseless-vs-traditional-foldable-displays" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Creaseless vs Traditional Foldable.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Creaseless vs Traditional Foldable Displays: Samsung's Revolutionary Screen Technology Test
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/bci-devices-neuralink" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/bci.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     BCI Devices: Neuralink vs Non-Invasive Brain-Computer Interfaces Comparison
     </div>
   </a>
 </div>
