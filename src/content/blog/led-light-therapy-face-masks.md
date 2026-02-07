@@ -365,29 +365,43 @@ Whether LED light therapy face masks are right for you depends on your specific 
 }
 </style>
 
-<div class="related-articles-grid">
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
 
+<div class="related-articles-grid">
+  
   <a href="https://infoprods.com/blog/2025-11-30-complete-skincare-routine-for-beginners-2026-step-by-step-guide-to-glowing-skin-from-aliexpress-budget-friendly-from-8" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/ab.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Complete Skincare Routine for Beginners 2026: Step-by-Step Guide to Glowing Skin from AliExpress - Budget-Friendly from $8!
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/best-anti-aging-serums-reduce-wrinkles-2026" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/b-a-wrinkle-1.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Best Anti-Aging Serums to Reduce Visible Signs of Aging in 2026: Transform Your Skin
     </div>
   </a>
-
+  
   <a href="https://infoprods.com/blog/natural-makeup-look-tutorial-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/photo-1487412912498-0447578fcca8.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Natural Makeup Look Tutorial: The Complete Guide to Effortless Beauty
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/hair-care-tips-healthy-hair-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/images.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -408,7 +422,7 @@ Whether LED light therapy face masks are right for you depends on your specific 
      Beauty Ingredient Blacklist: Harmful Chemicals Still Legal in Your Favorite Products
     </div>
   </a>
-
+  
   <a href="https://infoprods.com/blog/korean-vs-japanese-beauty-philosophy-skincare-comparison" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/korean-japanese-beauty.png" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -437,11 +451,33 @@ Whether LED light therapy face masks are right for you depends on your specific 
     </div>
   </a>
 
-<a href="https://infoprods.com/blog/2026-01-25-how-to-moisturize-and-cleanse-your-skin-to-prevent-rough-skin-causes-and-skincare-tips" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+<a href="https://infoprods.com/blog/moisturize-cleanse-prevent-rough-skin" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/dry skin.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      How to Moisturize and Cleanse Your Skin to Prevent Rough Skin: Causes and Skincare Tips
     </div>
   </a>
+
+<a href="https://infoprods.com/blog/beauty-budget-breakdown-luxury-vs-drugstore" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Beauty Budget Breakdown.png" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Beauty Budget Breakdown: Luxury vs Drugstore – Blind Test Results
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/skin-cycling-method" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/srg1titled.png" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Skin Cycling Method: The Viral Trend Dermatologists Actually Approve (How to Do It Right)
+    </div>
+  </a>
+
+  <a href="https://infoprods.com/blog/winter-skin-crisis" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/skin-1-1.png" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Winter Skin Crisis: The $200 Beauty Mistake Destroying Your Face (and Body)
+    </div>
+  </a>
+  
 
 </div>
