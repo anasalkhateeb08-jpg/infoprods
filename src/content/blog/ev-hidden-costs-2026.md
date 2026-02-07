@@ -355,29 +355,43 @@ The rapidly evolving electric vehicle market continues transforming with improvi
 }
 </style>
 
-<div class="related-articles-grid">
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
 
+<div class="related-articles-grid">
+  
   <a href="https://infoprods.com/blog/carplay-android-auto-2026" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/wirless & android.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      A recent comprehensive comparison between wireless CarPlay and Android Auto
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/dash-cam-insurance-secrets" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/car camera.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Dash Cam Secrets: What Insurance Companies Hide From You
     </div>
   </a>
-
+  
   <a href="https://infoprods.com/blog/car-air-purifier-testing" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/car air 2026.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Car Air Purifiers That Work: Science-Backed Testing 2026
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/car-organization-revolution-20-accessories-keep-car-clean-2026-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/car_accessories.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -391,7 +405,7 @@ The rapidly evolving electric vehicle market continues transforming with improvi
      Best Car Accessories for Comfort and Safety 2026 Complete Collection
     </div>
   </a>
-
+  
   <a href="https://infoprods.com/blog/mart-car-gadgets-2026-ai-powered-accessories-predict-your-needs" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/analyticsinsight_2025-11-11_nacsxgzo_Top-AI-Powered-Features-Coming-to-Your-Car-in-2026.avif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -399,7 +413,7 @@ The rapidly evolving electric vehicle market continues transforming with improvi
     </div>
   </a>
 
-<a href="https://infoprods.com/blog/2026-01-11-electric-car-charging-accessories-2026-stop-wasting-hours-at-charging-stations" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+<a href="https://infoprods.com/blog/ev-charging-accessories-2026" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/Electric Car Charging Accessories.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Electric Car Charging Accessories 2026: Stop Wasting Hours at Charging Stations
@@ -427,4 +441,31 @@ The rapidly evolving electric vehicle market continues transforming with improvi
     </div>
   </a>
 
+<a href="https://infoprods.com/blog/robotaxi-comparison-waymo-vs-zoox-vs-tesla" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Waymo-Minivan.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+    Robotaxi Services: Waymo vs Zoox vs Baidu Apollo vs Tesla Compared – Practical Autonomous Taxi Comparison
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/sodium-ion-lithium-ion-solid-state-ev-batteries" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Solid_State_EV_Batteries.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Sodium-Ion vs Lithium-Ion vs Solid-State EV Batteries: The Future of Electric Cars
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/car-detailing-secrets" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Car Detailing Secrets.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Car Detailing Secrets: Professional Results Without Professional Prices
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/car-seat-gap-fillers" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/7126Dw+Oi2L.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Car Seat Gap Fillers That Stop Your Phone from Disappearing Forever
+    </div>
+  </a>
 </div>
