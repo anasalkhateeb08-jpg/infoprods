@@ -505,6 +505,20 @@ Time efficiency gains free 12-15 hours annually through dramatically reduced sea
 }
 </style>
 
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
+
 <div class="related-articles-grid">
   
   <a href="https://infoprods.com/blog/smart-kitchen-iot-reality" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
@@ -601,13 +615,6 @@ Smart Refrigerators with AI Vision vs Traditional Smart Fridges: Samsung vs LG C
     <img src="/images/uploads/Fresh Ingredients vs Frozen vs Canned.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Fresh Ingredients vs Frozen vs Canned: Nutrition and Taste Laboratory Comparison
-    </div>
-  </a>
-
-  <a href="https://infoprods.com/blog/kitchen-drawer-organization" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
-    <img src="/images/uploads/Kitchen Drawer.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
-     Kitchen Drawer Organization Mistakes That Could Cost You Money Annually: Hidden Money Drain
     </div>
   </a>
   
