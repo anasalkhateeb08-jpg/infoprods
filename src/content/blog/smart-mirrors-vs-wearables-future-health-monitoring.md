@@ -71,15 +71,15 @@ The transformation began innocuously enough with fitness trackers counting steps
 ">  Before delving into the details of the article, to benefit from this, watch this video which provides a demonstration of one of the smart mirrors equipped with AI  technology that analyzes health data:</span>
 
 <div class="video-container" style="text-align: center; margin: 25px 0;">
-  <iframe 
-    width="100%" 
-    height="315" 
-    src="https://www.youtube.com/embed/pH0SOq2FfhA" 
-    title="Withings Omnia AI Smart Mirror: The Future of Health Monitoring 2026" 
-    frameborder="0" 
+  <iframe
+    width="100%"
+    height="315"
+    src="https://www.youtube.com/embed/pH0SOq2FfhA"
+    title="Withings Omnia AI Smart Mirror: The Future of Health Monitoring 2026"
+    frameborder="0"
     style="max-width: 560px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
     loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe></div>
 
@@ -335,36 +335,50 @@ The health monitoring revolution continues accelerating, with technologies impro
 }
 </style>
 
-<div class="related-articles-grid">
+<style>
+.related-articles-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .related-articles-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+</style>
 
+<div class="related-articles-grid">
+  
   <a href="https://infoprods.com/blog/best-herbs-for-mental-clarity-focus-cognitive-support" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/2151244773.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Best Herbs for Mental Clarity, Focus, and Cognitive Support
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/healthy-weight-gain-skinny-people-meal-plan-foods-build-muscle" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/smiling-young-sportsman-holding-scales-apple-scaled.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Healthy Weight Gain for Skinny People: Complete Meal Plan & Foods That Build Muscle Without Harming Your Health
     </div>
   </a>
-
+  
   <a href="https://infoprods.com/blog/ultimate-guide-best-fitness-trackers-health-monitoring-wearables" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/photo-1575311373937-040b8e1fd5b6.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      The Ultimate Guide to the Best Fitness Trackers: Transform Your Health Journey with Smart Wearable Technology
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/nutrition-tips-athletes-complete-guide" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/photo-1490645935967-10de6ba17061.jfif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Nutrition Tips for Athletes: The Complete Guide to Peak Performance Through Food
     </div>
   </a>
-
+  
    <a href="https://infoprods.com/blog/ultimate-fitness-guide-2025-complete" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/FT.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
@@ -392,7 +406,7 @@ Muscle Growth Nutrition : Herbs and Foods That Build Lean Muscle Naturally    </
     </div>
   </a>
 
-<a href="https://infoprods.com/blog/2026-01-17-expensive-supplements-vs-food-which-actually-builds-muscle-faster-lab-tested" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+<a href="https://infoprods.com/blog/supplements-vs-food-for-muscle-growth" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/Expensive Supplements vs Food1.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Expensive Supplements vs Food: Which Actually Builds Muscle Faster? (Lab-Tested)
@@ -406,11 +420,32 @@ Muscle Growth Nutrition : Herbs and Foods That Build Lean Muscle Naturally    </
     </div>
   </a>
 
-<a href="https://infoprods.com/blog/2026-01-23-treating-cold-feet-without-cost-how-the-right-bath-temperature-improves-blood-flow" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+<a href="https://infoprods.com/blog/treating-cold-feet-bath-temperature-blood-flow" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
     <img src="/images/uploads/Treating Cold Feet .jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
     <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
      Treating Cold Feet Without Cost: How the Right Bath Temperature Improves Blood Flow
     </div>
   </a>
 
+<a href="https://infoprods.com/blog/non-invasive-glucose-monitors" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Non-Invasive Glucose..avif" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Non-Invasive Glucose Monitors: Smart Watches vs Patches vs Implants Battle
+    </div>
+  </a>
+
+<a href="https://infoprods.com/blog/herbs-that-strengthen-the-nervous-system" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/Herbs that strengthen the nervous system.jpg" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Herbs That Strengthen the Nervous System: Ancient Wisdom Meets Modern Science
+    </div>
+  </a>
+
+  <a href="https://infoprods.com/blog/strengthening-the-heart-muscle" style="text-decoration: none; display: block; position: relative; overflow: hidden; border-radius: 8px;">
+    <img src="/images/uploads/heart helth.webp" alt="Nutrition Tips" style="width: 100%; height: 150px; object-fit: cover; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <div style="position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); padding: 8px; color: white; font-size: 11px; line-height: 1.3;">
+     Strengthening the Heart Muscle and Circulatory System Through Nutrition and Exercise
+    </div>
+  </a>
+  
 </div>
