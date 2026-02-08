@@ -43,7 +43,7 @@ howToTime: ''
 howToSteps: []
 ---
 
-#### TABLE OF CONTENTS
+## Table of Contents
 
 1. [Introduction: The Great Debate](#introduction)
 2. [The Science Behind Calorie Burning](#calorie-science)
