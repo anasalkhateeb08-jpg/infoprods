@@ -249,7 +249,7 @@ Meal preparation strategies dramatically increase your success with maintaining 
 
 The [United States Department of Agriculture](https://www.myplate.gov/eat-healthy/vegetables) provides evidence-based guidance emphasizing that filling half your plate with fruits and vegetables at every meal delivers the vitamins, minerals, and phytonutrients essential for maintaining skin's protective barrier, supporting collagen synthesis, and defending against environmental damage that accelerates visible aging.
 
-[![ Organized glass meal prep containers filled with colorful nutrient-dense meals featuring lean proteins, roasted vegetables, quinoa, leafy greens, and berries demonstrating practical weekly meal planning for maintaining consistent skin-healthy nutrition and beautiful radiant complexion - InfoProds 2026](/images/uploads/nd6.png "Healthy Balanced Meal Prep Containers with Skin-Supporting Foods")](healthy-meal-prep-skin-nutrition-planning-2026.webp)
+[![Organized glass meal prep containers filled with colorful nutrient-dense meals featuring lean proteins, roasted vegetables, quinoa, leafy greens, and berries demonstrating practical weekly meal planning for maintaining consistent skin-healthy nutrition and beautiful radiant complexion - InfoProds 2026](/images/uploads/nd6.png "Healthy Balanced Meal Prep Containers with Skin-Supporting Foods")](healthy-meal-prep-skin-nutrition-planning-2026.webp)
 
 <a name="conclusion"></a>
 
