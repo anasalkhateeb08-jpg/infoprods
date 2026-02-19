@@ -1,188 +1,196 @@
 ---
-
-
 import Layout from '../layouts/Layout.astro';
+import Footer from '../components/Footer.astro';
 import { getCollection } from 'astro:content';
 
 const allPosts = await getCollection('blog');
 const shuffled = allPosts.sort(() => 0.5 - Math.random());
-const leftPosts = shuffled.slice(0, 3);
-const rightPosts = shuffled.slice(3, 6);
+const leftPosts = [...shuffled];
+const rightPosts = [...shuffled].sort(() => 0.5 - Math.random());
+
+
+
+
+
 ---
 
 <Layout 
-  title="InfoProds - Your Knowledge Hub for Smart Shopping" 
+  title="InfoProds - Your Knowledge Hub for Smart Shopping"
   description="In-depth articles, expert reviews, and comprehensive buying guides for tech, fashion, beauty, and home products. Make informed purchasing decisions."
   keywords="product reviews, buying guides, fashion trends, technology reviews, beauty skincare, home decor, expert reviews, shopping guide, InfoProds, smart shopping"
   type="website"
 >
   <main>
     <!-- Hero Section - Smaller Height -->
-    <section class="relative h-[50vh] flex items-center justify-center overflow-hidden">
+    <section class="relative h-[40vh] flex items-center justify-center overflow-hidden">
       <!-- Background -->
-      <div class="hero-background absolute inset-0">
- 
-</div>
+      <div class="hero-background absolute inset-0"></div>
+      
       <!-- Left Diamond Carousel -->
-<!-- Left Diamond Carousel -->
-<div class="diamond-left">
-  <div class="diamond-wrapper">
-    <div class="diamond-shape">
-      {leftPosts.map((post, index) => (
-        <a 
-          href={`/blog/${post.slug}`}
-          class={`diamond-slide${index === 0 ? ' active' : ''}`}
-          data-index={index}
-        >
-          <img 
-            src={post.data.image} 
-            alt={post.data.title}
-            class="diamond-img" 
-          />
-          <div class="diamond-overlay"></div>
-          <div class="diamond-text">
-            <h3>{post.data.title.slice(0, 60)}</h3>
+      <div class="diamond-left">
+        <div class="diamond-wrapper">
+          <div class="diamond-shape">
+            {leftPosts.map((post, index) => (
+              <a 
+                href={`/blog/${post.slug}`}
+                class={`diamond-slide${index === 0 ? ' active' : ''}`}
+                data-index={index}
+              >
+                <img 
+                  src={post.data.image} 
+                  alt={post.data.title}
+                  class="diamond-img" 
+                />
+                <div class="diamond-overlay"></div>
+                <div class="diamond-text">
+                  <h3>{post.data.title.slice(0, 60)}</h3>
+                </div>
+              </a>
+            ))}
           </div>
-        </a>
-      ))}
-    </div>
-  </div>
-</div>
+        </div>
+      </div>
 
-<!-- Right Diamond Carousel -->
-<div class="diamond-right">
-  <div class="diamond-wrapper">
-    <div class="diamond-shape">
-      <div class="diamond-slide active">
-        <img src="https://images.unsplash.com/photo-1556912173-46c336c7fd55?w=600&q=80" alt="Article 4" class="diamond-img" />
-        <div class="diamond-overlay"></div>
-        <div class="diamond-text">
-          <h3>Home Decor Ideas 2026</h3>
+      <!-- Right Diamond Carousel -->
+      <div class="diamond-right">
+        <div class="diamond-wrapper">
+          <div class="diamond-shape">
+            {rightPosts.map((post, index) => (
+              <a 
+                href={`/blog/${post.slug}`}
+                class={`diamond-slide${index === 0 ? ' active' : ''}`}
+                data-index={index}
+              >
+                <img 
+                  src={post.data.image} 
+                  alt={post.data.title}
+                  class="diamond-img" 
+                />
+                <div class="diamond-overlay"></div>
+                <div class="diamond-text">
+                  <h3>{post.data.title.slice(0, 60)}</h3>
+                </div>
+              </a>
+            ))}
+          </div>
         </div>
       </div>
-      <div class="diamond-slide">
-        <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80" alt="Article 5" class="diamond-img" />
-        <div class="diamond-overlay"></div>
-        <div class="diamond-text">
-          <h3>Technology & Devices</h3>
-        </div>
-      </div>
-      <div class="diamond-slide">
-        <img src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80" alt="Article 6" class="diamond-img" />
-        <div class="diamond-overlay"></div>
-        <div class="diamond-text">
-          <h3>Jewelry Accessories</h3>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+      
       <!-- Content -->
       <div class="relative z-10 container mx-auto px-4 text-center">
-      <h1 class="text-5xl md:text-6xl font-black mb-2 text-white">
-  InfoProds
-</h1>
-<h2 class="text-3xl md:text-4xl font-bold mb-4 text-white opacity-95">
-  Your Knowledge Hub
-</h2>
-<p class="text-xl md:text-2xl font-semibold text-gray-200 mb-6 max-w-4xl mx-auto">
-  In-depth articles, guides, and expert reviews<br>to help you make informed purchasing decisions
-</p>   
+        <h1 class="text-5xl md:text-6xl font-black mb-2 text-white">
+          InfoProds
+        </h1>
+        <h2 class="text-3xl md:text-4xl font-bold mb-4 text-white opacity-95">
+          Your Knowledge Hub
+        </h2>
+       <p class="text-xl md:text-xl font-semibold text-gray-200 mb-6 max-w-4xl mx-auto">
+  Educational articles, Outdoor & Survival content,<br>Product review articles to help you make the best choice
+</p>
         <div class="flex flex-col md:flex-row gap-3 justify-center">
           <a href="/blog" class="px-6 py-3 bg-purple-600 hover:bg-purple-700 rounded-lg font-bold text-base transition shadow-lg" data-i18n="home.exploreBlog">
             Explore Blog
           </a>
           <a href="/blog" class="px-6 py-3 bg-transparent border-2 border-white hover:bg-white hover:text-purple-600 rounded-lg font-bold text-base transition shadow-lg">
-  Latest Reviews
-</a>
+            Latest Reviews
+          </a>
         </div>
       </div>
     </section>
 
+
+
     <!-- Categories Section - Closer to Top -->
-    <section class="py-12 bg-gradient-to-b from-black to-gray-900">
+    <section class="py-4 bg-gradient-to-b from-black to-gray-900">
       <div class="container mx-auto px-4">
         <h2 class="text-3xl font-bold text-center mb-2" data-i18n="home.exploreCategories">
           Explore Categories
         </h2>
-        <p class="text-gray-300 text-center mb-8" data-i18n="home.discoverProducts">
+        <p class="text-gray-300 text-center mb-4" data-i18n="home.discoverProducts">
           Discover products across multiple categories
         </p>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          <!-- Fashion -->
-          <a href="/categories/fashion" data-category="Fashion" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?w=600&q=80" alt="Fashion" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.fashion">Fashion & Clothing</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.fashionCount">5,000+ Products</p>
+        <div class="grid grid-cols-3 md:grid-cols-2 lg:grid-cols-4 gap-2">
+         <!-- Car Accessories & Care -->
+<a href="/categories/car-accessories-and-care" data-category="Car Accessories & Care" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+  <img src="/images/car-car-accessories.jpg" alt="Car Accessories & Care" class="w-full h-full object-cover">
+  <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+    <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.carAccessories">Car Accessories & Care</h3>
+    <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.carAccessoriesCount">2,000+ Products</p>
+  </div>
+</a>
+           <!-- Technology & Devices -->
+          <a href="/categories/technology-and-devices" data-category="Technology & Devices" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+            <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80" alt="Technology & Devices" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.techDevices">Technology & Devices</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.techDevicesCount">1,500+ Products</p>
             </div>
           </a>
 
+             <!-- Sports -->
+          <a href="/categories/fitness-and-health" data-category="Fitness & Health" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+            <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&q=80" alt="Sports" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.fitness">Fitness & Health</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.fitnessCount">2,000+ Products</p>
+            </div>
+          </a>
+
+            <!-- Outdoor & Survival -->
+          <a href="/categories/outdoor-and-survival" data-category="Outdoor & Survival" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+            <img src="/images/Outdoor & Survival.jpg" alt="Outdoor & Survival" class="w-full h-full object-cover">
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.Outdoor & Survival">Outdoor & Survival</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.Outdoor & SurvivalCount">Various Products</p>
+            </div>
+          </a>
+
+          <!-- Sports & Sport Info -->
+         <a href="/categories/sports-and-sport-info" data-category="Sports & Sport Info" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+         <img src="/images/uploads/sportsinfo.webp" alt="Sports" class="w-full h-full object-cover">
+         <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+           <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight">Sports & Sport Info</h3>
+           <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.sportsCount">2,000+ Products</p>
+           </div>
+          </a>
+
           <!-- Jewelry -->
-          <a href="/categories/jewelry" data-category="Jewelry" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/jewelry" data-category="Jewelry" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80" alt="Jewelry" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.jewelry">Jewelry & Accessories</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.jewelryCount">3,000+ Products</p>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.jewelry">Jewelry & Accessories</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.jewelryCount">3,000+ Products</p>
             </div>
           </a>
 
           <!-- Home -->
-          <a href="/categories/home" data-category="Home" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/home" data-category="Home" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1513694203232-719a280e022f?w=600&q=80" alt="Home" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.home">Home & Decor</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.homeCount">4,000+ Products</p>
-            </div>
-          </a>
-
-          <!-- Beauty -->
-          <a href="/categories/beauty" data-category="Beauty" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&q=80" alt="Beauty" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.beauty">Beauty & Skincare</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.beautyCount">3,500+ Products</p>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.home">Home & Decor</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.homeCount">4,000+ Products</p>
             </div>
           </a>
 
           <!-- Kitchen -->
-          <a href="/categories/kitchen" data-category="Kitchen" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+          <a href="/categories/kitchen" data-category="Kitchen" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
             <img src="https://images.unsplash.com/photo-1556911220-bff31c812dba?w=600&q=80" alt="Kitchen" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.kitchen">Kitchen & Cookware</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.kitchenCount">2,500+ Products</p>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+              <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.kitchen">Kitchen & Gadgets</h3>
+              <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.kitchenCount">2,500+ Products</p>
             </div>
           </a>
 
-          <!-- Miscellaneous -->
-          <a href="/categories/miscellaneous" data-category="Miscellaneous" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1526738549149-8e07eca6c147?w=600&q=80" alt="Miscellaneous" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.miscellaneous">Miscellaneous</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.miscellaneousCount">Various Products</p>
-            </div>
-          </a>
-
-          <!-- Sports -->
-          <a href="/categories/fitness-&-health" data-category="Fitness & Health" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=600&q=80" alt="Sports" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.fitness">Fitness & Health</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.fitnessCount">2,000+ Products</p>
-            </div>
-          </a>
-
-          <!-- Technology & Devices -->
-          <a href="/categories/technology-&-devices" data-category="Technology & Devices" class="group relative h-64 rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
-            <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=80" alt="Technology & Devices" class="w-full h-full object-cover">
-            <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-6">
-              <h3 class="text-xl font-bold mb-1" data-i18n="categories.techDevices">Technology & Devices</h3>
-              <p class="text-sm text-gray-300" data-i18n="categories.techDevicesCount">1,500+ Products</p>
-            </div>
-          </a>
+          <!-- Beauty -->
+<a href="/categories/beauty" data-category="Beauty" class="group relative h-28 md:h-64 rounded-lg md:rounded-2xl overflow-hidden hover:scale-105 transition-transform duration-300">
+  <img src="https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=600&q=80" alt="Beauty" class="w-full h-full object-cover">
+  <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent flex flex-col justify-end p-2 md:p-6">
+    <h3 class="text-xs md:text-xl font-bold mb-0 md:mb-1 leading-tight" data-i18n="categories.beauty">Beauty & Skincare</h3>
+    <p class="text-[10px] md:text-sm text-gray-300 hidden md:block" data-i18n="categories.beautyCount">1,800+ Products</p>
+  </div>
+</a>
         </div>
-      </div>
     </section>
   </main>
 
@@ -191,53 +199,60 @@ const rightPosts = shuffled.slice(3, 6);
     "@context": "https://schema.org",
     "@type": "ItemList",
     "itemListElement": [
+     {
+  "@type": "ListItem",
+  "position": 1,
+  "name": "Car Accessories & Care",
+  "url": "https://infoprods.com/categories/car-accessories-&-care"
+},
+ 
       {
         "@type": "ListItem",
-        "position": 1,
-        "name": "Fashion & Clothing",
-        "url": "https://infoprods.com/categories/fashion"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
+        "position": 6,
         "name": "Jewelry & Accessories",
         "url": "https://infoprods.com/categories/jewelry"
       },
       {
         "@type": "ListItem",
-        "position": 3,
+        "position": 7,
         "name": "Home & Decor",
         "url": "https://infoprods.com/categories/home"
       },
       {
         "@type": "ListItem",
-        "position": 4,
+        "position": 8,
         "name": "Beauty & Skincare",
         "url": "https://infoprods.com/categories/beauty"
       },
       {
         "@type": "ListItem",
-        "position": 5,
+        "position": 9,
         "name": "Kitchen & Cookware",
         "url": "https://infoprods.com/categories/kitchen"
       },
       {
         "@type": "ListItem",
-        "position": 6,
-        "name": "Miscellaneous",
-        "url": "https://infoprods.com/categories/miscellaneous"
+        "position": 4,
+        "name": "Outdoor & Survival",
+        "url": "https://infoprods.com/categories/Outdoor & Survival"
       },
       {
         "@type": "ListItem",
-        "position": 7,
+        "position": 3,
         "name": "Fitness & Health",
         "url": "https://infoprods.com/categories/fitness-&-health"
       },
       {
         "@type": "ListItem",
-        "position": 8,
+        "position": 2,
         "name": "Technology & Devices",
         "url": "https://infoprods.com/categories/technology-&-devices"
+      },
+{
+        "@type": "ListItem",
+         "position": 5,
+         "name": "Sports & Sport Info",
+         "url": "https://infoprods.com/categories/sports-&-sport-info"
       }
     ]
   })} />
@@ -317,209 +332,265 @@ const rightPosts = shuffled.slice(3, 6);
       }
     });
   </script>
+  
   <script>
-  function initDiamondCarousels() {
-    const leftSlides = document.querySelectorAll('.diamond-left .diamond-slide');
-    const rightSlides = document.querySelectorAll('.diamond-right .diamond-slide');
+    function initDiamondCarousels() {
+      const leftSlides = document.querySelectorAll('.diamond-left .diamond-slide');
+      const rightSlides = document.querySelectorAll('.diamond-right .diamond-slide');
 
-    if (leftSlides.length === 0 || rightSlides.length === 0) return;
+      if (leftSlides.length === 0 || rightSlides.length === 0) return;
 
-    let leftIndex = 0;
-    let rightIndex = 0;
+      let leftIndex = 0;
+      let rightIndex = 0;
 
-    setInterval(() => {
-      leftSlides[leftIndex].classList.remove('active');
-      leftIndex = (leftIndex + 1) % leftSlides.length;
-      leftSlides[leftIndex].classList.add('active');
-    }, 4000);
-
-    setTimeout(() => {
       setInterval(() => {
-        rightSlides[rightIndex].classList.remove('active');
-        rightIndex = (rightIndex + 1) % rightSlides.length;
-        rightSlides[rightIndex].classList.add('active');
-      }, 4000);
-    }, 2000);
-  }
+        leftSlides[leftIndex].classList.remove('active');
+        leftIndex = (leftIndex + 1) % leftSlides.length;
+        leftSlides[leftIndex].classList.add('active');
+      }, 3000);
 
-  document.addEventListener('DOMContentLoaded', initDiamondCarousels);
-</script>
+      setTimeout(() => {
+        setInterval(() => {
+          rightSlides[rightIndex].classList.remove('active');
+          rightIndex = (rightIndex + 1) % rightSlides.length;
+          rightSlides[rightIndex].classList.add('active');
+        }, 3000);
+      }, 2000);
+    }
+
+    document.addEventListener('DOMContentLoaded', initDiamondCarousels);
+  </script>
+  
   <style>
-  .diamond-left,
-  .diamond-right {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 5;
-  }
-
-  .diamond-left {
-    left: 4rem;
-  }
-
-  .diamond-right {
-    right: 4rem;
-  }
-
-  .diamond-wrapper {
-    width: 400px;
-    height: 200px;
-  }
-
-  .diamond-shape {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    transform: skewX(-20deg);
-    overflow: hidden;
-    border-radius: 15px;
-    box-shadow: 0 25px 50px rgba(0, 0, 0, 0.5);
-    border: 3px solid rgba(255, 255, 255, 0.3);
-  }
-
-  .diamond-slide {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
-  }
-
-  .diamond-slide.active {
-    opacity: 1;
-  }
-
-  .diamond-img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    transform: skewX(20deg) scale(1.3);
-  }
-
-  .diamond-overlay {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(to bottom, transparent 40%, rgba(0, 0, 0, 0.8) 100%);
-    transform: skewX(20deg);
-  }
-
-  .diamond-text {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    padding: 1.5rem;
-    transform: skewX(20deg);
-    z-index: 5;
-  }
-
-  .diamond-text h3 {
-    color: white;
-    font-size: 1rem;
-    font-weight: 600;
-    line-height: 1.4;
-    margin: 0;
-    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
-  }
-
-  @media (max-width: 1280px) {
     .diamond-left,
     .diamond-right {
-      display: none;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 5;
     }
-  }
-</style>
-<script>
-  const backgrounds = [
-    // 1. Glassmorphism
-    `<div class="absolute inset-0 bg-gradient-to-br from-indigo-900 via-purple-800 to-pink-900">
-      <div class="absolute inset-0 backdrop-blur-3xl bg-white/5"></div>
-      <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-5"></div>
-    </div>`,
-    
-    // 2. Mesh Gradient
-    `<div class="absolute inset-0 bg-gradient-to-br from-violet-900 via-fuchsia-800 to-indigo-900">
-      <div class="absolute top-0 left-0 w-96 h-96 bg-cyan-600/30 rounded-full blur-3xl"></div>
-      <div class="absolute bottom-0 right-0 w-96 h-96 bg-pink-600/30 rounded-full blur-3xl"></div>
-      <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-8"></div>
-    </div>`,
-    
-    // 3. Deep Space
-    `<div class="absolute inset-0 bg-gradient-to-br from-slate-950 via-indigo-950 to-black">
-      <div class="absolute inset-0" style="background-image: radial-gradient(circle at 20% 30%, rgba(139, 92, 246, 0.15) 0%, transparent 50%), radial-gradient(circle at 80% 70%, rgba(59, 130, 246, 0.15) 0%, transparent 50%);"></div>
-      <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-5"></div>
-    </div>`,
-    
-    // 4. Neon Glow
-    `<div class="absolute inset-0 bg-black">
-      <div class="absolute inset-0 bg-gradient-to-br from-purple-900/50 via-transparent to-cyan-900/50"></div>
-      <div class="absolute top-1/4 left-1/4 w-96 h-96 bg-purple-600/20 rounded-full blur-3xl"></div>
-      <div class="absolute bottom-1/4 right-1/4 w-96 h-96 bg-cyan-600/20 rounded-full blur-3xl"></div>
-      <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-10"></div>
-    </div>`,
-    
-    // 5. Gradient Noise
-    `<div class="absolute inset-0 bg-gradient-to-br from-rose-950 via-violet-950 to-slate-950">
-      <div class="absolute inset-0" style="background-image: url('data:image/svg+xml,%3Csvg viewBox=%220 0 400 400%22 xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cfilter id=%22noiseFilter%22%3E%3CfeTurbulence type=%22fractalNoise%22 baseFrequency=%220.9%22 numOctaves=%224%22 stitchTiles=%22stitch%22/%3E%3C/filter%3E%3Crect width=%22100%25%22 height=%22100%25%22 filter=%22url(%23noiseFilter)%22 opacity=%220.05%22/%3E%3C/svg%3E'); opacity: 0.3;"></div>
-      <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-8"></div>
-    </div>`,
-    
-    // 6. Aurora Borealis
-    `<div class="absolute inset-0 bg-gradient-to-br from-emerald-950 via-teal-900 to-cyan-950">
-      <div class="absolute top-0 left-0 w-full h-96 bg-gradient-to-b from-green-500/20 via-cyan-500/10 to-transparent blur-2xl"></div>
-      <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-8"></div>
-    </div>`,
-    
-    // 7. Sunset Vibes
-    `<div class="absolute inset-0 bg-gradient-to-br from-orange-900 via-rose-900 to-purple-950">
-      <div class="absolute bottom-0 left-0 w-full h-96 bg-gradient-to-t from-amber-600/30 via-red-600/20 to-transparent blur-3xl"></div>
-      <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-10"></div>
-    </div>`,
-    
-    // 8. Ocean Depth
-    `<div class="absolute inset-0 bg-gradient-to-br from-blue-950 via-cyan-900 to-teal-950">
-      <div class="absolute inset-0" style="background-image: radial-gradient(circle at 30% 20%, rgba(6, 182, 212, 0.2) 0%, transparent 50%), radial-gradient(circle at 70% 80%, rgba(20, 184, 166, 0.15) 0%, transparent 50%);"></div>
-      <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-8"></div>
-    </div>`
-  ];
 
-  function rotateBackground() {
-    const bgContainer = document.querySelector('.hero-background');
-    if (!bgContainer) return;
+    .diamond-left {
+      left: 4rem;
+    }
 
-    // احصل على الفهرس الحالي من localStorage
-    let currentIndex = parseInt(localStorage.getItem('bgIndex') || '0');
-    
-    // انتقل للخلفية التالية
-    currentIndex = (currentIndex + 1) % backgrounds.length;
-    
-    // احفظ الفهرس الجديد
-    localStorage.setItem('bgIndex', currentIndex.toString());
-    
-    // غيّر الخلفية
-    bgContainer.innerHTML = backgrounds[currentIndex];
-    
-    console.log('Background changed to style #' + (currentIndex + 1));
-  }
+    .diamond-right {
+      right: 4rem;
+    }
 
-  // تهيئة الخلفية عند تحميل الصفحة
-  document.addEventListener('DOMContentLoaded', () => {
-    const bgContainer = document.querySelector('.hero-background');
-    if (bgContainer) {
-      const currentIndex = parseInt(localStorage.getItem('bgIndex') || '0');
+    .diamond-wrapper {
+      width: 400px;
+      height: 200px;
+    }
+
+    .diamond-shape {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      transform: skewX(-20deg);
+      overflow: hidden;
+      border-radius: 15px;
+      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.5);
+      border: 3px solid rgba(255, 255, 255, 0.3);
+    }
+
+    .diamond-slide {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      opacity: 0;
+      transition: opacity 1s ease-in-out;
+    }
+
+    .diamond-slide.active {
+      opacity: 1;
+    }
+
+    .diamond-img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transform: skewX(20deg) scale(1.3);
+    }
+
+    .diamond-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(to bottom, transparent 40%, rgba(0, 0, 0, 0.8) 100%);
+      transform: skewX(20deg);
+    }
+
+    .diamond-text {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 1.5rem;
+      transform: skewX(20deg);
+      z-index: 5;
+    }
+
+    .diamond-text h3 {
+      color: white;
+      font-size: 1rem;
+      font-weight: 600;
+      line-height: 1.4;
+      margin: 0;
+      text-shadow: 0 2px 6px rgba(0, 0, 0, 0.8);
+    }
+
+    @media (max-width: 1280px) {
+      .diamond-left,
+      .diamond-right {
+        display: none;
+      }
+    }
+    
+    /* Affiliate Links Ticker */
+    .ticker-section {
+      background: black;
+      overflow: hidden;
+      padding: 1rem 0;
+      border-top: 2px solid rgba(139, 92, 246, 0.3);
+      border-bottom: 2px solid rgba(139, 92, 246, 0.3);
+    }
+
+    .ticker-wrapper {
+      width: 100%;
+      overflow: hidden;
+    }
+
+    .ticker-content {
+      display: flex;
+      animation: scroll 30s linear infinite;
+      gap: 3rem;
+    }
+
+    .ticker-content:hover {
+      animation-play-state: paused;
+    }
+
+    .ticker-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    .ticker-text {
+      color: #ef4444;
+      font-weight: 600;
+      font-size: 1rem;
+    }
+
+    .ticker-link {
+      color: #3b82f6;
+      text-decoration: underline;
+      font-weight: 700;
+      transition: color 0.3s ease;
+    }
+
+    .ticker-link:hover {
+      color: #60a5fa;
+    }
+
+    @keyframes scroll {
+      0% {
+        transform: translateX(0);
+      }
+      100% {
+        transform: translateX(-50%);
+      }
+    }
+
+    @media (max-width: 768px) {
+      .ticker-content {
+        animation: scroll 20s linear infinite;
+      }
+    }
+  </style>
+  
+  <script>
+    const backgrounds = [
+      // 1. Glassmorphism
+      `<div class="absolute inset-0 bg-gradient-to-br from-indigo-900 via-purple-800 to-pink-900">
+        <div class="absolute inset-0 backdrop-blur-3xl bg-white/5"></div>
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-5"></div>
+      </div>`,
+      
+      // 2. Mesh Gradient
+      `<div class="absolute inset-0 bg-gradient-to-br from-violet-900 via-fuchsia-800 to-indigo-900">
+        <div class="absolute top-0 left-0 w-96 h-96 bg-cyan-600/30 rounded-full blur-3xl"></div>
+        <div class="absolute bottom-0 right-0 w-96 h-96 bg-pink-600/30 rounded-full blur-3xl"></div>
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-8"></div>
+      </div>`,
+      
+      // 3. Deep Space
+      `<div class="absolute inset-0 bg-gradient-to-br from-slate-950 via-indigo-950 to-black">
+        <div class="absolute inset-0" style="background-image: radial-gradient(circle at 20% 30%, rgba(139, 92, 246, 0.15) 0%, transparent 50%), radial-gradient(circle at 80% 70%, rgba(59, 130, 246, 0.15) 0%, transparent 50%);"></div>
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-5"></div>
+      </div>`,
+      
+      // 4. Neon Glow
+      `<div class="absolute inset-0 bg-black">
+        <div class="absolute inset-0 bg-gradient-to-br from-purple-900/50 via-transparent to-cyan-900/50"></div>
+        <div class="absolute top-1/4 left-1/4 w-96 h-96 bg-purple-600/20 rounded-full blur-3xl"></div>
+        <div class="absolute bottom-1/4 right-1/4 w-96 h-96 bg-cyan-600/20 rounded-full blur-3xl"></div>
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-10"></div>
+      </div>`,
+      
+      // 5. Gradient Noise
+      `<div class="absolute inset-0 bg-gradient-to-br from-rose-950 via-violet-950 to-slate-950">
+        <div class="absolute inset-0" style="background-image: url('data:image/svg+xml,%3Csvg viewBox=%220 0 400 400%22 xmlns=%22http://www.w3.org/2000/svg%22%3E%3Cfilter id=%22noiseFilter%22%3E%3CfeTurbulence type=%22fractalNoise%22 baseFrequency=%220.9%22 numOctaves=%224%22 stitchTiles=%22stitch%22/%3E%3C/filter%3E%3Crect width=%22100%25%22 height=%22100%25%22 filter=%22url(%23noiseFilter)%22 opacity=%220.05%22/%3E%3C/svg%3E'); opacity: 0.3;"></div>
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-8"></div>
+      </div>`,
+      
+      // 6. Aurora Borealis
+      `<div class="absolute inset-0 bg-gradient-to-br from-emerald-950 via-teal-900 to-cyan-950">
+        <div class="absolute top-0 left-0 w-full h-96 bg-gradient-to-b from-green-500/20 via-cyan-500/10 to-transparent blur-2xl"></div>
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-8"></div>
+      </div>`,
+      
+      // 7. Sunset Vibes
+      `<div class="absolute inset-0 bg-gradient-to-br from-orange-900 via-rose-900 to-purple-950">
+        <div class="absolute bottom-0 left-0 w-full h-96 bg-gradient-to-t from-amber-600/30 via-red-600/20 to-transparent blur-3xl"></div>
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-10"></div>
+      </div>`,
+      
+      // 8. Ocean Depth
+      `<div class="absolute inset-0 bg-gradient-to-br from-blue-950 via-cyan-900 to-teal-950">
+        <div class="absolute inset-0" style="background-image: radial-gradient(circle at 30% 20%, rgba(6, 182, 212, 0.2) 0%, transparent 50%), radial-gradient(circle at 70% 80%, rgba(20, 184, 166, 0.15) 0%, transparent 50%);"></div>
+        <div class="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80')] bg-cover bg-center opacity-8"></div>
+      </div>`
+    ];
+
+    function rotateBackground() {
+      const bgContainer = document.querySelector('.hero-background');
+      if (!bgContainer) return;
+
+      let currentIndex = parseInt(localStorage.getItem('bgIndex') || '0');
+      currentIndex = (currentIndex + 1) % backgrounds.length;
+      localStorage.setItem('bgIndex', currentIndex.toString());
       bgContainer.innerHTML = backgrounds[currentIndex];
     }
-    
-    // غيّر الخلفية كل 30 دقيقة (1800000 milliseconds)
-    setInterval(rotateBackground, 600000);
-  });
-</script>
-</Layout>
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const bgContainer = document.querySelector('.hero-background');
+      if (bgContainer) {
+        const currentIndex = parseInt(localStorage.getItem('bgIndex') || '0');
+        bgContainer.innerHTML = backgrounds[currentIndex];
+      }
+      
+      setInterval(rotateBackground, 600000);
+    });
+    </script>
+    </Layout>
